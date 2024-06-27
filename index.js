@@ -19,27 +19,7 @@ const getRandomItem = (dataArray) => {
   return dataArray[randomIndex];
 };
 
-// TORF API endpoint to send a random question from quiz.json
-app.get('/api/torf', (req, res) => {
-  try {
-    const filePath = path.join(__dirname, 'quiz.json');
-    fs.readFile(filePath, 'utf8', (err, data) => {
-      if (err) {
-        console.error('Error reading quiz data:', err);
-        res.status(500).json({ error: 'Failed to fetch quiz data' });
-        return;
-      }
-      const quizData = JSON.parse(data);
-      const randomQuestion = getRandomItem(quizData);
-      res.json(randomQuestion);
-    });
-  } catch (error) {
-    console.error('Unexpected error:', error);
-    res.status(500).json({ error: 'Unexpected error occurred' });
-  }
-});
-
-// Anime API endpoint to send anime data from anime.json
+// Anime API endpoint to send a random anime question from anime.json
 app.get('/api/anime', (req, res) => {
   try {
     const filePath = path.join(__dirname, 'anime.json');
@@ -50,7 +30,8 @@ app.get('/api/anime', (req, res) => {
         return;
       }
       const animeData = JSON.parse(data);
-      res.json(animeData);
+      const randomAnime = getRandomItem(animeData); // Get random anime
+      res.json(randomAnime);
     });
   } catch (error) {
     console.error('Unexpected error:', error);
