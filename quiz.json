@@ -1,0 +1,762 @@
+[
+  {
+    "question": "Is the sky blue?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Does the earth revolve around the sun?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can humans breathe underwater without equipment?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is photosynthesis a process used by plants to convert sunlight into energy?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is pi a finite number?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Do all mammals lay eggs?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the chemical symbol for gold 'Au'?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the Great Wall of China visible from space?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Can sound travel through a vacuum?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the speed of light faster than the speed of sound?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do protons have a negative charge?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the theory of evolution associated with Charles Darwin?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is a kilometer longer than a mile?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Do all cells in the human body have a nucleus?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the boiling point of water 100 degrees Celsius at sea level?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is Mercury the closest planet to the sun?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Does the moon have an atmosphere?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the human genome made up of over 3 billion DNA base pairs?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can elephants jump?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the Great Barrier Reef located off the coast of Japan?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is Pluto considered a dwarf planet?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is water composed of two hydrogen atoms and one oxygen atom?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is Mount Everest the tallest mountain on Earth?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can viruses reproduce on their own without a host?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the human body made up of 60% water?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the chemical formula for table salt NaCl?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do whales belong to the fish family?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the study of fungi called mycology?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Does light travel faster than sound?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do penguins live at the North Pole?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the chemical symbol for sodium 'Na'?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do humans have 4 lungs?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the pH of pure water 7?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the process by which plants make their food called respiration?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the Milky Way a type of candy?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Do bees have five eyes?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is a group of lions called a pride?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the speed of light approximately 300,000 kilometers per second?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do octopuses have three hearts?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is Uranus the smallest planet in the solar system?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the capital of Australia Sydney?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Does the sun rotate?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do camels store water in their humps?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the largest organ in the human body the skin?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Does the Earth have four moons?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the Pacific Ocean the smallest ocean on Earth?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Can a crocodile stick out its tongue?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the study of earthquakes called seismology?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do all spiders have six legs?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the main component of natural gas methane?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can the Eiffel Tower be found in Berlin?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the human body made up of 206 bones?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the capital of Canada Toronto?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the process by which a caterpillar becomes a butterfly called metamorphosis?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do plants get their energy from the sun through the process of digestion?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Can sharks live in freshwater?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the hardest natural substance on Earth diamond?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the theory of relativity associated with Albert Einstein?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can black holes emit radiation?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do ants have lungs?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the chemical formula for ozone O3?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the square root of 64 equal to 8?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Does the periodic table have 118 elements?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the speed of light constant in a vacuum?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can plants perform photosynthesis without sunlight?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Do bacteria have a nucleus?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the Amazon rainforest located in South America?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can sound travel faster in water than in air?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the chemical symbol for iron Fe?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do elephants have excellent memory?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the freezing point of water 32 degrees Fahrenheit?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can octopuses change color to blend into their surroundings?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the closest star to Earth Proxima Centauri?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the brain the largest organ in the human body?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Do jellyfish have a heart?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the sun a star?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can penguins fly?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the Great Wall of China over 20,000 kilometers long?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can honey never spoil?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do snakes have eyelids?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the Sahara Desert the largest desert in the world?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Do tigers have striped skin as well as striped fur?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can octopuses regenerate lost arms?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is Venus the hottest planet in the solar system?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can a kangaroo jump backward?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the chemical symbol for potassium K?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do all fish have scales?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Can some turtles breathe through their butts?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the moon made of cheese?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the longest river in the world the Amazon River?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Do all birds lay eggs?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the primary gas in Earth's atmosphere nitrogen?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the currency of Japan the yen?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do spiders have six legs?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the tallest building in the world the Burj Khalifa?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can flamingos only eat with their heads upside down?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is Australia both a country and a continent?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can the human eye distinguish more than 10 million different colors?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do bananas grow on trees?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the Great Barrier Reef located off the coast of Africa?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is a human's sense of smell stronger than a dog's?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is a koala a type of bear?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Can lightning strike the same place twice?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the human body capable of producing vitamin D in response to sunlight?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do dolphins have names for each other?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can a human sneeze exceed 100 miles per hour?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the blue whale the largest animal to have ever lived?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is Schrödinger's cat both alive and dead in quantum superposition?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can the speed of light change depending on the medium it travels through?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Does the Large Hadron Collider aim to discover new particles by colliding protons at high speeds?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is dark matter responsible for the expansion of the universe?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the Planck length the smallest measurable length in the universe?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the multiverse theory widely accepted by all physicists?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Can a quantum particle be in two places at once?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is antimatter the opposite of regular matter?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Does the Heisenberg Uncertainty Principle state that one cannot precisely measure both the position and momentum of a particle simultaneously?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the Higgs boson also known as the 'God Particle'?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is string theory currently the only theory that explains all fundamental forces?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Does the entropy of a closed system always increase over time?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the Anthropic Principle used to explain why the universe is fine-tuned for life?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can gravitational waves travel faster than light?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the Many-Worlds Interpretation of quantum mechanics the only interpretation without paradoxes?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the Chandrasekhar limit the maximum mass of a stable white dwarf star?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the Cosmological Constant a term added by Einstein to his equations to allow for a static universe?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do black holes have an event horizon beyond which nothing can escape?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the speed of light a variable constant in general relativity?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the observable universe estimated to be 13.8 billion years old?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is quantum entanglement a phenomenon where particles remain connected so that actions performed on one affect the other, even when separated by great distances?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the fine-structure constant a dimensionless physical constant characterizing the strength of the electromagnetic interaction between elementary charged particles?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the principle of locality in physics the idea that an object is only influenced directly by its immediate surroundings?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can the curvature of spacetime be described by the Riemann curvature tensor?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is Hawking radiation theoretical radiation that is predicted to be emitted by black holes due to quantum effects?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Does the No-Hair Theorem state that all black hole solutions of the Einstein-Maxwell equations of gravitation and electromagnetism in general relativity can be completely characterized by three externally observable classical parameters: mass, electric charge, and angular momentum?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the Pauli Exclusion Principle the principle that two identical fermions cannot occupy the same quantum state within a quantum system simultaneously?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is supersymmetry a proposed extension of spacetime symmetry that relates two basic classes of elementary particles: bosons and fermions?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is a wormhole a theoretical passage through spacetime that could create shortcuts for long journeys across the universe?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can the wave function of a quantum system provide a complete description of the system?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Does the Arrow of Time refer to the concept that time flows in one direction from the past to the future?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is Loop Quantum Gravity a theory that attempts to merge quantum mechanics and general relativity?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the Hubble Constant the rate of expansion of the universe?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Can tachyons travel faster than the speed of light?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the Cosmic Microwave Background Radiation considered the afterglow of the Big Bang?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Do neutrinos have a mass of zero?",
+    "options": ["true", "false"],
+    "answer": "false"
+  },
+  {
+    "question": "Is the Anthropic Principle used to explain why the universe is fine-tuned for life?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is a positron the antimatter counterpart of an electron?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the Fermi Paradox the apparent contradiction between the lack of evidence for extraterrestrial civilizations and various high estimates for their probability?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the Planck time the time it would take a photon to travel, in a vacuum, a distance of one Planck length?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the quantum foam a theoretical fluctuation of spacetime on very small scales due to quantum mechanics?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the cosmological principle the assumption that the universe is homogeneous and isotropic when viewed on a large enough scale?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is a neutron star formed by the gravitational collapse of a massive star after a supernova?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is quantum tunneling a phenomenon where particles pass through a barrier that they classically shouldn't be able to pass?",
+    "options": ["true", "false"],
+    "answer": "true"
+  },
+  {
+    "question": "Is the Alcubierre drive a speculative idea based on a solution of Einstein's field equations in general relativity that allows a spacecraft to achieve faster-than-light travel?",
+    "options": ["true", "false"],
+    "answer": "true"
+   },
+  ]
