@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 
 // Example endpoint
 app.get('/', (req, res) => {
-  res.send('Welcome to TORF API Server');
+  res.send('Welcome to QUIZ API Server');
 });
 
 // Function to get a random question from a JSON file
@@ -20,11 +20,11 @@ const getRandomQuestion = (jsonData) => {
 };
 
 // Endpoint to send a random question based on category
-app.get('/api/question', (req, res) => {
+app.get('/api/quiz', (req, res) => {
   const { category } = req.query;
   try {
     if (!category) {
-      return res.status(400).json({ error: 'Category parameter is required' });
+      return res.status(400).json({ error: 'category parameter is required.' });
     }
     // Read data based on category
     const filePath = path.join(__dirname, `${category}.json`);
