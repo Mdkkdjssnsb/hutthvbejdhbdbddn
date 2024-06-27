@@ -23,17 +23,21 @@ app.get('/api/torf', (req, res) => {
   try {
     // Read quiz.json file
     const filePath = path.join(__dirname, 'quiz.json');
-    const jsonData = fs.readFileSync(filePath, 'utf8');
-    const quizData = JSON.parse(jsonData);
-
-    // Get a random question
-    const randomQuestion = getRandomQuestion(quizData);
-
-    // Respond with the random question
-    res.json(randomQuestion);
+    fs.readFile(filePath, 'utf8', (err, data) => {
+      if (err) {
+        console.error('Error reading quiz data:', err);
+        res.status(500).json({ error: 'Failed to fetch quiz data' });
+        return;
+      }
+      const quizData = JSON.parse(data);
+      // Get a random question
+      const randomQuestion = getRandomQuestion(quizData);
+      // Respond with the random question
+      res.json(randomQuestion);
+    });
   } catch (error) {
-    console.error('Error reading quiz data:', error);
-    res.status(500).json({ error: 'Failed to fetch quiz data' });
+    console.error('Unexpected error:', error);
+    res.status(500).json({ error: 'Unexpected error occurred' });
   }
 });
 
