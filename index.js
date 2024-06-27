@@ -13,10 +13,10 @@ app.get('/', (req, res) => {
   res.send('Welcome to TORF API Server');
 });
 
-// Function to get a random question from quiz.json
-const getRandomQuestion = (quizData) => {
-  const randomIndex = Math.floor(Math.random() * quizData.length);
-  return quizData[randomIndex];
+// Function to get a random question from a JSON file
+const getRandomQuestion = (jsonData) => {
+  const randomIndex = Math.floor(Math.random() * jsonData.length);
+  return jsonData[randomIndex];
 };
 
 // TORF API endpoint to send a random question from quiz.json
@@ -42,13 +42,30 @@ app.get('/api/torf', (req, res) => {
   }
 });
 
-// Function to get a random anime quiz question
-const getRandomAnimeQuestion = (animeData) => {
-  const randomIndex = Math.floor(Math.random() * animeData.length);
-  return animeData[randomIndex];
-};
+// Math API endpoint to send math question from math.json
+app.get('/api/math', (req, res) => {
+  try {
+    // Read math.json file
+    const filePath = path.join(__dirname, 'math.json');
+    fs.readFile(filePath, 'utf8', (err, data) => {
+      if (err) {
+        console.error('Error reading math data:', err);
+        res.status(500).json({ error: 'Failed to fetch math data' });
+        return;
+      }
+      const mathData = JSON.parse(data);
+      // Get a random math question
+      const randomQuestion = getRandomQuestion(mathData);
+      // Respond with the random math question
+      res.json(randomQuestion);
+    });
+  } catch (error) {
+    console.error('Unexpected error:', error);
+    res.status(500).json({ error: 'Unexpected error occurred' });
+  }
+});
 
-// Anime Quiz API endpoint to send a random quiz question from anime.json
+// Anime API endpoint to send anime question from anime.json
 app.get('/api/anime', (req, res) => {
   try {
     // Read anime.json file
@@ -61,7 +78,7 @@ app.get('/api/anime', (req, res) => {
       }
       const animeData = JSON.parse(data);
       // Get a random anime quiz question
-      const randomQuestion = getRandomAnimeQuestion(animeData);
+      const randomQuestion = getRandomQuestion(animeData);
       // Respond with the random anime quiz question
       res.json(randomQuestion);
     });
