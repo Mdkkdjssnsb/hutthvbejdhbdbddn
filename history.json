@@ -1,0 +1,572 @@
+[
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["Thomas Jefferson", "George Washington", "John Adams", "James Madison"],
+    "answer": "George Washington"
+  },
+  {
+    "question": "In which year did Christopher Columbus first land in the Americas?",
+    "options": ["1492", "1500", "1510", "1520"],
+    "answer": "1492"
+  },
+  {
+    "question": "What event marked the beginning of World War II?",
+    "options": ["Invasion of Poland", "Battle of Stalingrad", "Pearl Harbor attack", "D-Day"],
+    "answer": "Invasion of Poland"
+  },
+  {
+    "question": "Who wrote the 'Declaration of Independence' of the United States?",
+    "options": ["Thomas Jefferson", "George Washington", "Benjamin Franklin", "John Adams"],
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "question": "When did the French Revolution begin?",
+    "options": ["1789", "1798", "1807", "1815"],
+    "answer": "1789"
+  },
+  {
+    "question": "Who was the first Emperor of unified China?",
+    "options": ["Emperor Qin Shi Huang", "Emperor Han Gaozu", "Emperor Tang Taizong", "Emperor Yuan Shikai"],
+    "answer": "Emperor Qin Shi Huang"
+  },
+  {
+    "question": "Which battle is considered the turning point in the Pacific theater during World War II?",
+    "options": ["Battle of Midway", "Battle of Okinawa", "Battle of Iwo Jima", "Pearl Harbor attack"],
+    "answer": "Battle of Midway"
+  },
+  {
+    "question": "Who was the longest-serving British Prime Minister of the 20th century?",
+    "options": ["Winston Churchill", "Margaret Thatcher", "Tony Blair", "David Lloyd George"],
+    "answer": "Margaret Thatcher"
+  },
+  {
+    "question": "In which year did the Berlin Wall fall, leading to the reunification of Germany?",
+    "options": ["1987", "1989", "1991", "1993"],
+    "answer": "1989"
+  },
+  {
+    "question": "What was the name of the ship on which Charles Darwin sailed during his voyage that led to the theory of evolution?",
+    "options": ["HMS Beagle", "HMS Endeavour", "HMS Victory", "HMS Discovery"],
+    "answer": "HMS Beagle"
+  },
+  {
+    "question": "Who was the first Roman Emperor?",
+    "options": ["Julius Caesar", "Augustus", "Caligula", "Nero"],
+    "answer": "Augustus"
+  },
+  {
+    "question": "Which battle marked the end of Napoleon's rule as Emperor of France?",
+    "options": ["Battle of Waterloo", "Battle of Austerlitz", "Battle of Leipzig", "Battle of Trafalgar"],
+    "answer": "Battle of Waterloo"
+  },
+  {
+    "question": "Who was the leader of the Bolshevik Revolution in Russia?",
+    "options": ["Vladimir Lenin", "Joseph Stalin", "Leon Trotsky", "Mikhail Gorbachev"],
+    "answer": "Vladimir Lenin"
+  },
+  {
+    "question": "In which year did the American Civil War end?",
+    "options": ["1863", "1864", "1865", "1866"],
+    "answer": "1865"
+  },
+  {
+    "question": "Who was the first female Prime Minister of a European country?",
+    "options": ["Margaret Thatcher", "Angela Merkel", "Theresa May", "Indira Gandhi"],
+    "answer": "Margaret Thatcher"
+  },
+  {
+    "question": "Which explorer led the first expedition to circumnavigate the globe?",
+    "options": ["Ferdinand Magellan", "Vasco da Gama", "Christopher Columbus", "Francis Drake"],
+    "answer": "Ferdinand Magellan"
+  },
+  {
+    "question": "What event sparked the beginning of the Protestant Reformation?",
+    "options": ["Diet of Worms", "95 Theses", "Council of Trent", "Edict of Nantes"],
+    "answer": "95 Theses"
+  },
+  {
+    "question": "Who founded the Mongol Empire in the 13th century?",
+    "options": ["Genghis Khan", "Kublai Khan", "Timur", "Attila the Hun"],
+    "answer": "Genghis Khan"
+  },
+  {
+    "question": "Which ancient civilization built the Great Pyramids of Giza?",
+    "options": ["Ancient Egyptians", "Ancient Greeks", "Mesopotamians", "Mayans"],
+    "answer": "Ancient Egyptians"
+  },
+  {
+    "question": "In which year did the Industrial Revolution begin in England?",
+    "options": ["1750", "1776", "1800", "1825"],
+    "answer": "1750"
+  },
+  {
+    "question": "Who was the first President of the United States to be impeached?",
+    "options": ["Andrew Johnson", "Richard Nixon", "Bill Clinton", "Donald Trump"],
+    "answer": "Andrew Johnson"
+  },
+  {
+    "question": "Which ancient Greek philosopher was the teacher of Alexander the Great?",
+    "options": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
+    "answer": "Aristotle"
+  },
+  {
+    "question": "Who wrote 'The Art of War', an ancient Chinese military treatise?",
+    "options": ["Sun Tzu", "Mao Zedong", "Confucius", "Laozi"],
+    "answer": "Sun Tzu"
+  },
+  {
+    "question": "Which city was the capital of the Byzantine Empire?",
+    "options": ["Constantinople", "Athens", "Rome", "Alexandria"],
+    "answer": "Constantinople"
+  },
+  {
+    "question": "Who was the longest-reigning monarch in British history?",
+    "options": ["Queen Victoria", "Queen Elizabeth I", "King George III", "King Henry VIII"],
+    "answer": "Queen Victoria"
+  },
+  {
+    "question": "In which year did the Treaty of Versailles end World War I?",
+    "options": ["1917", "1918", "1919", "1920"],
+    "answer": "1919"
+  },
+  {
+    "question": "Who was the first African-American to serve as President of the United States?",
+    "options": ["Barack Obama", "Martin Luther King Jr.", "Nelson Mandela", "Colin Powell"],
+    "answer": "Barack Obama"
+  },
+  {
+    "question": "Which European explorer discovered the sea route from Europe to India?",
+    "options": ["Vasco da Gama", "Christopher Columbus", "Marco Polo", "Amerigo Vespucci"],
+    "answer": "Vasco da Gama"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during World War II?",
+    "options": ["Joseph Stalin", "Vladimir Lenin", "Leon Trotsky", "Mikhail Gorbachev"],
+    "answer": "Joseph Stalin"
+  },
+  {
+    "question": "Which war is often referred to as 'The Great War'?",
+    "options": ["World War I", "World War II", "Korean War", "Vietnam War"],
+    "answer": "World War I"
+  },
+  {
+    "question": "Who was the first female Prime Minister of India?",
+    "options": ["Indira Gandhi", "Benazir Bhutto", "Golda Meir", "Sirimavo Bandaranaike"],
+    "answer": "Indira Gandhi"
+  },
+  {
+    "question": "Which Roman general crossed the Alps with elephants during the Second Punic War?",
+    "options": ["Julius Caesar", "Mark Antony", "Scipio Africanus", "Hannibal"],
+    "answer": "Hannibal"
+  },
+  {
+    "question": "Who discovered the law of gravitation?",
+    "options": ["Isaac Newton", "Galileo Galilei", "Johannes Kepler", "Albert Einstein"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "What was the name of the first human to orbit the Earth?",
+    "options": ["Yuri Gagarin", "Neil Armstrong", "John Glenn", "Buzz Aldrin"],
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "question": "Which dynasty ruled China from 1368 to 1644 AD?",
+    "options": ["Ming Dynasty", "Qing Dynasty", "Han Dynasty", "Tang Dynasty"],
+    "answer": "Ming Dynasty"
+  },
+  {
+    "question": "Who was the author of 'The Prince', a political treatise on ruling and power?",
+    "options": ["Niccolò Machiavelli", "Thomas More", "Erasmus", "Martin Luther"],
+    "answer": "Niccolò Machiavelli"
+  },
+  {
+    "question": "In which year did the American colonies declare independence from Great Britain?",
+    "options": ["1775", "1776", "1777", "1778"],
+    "answer": "1776"
+  },
+  {
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": ["Amelia Earhart", "Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"],
+    "answer": "Amelia Earhart"
+  },
+  {
+    "question": "Which city hosted the first modern Olympic Games in 1896?",
+    "options": ["Athens", "Paris", "London", "Rome"],
+    "answer": "Athens"
+  },
+  {
+    "question": "Who was the founder of the Ottoman Empire?",
+    "options": ["Osman I", "Mehmed II", "Suleiman the Magnificent", "Selim I"],
+    "answer": "Osman I"
+  },
+  {
+    "question": "Which American inventor is credited with inventing the light bulb?",
+    "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Benjamin Franklin"],
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "Who painted the 'Mona Lisa'?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Titian"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What was the name of the ship that carried the Pilgrims to America in 1620?",
+    "options": ["Mayflower", "Santa Maria", "Nina", "Endeavour"],
+    "answer": "Mayflower"
+  },
+  {
+    "question": "Who wrote the 'Communist Manifesto' with Karl Marx?",
+    "options": ["Friedrich Engels", "Vladimir Lenin", "Leon Trotsky", "Mikhail Bakunin"],
+    "answer": "Friedrich Engels"
+  },
+  {
+    "question": "Which ancient civilization built the city of Machu Picchu?",
+    "options": ["Incas", "Aztecs", "Mayans", "Olmecs"],
+    "answer": "Incas"
+  },
+  {
+    "question": "Who was the longest-reigning monarch in British history?",
+    "options": ["Queen Victoria", "King George III", "Queen Elizabeth II", "Queen Elizabeth I"],
+    "answer": "Queen Elizabeth II"
+  },
+  {
+    "question": "Who was the first female pharaoh of ancient Egypt?",
+    "options": ["Hatshepsut", "Cleopatra", "Nefertiti", "Nefertari"],
+    "answer": "Hatshepsut"
+  },
+  {
+    "question": "Which European explorer first reached India by sea in 1498?",
+    "options": ["Vasco da Gama", "Christopher Columbus", "Ferdinand Magellan", "Francis Drake"],
+    "answer": "Vasco da Gama"
+  },
+  {
+    "question": "In which century did Joan of Arc lead French forces during the Hundred Years' War?",
+    "options": ["14th century", "15th century", "16th century", "17th century"],
+    "answer": "15th century"
+  },
+  {
+    "question": "Who was the last tsar of Russia, overthrown during the Russian Revolution?",
+    "options": ["Nicholas II", "Alexander II", "Peter the Great", "Ivan the Terrible"],
+    "answer": "Nicholas II"
+  },
+  {
+    "question": "What was the name of the first satellite launched into space by the Soviet Union in 1957?",
+    "options": ["Sputnik 1", "Vostok 1", "Explorer 1", "Apollo 11"],
+    "answer": "Sputnik 1"
+  },
+  {
+    "question": "Which British monarch ruled during the American Revolutionary War?",
+    "options": ["King George III", "Queen Elizabeth I", "Queen Victoria", "King Henry VIII"],
+    "answer": "King George III"
+  },
+  {
+    "question": "Who was the first European explorer to reach the southern tip of Africa in 1488?",
+    "options": ["Bartolomeu Dias", "Vasco da Gama", "Christopher Columbus", "Ferdinand Magellan"],
+    "answer": "Bartolomeu Dias"
+  },
+  {
+    "question": "Which Russian mystic and advisor to the Romanovs was assassinated in 1916?",
+    "options": ["Grigori Rasputin", "Ivan the Terrible", "Joseph Stalin", "Leon Trotsky"],
+    "answer": "Grigori Rasputin"
+  },
+  {
+    "question": "Who was the author of 'War and Peace', a novel depicting Russian society during the Napoleonic era?",
+    "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov", "Ivan Turgenev"],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "question": "In which year did the Spanish Armada attempt to invade England?",
+    "options": ["1586", "1587", "1588", "1589"],
+    "answer": "1588"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize, awarded in 1903?",
+    "options": ["Marie Curie", "Rosa Parks", "Mother Teresa", "Jane Addams"],
+    "answer": "Marie Curie"
+  },
+  {
+    "question": "Which ancient civilization built the city of Troy, famous for the Trojan War?",
+    "options": ["Ancient Greeks", "Ancient Romans", "Hittites", "Persians"],
+    "answer": "Hittites"
+  },
+  {
+    "question": "Who was the first European explorer to reach North America around 1000 AD?",
+    "options": ["Leif Erikson", "Christopher Columbus", "Amerigo Vespucci", "John Cabot"],
+    "answer": "Leif Erikson"
+  },
+  {
+    "question": "What was the name of the first permanent English settlement in North America, established in 1607?",
+    "options": ["Jamestown", "Plymouth", "Roanoke", "Williamsburg"],
+    "answer": "Jamestown"
+  },
+  {
+    "question": "Which queen ruled England for 63 years, the longest of any British monarch?",
+    "options": ["Queen Victoria", "Queen Elizabeth I", "Queen Anne", "Queen Mary"],
+    "answer": "Queen Victoria"
+  },
+  {
+    "question": "Who was the first European explorer to reach Australia in 1606?",
+    "options": ["Willem Janszoon", "Abel Tasman", "James Cook", "Francis Drake"],
+    "answer": "Willem Janszoon"
+  },
+  {
+    "question": "Which famous document established the rights of English citizens and limited the power of the monarchy?",
+    "options": ["Magna Carta", "Bill of Rights", "Habeas Corpus Act", "English Petition of Right"],
+    "answer": "Magna Carta"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+    "options": ["Nikita Khrushchev", "Joseph Stalin", "Leonid Brezhnev", "Mikhail Gorbachev"],
+    "answer": "Nikita Khrushchev"
+  },
+  {
+    "question": "Which American President signed the Emancipation Proclamation in 1863?",
+    "options": ["Abraham Lincoln", "Thomas Jefferson", "Andrew Jackson", "Ulysses S. Grant"],
+    "answer": "Abraham Lincoln"
+  },
+  {
+    "question": "Who founded the Mongol Empire in the 13th century?",
+    "options": ["Genghis Khan", "Kublai Khan", "Timur", "Attila the Hun"],
+    "answer": "Genghis Khan"
+  },
+  {
+    "question": "What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",
+    "options": ["Sputnik 1", "Vostok 1", "Explorer 1", "Luna 1"],
+    "answer": "Sputnik 1"
+  },
+  {
+    "question": "Who led the Haitian Revolution against French colonial rule in the late 18th century?",
+    "options": ["Toussaint Louverture", "Simon Bolivar", "Jean-Jacques Dessalines", "François-Dominique Toussaint-Louverture"],
+    "answer": "Toussaint Louverture"
+  },
+  {
+    "question": "What was the code name for the Allied invasion of Normandy during World War II?",
+    "options": ["Operation Overlord", "Operation Barbarossa", "Operation Neptune", "Operation Market Garden"],
+    "answer": "Operation Overlord"
+  },
+  {
+    "question": "Who was the first Emperor of unified China?",
+    "options": ["Emperor Qin Shi Huang", "Emperor Han Gaozu", "Emperor Tang Taizong", "Emperor Yuan Shikai"],
+    "answer": "Emperor Qin Shi Huang"
+  },
+  {
+    "question": "Which Italian explorer discovered the New World for Spain in 1492?",
+    "options": ["Christopher Columbus", "Amerigo Vespucci", "Ferdinand Magellan", "John Cabot"],
+    "answer": "Christopher Columbus"
+  },
+  {
+    "question": "Who led the Bolshevik Revolution in Russia in 1917?",
+    "options": ["Vladimir Lenin", "Joseph Stalin", "Leon Trotsky", "Mikhail Gorbachev"],
+    "answer": "Vladimir Lenin"
+  },
+  {
+    "question": "Which city was the first to be attacked with an atomic bomb in 1945?",
+    "options": ["Hiroshima", "Nagasaki", "Tokyo", "Osaka"],
+    "answer": "Hiroshima"
+  },
+  {
+    "question": "Who was the leader of the Soviet Union during the Cuban Missile Crisis?",
+    "options": ["Nikita Khrushchev", "Joseph Stalin", "Leonid Brezhnev", "Mikhail Gorbachev"],
+    "answer": "Nikita Khrushchev"
+  },
+  {
+    "question": "Which American President served the longest consecutive term in office?",
+    "options": ["Franklin D. Roosevelt", "George Washington", "Abraham Lincoln", "Thomas Jefferson"],
+    "answer": "Franklin D. Roosevelt"
+  },
+  {
+    "question": "Who was the first Chancellor of a unified Germany?",
+    "options": ["Otto von Bismarck", "Konrad Adenauer", "Helmut Kohl", "Angela Merkel"],
+    "answer": "Otto von Bismarck"
+  },
+  {
+    "question": "Which city hosted the first modern Olympic Games in 1896?",
+    "options": ["Athens", "Paris", "London", "Rome"],
+    "answer": "Athens"
+  },
+  {
+    "question": "Who was the author of 'The Communist Manifesto', published in 1848?",
+    "options": ["Karl Marx", "Friedrich Engels", "Vladimir Lenin", "Leon Trotsky"],
+    "answer": "Karl Marx"
+  },
+  {
+    "question": "Which British Prime Minister is known for his leadership during World War II?",
+    "options": ["Winston Churchill", "Margaret Thatcher", "Tony Blair", "David Lloyd George"],
+    "answer": "Winston Churchill"
+  },
+  {
+    "question": "Who was the founder of the Maurya Empire in ancient India?",
+    "options": ["Chandragupta Maurya", "Ashoka the Great", "Buddha", "Chandra Gupta II"],
+    "answer": "Chandragupta Maurya"
+  },
+  {
+    "question": "Which English king was executed during the English Civil War in 1649?",
+    "options": ["Charles I", "James II", "Henry VIII", "Richard III"],
+    "answer": "Charles I"
+  },
+  {
+    "question": "Who wrote 'The Canterbury Tales', a collection of stories set in medieval England?",
+    "options": ["Geoffrey Chaucer", "William Shakespeare", "John Milton", "Christopher Marlowe"],
+    "answer": "Geoffrey Chaucer"
+  },
+  {
+    "question": "What was the name of the first successful manned mission to the Moon in 1969?",
+    "options": ["Apollo 11", "Apollo 13", "Gemini 4", "Mercury 7"],
+    "answer": "Apollo 11"
+  },
+  {
+    "question": "Which queen ruled England for only nine days in 1553?",
+    "options": ["Lady Jane Grey", "Mary I", "Elizabeth I", "Anne Boleyn"],
+    "answer": "Lady Jane Grey"
+  },
+  {
+    "question": "Who was the first European explorer to reach the Americas in 1492?",
+    "options": ["Christopher Columbus", "Amerigo Vespucci", "Ferdinand Magellan", "Juan Ponce de León"],
+    "answer": "Christopher Columbus"
+  },
+  {
+    "question": "Which Roman Emperor famously declared himself a god during his reign?",
+    "options": ["Caligula", "Nero", "Augustus", "Constantine the Great"],
+    "answer": "Caligula"
+  },
+  {
+    "question": "Who wrote 'The Wealth of Nations', a seminal work in the field of economics?",
+    "options": ["Adam Smith", "John Maynard Keynes", "Karl Marx", "David Ricardo"],
+    "answer": "Adam Smith"
+  },
+  {
+    "question": "In which year did the Berlin Wall fall, marking the end of the Cold War?",
+    "options": ["1987", "1988", "1989", "1990"],
+    "answer": "1989"
+  },
+  {
+    "question": "Which ancient Greek philosopher was the teacher of Alexander the Great?",
+    "options": ["Aristotle", "Socrates", "Plato", "Pythagoras"],
+    "answer": "Aristotle"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["George Washington", "Thomas Jefferson", "John Adams", "James Madison"],
+    "answer": "George Washington"
+  },
+  {
+    "question": "Which empire was ruled by Emperor Justinian I in the 6th century AD?",
+    "options": ["Byzantine Empire", "Roman Empire", "Ottoman Empire", "Mongol Empire"],
+    "answer": "Byzantine Empire"
+  },
+  {
+    "question": "Who was the leader of the United States during World War II?",
+    "options": ["Franklin D. Roosevelt", "Harry S. Truman", "Dwight D. Eisenhower", "John F. Kennedy"],
+    "answer": "Franklin D. Roosevelt"
+  },
+  {
+    "question": "Which war was fought between North and South Korea from 1950 to 1953?",
+    "options": ["Korean War", "Vietnam War", "World War II", "Cold War"],
+    "answer": "Korean War"
+  },
+  {
+    "question": "Who was the first European explorer to sail around the southern tip of Africa in 1488?",
+    "options": ["Bartolomeu Dias", "Vasco da Gama", "Christopher Columbus", "Ferdinand Magellan"],
+    "answer": "Bartolomeu Dias"
+  },
+  {
+    "question": "Which American inventor is credited with inventing the telephone in 1876?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Who was the first European explorer to reach India by sea in 1498?",
+    "options": ["Vasco da Gama", "Christopher Columbus", "Ferdinand Magellan", "Francis Drake"],
+    "answer": "Vasco da Gama"
+  },
+  {
+    "question": "Which city was the capital of the Inca Empire?",
+    "options": ["Cusco", "Lima", "Machu Picchu", "Quito"],
+    "answer": "Cusco"
+  },
+  {
+    "question": "Who was the first African-American to serve as President of the United States?",
+    "options": ["Barack Obama", "Martin Luther King Jr.", "Nelson Mandela", "Colin Powell"],
+    "answer": "Barack Obama"
+  },
+  {
+    "question": "Which ancient civilization built the Great Wall of China?",
+    "options": ["Qin Dynasty", "Han Dynasty", "Tang Dynasty", "Ming Dynasty"],
+    "answer": "Qin Dynasty"
+  },
+  {
+    "question": "Who wrote 'The Prince', a political treatise on ruling and power?",
+    "options": ["Niccolò Machiavelli", "Thomas More", "Erasmus", "Martin Luther"],
+    "answer": "Niccolò Machiavelli"
+  },
+  {
+    "question": "Which Roman general famously crossed the Alps with elephants during the Second Punic War?",
+    "options": ["Hannibal", "Julius Caesar", "Scipio Africanus", "Mark Antony"],
+    "answer": "Hannibal"
+  },
+  {
+    "question": "Who was the first female Prime Minister of a European country?",
+    "options": ["Margaret Thatcher", "Angela Merkel", "Theresa May", "Indira Gandhi"],
+    "answer": "Margaret Thatcher"
+  },
+  {
+    "question": "Which ancient civilization built the city of Petra, known for its rock-cut architecture?",
+    "options": ["Nabateans", "Assyrians", "Phoenicians", "Persians"],
+    "answer": "Nabateans"
+  },
+  {
+    "question": "Who founded the city of Rome according to Roman mythology?",
+    "options": ["Romulus and Remus", "Julius Caesar", "Augustus", "Nero"],
+    "answer": "Romulus and Remus"
+  },
+  {
+    "question": "Which English monarch was known as 'Bloody Mary' due to her persecution of Protestants?",
+    "options": ["Mary I", "Elizabeth I", "Anne Boleyn", "Catherine of Aragon"],
+    "answer": "Mary I"
+  },
+  {
+    "question": "Who was the first female astronaut to travel into space?",
+    "options": ["Valentina Tereshkova", "Sally Ride", "Mae Jemison", "Yuri Gagarin"],
+    "answer": "Valentina Tereshkova"
+  },
+  {
+    "question": "Which Renaissance artist painted the ceiling of the Sistine Chapel?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+    "answer": "Michelangelo"
+  },
+  {
+    "question": "Who founded the city of Alexandria in ancient Egypt?",
+    "options": ["Alexander the Great", "Cleopatra", "Ptolemy I", "Ramesses II"],
+    "answer": "Alexander the Great"
+  },
+  {
+    "question": "Which American President signed the Civil Rights Act of 1964 into law?",
+    "options": ["Lyndon B. Johnson", "John F. Kennedy", "Richard Nixon", "Jimmy Carter"],
+    "answer": "Lyndon B. Johnson"
+  },
+  {
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": ["Marie Curie", "Rosalind Franklin", "Dorothy Hodgkin", "Barbara McClintock"],
+    "answer": "Marie Curie"
+  },
+  {
+    "question": "Which ancient civilization built the city of Machu Picchu?",
+    "options": ["Incas", "Aztecs", "Mayans", "Olmecs"],
+    "answer": "Incas"
+  },
+  {
+    "question": "Who wrote 'The Art of War', an ancient Chinese military treatise?",
+    "options": ["Sun Tzu", "Mao Zedong", "Confucius", "Laozi"],
+    "answer": "Sun Tzu"
+  },
+  {
+    "question": "Which Roman Emperor built a massive wall in northern Britain to defend against Scottish tribes?",
+    "options": ["Hadrian", "Augustus", "Trajan", "Diocletian"],
+    "answer": "Hadrian"
+  },
+  {
+    "question": "Who was the first President of the United States to live in the White House?",
+    "options": ["John Adams", "Thomas Jefferson", "George Washington", "James Madison"],
+    "answer": "John Adams"
+  }
+]
