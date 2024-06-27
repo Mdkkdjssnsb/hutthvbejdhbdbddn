@@ -19,67 +19,24 @@ const getRandomQuestion = (jsonData) => {
   return jsonData[randomIndex];
 };
 
-// TORF API endpoint to send a random question from quiz.json
-app.get('/api/torf', (req, res) => {
+// Endpoint to send a random question based on category
+app.get('/api/question', (req, res) => {
+  const { category } = req.query;
   try {
-    // Read quiz.json file
-    const filePath = path.join(__dirname, 'quiz.json');
+    if (!category) {
+      return res.status(400).json({ error: 'Category parameter is required' });
+    }
+    // Read data based on category
+    const filePath = path.join(__dirname, `${category}.json`);
     fs.readFile(filePath, 'utf8', (err, data) => {
       if (err) {
-        console.error('Error reading quiz data:', err);
-        res.status(500).json({ error: 'Failed to fetch quiz data' });
-        return;
+        console.error(`Error reading ${category} data:`, err);
+        return res.status(500).json({ error: `Failed to fetch ${category} data` });
       }
-      const quizData = JSON.parse(data);
-      // Get a random question
-      const randomQuestion = getRandomQuestion(quizData);
+      const jsonData = JSON.parse(data);
+      // Get a random question from the category data
+      const randomQuestion = getRandomQuestion(jsonData);
       // Respond with the random question
-      res.json(randomQuestion);
-    });
-  } catch (error) {
-    console.error('Unexpected error:', error);
-    res.status(500).json({ error: 'Unexpected error occurred' });
-  }
-});
-
-// Math API endpoint to send math question from math.json
-app.get('/api/math', (req, res) => {
-  try {
-    // Read math.json file
-    const filePath = path.join(__dirname, 'math.json');
-    fs.readFile(filePath, 'utf8', (err, data) => {
-      if (err) {
-        console.error('Error reading math data:', err);
-        res.status(500).json({ error: 'Failed to fetch math data' });
-        return;
-      }
-      const mathData = JSON.parse(data);
-      // Get a random math question
-      const randomQuestion = getRandomQuestion(mathData);
-      // Respond with the random math question
-      res.json(randomQuestion);
-    });
-  } catch (error) {
-    console.error('Unexpected error:', error);
-    res.status(500).json({ error: 'Unexpected error occurred' });
-  }
-});
-
-// Anime API endpoint to send anime question from anime.json
-app.get('/api/anime', (req, res) => {
-  try {
-    // Read anime.json file
-    const filePath = path.join(__dirname, 'anime.json');
-    fs.readFile(filePath, 'utf8', (err, data) => {
-      if (err) {
-        console.error('Error reading anime data:', err);
-        res.status(500).json({ error: 'Failed to fetch anime quiz data' });
-        return;
-      }
-      const animeData = JSON.parse(data);
-      // Get a random anime quiz question
-      const randomQuestion = getRandomQuestion(animeData);
-      // Respond with the random anime quiz question
       res.json(randomQuestion);
     });
   } catch (error) {
