@@ -1,0 +1,372 @@
+[
+  {
+    "question": "What is the SI unit of force?",
+    "options": ["Newton", "Joule", "Watt", "Pascal"],
+    "answer": "Newton"
+  },
+  {
+    "question": "What is the SI unit of power?",
+    "options": ["Watt", "Joule", "Newton", "Pascal"],
+    "answer": "Watt"
+  },
+  {
+    "question": "Which scientist is known for his laws of motion?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the formula for acceleration?",
+    "options": ["Acceleration = Change in velocity / Time taken", "Acceleration = Force / Mass", "Acceleration = Mass * Velocity", "Acceleration = Momentum / Time"],
+    "answer": "Acceleration = Change in velocity / Time taken"
+  },
+  {
+    "question": "Which property of a body causes it to resist a change in its state of motion?",
+    "options": ["Inertia", "Gravity", "Friction", "Velocity"],
+    "answer": "Inertia"
+  },
+  {
+    "question": "What is the acceleration due to gravity on Earth?",
+    "options": ["9.8 m/s²", "8.2 m/s²", "10 m/s²", "11.5 m/s²"],
+    "answer": "9.8 m/s²"
+  },
+  {
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": ["Barometer", "Thermometer", "Hygrometer", "Anemometer"],
+    "answer": "Barometer"
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "options": ["Ampere", "Volt", "Ohm", "Watt"],
+    "answer": "Ampere"
+  },
+  {
+    "question": "Which law states that every action has an equal and opposite reaction?",
+    "options": ["Newton's third law of motion", "Newton's first law of motion", "Newton's second law of motion", "Law of gravity"],
+    "answer": "Newton's third law of motion"
+  },
+  {
+    "question": "What is the SI unit of electric charge?",
+    "options": ["Coulomb", "Ampere", "Volt", "Ohm"],
+    "answer": "Coulomb"
+  },
+  {
+    "question": "Which type of energy is stored in a stretched rubber band?",
+    "options": ["Elastic potential energy", "Kinetic energy", "Gravitational potential energy", "Thermal energy"],
+    "answer": "Elastic potential energy"
+  },
+  {
+    "question": "What is the unit of measurement for wavelength?",
+    "options": ["Meter", "Second", "Hertz", "Angstrom"],
+    "answer": "Meter"
+  },
+  {
+    "question": "Which law describes the relationship between a body's mass, its acceleration, and the applied force?",
+    "options": ["Newton's second law of motion", "Newton's first law of motion", "Newton's third law of motion", "Law of universal gravitation"],
+    "answer": "Newton's second law of motion"
+  },
+  {
+    "question": "What is the SI unit of frequency?",
+    "options": ["Hertz", "Watt", "Newton", "Joule"],
+    "answer": "Hertz"
+  },
+  {
+    "question": "Which type of mirror is used as a rear-view mirror in vehicles?",
+    "options": ["Convex mirror", "Concave mirror", "Plane mirror", "Cylindrical mirror"],
+    "answer": "Convex mirror"
+  },
+  {
+    "question": "What is the SI unit of work and energy?",
+    "options": ["Joule", "Newton", "Watt", "Coulomb"],
+    "answer": "Joule"
+  },
+  {
+    "question": "Which law states that the total electric charge in a closed system is constant?",
+    "options": ["Law of conservation of charge", "Ohm's law", "Coulomb's law", "Ampere's law"],
+    "answer": "Law of conservation of charge"
+  },
+  {
+    "question": "What is the SI unit of temperature?",
+    "options": ["Kelvin", "Celsius", "Fahrenheit", "Rankine"],
+    "answer": "Kelvin"
+  },
+  {
+    "question": "Which device is used to measure electric current?",
+    "options": ["Ammeter", "Voltmeter", "Ohmmeter", "Wattmeter"],
+    "answer": "Ammeter"
+  },
+  {
+    "question": "What is the unit of measurement for electrical resistance?",
+    "options": ["Ohm", "Volt", "Ampere", "Watt"],
+    "answer": "Ohm"
+  },
+  {
+    "question": "Which type of energy is associated with the motion of particles?",
+    "options": ["Kinetic energy", "Potential energy", "Elastic energy", "Nuclear energy"],
+    "answer": "Kinetic energy"
+  },
+  {
+    "question": "What is the SI unit of pressure?",
+    "options": ["Pascal", "Newton", "Watt", "Joule"],
+    "answer": "Pascal"
+  },
+  {
+    "question": "Which law states that the amount of heat produced by a current flowing through a conductor is proportional to the square of the current and the resistance of the conductor?",
+    "options": ["Joule's law", "Ohm's law", "Kirchhoff's law", "Faraday's law"],
+    "answer": "Joule's law"
+  },
+  {
+    "question": "What is the SI unit of capacitance?",
+    "options": ["Farad", "Henry", "Ohm", "Ampere"],
+    "answer": "Farad"
+  },
+  {
+    "question": "Which phenomenon explains why the sky is blue?",
+    "options": ["Rayleigh scattering", "Diffraction", "Refraction", "Reflection"],
+    "answer": "Rayleigh scattering"
+  },
+  {
+    "question": "What is the SI unit of magnetic flux?",
+    "options": ["Weber", "Tesla", "Gauss", "Henry"],
+    "answer": "Weber"
+  },
+  {
+    "question": "Which device is used to convert chemical energy into electrical energy?",
+    "options": ["Battery", "Capacitor", "Resistor", "Inductor"],
+    "answer": "Battery"
+  },
+  {
+    "question": "What is the SI unit of magnetic field strength?",
+    "options": ["Tesla", "Weber", "Gauss", "Henry"],
+    "answer": "Tesla"
+  },
+  {
+    "question": "Which law states that the ratio of the voltage across a conductor to the current flowing through it is constant, provided the temperature and other physical conditions remain unchanged?",
+    "options": ["Ohm's law", "Joule's law", "Kirchhoff's law", "Faraday's law"],
+    "answer": "Ohm's law"
+  },
+  {
+    "question": "What is the SI unit of magnetic flux density?",
+    "options": ["Tesla", "Weber", "Gauss", "Henry"],
+    "answer": "Tesla"
+  },
+  {
+    "question": "Which type of lens is used in a magnifying glass?",
+    "options": ["Convex lens", "Concave lens", "Biconcave lens", "Cylindrical lens"],
+    "answer": "Convex lens"
+  },
+  {
+    "question": "What is the SI unit of electric potential difference?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "answer": "Volt"
+  },
+  {
+    "question": "Which law states that the angle of incidence is equal to the angle of reflection?",
+    "options": ["Law of reflection", "Snell's law", "Huygens' principle", "Brewster's law"],
+    "answer": "Law of reflection"
+  },
+  {
+    "question": "What is the SI unit of magnetic permeability?",
+    "options": ["Henry per meter", "Tesla", "Weber", "Gauss"],
+    "answer": "Henry per meter"
+  },
+  {
+    "question": "Which device is used to measure electric potential difference?",
+    "options": ["Voltmeter", "Ammeter", "Ohmmeter", "Wattmeter"],
+    "answer": "Voltmeter"
+  },
+  {
+    "question": "What is the SI unit of frequency?",
+    "options": ["Hertz", "Newton", "Watt", "Pascal"],
+    "answer": "Hertz"
+  },
+  {
+    "question": "Which type of energy is associated with the position or configuration of an object?",
+    "options": ["Potential energy", "Kinetic energy", "Elastic energy", "Nuclear energy"],
+    "answer": "Potential energy"
+  },
+  {
+    "question": "What is the SI unit of electric conductance?",
+    "options": ["Siemens", "Ohm", "Henry", "Ampere"],
+    "answer": "Siemens"
+  },
+  {
+    "question": "Which device is used to measure very high temperatures?",
+    "options": ["Pyrometer", "Thermometer", "Barometer", "Hygrometer"],
+    "answer": "Pyrometer"
+  },
+  {
+    "question": "What is the SI unit of luminous intensity?",
+    "options": ["Candela", "Lumen", "Lux", "Watt"],
+    "answer": "Candela"
+  },
+  {
+    "question": "Which law states that the total electric flux through a closed surface is equal to the charge enclosed by the surface divided by the permittivity of free space?",
+    "options": ["Gauss's law", "Ampere's law", "Ohm's law", "Faraday's law"],
+    "answer": "Gauss's law"
+  },
+  {
+    "question": "What is the SI unit of magnetic pole strength?",
+    "options": ["Ampere-meter", "Tesla", "Weber", "Henry"],
+    "answer": "Ampere-meter"
+  },
+  {
+    "question": "Which type of energy is associated with the nucleus of an atom?",
+    "options": ["Nuclear energy", "Kinetic energy", "Potential energy", "Elastic energy"],
+    "answer": "Nuclear energy"
+  },
+  {
+    "question": "What is the unit of measurement for sound frequency?",
+    "options": ["Hertz", "Newton", "Pascal", "Watt"],
+    "answer": "Hertz"
+  },
+  {
+    "question": "Which law states that the induced electromotive force (emf) in a closed circuit is equal to the rate of change of magnetic flux through the circuit?",
+    "options": ["Faraday's law of electromagnetic induction", "Ampere's law", "Ohm's law", "Joule's law"],
+    "answer": "Faraday's law of electromagnetic induction"
+  },
+  {
+    "question": "What is the SI unit of magnetic susceptibility?",
+    "options": ["Dimensionless", "Tesla", "Weber", "Henry"],
+    "answer": "Dimensionless"
+  },
+  {
+    "question": "Which phenomenon occurs when a wave strikes a boundary between two different media and changes direction?",
+    "options": ["Refraction", "Reflection", "Diffraction", "Interference"],
+    "answer": "Refraction"
+  },
+  {
+    "question": "What is the SI unit of magnetic reluctance?",
+    "options": ["Ampere-turn per Weber", "Tesla", "Weber", "Henry"],
+    "answer": "Ampere-turn per Weber"
+  },
+  {
+    "question": "Which law states that the entropy of an isolated system always increases over time?",
+    "options": ["Second law of thermodynamics", "First law of thermodynamics", "Zeroth law of thermodynamics", "Newton's law of cooling"],
+    "answer": "Second law of thermodynamics"
+  },
+  {
+    "question": "What is the SI unit of luminous flux?",
+    "options": ["Lumen", "Candela", "Lux", "Watt"],
+    "answer": "Lumen"
+  },
+  {
+    "question": "Which phenomenon explains why a straw appears broken when placed in a glass of water?",
+    "options": ["Refraction", "Reflection", "Diffraction", "Interference"],
+    "answer": "Refraction"
+  },
+  {
+    "question": "What is the SI unit of radiation exposure?",
+    "options": ["Coulomb per kilogram", "Gray", "Sievert", "Becquerel"],
+    "answer": "Coulomb per kilogram"
+  },
+  {
+    "question": "Which law states that the pressure of a gas is inversely proportional to its volume at constant temperature?",
+    "options": ["Boyle's law", "Charles's law", "Avogadro's law", "Gay-Lussac's law"],
+    "answer": "Boyle's law"
+  },
+  {
+    "question": "What is the SI unit of activity (radioactivity)?",
+    "options": ["Becquerel", "Gray", "Sievert", "Coulomb per kilogram"],
+    "answer": "Becquerel"
+  },
+  {
+    "question": "Which law states that the volume of a gas is directly proportional to its absolute temperature at constant pressure?",
+    "options": ["Charles's law", "Boyle's law", "Avogadro's law", "Gay-Lussac's law"],
+    "answer": "Charles's law"
+  },
+  {
+    "question": "What is the SI unit of sound intensity?",
+    "options": ["Watt per square meter", "Decibel", "Lumen", "Lux"],
+    "answer": "Watt per square meter"
+  },
+  {
+    "question": "Which phenomenon explains why a person's voice sounds higher when inhaled helium?",
+    "options": ["Speed of sound variation", "Refraction", "Diffraction", "Interference"],
+    "answer": "Speed of sound variation"
+  },
+  {
+    "question": "What is the SI unit of electric field strength?",
+    "options": ["Volt per meter", "Coulomb per meter", "Tesla", "Weber"],
+    "answer": "Volt per meter"
+  },
+  {
+    "question": "Which law states that the total pressure exerted by a mixture of gases is equal to the sum of the partial pressures of the gases in the mixture?",
+    "options": ["Dalton's law of partial pressures", "Graham's law", "Boyle's law", "Charles's law"],
+    "answer": "Dalton's law of partial pressures"
+  },
+  {
+    "question": "What is the SI unit of electric field intensity?",
+    "options": ["Volt per meter", "Coulomb per meter", "Tesla", "Weber"],
+    "answer": "Volt per meter"
+  },
+  {
+    "question": "Which phenomenon explains why a pencil appears bent when placed in a glass of water?",
+    "options": ["Refraction", "Reflection", "Diffraction", "Interference"],
+    "answer": "Refraction"
+  },
+  {
+    "question": "What is the SI unit of magnetic field intensity?",
+    "options": ["Ampere per meter", "Tesla", "Weber", "Henry"],
+    "answer": "Ampere per meter"
+  },
+  {
+    "question": "Which law states that the buoyant force on an object immersed in a fluid is equal to the weight of the fluid displaced by the object?",
+    "options": ["Archimedes' principle", "Pascal's principle", "Bernoulli's principle", "Newton's law of viscosity"],
+    "answer": "Archimedes' principle"
+  },
+  {
+    "question": "What is the SI unit of wave number?",
+    "options": ["Reciprocal meter", "Meter", "Hertz", "Radian per second"],
+    "answer": "Reciprocal meter"
+  },
+  {
+    "question": "Which phenomenon explains the spreading of water droplets on a glass surface?",
+    "options": ["Surface tension", "Capillary action", "Viscosity", "Buoyancy"],
+    "answer": "Surface tension"
+  },
+  {
+    "question": "What is the SI unit of molar mass?",
+    "options": ["Kilogram per mole", "Mole per kilogram", "Kilogram", "Mole"],
+    "answer": "Kilogram per mole"
+  },
+  {
+    "question": "Which law states that the upward buoyant force exerted on a body immersed in a fluid is equal to the weight of the fluid displaced by the body?",
+    "options": ["Archimedes' principle", "Pascal's principle", "Bernoulli's principle", "Newton's law of viscosity"],
+    "answer": "Archimedes' principle"
+  },
+  {
+    "question": "What is the SI unit of electric potential?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "answer": "Volt"
+  },
+  {
+    "question": "Which phenomenon explains why a beam of light bends when passing through a prism?",
+    "options": ["Dispersion", "Diffraction", "Interference", "Reflection"],
+    "answer": "Dispersion"
+  },
+  {
+    "question": "What is the SI unit of mass?",
+    "options": ["Kilogram", "Gram", "Newton", "Pound"],
+    "answer": "Kilogram"
+  },
+  {
+    "question": "Which phenomenon explains the rising of hot air?",
+    "options": ["Convection", "Conduction", "Radiation", "Refraction"],
+    "answer": "Convection"
+  },
+  {
+    "question": "What is the SI unit of moment of inertia?",
+    "options": ["Kilogram meter squared", "Meter", "Newton meter", "Joule"],
+    "answer": "Kilogram meter squared"
+  },
+  {
+    "question": "Which phenomenon explains the splitting of light into its constituent colors?",
+    "options": ["Dispersion", "Diffraction", "Interference", "Reflection"],
+    "answer": "Dispersion"
+  },
+  {
+    "question": "What is the SI unit of angular velocity?",
+    "options": ["Radian per second", "Meter per second", "Hertz", "Newton"],
+    "answer": "Radian per second"
+  }
+ ]
