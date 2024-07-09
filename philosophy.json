@@ -1,0 +1,507 @@
+[
+  {
+    "question": "What is the nature of reality?",
+    "options": ["Objective", "Subjective", "Both", "Neither"],
+    "answer": "Objective"
+  },
+  {
+    "question": "Can knowledge exist independently of experience?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "What is the purpose of life?",
+    "options": ["To seek happiness", "To fulfill a higher purpose", "To propagate genes", "To accumulate wealth"],
+    "answer": "To seek happiness"
+  },
+  {
+    "question": "Is there a difference between knowledge and belief?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "How do we determine right from wrong?",
+    "options": ["Through reason", "Through intuition", "Through societal norms", "Through religion"],
+    "answer": "Through reason"
+  },
+  {
+    "question": "What is the relationship between mind and body?",
+    "options": ["Dualism", "Materialism", "Idealism", "Neutral monism"],
+    "answer": "Dualism"
+  },
+  {
+    "question": "Can we truly know anything for certain?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "What is consciousness?",
+    "options": ["Awareness", "Sensation", "Perception", "Cognition"],
+    "answer": "Awareness"
+  },
+  {
+    "question": "Do humans have free will?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the meaning of existence?",
+    "options": ["To seek knowledge", "To experience joy", "To find meaning", "To survive"],
+    "answer": "To find meaning"
+  },
+  {
+    "question": "Is morality relative or absolute?",
+    "options": ["Relative", "Absolute"],
+    "answer": "Relative"
+  },
+  {
+    "question": "Can we achieve happiness?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is justice?",
+    "options": ["Fairness", "Equality", "Revenge", "Punishment"],
+    "answer": "Fairness"
+  },
+  {
+    "question": "Are emotions rational or irrational?",
+    "options": ["Rational", "Irrational"],
+    "answer": "Irrational"
+  },
+  {
+    "question": "What is the role of reason in decision-making?",
+    "options": ["Primary", "Secondary", "Insignificant", "Irrelevant"],
+    "answer": "Primary"
+  },
+  {
+    "question": "Is beauty subjective or objective?",
+    "options": ["Subjective", "Objective"],
+    "answer": "Subjective"
+  },
+  {
+    "question": "What is the self?",
+    "options": ["Persistent identity", "Illusion", "Social construct", "Collection of experiences"],
+    "answer": "Persistent identity"
+  },
+  {
+    "question": "Can machines or animals think?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is there such a thing as fate?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the relationship between language and thought?",
+    "options": ["Thought shapes language", "Language shapes thought", "Independent", "Irrelevant"],
+    "answer": "Language shapes thought"
+  },
+  {
+    "question": "Is there an afterlife?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "Are all actions morally equal?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "What is the source of human rights?",
+    "options": ["Law", "Morality", "Religion", "Evolution"],
+    "answer": "Morality"
+  },
+  {
+    "question": "Is art a form of knowledge?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Are mathematical truths invented or discovered?",
+    "options": ["Invented", "Discovered"],
+    "answer": "Discovered"
+  },
+  {
+    "question": "What is the nature of time?",
+    "options": ["Linear", "Cyclical", "Illusion", "Dimension"],
+    "answer": "Dimension"
+  },
+  {
+    "question": "Is reality a simulation?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "Are humans inherently good or evil?",
+    "options": ["Good", "Evil", "Neutral", "Depends on upbringing"],
+    "answer": "Neutral"
+  },
+  {
+    "question": "What is the role of faith in knowledge?",
+    "options": ["Essential", "Irrelevant", "Dangerous", "Unreliable"],
+    "answer": "Unreliable"
+  },
+  {
+    "question": "How do we define consciousness?",
+    "options": ["Awareness", "Sensation", "Perception", "Cognition"],
+    "answer": "Awareness"
+  },
+  {
+    "question": "Can ethics be taught?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the essence of identity?",
+    "options": ["Physical characteristics", "Memories", "Social roles", "Personality traits"],
+    "answer": "Memories"
+  },
+  {
+    "question": "Is truth objective or subjective?",
+    "options": ["Objective", "Subjective"],
+    "answer": "Objective"
+  },
+  {
+    "question": "What is the purpose of education?",
+    "options": ["Personal development", "Preparation for career", "Cultural preservation", "Socialization"],
+    "answer": "Personal development"
+  },
+  {
+    "question": "Can perception be trusted?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "What is the difference between knowledge and wisdom?",
+    "options": ["Knowledge is information, wisdom is understanding", "There is no difference", "Wisdom is practical knowledge, knowledge is theoretical", "Wisdom is subjective, knowledge is objective"],
+    "answer": "Wisdom is practical knowledge, knowledge is theoretical"
+  },
+  {
+    "question": "Is there an ultimate purpose to the universe?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "Are there universal human rights?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the nature of beauty?",
+    "options": ["Objective", "Subjective", "Cultural", "Aesthetic"],
+    "answer": "Subjective"
+  },
+  {
+    "question": "What is the relationship between science and philosophy?",
+    "options": ["Complementary", "Opposed", "Irrelevant", "Dependent"],
+    "answer": "Complementary"
+  },
+  {
+    "question": "Is there a single, correct way to live?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "Can a person change over time?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the role of intuition in knowledge?",
+    "options": ["Essential", "Irrelevant", "Dangerous", "Unreliable"],
+    "answer": "Essential"
+  },
+  {
+    "question": "Are emotions a hindrance or a help to rational thinking?",
+    "options": ["Hindrance", "Help", "Depends on the situation", "Irrelevant"],
+    "answer": "Depends on the situation"
+  },
+  {
+    "question": "What is the role of reason in ethics?",
+    "options": ["Primary", "Secondary", "Irrelevant", "Dangerous"],
+    "answer": "Primary"
+  },
+  {
+    "question": "Is there a meaning to life beyond biology?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the relationship between language and reality?",
+    "options": ["Reflective", "Constructive", "Dependent", "Irrelevant"],
+    "answer": "Dependent"
+  },
+  {
+    "question": "Is morality a matter of opinion?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the nature of human consciousness?",
+    "options": ["Physical", "Mental", "Spiritual", "Biological"],
+    "answer": "Mental"
+  },
+  {
+    "question": "Can we know the mind of another person?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "Is there a difference between good and evil?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "How do we define success?",
+    "options": ["Achieving goals", "Fulfilling potential", "Wealth and status", "Happiness and fulfillment"],
+    "answer": "Happiness and fulfillment"
+  },
+  {
+    "question": "Can knowledge ever be certain?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "What is the role of skepticism in philosophy?",
+    "options": ["To question assumptions", "To deny knowledge", "To challenge beliefs", "To affirm truth"],
+    "answer": "To question assumptions"
+  },
+  {
+    "question": "Is there a difference between knowledge and wisdom?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the nature of human rights?",
+    "options": ["Inherent", "Socially constructed", "Legal constructs", "Universal"],
+    "answer": "Universal"
+  },
+  {
+    "question": "How do we define justice?",
+    "options": ["Fairness", "Equality", "Retribution", "Rehabilitation"],
+    "answer": "Fairness"
+  },
+  {
+    "question": "Can ethics be objective?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the role of empathy in ethics?",
+    "options": ["Understanding others", "Emotional connection", "Compassionate action", "Moral judgment"],
+    "answer": "Understanding others"
+  },
+  {
+    "question": "Is there a universal moral code?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "Can happiness be measured?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the role of reason in decision-making?",
+    "options": ["Primary", "Secondary", "Irrelevant", "Dangerous"],
+    "answer": "Primary"
+  },
+  {
+    "question": "Can emotions lead us astray?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is there a difference between appearance and reality?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the relationship between power and responsibility?",
+    "options": ["Correlated", "Opposed", "Independent", "Irrelevant"],
+    "answer": "Correlated"
+  },
+  {
+    "question": "Can forgiveness be morally obligatory?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the nature of friendship?",
+    "options": ["Reciprocal", "Unconditional", "Transactional", "Superficial"],
+    "answer": "Reciprocal"
+  },
+  {
+    "question": "Can conflict lead to positive outcomes?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "How do we define success in life?",
+    "options": ["Wealth", "Happiness", "Achievements", "Social status"],
+    "answer": "Happiness"
+  },
+  {
+    "question": "Is happiness a state of mind?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the role of suffering in human life?",
+    "options": ["To build character", "To teach lessons", "To test faith", "To punish wrongdoing"],
+    "answer": "To build character"
+  },
+  {
+    "question": "Can we ever truly know another person?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "Is there a difference between justice and revenge?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the role of tradition in society?",
+    "options": ["Preserving culture", "Stifling progress", "Maintaining stability", "Encouraging innovation"],
+    "answer": "Preserving culture"
+  },
+  {
+    "question": "Can we ever escape our own biases?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "What is the relationship between power and authority?",
+    "options": ["Correlated", "Independent", "Opposed", "Irrelevant"],
+    "answer": "Correlated"
+  },
+  {
+    "question": "How do we define happiness?",
+    "options": ["Contentment", "Pleasure", "Fulfillment", "Absence of suffering"],
+    "answer": "Fulfillment"
+  },
+  {
+    "question": "Is morality a matter of opinion?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the role of tradition in philosophy?",
+    "options": ["Preserving wisdom", "Inhibiting progress", "Maintaining continuity", "Inspiring innovation"],
+    "answer": "Preserving wisdom"
+  },
+  {
+    "question": "Can we achieve true objectivity?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "How do we define success in life?",
+    "options": ["Wealth", "Happiness", "Achievements", "Social status"],
+    "answer": "Happiness"
+  },
+  {
+    "question": "Is there a difference between knowledge and belief?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the nature of human rights?",
+    "options": ["Inherent", "Socially constructed", "Legal constructs", "Universal"],
+    "answer": "Universal"
+  },
+  {
+    "question": "How do we define justice?",
+    "options": ["Fairness", "Equality", "Retribution", "Rehabilitation"],
+    "answer": "Fairness"
+  },
+  {
+    "question": "Can ethics be objective?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the role of empathy in ethics?",
+    "options": ["Understanding others", "Emotional connection", "Compassionate action", "Moral judgment"],
+    "answer": "Understanding others"
+  },
+  {
+    "question": "Is there a universal moral code?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "Can happiness be measured?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the role of reason in decision-making?",
+    "options": ["Primary", "Secondary", "Irrelevant", "Dangerous"],
+    "answer": "Primary"
+  },
+  {
+    "question": "Can emotions lead us astray?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "Is there a difference between appearance and reality?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the relationship between power and responsibility?",
+    "options": ["Correlated", "Opposed", "Independent", "Irrelevant"],
+    "answer": "Correlated"
+  },
+  {
+    "question": "Can forgiveness be morally obligatory?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the nature of friendship?",
+    "options": ["Reciprocal", "Unconditional", "Transactional", "Superficial"],
+    "answer": "Reciprocal"
+  },
+  {
+    "question": "Can conflict lead to positive outcomes?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "How do we define success in life?",
+    "options": ["Wealth", "Happiness", "Achievements", "Social status"],
+    "answer": "Happiness"
+  },
+  {
+    "question": "Is happiness a state of mind?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the role of suffering in human life?",
+    "options": ["To build character", "To teach lessons", "To test faith", "To punish wrongdoing"],
+    "answer": "To build character"
+  },
+  {
+    "question": "Can we ever truly know another person?",
+    "options": ["Yes", "No"],
+    "answer": "No"
+  },
+  {
+    "question": "Is there a difference between justice and revenge?",
+    "options": ["Yes", "No"],
+    "answer": "Yes"
+  },
+  {
+    "question": "What is the role of tradition in society?",
+    "options": ["Preserving culture", "Stifling progress", "Maintaining stability", "Encouraging innovation"],
+    "answer": "Preserving culture"
+  }
+]
