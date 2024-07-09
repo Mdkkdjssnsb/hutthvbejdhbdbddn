@@ -1,0 +1,282 @@
+[
+  {
+    "question": "What is the difference between 'affect' and 'effect'?",
+    "options": ["Affect is a verb, effect is a noun.", "Effect is a verb, affect is a noun.", "They mean the same thing.", "They are both adjectives."],
+    "answer": "Affect is a verb, effect is a noun."
+  },
+  {
+    "question": "What is a dangling participle?",
+    "options": ["A type of verb tense error", "A misplaced modifier", "A type of adverb", "A type of participial phrase"],
+    "answer": "A misplaced modifier"
+  },
+  {
+    "question": "Which word is a synonym for 'ubiquitous'?",
+    "options": ["Rare", "Omnipresent", "Scarce", "Sparse"],
+    "answer": "Omnipresent"
+  },
+  {
+    "question": "What is the difference between 'their', 'there', and 'they're'?",
+    "options": ["Their is a possessive pronoun, there is an adverb indicating place, they're is a contraction of 'they are'.", "They all mean the same thing.", "They are all prepositions.", "There is an adjective, their is a verb, they're is an adverb."],
+    "answer": "Their is a possessive pronoun, there is an adverb indicating place, they're is a contraction of 'they are'."
+  },
+  {
+    "question": "What does it mean to 'split an infinitive'?",
+    "options": ["To divide a verb into parts", "To separate an infinitive verb with an adverb", "To use an infinitive without a subject", "To add an adjective to an infinitive"],
+    "answer": "To separate an infinitive verb with an adverb"
+  },
+  {
+    "question": "Which word is an antonym for 'verbose'?",
+    "options": ["Concise", "Loquacious", "Reticent", "Wordy"],
+    "answer": "Concise"
+  },
+  {
+    "question": "What is a palindrome?",
+    "options": ["A word that is spelled the same backward and forward", "A word that rhymes with 'drome'", "A type of poetic form", "A word with multiple meanings"],
+    "answer": "A word that is spelled the same backward and forward"
+  },
+  {
+    "question": "What is an oxymoron?",
+    "options": ["A figure of speech combining contradictory terms", "A type of punctuation mark", "A form of paradox", "A type of adverb"],
+    "answer": "A figure of speech combining contradictory terms"
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": ["She completed the assignment quickly.", "The assignment was completed by her quickly.", "Quickly, she completed the assignment.", "The completion of the assignment was quick."],
+    "answer": "The assignment was completed by her quickly."
+  },
+  {
+    "question": "What is an acronym?",
+    "options": ["A word formed from the initial letters of a series of words", "A type of punctuation mark", "A form of rhetoric", "A synonym for a palindrome"],
+    "answer": "A word formed from the initial letters of a series of words"
+  },
+  {
+    "question": "What is a dangling modifier?",
+    "options": ["A phrase that does not clearly modify a word or phrase", "A type of verb tense", "A misplaced adjective", "A type of participial phrase"],
+    "answer": "A phrase that does not clearly modify a word or phrase"
+  },
+  {
+    "question": "Which word is a synonym for 'ubiquitous'?",
+    "options": ["Rare", "Omnipresent", "Scarce", "Sparse"],
+    "answer": "Omnipresent"
+  },
+  {
+    "question": "What is the difference between 'your' and 'you're'?",
+    "options": ["Your is a possessive pronoun, you're is a contraction of 'you are'.", "They are both verbs.", "They are both adverbs.", "Your is an adjective, you're is a noun."],
+    "answer": "Your is a possessive pronoun, you're is a contraction of 'you are'."
+  },
+  {
+    "question": "What is an antonym for 'verbose'?",
+    "options": ["Concise", "Loquacious", "Reticent", "Wordy"],
+    "answer": "Concise"
+  },
+  {
+    "question": "What is a palindrome?",
+    "options": ["A word that reads the same backward as forward", "A word with multiple meanings", "A type of poetic form", "A word that rhymes with 'drome'"],
+    "answer": "A word that reads the same backward as forward"
+  },
+  {
+    "question": "What is an oxymoron?",
+    "options": ["A figure of speech combining contradictory terms", "A type of punctuation mark", "A form of paradox", "A type of adverb"],
+    "answer": "A figure of speech combining contradictory terms"
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": ["She quickly completed the assignment.", "The assignment was quickly completed by her.", "Quickly, she completed the assignment.", "The completion of the assignment was quick."],
+    "answer": "The assignment was quickly completed by her."
+  },
+  {
+    "question": "What is an acronym?",
+    "options": ["A word formed from the initial letters of a series of words", "A type of punctuation mark", "A form of rhetoric", "A synonym for a palindrome"],
+    "answer": "A word formed from the initial letters of a series of words"
+  },
+  {
+    "question": "What is a dangling modifier?",
+    "options": ["A phrase that does not clearly modify a word or phrase", "A type of verb tense", "A misplaced adjective", "A type of participial phrase"],
+    "answer": "A phrase that does not clearly modify a word or phrase"
+  },
+  {
+    "question": "What is the difference between 'your' and 'you're'?",
+    "options": ["Your is a possessive pronoun, you're is a contraction of 'you are'.", "They are both verbs.", "They are both adverbs.", "Your is an adjective, you're is a noun."],
+    "answer": "Your is a possessive pronoun, you're is a contraction of 'you are'."
+  },
+  {
+    "question": "What is an antonym for 'verbose'?",
+    "options": ["Concise", "Loquacious", "Reticent", "Wordy"],
+    "answer": "Concise"
+  },
+  {
+    "question": "What is a palindrome?",
+    "options": ["A word that reads the same backward as forward", "A word with multiple meanings", "A type of poetic form", "A word that rhymes with 'drome'"],
+    "answer": "A word that reads the same backward as forward"
+  },
+  {
+    "question": "What is an oxymoron?",
+    "options": ["A figure of speech combining contradictory terms", "A type of punctuation mark", "A form of paradox", "A type of adverb"],
+    "answer": "A figure of speech combining contradictory terms"
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": ["She quickly completed the assignment.", "The assignment was quickly completed by her.", "Quickly, she completed the assignment.", "The completion of the assignment was quick."],
+    "answer": "The assignment was quickly completed by her."
+  },
+  {
+    "question": "What is an acronym?",
+    "options": ["A word formed from the initial letters of a series of words", "A type of punctuation mark", "A form of rhetoric", "A synonym for a palindrome"],
+    "answer": "A word formed from the initial letters of a series of words"
+  },
+  {
+    "question": "What is a dangling modifier?",
+    "options": ["A phrase that does not clearly modify a word or phrase", "A type of verb tense", "A misplaced adjective", "A type of participial phrase"],
+    "answer": "A phrase that does not clearly modify a word or phrase"
+  },
+  {
+    "question": "What is the difference between 'your' and 'you're'?",
+    "options": ["Your is a possessive pronoun, you're is a contraction of 'you are'.", "They are both verbs.", "They are both adverbs.", "Your is an adjective, you're is a noun."],
+    "answer": "Your is a possessive pronoun, you're is a contraction of 'you are'."
+  },
+  {
+    "question": "What is an antonym for 'verbose'?",
+    "options": ["Concise", "Loquacious", "Reticent", "Wordy"],
+    "answer": "Concise"
+  },
+  {
+    "question": "What is the difference between 'its' and 'it's'?",
+    "options": ["Its is a possessive pronoun, it's is a contraction of 'it is'.", "They are both adjectives.", "They are both prepositions.", "Its is an adverb, it's is a noun."],
+    "answer": "Its is a possessive pronoun, it's is a contraction of 'it is'."
+  },
+  {
+    "question": "What is the correct use of a semicolon?",
+    "options": ["To separate items in a list", "To join two independent clauses", "To end a sentence", "To introduce a quotation"],
+    "answer": "To join two independent clauses"
+  },
+  {
+    "question": "Which word is a synonym for 'ephemeral'?",
+    "options": ["Enduring", "Temporary", "Permanent", "Lasting"],
+    "answer": "Temporary"
+  },
+  {
+    "question": "What is the difference between 'who' and 'whom'?",
+    "options": ["Who is used as a subject, whom is used as an object.", "They are both pronouns.", "They are both adverbs.", "Who is a noun, whom is a verb."],
+    "answer": "Who is used as a subject, whom is used as an object."
+  },
+  {
+    "question": "What does the term 'cognitive dissonance' refer to?",
+    "options": ["The state of having contradictory thoughts or beliefs", "A form of cognitive bias", "A type of logical fallacy", "A method of problem-solving"],
+    "answer": "The state of having contradictory thoughts or beliefs"
+  },
+  {
+    "question": "Which word is an antonym for 'plethora'?",
+    "options": ["Abundance", "Scarcity", "Excess", "Overflow"],
+    "answer": "Scarcity"
+  },
+  {
+    "question": "What is a simile?",
+    "options": ["A figure of speech comparing two unlike things using 'like' or 'as'", "A type of metaphor", "A form of hyperbole", "A type of adverb"],
+    "answer": "A figure of speech comparing two unlike things using 'like' or 'as'"
+  },
+  {
+    "question": "What is a paradox?",
+    "options": ["A statement that appears self-contradictory but may be true", "A type of rhetorical question", "A type of allegory", "A form of irony"],
+    "answer": "A statement that appears self-contradictory but may be true"
+  },
+  {
+    "question": "Which sentence is in the active voice?",
+    "options": ["The song was sung by him beautifully.", "He sang the song beautifully.", "Beautifully, he sang the song.", "The singing of the song was beautiful."],
+    "answer": "He sang the song beautifully."
+  },
+  {
+    "question": "What is an idiom?",
+    "options": ["A phrase with a figurative meaning different from its literal meaning", "A type of proverb", "A form of irony", "A rhetorical device"],
+    "answer": "A phrase with a figurative meaning different from its literal meaning"
+  },
+  {
+    "question": "What is a dangling participle?",
+    "options": ["A type of verb tense error", "A misplaced modifier", "A type of adverb", "A type of participial phrase"],
+    "answer": "A misplaced modifier"
+  },
+  {
+    "question": "Which word is a synonym for 'ubiquitous'?",
+    "options": ["Rare", "Omnipresent", "Scarce", "Sparse"],
+    "answer": "Omnipresent"
+  },
+  {
+    "question": "What is the difference between 'your', 'you're', and 'yore'?",
+    "options": ["Your is a possessive pronoun, you're is a contraction of 'you are', yore is an archaic term meaning 'time long past'.", "They all mean the same thing.", "They are all prepositions.", "There is an adjective, their is a verb, they're is an adverb."],
+    "answer": "Your is a possessive pronoun, you're is a contraction of 'you are', yore is an archaic term meaning 'time long past'."
+  },
+  {
+    "question": "What is an antonym for 'verbose'?",
+    "options": ["Concise", "Loquacious", "Reticent", "Wordy"],
+    "answer": "Concise"
+  },
+  {
+    "question": "What is a palindrome?",
+    "options": ["A word that reads the same backward as forward", "A word with multiple meanings", "A type of poetic form", "A word that rhymes with 'drome'"],
+    "answer": "A word that reads the same backward as forward"
+  },
+  {
+    "question": "What is an oxymoron?",
+    "options": ["A figure of speech combining contradictory terms", "A type of punctuation mark", "A form of paradox", "A type of adverb"],
+    "answer": "A figure of speech combining contradictory terms"
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": ["She quickly completed the assignment.", "The assignment was quickly completed by her.", "Quickly, she completed the assignment.", "The completion of the assignment was quick."],
+    "answer": "The assignment was quickly completed by her."
+  },
+  {
+    "question": "What is an acronym?",
+    "options": ["A word formed from the initial letters of a series of words", "A type of punctuation mark", "A form of rhetoric", "A synonym for a palindrome"],
+    "answer": "A word formed from the initial letters of a series of words"
+  },
+  {
+    "question": "What is a dangling modifier?",
+    "options": ["A phrase that does not clearly modify a word or phrase", "A type of verb tense", "A misplaced adjective", "A type of participial phrase"],
+    "answer": "A phrase that does not clearly modify a word or phrase"
+  },
+  {
+    "question": "What is the difference between 'your' and 'you're'?",
+    "options": ["Your is a possessive pronoun, you're is a contraction of 'you are'.", "They are both verbs.", "They are both adverbs.", "Your is an adjective, you're is a noun."],
+    "answer": "Your is a possessive pronoun, you're is a contraction of 'you are'."
+  },
+  {
+    "question": "What is an antonym for 'verbose'?",
+    "options": ["Concise", "Loquacious", "Reticent", "Wordy"],
+    "answer": "Concise"
+  },
+  {
+    "question": "What is a palindrome?",
+    "options": ["A word that reads the same backward as forward", "A word with multiple meanings", "A type of poetic form", "A word that rhymes with 'drome'"],
+    "answer": "A word that reads the same backward as forward"
+  },
+  {
+    "question": "What is an oxymoron?",
+    "options": ["A figure of speech combining contradictory terms", "A type of punctuation mark", "A form of paradox", "A type of adverb"],
+    "answer": "A figure of speech combining contradictory terms"
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": ["She quickly completed the assignment.", "The assignment was quickly completed by her.", "Quickly, she completed the assignment.", "The completion of the assignment was quick."],
+    "answer": "The assignment was quickly completed by her."
+  },
+  {
+    "question": "What is an acronym?",
+    "options": ["A word formed from the initial letters of a series of words", "A type of punctuation mark", "A form of rhetoric", "A synonym for a palindrome"],
+    "answer": "A word formed from the initial letters of a series of words"
+  },
+  {
+    "question": "What is a dangling modifier?",
+    "options": ["A phrase that does not clearly modify a word or phrase", "A type of verb tense", "A misplaced adjective", "A type of participial phrase"],
+    "answer": "A phrase that does not clearly modify a word or phrase"
+  },
+  {
+    "question": "What is the difference between 'your' and 'you're'?",
+    "options": ["Your is a possessive pronoun, you're is a contraction of 'you are'.", "They are both verbs.", "They are both adverbs.", "Your is an adjective, you're is a noun."],
+    "answer": "Your is a possessive pronoun, you're is a contraction of 'you are'."
+  },
+  {
+    "question": "What is an antonym for 'verbose'?",
+    "options": ["Concise", "Loquacious", "Reticent", "Wordy"],
+    "answer": "Concise"
+  }
+ ]
