@@ -1,0 +1,308 @@
+[
+  {
+    "question": "Ano ang tawag sa malaking lunsod na nagsisilbing sentro ng pamahalaan at kalakalan?",
+    "options": ["Probinsya", "Bayan", "Lungsod", "Barangay"],
+    "answer": "Lungsod"
+  },
+  {
+    "question": "Sino ang pambansang bayani ng Pilipinas?",
+    "options": ["Andres Bonifacio", "Jose Rizal", "Emilio Aguinaldo", "Manuel Quezon"],
+    "answer": "Jose Rizal"
+  },
+  {
+    "question": "Ano ang tawag sa pag-ugit sa pusod na bumubuo sa daluyan ng hangin?",
+    "options": ["Lupa", "Kanaya", "Puso", "Alon"],
+    "answer": "Puso"
+  },
+  {
+    "question": "Sino ang unang presidente ng Republika ng Pilipinas?",
+    "options": ["Emilio Aguinaldo", "Manuel Quezon", "Sergio Osmena", "Manuel Roxas"],
+    "answer": "Emilio Aguinaldo"
+  },
+  {
+    "question": "Ano ang tawag sa oras ng pag-antala ng puso sa pag-galaw ng isang bagay?",
+    "options": ["Pagpapagalaw", "Pagpapakumbaba", "Pagpaparami", "Pagpapakali"],
+    "answer": "Pagpapagalaw"
+  },
+  {
+    "question": "Saan matatagpuan ang \"Rice Terraces of the Philippine Cordilleras\", isang UNESCO World Heritage site?",
+    "options": ["Banaue", "Sagada", "Baguio", "Batanes"],
+    "answer": "Banaue"
+  },
+  {
+    "question": "Ano ang tawag sa talaan ng mga salitang gagamitin sa isang pag-aaral o pagsulat?",
+    "options": ["Sipi", "Listahan", "Tala", "Tatak"],
+    "answer": "Tala"
+  },
+  {
+    "question": "Anong tawag sa uri ng lupa na kinalalagyan ng mga hayop?",
+    "options": ["Kanayakan", "Lupa", "Paso", "Kama"],
+    "answer": "Kanayakan"
+  },
+  {
+    "question": "Sino ang sumulat ng \"Noli Me Tangere\" at \"El Filibusterismo\"?",
+    "options": ["Jose Rizal", "Andres Bonifacio", "Marcelo H. del Pilar", "Apolinario Mabini"],
+    "answer": "Jose Rizal"
+  },
+  {
+    "question": "Ano ang tawag sa pagkababad ng pagkain sa tamang presyon at temperatura upang mapatay ang mikrobyo?",
+    "options": ["Pampalasa", "Pagkain", "Pagkabasa", "Pagpapahid"],
+    "answer": "Pagpapahid"
+  },
+  {
+    "question": "Ano ang tawag sa taon ng pag-urong at pag-urong ng puso sa pag-utos ng kahit sino?",
+    "options": ["Pagkaliwa", "Pagmumula", "Pag-ayos", "Pagkilos"],
+    "answer": "Pagkilos"
+  },
+  {
+    "question": "Ano ang tawag sa paglutas ng problema o pagkabigo sa pamamagitan ng pag-uugali ng tama?",
+    "options": ["Solusyon", "Paglutas", "Pag-ayos", "Pagkilos"],
+    "answer": "Solusyon"
+  },
+  {
+    "question": "Ano ang pangalan ng pambansang pambansang simbolo ng pagmamahal sa kapwa tao sa Pilipinas?",
+    "options": ["Bayanihan", "Sibol", "Pagsama-sama", "Pangmatagalang"],
+    "answer": "Bayanihan"
+  },
+  {
+    "question": "Sino ang kinikilala bilang pinakamataas na pinuno ng Pilipinas?",
+    "options": ["Pangulo", "Senador", "Kongresista", "Alkalde"],
+    "answer": "Pangulo"
+  },
+  {
+    "question": "Ano ang tawag sa kabuuang bilang ng tao o grupo ng tao na nasa isang lugar?",
+    "options": ["Kultura", "Sambayanan", "Pagsama", "Paglutas"],
+    "answer": "Sambayanan"
+  },
+  {
+    "question": "Saan matatagpuan ang \"Taal Volcano\", isa sa mga pinakamaliit na bulkan sa mundo?",
+    "options": ["Batangas", "Cavite", "Laguna", "Quezon"],
+    "answer": "Batangas"
+  },
+  {
+    "question": "Ano ang tawag sa uri ng lupa na nasa ilalim ng lupa na natapos sa anyo ng kanan?",
+    "options": ["Kabundukan", "Kapatagan", "Pangbukang", "Kanayan"],
+    "answer": "Kabundukan"
+  },
+  {
+    "question": "Sino ang kinikilala bilang \"Ama ng Kastila\" sa Pilipinas?",
+    "options": ["Ramon Magsaysay", "Jose Rizal", "Ferdinand Marcos", "Andres Bonifacio"],
+    "answer": "Jose Rizal"
+  },
+  {
+    "question": "Ano ang tawag sa proseso ng pag-aalaga ng hayop at halaman upang mabuhay?",
+    "options": ["Pansin", "Tatak", "Pagmamahal", "Pag-aalaga"],
+    "answer": "Pag-aalaga"
+  },
+  [
+  {
+    "question": "Anong bansa ang may pinakamaraming isla sa buong mundo?",
+    "options": ["Indonesia", "Philippines", "Japan", "Maldives"],
+    "answer": "Philippines"
+  },
+  {
+    "question": "Anong tawag sa pagkilos ng pagpapalit ng posisyon ng mga bagay-bagay?",
+    "options": ["Galaw", "Kilos", "Gawi", "Hakbang"],
+    "answer": "Galaw"
+  },
+  {
+    "question": "Anong bahagi ng katawan ang tinatawag na \"tambutso\"?",
+    "options": ["Puso", "Mata", "Baga", "Ilalim ng paa"],
+    "answer": "Baga"
+  },
+  {
+    "question": "Anong anyo ng tubig ang tumutulong habang iniinit?",
+    "options": ["Mantika", "Tubig-alat", "Soda", "Tubig-batis"],
+    "answer": "Mantika"
+  },
+  {
+    "question": "Ano ang tawag sa pag-atake ng mga hayop sa mga pananim at hayop na pinakain ng tao?",
+    "options": ["Pang-aabuso", "Paninila", "Pang-aagaw", "Pangangalawang"],
+    "answer": "Pang-aagaw"
+  },
+  {
+    "question": "Ano ang pinakamahabang ilog sa Pilipinas?",
+    "options": ["Ilog Cagayan", "Ilog Pampanga", "Ilog Agno", "Ilog Abra"],
+    "answer": "Ilog Cagayan"
+  },
+  {
+    "question": "Sino ang tinaguriang \"Ama ng Katipunan\"?",
+    "options": ["Andres Bonifacio", "Jose Rizal", "Emilio Aguinaldo", "Antonio Luna"],
+    "answer": "Andres Bonifacio"
+  },
+  {
+    "question": "Ano ang pangalan ng pinakamalaking tao sa Pilipinas?",
+    "options": ["Sampal", "Bigas", "Singko", "Kahon"],
+    "answer": "Bigas"
+  },
+  {
+    "question": "Ano ang karaniwang bilang ng tao na umiinom sa loob ng isang tasa ng kape?",
+    "options": ["Uno", "Sampu", "Tatlo", "Labing-isa"],
+    "answer": "Sampu"
+  },
+  {
+    "question": "Anong pangalan ang ibinigay sa taon na nagmumula sa Salita ng Ina sa Tagalog?",
+    "options": ["Tatay", "Nanay", "Lola", "Ate"],
+    "answer": "Nanay"
+  },
+  {
+    "question": "Ano ang tawag sa paggawa ng pinakamabuting paraan upang mapanatili ang kalusugan at kaligtasan?",
+    "options": ["Nutrisyon", "Paggawa", "Pag-aalaga", "Pagpaplano"],
+    "answer": "Nutrisyon"
+  },
+  {
+    "question": "Ano ang pangalan ng lalaking bumubuo ng karamihan sa kapitbahay sa isang bayan?",
+    "options": ["Juan", "Pedro", "Jose", "Miguel"],
+    "answer": "Pedro"
+  },
+  {
+    "question": "Ano ang pangalan ng nilalaman ng 'Bank of the Philippines'?",
+    "options": ["Pilipinas", "Metrobank", "BDO", "Security Bank"],
+    "answer": "Pilipinas"
+  },
+  {
+    "question": "Anong pangalan ang naging pangalan ng karamihan sa ibang bansa?",
+    "options": ["Pilipino", "Pilipinas", "Tagalog", "Batangas"],
+    "answer": "Pilipinas"
+  },
+  {
+    "question": "Anong pangalan ng pambansang bayani ng Pilipinas?",
+    "options": ["Jose Rizal", "Andres Bonifacio", "Emilio Aguinaldo", "Manuel Quezon"],
+    "answer": "Jose Rizal"
+  },
+  {
+    "question": "Anong bahagi ng katawan ang tinatawag na 'tambutso'?",
+    "options": ["Puso", "Mata", "Baga", "Ilalim ng paa"],
+    "answer": "Baga"
+  },
+  {
+    "question": "Ano ang tawag sa pag-atake ng mga hayop sa mga pananim at hayop na kinakain ng tao?",
+    "options": ["Pang-aabuso", "Paninila", "Pang-aagaw", "Pangangalawang"],
+    "answer": "Pang-aagaw"
+  },
+  {
+    "question": "Sino ang unang presidente ng Republika ng Pilipinas?",
+    "options": ["Emilio Aguinaldo", "Manuel Quezon", "Sergio Osmena", "Manuel Roxas"],
+    "answer": "Emilio Aguinaldo"
+  },
+  {
+    "question": "Ano ang tawag sa paggawa ng pinakamabuting paraan upang mapanatili ang kalusugan at kaligtasan?",
+    "options": ["Nutrisyon", "Paggawa", "Pag-aalaga", "Pagpaplano"],
+    "answer": "Nutrisyon"
+  },
+  {
+    "question": "Anong pangalan ang ibinigay sa salitang 'Ina' sa Tagalog?",
+    "options": ["Tatay", "Nanay", "Lola", "Ate"],
+    "answer": "Nanay"
+  },
+  {
+    "question": "Saan matatagpuan ang \"Rice Terraces of the Philippine Cordilleras\", isang UNESCO World Heritage site?",
+    "options": ["Banaue", "Sagada", "Baguio", "Batanes"],
+    "answer": "Banaue"
+  },
+  {
+    "question": "Ano ang tawag sa talaan ng mga salitang gagamitin sa isang pag-aaral o pagsulat?",
+    "options": ["Sipi", "Listahan", "Tala", "Tatak"],
+    "answer": "Tala"
+  },
+  {
+    "question": "Ano ang tawag sa uri ng lupa na kinalalagyan ng mga hayop?",
+    "options": ["Kanayakan", "Lupa", "Paso", "Kama"],
+    "answer": "Kanayakan"
+  },
+  {
+    "question": "Sino ang sumulat ng \"Noli Me Tangere\" at \"El Filibusterismo\"?",
+    "options": ["Jose Rizal", "Andres Bonifacio", "Marcelo H. del Pilar", "Apolinario Mabini"],
+    "answer": "Jose Rizal"
+  },
+  {
+    "question": "Ano ang tawag sa pagkababad ng pagkain sa tamang presyon at temperatura upang mapatay ang mikrobyo?",
+    "options": ["Pampalasa", "Pagkain", "Pagkabasa", "Pagpapahid"],
+    "answer": "Pagpapahid"
+  },
+  {
+    "question": "Ano ang tawag sa taon ng pag-urong at pag-urong ng puso sa pag-utos ng kahit sino?",
+    "options": ["Pagkaliwa", "Pagmumula", "Pag-ayos", "Pagkilos"],
+    "answer": "Pagkilos"
+  },
+  {
+    "question": "Ano ang tawag sa paglutas ng problema o pagkabigo sa pamamagitan ng tamang pamamaraan?",
+    "options": ["Solusyon", "Paglutas", "Pag-ayos", "Pagkilos"],
+    "answer": "Solusyon"
+  },
+  {
+    "question": "Ano ang pangalan ng pambansang simbolo ng pagmamahal sa kapwa tao sa Pilipinas?",
+    "options": ["Bayanihan", "Sibol", "Pagsama-sama", "Pangmatagalang"],
+    "answer": "Bayanihan"
+  },
+  {
+    "question": "Sino ang kinikilala bilang pinakamataas na pinuno ng Pilipinas?",
+    "options": ["Pangulo", "Senador", "Kongresista", "Alkalde"],
+    "answer": "Pangulo"
+  },
+  {
+    "question": "Ano ang tawag sa kabuuang bilang ng tao o grupo ng tao na nasa isang lugar?",
+    "options": ["Kultura", "Sambayanan", "Pagsama", "Paglutas"],
+    "answer": "Sambayanan"
+  },
+  {
+    "question": "Saan matatagpuan ang \"Taal Volcano\", isa sa mga pinakamaliit na bulkan sa mundo?",
+    "options": ["Batangas", "Cavite", "Laguna", "Quezon"],
+    "answer": "Batangas"
+  },
+  {
+    "question": "Ano ang tawag sa uri ng lupa na nasa ilalim ng lupa na natapos sa anyo ng kanan?",
+    "options": ["Kabundukan", "Kapatagan", "Pangbukang", "Kanayan"],
+    "answer": "Kabundukan"
+  },
+  {
+    "question": "Sino ang kinikilala bilang \"Ama ng Kastila\" sa Pilipinas?",
+    "options": ["Ramon Magsaysay", "Jose Rizal", "Ferdinand Marcos", "Andres Bonifacio"],
+    "answer": "Jose Rizal"
+  },
+  {
+    "question": "Ano ang tawag sa proseso ng pag-aalaga ng hayop at halaman upang mabuhay?",
+    "options": ["Pansin", "Tatak", "Pagmamahal", "Pag-aalaga"],
+    "answer": "Pag-aalaga"
+  },
+  {
+    "question": "Sino ang kinikilala bilang unang Katipunan?",
+    "options": ["Andres Bonifacio", "Jose Rizal", "Emilio Aguinaldo", "Melchora Aquino"],
+    "answer": "Andres Bonifacio"
+  },
+  {
+    "question": "Ano ang tawag sa pagnenegosyo o pakikisalamuha ng tao?",
+    "options": ["Negosyo", "Tulungan", "Kagamitan", "Pondo"],
+    "answer": "Negosyo"
+  },
+  {
+    "question": "Ano ang pangalan ng tinaguriang 'Milyonaryong Pagpapalaya'?",
+    "options": ["Jose Rizal", "Andres Bonifacio", "Emilio Aguinaldo", "Manuel Quezon"],
+    "answer": "Jose Rizal"
+  },
+  {
+    "question": "Ano ang tawag sa 'bangka' ng mga Cebuano?",
+    "options": ["Banka", "Baroto", "Barag", "Balsad"],
+    "answer": "Banka"
+  },
+  {
+    "question": "Ano ang tawag sa talaan ng mga salitang gagamitin sa pag-aaral o pagsulat?",
+    "options": ["Sipi", "Listahan", "Tala", "Tatak"],
+    "answer": "Tala"
+  },
+  {
+    "question": "Ano ang tawag sa uri ng lupa na kinalalagyan ng mga hayop?",
+    "options": ["Kanayakan", "Lupa", "Paso", "Kama"],
+    "answer": "Kanayakan"
+  },
+  {
+    "question": "Sino ang sumulat ng \"Noli Me Tangere\" at \"El Filibusterismo\"?",
+    "options": ["Jose Rizal", "Andres Bonifacio", "Marcelo H. del Pilar", "Apolinario Mabini"],
+    "answer": "Jose Rizal"
+  },
+  {
+    "question": "Ano ang tawag sa pagkababad ng pagkain sa tamang presyon at temperatura upang mapatay ang mikrobyo?",
+    "options": ["Pampalasa", "Pagkain", "Pagkabasa", "Pagpapahid"],
+    "answer": "Pagpapahid"
+  }
+]
