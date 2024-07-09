@@ -1,0 +1,337 @@
+[
+  {
+    "question": "What is the atomic number of carbon?",
+    "options": ["6", "12", "14", "16"],
+    "answer": "6"
+  },
+  {
+    "question": "Which element has the chemical symbol 'Na'?",
+    "options": ["Sodium", "Nickel", "Neon", "Nitrogen"],
+    "answer": "Sodium"
+  },
+  {
+    "question": "What is the chemical formula of water?",
+    "options": ["H2O2", "CO2", "H2O", "CH4"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Ag", "Au", "Fe", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "question": "Which is the lightest element in the periodic table?",
+    "options": ["Hydrogen", "Oxygen", "Helium", "Nitrogen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "What is the pH of pure water at room temperature?",
+    "options": ["7", "6", "8", "5"],
+    "answer": "7"
+  },
+  {
+    "question": "What is the chemical formula of methane?",
+    "options": ["CH4", "CO2", "NH3", "H2O"],
+    "answer": "CH4"
+  },
+  {
+    "question": "Which element is essential for life and is found in all organic compounds?",
+    "options": ["Carbon", "Oxygen", "Hydrogen", "Nitrogen"],
+    "answer": "Carbon"
+  },
+  {
+    "question": "Which gas is produced during photosynthesis?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "options": ["Fe", "I", "Ir", "In"],
+    "answer": "Fe"
+  },
+  {
+    "question": "Which process is used to convert sugar into alcohol?",
+    "options": ["Fermentation", "Oxidation", "Decomposition", "Hydration"],
+    "answer": "Fermentation"
+  },
+  {
+    "question": "What is the chemical formula of table salt?",
+    "options": ["NaCl", "KCl", "HCl", "CaCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "question": "Which gas is known as laughing gas?",
+    "options": ["Nitrous oxide", "Carbon monoxide", "Oxygen", "Nitrogen"],
+    "answer": "Nitrous oxide"
+  },
+  {
+    "question": "What is the common name for acetylsalicylic acid?",
+    "options": ["Aspirin", "Ibuprofen", "Paracetamol", "Morphine"],
+    "answer": "Aspirin"
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "options": ["Methane", "Ethane", "Propane", "Butane"],
+    "answer": "Methane"
+  },
+  {
+    "question": "Which element is present in all organic acids?",
+    "options": ["Carbon", "Oxygen", "Hydrogen", "Nitrogen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "What is the chemical formula of hydrogen peroxide?",
+    "options": ["H2O2", "H2O", "HO", "H3O"],
+    "answer": "H2O2"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Gold", "Silver", "Copper"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the chemical formula of sulfuric acid?",
+    "options": ["H2SO4", "HCl", "HNO3", "H3PO4"],
+    "answer": "H2SO4"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "options": ["Hydrogen", "Oxygen", "Helium", "Nitrogen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "What is the chemical formula of ammonia?",
+    "options": ["NH3", "NO2", "NO3", "N2O"],
+    "answer": "NH3"
+  },
+  {
+    "question": "Which gas is produced by burning fossil fuels?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What is the chemical symbol for potassium?",
+    "options": ["K", "Po", "Pt", "P"],
+    "answer": "K"
+  },
+  {
+    "question": "Which gas is used in soda water?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What is the chemical symbol for potassium?",
+    "options": ["K", "P", "Pt", "Po"],
+    "answer": "K"
+  },
+  {
+    "question": "Which gas is known as the 'silent killer' because it is odorless and colorless?",
+    "options": ["Carbon monoxide", "Carbon dioxide", "Oxygen", "Nitrogen"],
+    "answer": "Carbon monoxide"
+  },
+  {
+    "question": "What is the chemical formula of nitric acid?",
+    "options": ["HNO3", "HCl", "H2SO4", "H2O"],
+    "answer": "HNO3"
+  },
+  {
+    "question": "Which gas is used in the production of soft drinks?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What is the chemical symbol for mercury?",
+    "options": ["Hg", "Me", "He", "Mg"],
+    "answer": "Hg"
+  },
+  {
+    "question": "Which element is essential for the formation of bones and teeth?",
+    "options": ["Calcium", "Iron", "Sodium", "Magnesium"],
+    "answer": "Calcium"
+  },
+  {
+    "question": "What is the chemical formula of sulfur dioxide?",
+    "options": ["SO2", "SO3", "H2SO4", "Na2SO4"],
+    "answer": "SO2"
+  },
+  {
+    "question": "Which gas is produced by the reaction of an acid and a base?",
+    "options": ["Water", "Oxygen", "Hydrogen", "Carbon dioxide"],
+    "answer": "Water"
+  },
+  {
+    "question": "What is the chemical symbol for tin?",
+    "options": ["Sn", "Ti", "Tn", "T"],
+    "answer": "Sn"
+  },
+  {
+    "question": "Which gas is used in the manufacture of ammonia?",
+    "options": ["Hydrogen", "Nitrogen", "Oxygen", "Carbon dioxide"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the chemical formula of hydrochloric acid?",
+    "options": ["HCl", "H2SO4", "HNO3", "H2O"],
+    "answer": "HCl"
+  },
+  {
+    "question": "Which element is used in radioactive dating of rocks?",
+    "options": ["Uranium", "Lead", "Thorium", "Radium"],
+    "answer": "Uranium"
+  },
+  {
+    "question": "What is the chemical symbol for copper?",
+    "options": ["Cu", "Co", "Ca", "Cr"],
+    "answer": "Cu"
+  },
+  {
+    "question": "Which gas is known as the 'greenhouse gas' responsible for global warming?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Methane"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What is the chemical formula of acetic acid?",
+    "options": ["CH3COOH", "H2SO4", "HCl", "NaOH"],
+    "answer": "CH3COOH"
+  },
+  {
+    "question": "Which element is used in the filament of incandescent light bulbs?",
+    "options": ["Tungsten", "Copper", "Aluminum", "Silver"],
+    "answer": "Tungsten"
+  },
+  {
+    "question": "What is the chemical symbol for nitrogen?",
+    "options": ["N", "Ni", "Ne", "Na"],
+    "answer": "N"
+  },
+  {
+    "question": "Which gas is used in photosynthesis by plants?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What is the chemical formula of sodium hydroxide?",
+    "options": ["NaOH", "NaCl", "Na2CO3", "NaNO3"],
+    "answer": "NaOH"
+  },
+  {
+    "question": "Which element is used in making steel?",
+    "options": ["Iron", "Copper", "Aluminum", "Zinc"],
+    "answer": "Iron"
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "options": ["Ag", "Au", "Fe", "Cu"],
+    "answer": "Ag"
+  },
+  {
+    "question": "Which gas is used in the preservation of food?",
+    "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the chemical formula of potassium permanganate?",
+    "options": ["KMnO4", "KCl", "KNO3", "K2SO4"],
+    "answer": "KMnO4"
+  },
+  {
+    "question": "Which gas is used in light bulbs to prevent the filament from burning?",
+    "options": ["Argon", "Oxygen", "Nitrogen", "Helium"],
+    "answer": "Argon"
+  },
+  {
+    "question": "What is the chemical formula of hydrogen chloride?",
+    "options": ["HCl", "H2SO4", "HNO3", "H2O"],
+    "answer": "HCl"
+  },
+  {
+    "question": "Which element is used in fireworks to produce bright colors?",
+    "options": ["Strontium", "Copper", "Aluminum", "Zinc"],
+    "answer": "Strontium"
+  },
+  {
+    "question": "What is the chemical symbol for bromine?",
+    "options": ["Br", "Bo", "Bn", "Bm"],
+    "answer": "Br"
+  },
+  {
+    "question": "Which gas is used in the ripening of fruits?",
+    "options": ["Ethylene", "Oxygen", "Nitrogen", "Carbon dioxide"],
+    "answer": "Ethylene"
+  },
+  {
+    "question": "What is the chemical formula of calcium carbonate?",
+    "options": ["CaCO3", "CaCl2", "CaSO4", "Ca(NO3)2"],
+    "answer": "CaCO3"
+  },
+  {
+    "question": "Which element is used in batteries for electric cars?",
+    "options": ["Lithium", "Sodium", "Potassium", "Calcium"],
+    "answer": "Lithium"
+  },
+  {
+    "question": "What is the chemical formula of hydrogen fluoride?",
+    "options": ["HF", "HCl", "HBr", "H2SO4"],
+    "answer": "HF"
+  },
+  {
+    "question": "Which gas is used in fire extinguishers?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Helium"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What is the chemical symbol for phosphorus?",
+    "options": ["P", "Po", "Pr", "Pt"],
+    "answer": "P"
+  },
+  {
+    "question": "Which gas is used in welding?",
+    "options": ["Acetylene", "Oxygen", "Nitrogen", "Argon"],
+    "answer": "Acetylene"
+  },
+  {
+    "question": "What is the chemical formula of magnesium oxide?",
+    "options": ["MgO", "MgCl2", "MgSO4", "Mg(NO3)2"],
+    "answer": "MgO"
+  },
+  {
+    "question": "Which element is used in photographic film?",
+    "options": ["Silver", "Gold", "Platinum", "Palladium"],
+    "answer": "Silver"
+  },
+  {
+    "question": "What is the chemical symbol for iodine?",
+    "options": ["I", "Io", "In", "Id"],
+    "answer": "I"
+  },
+  {
+    "question": "Which gas is used in anesthesia?",
+    "options": ["Nitrous oxide", "Oxygen", "Nitrogen", "Carbon dioxide"],
+    "answer": "Nitrous oxide"
+  },
+  {
+    "question": "What is the chemical formula of potassium nitrate?",
+    "options": ["KNO3", "KCl", "KMnO4", "KH2PO4"],
+    "answer": "KNO3"
+  },
+  {
+    "question": "Which element is commonly used in pencil leads?",
+    "options": ["Carbon", "Graphite", "Lead", "Silver"],
+    "answer": "Graphite"
+  },
+  {
+    "question": "What is the chemical symbol for uranium?",
+    "options": ["U", "Ur", "Um", "Us"],
+    "answer": "U"
+  },
+  {
+    "question": "Which gas is used in the manufacture of fertilizers?",
+    "options": ["Ammonia", "Oxygen", "Nitrogen", "Carbon dioxide"],
+    "answer": "Ammonia"
+  }
+]
