@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What is the capital city of France?",
+    "options": ["Paris", "London", "Berlin", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Leo Tolstoy"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the chemical symbol for the element Gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "answer": "Au"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Venus", "Mercury"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": ["1912", "1914", "1916", "1918"],
+    "answer": "1912"
+  },
+  {
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the novel '1984'?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.K. Rowling"],
+    "answer": "George Orwell"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+    "answer": "Mount Everest"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["Brazil", "USA", "China", "Russia"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["Blue Whale", "African Elephant", "Giraffe", "Hippopotamus"],
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "Mark Twain"],
+    "answer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "Which chemical element has the symbol 'H' and atomic number 1?",
+    "options": ["Hydrogen", "Helium", "Oxygen", "Nitrogen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "answer": "Amazon River"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": ["Harper Lee", "J.D. Salinger", "Toni Morrison", "Mark Twain"],
+    "answer": "Harper Lee"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Kalahari Desert"],
+    "answer": "Sahara Desert"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "question": "Who is known as the 'Father of Modern Physics'?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "options": ["Yen", "Won", "Dollar", "Euro"],
+    "answer": "Yen"
+  },
+  {
+    "question": "Who is the current President of the United States?",
+    "options": ["Joe Biden", "Donald Trump", "Barack Obama", "George W. Bush"],
+    "answer": "Joe Biden"
+  },
+  {
+    "question": "Which artist painted 'Starry Night'?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "options": ["Greenland", "Australia", "Borneo", "Madagascar"],
+    "answer": "Greenland"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Gregor Mendel"],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": ["Avocado", "Tomato", "Onion", "Lemon"],
+    "answer": "Avocado"
+  },
+  {
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "options": ["Lion", "Tiger", "Leopard", "Elephant"],
+    "answer": "Lion"
+  },
+  {
+    "question": "Who painted 'The Persistence of Memory', featuring melting clocks?",
+    "options": ["Salvador Dali", "Claude Monet", "Edvard Munch", "Pablo Picasso"],
+    "answer": "Salvador Dali"
+  },
+  {
+    "question": "Which country is famous for its tulips and windmills?",
+    "options": ["Netherlands", "Belgium", "Denmark", "Sweden"],
+    "answer": "Netherlands"
+  },
+  {
+    "question": "Who wrote 'The Catcher in the Rye'?",
+    "options": ["J.D. Salinger", "Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway"],
+    "answer": "J.D. Salinger"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Who discovered America?",
+    "options": ["Christopher Columbus", "Marco Polo", "Ferdinand Magellan", "Vasco da Gama"],
+    "answer": "Christopher Columbus"
+  },
+  {
+    "question": "What is the longest bone in the human body?",
+    "options": ["Femur", "Tibia", "Humerus", "Radius"],
+    "answer": "Femur"
+  },
+  {
+    "question": "Which city hosted the 2012 Summer Olympics?",
+    "options": ["London", "Rio de Janeiro", "Tokyo", "Sydney"],
+    "answer": "London"
+  },
+  {
+    "question": "What is the largest moon in the solar system?",
+    "options": ["Ganymede", "Titan", "Callisto", "Io"],
+    "answer": "Ganymede"
+  },
+  {
+    "question": "Who wrote 'War and Peace'?",
+    "options": ["Leo Tolstoy", "Fyodor Dostoevsky", "Anton Chekhov", "Nikolai Gogol"],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "question": "Which sport uses the term 'Love'?",
+    "options": ["Tennis", "Football", "Basketball", "Golf"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "options": ["Ostrich", "Eagle", "Albatross", "Condor"],
+    "answer": "Ostrich"
+  },
+  {
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": ["Jane Austen", "Charlotte Bronte", "Emily Dickinson", "Mary Shelley"],
+    "answer": "Jane Austen"
+  },
+  {
+    "question": "Which country is famous for the Great Barrier Reef?",
+    "options": ["Australia", "Brazil", "Canada", "Mexico"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the chemical symbol for the element Iron?",
+    "options": ["Fe", "Au", "Ag", "Cu"],
+    "answer": "Fe"
+  },
+  {
+    "question": "Who wrote 'The Odyssey'?",
+    "options": ["Homer", "Virgil", "Aristotle", "Plato"],
+    "answer": "Homer"
+  },
+  {
+    "question": "Which planet is known as the 'Blue Planet'?",
+    "options": ["Earth", "Neptune", "Uranus", "Saturn"],
+    "answer": "Earth"
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+    "answer": "Michelangelo"
+  },
+  {
+    "question": "In which year did World War I begin?",
+    "options": ["1914", "1916", "1918", "1920"],
+    "answer": "1914"
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "options": ["Canberra", "Sydney", "Melbourne", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Who wrote 'The Lord of the Rings' trilogy?",
+    "options": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "J.K. Rowling"],
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "question": "Which country is famous for the Pyramids of Giza?",
+    "options": ["Egypt", "Greece", "Italy", "Turkey"],
+    "answer": "Egypt"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "options": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Benjamin Franklin"],
+    "answer": "Thomas Edison"
+  },
+  {
+    "question": "What is the largest carnivorous marsupial?",
+    "options": ["Tasmanian Devil", "Kangaroo", "Koala", "Wombat"],
+    "answer": "Tasmanian Devil"
+  },
+  {
+    "question": "Who discovered penicillin?",
+    "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Gregor Mendel"],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "What is the longest river in South America?",
+    "options": ["Amazon River", "Orinoco River", "Parana River", "Rio Grande"],
+    "answer": "Amazon River"
+  },
+  {
+    "question": "Which element has the chemical symbol 'Na'?",
+    "options": ["Sodium", "Nickel", "Nitrogen", "Neon"],
+    "answer": "Sodium"
+  },
+  {
+    "question": "Who wrote 'Hamlet'?",
+    "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Leo Tolstoy"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "options": ["Tokyo", "Osaka", "Kyoto", "Sapporo"],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Which animal is known as the 'Ship of the Desert'?",
+    "options": ["Camel", "Elephant", "Horse", "Donkey"],
+    "answer": "Camel"
+  },
+  {
+    "question": "Who is known as the 'Father of Geometry'?",
+    "options": ["Euclid", "Pythagoras", "Archimedes", "Aristotle"],
+    "answer": "Euclid"
+  },
+  {
+    "question": "What is the currency of China?",
+    "options": ["Yuan", "Yen", "Dollar", "Euro"],
+    "answer": "Yuan"
+  },
+  {
+    "question": "Who painted 'The Last Supper'?",
+    "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Michelangelo"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the largest island in Europe?",
+    "options": ["Great Britain", "Iceland", "Greenland", "Sicily"],
+    "answer": "Great Britain"
+  },
+  {
+    "question": "Who invented the World Wide Web (WWW)?",
+    "options": ["Tim Berners-Lee", "Bill Gates", "Steve Jobs", "Mark Zuckerberg"],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "question": "What is the national flower of India?",
+    "options": ["Lotus", "Rose", "Sunflower", "Tulip"],
+    "answer": "Lotus"
+  },
+  {
+    "question": "Who is the author of 'The Hitchhiker's Guide to the Galaxy'?",
+    "options": ["Douglas Adams", "Arthur C. Clarke", "Isaac Asimov", "Philip K. Dick"],
+    "answer": "Douglas Adams"
+  },
+  {
+    "question": "What is the chemical symbol for the element Silver?",
+    "options": ["Ag", "Au", "Fe", "Cu"],
+    "answer": "Ag"
+  },
+  {
+    "question": "Who wrote 'The Grapes of Wrath'?",
+    "options": ["John Steinbeck", "Ernest Hemingway", "F. Scott Fitzgerald", "Mark Twain"],
+    "answer": "John Steinbeck"
+  },
+  {
+    "question": "In which city would you find the Colosseum?",
+    "options": ["Rome", "Athens", "Cairo", "Paris"],
+    "answer": "Rome"
+  },
+  {
+    "question": "Which is the smallest ocean in the world?",
+    "options": ["Arctic Ocean", "Southern Ocean", "Indian Ocean", "Atlantic Ocean"],
+    "answer": "Arctic Ocean"
+  },
+  {
+    "question": "Who discovered the theory of relativity?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the largest lizard in the world?",
+    "options": ["Komodo Dragon", "Monitor Lizard", "Gila Monster", "Iguana"],
+    "answer": "Komodo Dragon"
+  },
+  {
+    "question": "Who is the author of 'The Chronicles of Narnia' series?",
+    "options": ["C.S. Lewis", "J.K. Rowling", "J.R.R. Tolkien", "George R.R. Martin"],
+    "answer": "C.S. Lewis"
+  },
+  {
+    "question": "What is the tallest animal in the world?",
+    "options": ["Giraffe", "Elephant", "Horse", "Zebra"],
+    "answer": "Giraffe"
+  },
+  {
+    "question": "Who painted 'The Starry Night'?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Salvador Dali"],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "question": "What is the currency of Russia?",
+    "options": ["Ruble", "Dollar", "Euro", "Yuan"],
+    "answer": "Ruble"
+  },
+  {
+    "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+    "options": ["Mark Twain", "Harper Lee", "J.D. Salinger", "F. Scott Fitzgerald"],
+    "answer": "Mark Twain"
+  },
+  {
+    "question": "What is the national animal of Australia?",
+    "options": ["Kangaroo", "Koala", "Emu", "Platypus"],
+    "answer": "Kangaroo"
+  },
+  {
+    "question": "Who discovered America?",
+    "options": ["Christopher Columbus", "Marco Polo", "Ferdinand Magellan", "Vasco da Gama"],
+    "answer": "Christopher Columbus"
+  },
+  {
+    "question": "What is the largest flower in the world?",
+    "options": ["Rafflesia", "Titan Arum (Corpse Flower)", "Sunflower", "Rose"],
+    "answer": "Rafflesia"
+  },
+  {
+    "question": "Who wrote 'Alice's Adventures in Wonderland'?",
+    "options": ["Lewis Carroll", "Roald Dahl", "Enid Blyton", "Beatrix Potter"],
+    "answer": "Lewis Carroll"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Skin", "Liver", "Heart", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "question": "Who painted 'The Girl with a Pearl Earring'?",
+    "options": ["Johannes Vermeer", "Rembrandt", "Vincent van Gogh", "Pablo Picasso"],
+    "answer": "Johannes Vermeer"
+  }
+]
