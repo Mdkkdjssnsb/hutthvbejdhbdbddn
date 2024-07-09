@@ -1,0 +1,422 @@
+[
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "NaCl", "CH4"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What process allows plants to convert sunlight into energy?",
+    "options": ["Photosynthesis", "Respiration", "Fermentation", "Osmosis"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Skin", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What unit is used to measure electric current?",
+    "options": ["Volt", "Watt", "Ampere", "Ohm"],
+    "answer": "Ampere"
+  },
+  {
+    "question": "Which scientist proposed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Diamond", "Silver", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "What is the chemical symbol for table salt?",
+    "options": ["NaCl", "KCl", "HCl", "MgCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "question": "Which part of the atom has no electric charge?",
+    "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+    "answer": "Neutron"
+  },
+  {
+    "question": "What is the primary function of the ozone layer?",
+    "options": ["Absorb carbon dioxide", "Absorb ultraviolet radiation", "Produce oxygen", "Filter pollutants"],
+    "answer": "Absorb ultraviolet radiation"
+  },
+  {
+    "question": "Which planet is the largest in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Diamond", "Silver", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "What is the chemical symbol for table salt?",
+    "options": ["NaCl", "KCl", "HCl", "MgCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "question": "Which part of the atom has no electric charge?",
+    "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+    "answer": "Neutron"
+  },
+  {
+    "question": "What is the primary function of the ozone layer?",
+    "options": ["Absorb carbon dioxide", "Absorb ultraviolet radiation", "Produce oxygen", "Filter pollutants"],
+    "answer": "Absorb ultraviolet radiation"
+  },
+  {
+    "question": "Which planet is the largest in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "What is the main gas found in the air we breathe?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Giraffe", "Blue whale", "Polar bear"],
+    "answer": "Blue whale"
+  },
+  {
+    "question": "Which scientist discovered the theory of gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the hardest substance in the human body?",
+    "options": ["Tooth enamel", "Bone", "Cartilage", "Toenail"],
+    "answer": "Tooth enamel"
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What causes the Earth's seasons?",
+    "options": ["Rotation of the Earth", "Tilt of the Earth's axis", "Revolution around the Sun", "Gravity"],
+    "answer": "Tilt of the Earth's axis"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Pb"],
+    "answer": "Au"
+  },
+  {
+    "question": "Which planet is known as the 'evening star'?",
+    "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "question": "What type of energy is stored in a battery?",
+    "options": ["Mechanical", "Chemical", "Nuclear", "Solar"],
+    "answer": "Chemical"
+  },
+  {
+    "question": "Which is the densest planet in our solar system?",
+    "options": ["Earth", "Mercury", "Venus", "Jupiter"],
+    "answer": "Earth"
+  },
+  {
+    "question": "What is the unit of measurement for force?",
+    "options": ["Newton", "Joule", "Watt", "Volt"],
+    "answer": "Newton"
+  },
+  {
+    "question": "Which element is essential for all living organisms?",
+    "options": ["Calcium", "Iron", "Carbon", "Sodium"],
+    "answer": "Carbon"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "options": ["CH4", "CO2", "H2O", "NH3"],
+    "answer": "CH4"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "options": ["Femur", "Stapes", "Humerus", "Radius"],
+    "answer": "Stapes"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "options": ["H2O", "CO2", "O2", "HCl"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Earth", "Mars", "Venus", "Mercury"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the densest type of wood?",
+    "options": ["Teak", "Oak", "Ebony", "Ironwood"],
+    "answer": "Ironwood"
+  },
+  {
+    "question": "What is the pH scale used to measure?",
+    "options": ["Temperature", "Pressure", "Acidity", "Humidity"],
+    "answer": "Acidity"
+  },
+  {
+    "question": "What is the hardest natural substance?",
+    "options": ["Gold", "Diamond", "Silver", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What is the primary function of the ozone layer?",
+    "options": ["Absorb carbon dioxide", "Absorb ultraviolet radiation", "Produce oxygen", "Filter pollutants"],
+    "answer": "Absorb ultraviolet radiation"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["H2O", "CO2", "NaCl", "CH4"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What process allows plants to convert sunlight into energy?",
+    "options": ["Photosynthesis", "Respiration", "Fermentation", "Osmosis"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Heart", "Liver", "Skin", "Brain"],
+    "answer": "Skin"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Methane"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What unit is used to measure electric current?",
+    "options": ["Volt", "Watt", "Ampere", "Ohm"],
+    "answer": "Ampere"
+  },
+  {
+    "question": "Which scientist proposed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Diamond", "Silver", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "What is the chemical symbol for table salt?",
+    "options": ["NaCl", "KCl", "HCl", "MgCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "question": "Which part of the atom has no electric charge?",
+    "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+    "answer": "Neutron"
+  },
+  {
+    "question": "What is the primary function of the ozone layer?",
+    "options": ["Absorb carbon dioxide", "Absorb ultraviolet radiation", "Produce oxygen", "Filter pollutants"],
+    "answer": "Absorb ultraviolet radiation"
+  },
+  {
+    "question": "Which planet is the largest in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Diamond", "Silver", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "What is the chemical symbol for table salt?",
+    "options": ["NaCl", "KCl", "HCl", "MgCl2"],
+    "answer": "NaCl"
+  },
+  {
+    "question": "Which part of the atom has no electric charge?",
+    "options": ["Proton", "Neutron", "Electron", "Nucleus"],
+    "answer": "Neutron"
+  },
+  {
+    "question": "What is the primary function of the ozone layer?",
+    "options": ["Absorb carbon dioxide", "Absorb ultraviolet radiation", "Produce oxygen", "Filter pollutants"],
+    "answer": "Absorb ultraviolet radiation"
+  },
+  {
+    "question": "Which planet is the largest in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the process by which plants make their own food?",
+    "options": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "question": "What is the main gas found in the air we breathe?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the largest mammal in the world?",
+    "options": ["Elephant", "Giraffe", "Blue whale", "Polar bear"],
+    "answer": "Blue whale"
+  },
+  {
+    "question": "Which scientist discovered the theory of gravity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the hardest substance in the human body?",
+    "options": ["Tooth enamel", "Bone", "Cartilage", "Toenail"],
+    "answer": "Tooth enamel"
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Helium"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What causes the Earth's seasons?",
+    "options": ["Rotation of the Earth", "Tilt of the Earth's axis", "Revolution around the Sun", "Gravity"],
+    "answer": "Tilt of the Earth's axis"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Pb"],
+    "answer": "Au"
+  },
+  {
+    "question": "Which planet is known as the 'evening star'?",
+    "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "question": "What type of energy is stored in a battery?",
+    "options": ["Mechanical", "Chemical", "Nuclear", "Solar"],
+    "answer": "Chemical"
+  },
+  {
+    "question": "Which is the densest planet in our solar system?",
+    "options": ["Earth", "Mercury", "Venus", "Jupiter"],
+    "answer": "Earth"
+  },
+  {
+    "question": "What is the unit of measurement for force?",
+    "options": ["Newton", "Joule", "Watt", "Volt"],
+    "answer": "Newton"
+  },
+  {
+    "question": "Which element is essential for all living organisms?",
+    "options": ["Calcium", "Iron", "Carbon", "Sodium"],
+    "answer": "Carbon"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "options": ["CH4", "CO2", "H2O", "NH3"],
+    "answer": "CH4"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "options": ["Femur", "Stapes", "Humerus", "Radius"],
+    "answer": "Stapes"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "options": ["H2O", "CO2", "O2", "HCl"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Earth", "Mars", "Venus", "Mercury"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the densest type of wood?",
+    "options": ["Teak", "Oak", "Ebony", "Ironwood"],
+    "answer": "Ironwood"
+  },
+  {
+    "question": "What is the pH scale used to measure?",
+    "options": ["Temperature", "Pressure", "Acidity", "Humidity"],
+    "answer": "Acidity"
+  },
+  {
+    "question": "What is the hardest natural substance?",
+    "options": ["Gold", "Diamond", "Silver", "Platinum"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "question": "What is the primary function of the ozone layer?",
+    "options": ["Absorb carbon dioxide", "Absorb ultraviolet radiation", "Produce oxygen", "Filter pollutants"],
+    "answer": "Absorb ultraviolet radiation"
+  },
+]
