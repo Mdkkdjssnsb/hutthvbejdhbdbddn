@@ -1,0 +1,368 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyper Tool Markup Language"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which tag is used to define a hyperlink in HTML?",
+    "options": ["<a>", "<link>", "<href>", "<p>"],
+    "answer": "<a>"
+  },
+  {
+    "question": "What is the purpose of CSS?",
+    "options": ["To define the structure of a webpage", "To program interactive behavior on webpages", "To specify the layout and style of a webpage", "To create database queries"],
+    "answer": "To specify the layout and style of a webpage"
+  },
+  {
+    "question": "Which programming language is often used for backend web development?",
+    "options": ["Python", "HTML", "CSS", "JavaScript"],
+    "answer": "Python"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets", "Computer Style Sheets"],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "question": "What is the purpose of JavaScript in web development?",
+    "options": ["To define the structure of a webpage", "To specify the layout and style of a webpage", "To program interactive behavior on webpages", "To create database queries"],
+    "answer": "To program interactive behavior on webpages"
+  },
+  {
+    "question": "Which symbol is used to comment a single line in most programming languages?",
+    "options": ["//", "/* */", "<!-- -->", "#"],
+    "answer": "//"
+  },
+  {
+    "question": "What does IDE stand for?",
+    "options": ["Integrated Development Environment", "Interactive Development Environment", "Integrated Design Environment", "Interactive Design Environment"],
+    "answer": "Integrated Development Environment"
+  },
+  {
+    "question": "Which data structure uses Last In First Out (LIFO) principle?",
+    "options": ["Queue", "Stack", "Heap", "Linked List"],
+    "answer": "Stack"
+  },
+  {
+    "question": "In Python, what is used to define a block of code?",
+    "options": ["Parentheses", "Brackets", "Indentation", "Quotation marks"],
+    "answer": "Indentation"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Sequential Query Language", "Standardized Query Language", "Structured Question Language"],
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "Which keyword is used in Python to define a function?",
+    "options": ["func", "def", "define", "function"],
+    "answer": "def"
+  },
+  {
+    "question": "What is a variable in programming?",
+    "options": ["A value that never changes", "A named storage location for data", "A reserved word that indicates an action", "A function that returns a value"],
+    "answer": "A named storage location for data"
+  },
+  {
+    "question": "What is a Boolean?",
+    "options": ["A type of loop in programming", "A data type with only two possible values: true or false", "A method for sorting arrays", "An error in programming"],
+    "answer": "A data type with only two possible values: true or false"
+  },
+  {
+    "question": "Which programming language is often used for building Android apps?",
+    "options": ["Java", "Python", "C++", "JavaScript"],
+    "answer": "Java"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Automated Programming Interface", "Application Protocol Interface", "Automated Protocol Interface"],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "question": "Which symbol is used for assignment in most programming languages?",
+    "options": ["=", "==", "<=", ":="],
+    "answer": "="
+  },
+  {
+    "question": "What is the purpose of a constructor in object-oriented programming?",
+    "options": ["To create methods for objects", "To initialize an object's state", "To delete objects from memory", "To define object attributes"],
+    "answer": "To initialize an object's state"
+  },
+  {
+    "question": "Which operator is used to compare two values and check if they are equal in JavaScript?",
+    "options": ["==", "=", "===", "!="],
+    "answer": "==="
+  },
+  {
+    "question": "What is the main advantage of using version control in software development?",
+    "options": ["Automated testing", "Code optimization", "Code reviews", "Tracking changes and collaboration"],
+    "answer": "Tracking changes and collaboration"
+  },
+  {
+    "question": "Which data structure organizes elements in a sequence where each element points to the next?",
+    "options": ["Tree", "Array", "Queue", "Linked List"],
+    "answer": "Linked List"
+  },
+  {
+    "question": "In object-oriented programming, what is inheritance?",
+    "options": ["A way to create a new object from an existing object", "A way to hide implementation details", "A way to define private methods", "A way to delete objects"],
+    "answer": "A way to create a new object from an existing object"
+  },
+  {
+    "question": "What does MVC stand for in the context of software architecture?",
+    "options": ["Model View Controller", "Model Variable Controller", "Multiple View Controller", "Multiple Variable Controller"],
+    "answer": "Model View Controller"
+  },
+  {
+    "question": "Which statement is true about recursion in programming?",
+    "options": ["It is always more efficient than iterative solutions", "It uses a stack to keep track of function calls", "It can only be implemented in functional programming languages", "It cannot call itself"],
+    "answer": "It uses a stack to keep track of function calls"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["Hyper Text Markup Language", "Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyper Tool Markup Language"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Which tag is used to define a hyperlink in HTML?",
+    "options": ["<a>", "<link>", "<href>", "<p>"],
+    "answer": "<a>"
+  },
+  {
+    "question": "What is the purpose of CSS?",
+    "options": ["To define the structure of a webpage", "To program interactive behavior on webpages", "To specify the layout and style of a webpage", "To create database queries"],
+    "answer": "To specify the layout and style of a webpage"
+  },
+  {
+    "question": "Which programming language is often used for backend web development?",
+    "options": ["Python", "HTML", "CSS", "JavaScript"],
+    "answer": "Python"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets", "Computer Style Sheets"],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "question": "What is the purpose of JavaScript in web development?",
+    "options": ["To define the structure of a webpage", "To specify the layout and style of a webpage", "To program interactive behavior on webpages", "To create database queries"],
+    "answer": "To program interactive behavior on webpages"
+  },
+  {
+    "question": "Which symbol is used to comment a single line in most programming languages?",
+    "options": ["//", "/* */", "<!-- -->", "#"],
+    "answer": "//"
+  },
+  {
+    "question": "What does IDE stand for?",
+    "options": ["Integrated Development Environment", "Interactive Development Environment", "Integrated Design Environment", "Interactive Design Environment"],
+    "answer": "Integrated Development Environment"
+  },
+  {
+    "question": "Which data structure uses Last In First Out (LIFO) principle?",
+    "options": ["Queue", "Stack", "Heap", "Linked List"],
+    "answer": "Stack"
+  },
+  {
+    "question": "In Python, what is used to define a block of code?",
+    "options": ["Parentheses", "Brackets", "Indentation", "Quotation marks"],
+    "answer": "Indentation"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Sequential Query Language", "Standardized Query Language", "Structured Question Language"],
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "Which keyword is used in Python to define a function?",
+    "options": ["func", "def", "define", "function"],
+    "answer": "def"
+  },
+  {
+    "question": "What is a variable in programming?",
+    "options": ["A value that never changes", "A named storage location for data", "A reserved word that indicates an action", "A function that returns a value"],
+    "answer": "A named storage location for data"
+  },
+  {
+    "question": "Which tag is used to define a hyperlink in HTML?",
+    "options": ["<a>", "<link>", "<href>", "<p>"],
+    "answer": "<a>"
+  },
+  {
+    "question": "What is the purpose of CSS?",
+    "options": ["To define the structure of a webpage", "To program interactive behavior on webpages", "To specify the layout and style of a webpage", "To create database queries"],
+    "answer": "To specify the layout and style of a webpage"
+  },
+  {
+    "question": "Which programming language is often used for backend web development?",
+    "options": ["Python", "HTML", "CSS", "JavaScript"],
+    "answer": "Python"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets", "Computer Style Sheets"],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "question": "What is the purpose of JavaScript in web development?",
+    "options": ["To define the structure of a webpage", "To specify the layout and style of a webpage", "To program interactive behavior on webpages", "To create database queries"],
+    "answer": "To program interactive behavior on webpages"
+  },
+  {
+    "question": "Which symbol is used to comment a single line in most programming languages?",
+    "options": ["//", "/* */", "<!-- -->", "#"],
+    "answer": "//"
+  },
+  {
+    "question": "What does IDE stand for?",
+    "options": ["Integrated Development Environment", "Interactive Development Environment", "Integrated Design Environment", "Interactive Design Environment"],
+    "answer": "Integrated Development Environment"
+  },
+  {
+    "question": "Which data structure uses Last In First Out (LIFO) principle?",
+    "options": ["Queue", "Stack", "Heap", "Linked List"],
+    "answer": "Stack"
+  },
+  {
+    "question": "In Python, what is used to define a block of code?",
+    "options": ["Parentheses", "Brackets", "Indentation", "Quotation marks"],
+    "answer": "Indentation"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Sequential Query Language", "Standardized Query Language", "Structured Question Language"],
+    "answer": "Structured Query Language"
+  },
+  {
+    "question": "Which keyword is used in Python to define a function?",
+    "options": ["func", "def", "define", "function"],
+    "answer": "def"
+  },
+  {
+    "question": "What is a variable in programming?",
+    "options": ["A value that never changes", "A named storage location for data", "A reserved word that indicates an action", "A function that returns a value"],
+    "answer": "A named storage location for data"
+  },
+  {
+    "question": "What is a Boolean?",
+    "options": ["A type of loop in programming", "A data type with only two possible values: true or false", "A method for sorting arrays", "An error in programming"],
+    "answer": "A data type with only two possible values: true or false"
+  },
+  {
+    "question": "Which programming language is often used for building Android apps?",
+    "options": ["Java", "Python", "C++", "JavaScript"],
+    "answer": "Java"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Automated Programming Interface", "Application Protocol Interface", "Automated Protocol Interface"],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "question": "Which symbol is used for assignment in most programming languages?",
+    "options": ["=", "==", "<=", ":="],
+    "answer": "="
+  },
+  {
+    "question": "What is the purpose of a constructor in object-oriented programming?",
+    "options": ["To create methods for objects", "To initialize an object's state", "To delete objects from memory", "To define object attributes"],
+    "answer": "To initialize an object's state"
+  },
+  {
+    "question": "Which operator is used to compare two values and check if they are equal in JavaScript?",
+    "options": ["==", "=", "===", "!="],
+    "answer": "==="
+  },
+  {
+    "question": "What is the main advantage of using version control in software development?",
+    "options": ["Automated testing", "Code optimization", "Code reviews", "Tracking changes and collaboration"],
+    "answer": "Tracking changes and collaboration"
+  },
+  {
+    "question": "Which data structure organizes elements in a sequence where each element points to the next?",
+    "options": ["Tree", "Array", "Queue", "Linked List"],
+    "answer": "Linked List"
+  },
+  {
+    "question": "In object-oriented programming, what is inheritance?",
+    "options": ["A way to create a new object from an existing object", "A way to hide implementation details", "A way to define private methods", "A way to delete objects"],
+    "answer": "A way to create a new object from an existing object"
+  },
+  {
+    "question": "What does MVC stand for in the context of software architecture?",
+    "options": ["Model View Controller", "Model Variable Controller", "Multiple View Controller", "Multiple Variable Controller"],
+    "answer": "Model View Controller"
+  },
+  {
+    "question": "Which statement is true about recursion in programming?",
+    "options": ["It is always more efficient than iterative solutions", "It uses a stack to keep track of function calls", "It can only be implemented in functional programming languages", "It cannot call itself"],
+    "answer": "It uses a stack to keep track of function calls"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["Hypertext Transfer Protocol", "Hypertext Transmission Protocol", "Hypertext Terminal Protocol", "Hypertext Transit Protocol"],
+    "answer": "Hypertext Transfer Protocol"
+  },
+  {
+    "question": "Which programming language is known for its use in statistical computing and data analysis?",
+    "options": ["Java", "C++", "Python", "JavaScript"],
+    "answer": "Python"
+  },
+  {
+    "question": "What is the purpose of a pointer in programming?",
+    "options": ["To store large amounts of data", "To point to the next line of code", "To point to the memory address of another variable", "To perform mathematical operations"],
+    "answer": "To point to the memory address of another variable"
+  },
+  {
+    "question": "Which type of loop executes a block of code as long as a specified condition is true?",
+    "options": ["For loop", "Do-while loop", "While loop", "If statement"],
+    "answer": "While loop"
+  },
+  {
+    "question": "What does XML stand for?",
+    "options": ["Extensible Markup Language", "Extra Modern Language", "Extended Markup Language", "External Markup Language"],
+    "answer": "Extensible Markup Language"
+  },
+  {
+    "question": "In JavaScript, what does NaN stand for?",
+    "options": ["Not a Number", "New and Number", "No and Number", "Null and Null"],
+    "answer": "Not a Number"
+  },
+  {
+    "question": "Which keyword is used in JavaScript to declare a variable?",
+    "options": ["int", "var", "string", "float"],
+    "answer": "var"
+  },
+  {
+    "question": "What is the purpose of a try-catch block in programming?",
+    "options": ["To test the code", "To handle exceptions", "To execute a block of code repeatedly", "To create a loop"],
+    "answer": "To handle exceptions"
+  },
+  {
+    "question": "Which type of sorting algorithm typically has the worst time complexity?",
+    "options": ["Bubble sort", "Insertion sort", "Merge sort", "Quick sort"],
+    "answer": "Bubble sort"
+  },
+  {
+    "question": "What is the main advantage of using NoSQL databases?",
+    "options": ["Better support for complex transactions", "Strict schema enforcement", "Horizontal scalability", "Only support for SQL queries"],
+    "answer": "Horizontal scalability"
+  },
+  {
+    "question": "Which data structure is used to store key-value pairs in JavaScript?",
+    "options": ["List", "Set", "Array", "Object"],
+    "answer": "Object"
+  },
+  {
+    "question": "What does CDN stand for in web development?",
+    "options": ["Content Delivery Network", "Central Database Network", "Cached Data Network", "Common Data Node"],
+    "answer": "Content Delivery Network"
+  },
+  {
+    "question": "In Python, which method is used to remove an item from a list?",
+    "options": ["delete()", "remove()", "pop()", "discard()"],
+    "answer": "pop()"
+  }
+]
+  
