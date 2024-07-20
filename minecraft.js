@@ -793,5 +793,5 @@
     "question": "Which item can be used to create a fire charge?",
     "options": ["Blaze Powder", "Gunpowder", "Charcoal", "Redstone"],
     "answer": "Blaze Powder"
-  },
+  }
 ]
