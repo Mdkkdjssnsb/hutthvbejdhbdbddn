@@ -1,0 +1,602 @@
+[
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Avocado", "Tomato", "Onion", "Pepper"],
+        "answer": "Avocado"
+    },
+    {
+        "question": "Which country is known for inventing pizza?",
+        "options": ["Italy", "France", "Spain", "Greece"],
+        "answer": "Italy"
+    },
+    {
+        "question": "What is the primary ingredient in hummus?",
+        "options": ["Chickpeas", "Lentils", "Beans", "Peas"],
+        "answer": "Chickpeas"
+    },
+    {
+        "question": "Which fruit is known as the 'king of fruits'?",
+        "options": ["Durian", "Mango", "Pineapple", "Banana"],
+        "answer": "Durian"
+    },
+    {
+        "question": "What type of cuisine is sushi associated with?",
+        "options": ["Japanese", "Chinese", "Korean", "Thai"],
+        "answer": "Japanese"
+    },
+    {
+        "question": "What is a traditional Korean dish made of fermented vegetables?",
+        "options": ["Kimchi", "Sushi", "Pad Thai", "Pho"],
+        "answer": "Kimchi"
+    },
+    {
+        "question": "What ingredient is commonly used to thicken soups and stews?",
+        "options": ["Cornstarch", "Sugar", "Salt", "Vinegar"],
+        "answer": "Cornstarch"
+    },
+    {
+        "question": "Which vegetable is used to make traditional French fries?",
+        "options": ["Potato", "Sweet potato", "Carrot", "Zucchini"],
+        "answer": "Potato"
+    },
+    {
+        "question": "What is the name of the Italian dish made from layered pasta, cheese, and meat sauce?",
+        "options": ["Lasagna", "Ravioli", "Fettuccine", "Cannelloni"],
+        "answer": "Lasagna"
+    },
+    {
+        "question": "What is the main ingredient in a Caesar salad dressing?",
+        "options": ["Anchovies", "Garlic", "Lemon", "Mustard"],
+        "answer": "Anchovies"
+    },
+    {
+        "question": "What fruit is used to make traditional apple pie?",
+        "options": ["Apple", "Cherry", "Blueberry", "Peach"],
+        "answer": "Apple"
+    },
+    {
+        "question": "What is the primary ingredient in risotto?",
+        "options": ["Rice", "Pasta", "Potatoes", "Barley"],
+        "answer": "Rice"
+    },
+    {
+        "question": "Which spice is known for its bright yellow color and is commonly used in curry?",
+        "options": ["Turmeric", "Cumin", "Paprika", "Saffron"],
+        "answer": "Turmeric"
+    },
+    {
+        "question": "What is the main ingredient in a traditional Greek tzatziki sauce?",
+        "options": ["Yogurt", "Mayonnaise", "Sour cream", "Cream cheese"],
+        "answer": "Yogurt"
+    },
+    {
+        "question": "What type of bread is used to make a traditional sandwich?",
+        "options": ["Baguette", "Bagel", "Ciabatta", "White bread"],
+        "answer": "White bread"
+    },
+    {
+        "question": "Which vegetable is commonly used in salads and has a crisp texture?",
+        "options": ["Lettuce", "Tomato", "Cucumber", "Onion"],
+        "answer": "Lettuce"
+    },
+    {
+        "question": "What type of meat is used in a traditional beef burger?",
+        "options": ["Beef", "Chicken", "Pork", "Lamb"],
+        "answer": "Beef"
+    },
+    {
+        "question": "Which fruit is known for having high vitamin C content and is often used in juices?",
+        "options": ["Orange", "Apple", "Banana", "Grape"],
+        "answer": "Orange"
+    },
+    {
+        "question": "What is the main ingredient in a traditional Greek moussaka?",
+        "options": ["Eggplant", "Potato", "Zucchini", "Carrot"],
+        "answer": "Eggplant"
+    },
+    {
+        "question": "What is the name of the dish made from fermented soybeans and often used in Asian cuisine?",
+        "options": ["Miso", "Soya sauce", "Tempeh", "Natto"],
+        "answer": "Natto"
+    },
+    {
+        "question": "Which type of pasta is shaped like small rice grains and often used in soups?",
+        "options": ["Orzo", "Fusilli", "Penne", "Linguine"],
+        "answer": "Orzo"
+    },
+    {
+        "question": "What is the main ingredient in a traditional French onion soup?",
+        "options": ["Onion", "Garlic", "Leek", "Shallot"],
+        "answer": "Onion"
+    },
+    {
+        "question": "Which type of cheese is commonly used in a classic Caprese salad?",
+        "options": ["Mozzarella", "Cheddar", "Gorgonzola", "Parmesan"],
+        "answer": "Mozzarella"
+    },
+    {
+        "question": "What is the primary ingredient in the Italian dish risotto?",
+        "options": ["Rice", "Pasta", "Potato", "Quinoa"],
+        "answer": "Rice"
+    },
+    {
+        "question": "What is the name of the Italian dessert made with coffee-soaked ladyfingers?",
+        "options": ["Tiramisu", "Panna cotta", "Cannoli", "Gelato"],
+        "answer": "Tiramisu"
+    },
+    {
+        "question": "Which fruit is commonly used to make traditional lemonade?",
+        "options": ["Lemon", "Lime", "Orange", "Grapefruit"],
+        "answer": "Lemon"
+    },
+    {
+        "question": "What is the primary ingredient in a traditional beef stew?",
+        "options": ["Beef", "Chicken", "Pork", "Lamb"],
+        "answer": "Beef"
+    },
+    {
+        "question": "What is the name of the Japanese dish consisting of raw fish and rice?",
+        "options": ["Sushi", "Sashimi", "Tempura", "Ramen"],
+        "answer": "Sushi"
+    },
+    {
+        "question": "Which type of cuisine is known for using spices like cumin, coriander, and turmeric?",
+        "options": ["Indian", "Mexican", "Italian", "French"],
+        "answer": "Indian"
+    },
+    {
+        "question": "What is the main ingredient in a traditional Italian pesto sauce?",
+        "options": ["Basil", "Parsley", "Cilantro", "Mint"],
+        "answer": "Basil"
+    },
+    {
+        "question": "Which fruit is often associated with the tropical dessert known as 'pina colada'?",
+        "options": ["Pineapple", "Mango", "Coconut", "Banana"],
+        "answer": "Pineapple"
+    },
+    {
+        "question": "What is the key ingredient in traditional Japanese miso soup?",
+        "options": ["Miso paste", "Soy sauce", "Seaweed", "Tofu"],
+        "answer": "Miso paste"
+    },
+    {
+        "question": "Which vegetable is used to make traditional coleslaw?",
+        "options": ["Cabbage", "Carrot", "Potato", "Onion"],
+        "answer": "Cabbage"
+    },
+    {
+        "question": "What is the name of the French dish made with thinly sliced potatoes, cream, and cheese?",
+        "options": ["Gratin Dauphinois", "Ratatouille", "Bouillabaisse", "Coq au Vin"],
+        "answer": "Gratin Dauphinois"
+    },
+    {
+        "question": "What is the main ingredient in traditional shepherd's pie?",
+        "options": ["Ground lamb", "Chicken", "Beef", "Pork"],
+        "answer": "Ground lamb"
+    },
+    {
+        "question": "Which type of pastry is used to make a traditional croissant?",
+        "options": ["Puff pastry", "Shortcrust pastry", "Choux pastry", "Filo pastry"],
+        "answer": "Puff pastry"
+    },
+    {
+        "question": "What is the primary flavoring ingredient in traditional gingerbread cookies?",
+        "options": ["Ginger", "Cinnamon", "Nutmeg", "Cloves"],
+        "answer": "Ginger"
+    },
+    {
+        "question": "Which type of seafood is commonly used in traditional clam chowder?",
+        "options": ["Clams", "Shrimp", "Lobster", "Crab"],
+        "answer": "Clams"
+    },
+    {
+        "question": "What is the main ingredient in the Mediterranean dish falafel?",
+        "options": ["Chickpeas", "Lentils", "Beans", "Peas"],
+        "answer": "Chickpeas"
+    },
+    {
+        "question": "Which fruit is used to make traditional apple cider?",
+        "options": ["Apple", "Grape", "Pear", "Cherry"],
+        "answer": "Apple"
+    },
+   {
+        "question": "What is the main ingredient in traditional sushi rolls?",
+        "options": ["Rice", "Noodles", "Pasta", "Bread"],
+        "answer": "Rice"
+    },
+    {
+        "question": "Which country is famous for its dish called 'paella'?",
+        "options": ["Spain", "Italy", "France", "Portugal"],
+        "answer": "Spain"
+    },
+    {
+        "question": "What type of cheese is used in a classic Greek salad?",
+        "options": ["Feta", "Cheddar", "Swiss", "Gorgonzola"],
+        "answer": "Feta"
+    },
+    {
+        "question": "What is the primary ingredient in the dish 'coq au vin'?",
+        "options": ["Chicken", "Beef", "Pork", "Lamb"],
+        "answer": "Chicken"
+    },
+    {
+        "question": "Which fruit is known for its high pectin content and is commonly used in jams and jellies?",
+        "options": ["Apple", "Banana", "Grape", "Orange"],
+        "answer": "Apple"
+    },
+    {
+        "question": "What is the main ingredient in a traditional French 'bouillabaisse'?",
+        "options": ["Fish", "Chicken", "Beef", "Pork"],
+        "answer": "Fish"
+    },
+    {
+        "question": "Which type of bean is used to make traditional baked beans?",
+        "options": ["Navy beans", "Black beans", "Kidney beans", "Pinto beans"],
+        "answer": "Navy beans"
+    },
+    {
+        "question": "What is the primary ingredient in a traditional Indian curry sauce?",
+        "options": ["Tomato", "Coconut milk", "Cream", "Yogurt"],
+        "answer": "Tomato"
+    },
+    {
+        "question": "Which type of pasta is shaped like small shells?",
+        "options": ["Conchiglie", "Fusilli", "Penne", "Linguine"],
+        "answer": "Conchiglie"
+    },
+    {
+        "question": "What is the name of the traditional Japanese dish made from raw fish and vegetables wrapped in seaweed?",
+        "options": ["Sushi", "Sashimi", "Tempura", "Nigiri"],
+        "answer": "Sushi"
+    },
+    {
+        "question": "What type of food is 'miso'?",
+        "options": ["Fermented soybean paste", "Pickled vegetable", "Noodle", "Soup"],
+        "answer": "Fermented soybean paste"
+    },
+    {
+        "question": "Which fruit is the main ingredient in the dessert 'pavlova'?",
+        "options": ["Kiwi", "Strawberry", "Mango", "Apple"],
+        "answer": "Kiwi"
+    },
+    {
+        "question": "What is the main ingredient in the dish 'paella'?",
+        "options": ["Rice", "Pasta", "Potato", "Bread"],
+        "answer": "Rice"
+    },
+    {
+        "question": "Which country is known for its 'baklava' pastry?",
+        "options": ["Turkey", "Greece", "Egypt", "Lebanon"],
+        "answer": "Turkey"
+    },
+    {
+        "question": "What is the primary ingredient in 'gazpacho'?",
+        "options": ["Tomato", "Cucumber", "Pepper", "Onion"],
+        "answer": "Tomato"
+    },
+    {
+        "question": "Which herb is commonly used in Italian cooking for its strong flavor?",
+        "options": ["Basil", "Rosemary", "Thyme", "Oregano"],
+        "answer": "Basil"
+    },
+    {
+        "question": "What type of rice is used to make traditional sushi?",
+        "options": ["Short-grain rice", "Long-grain rice", "Basmati rice", "Jasmine rice"],
+        "answer": "Short-grain rice"
+    },
+    {
+        "question": "What is the main ingredient in a traditional English 'pudding'?",
+        "options": ["Suet", "Butter", "Cream", "Sugar"],
+        "answer": "Suet"
+    },
+    {
+        "question": "Which fruit is used to make traditional cherry pie?",
+        "options": ["Cherry", "Apple", "Peach", "Blueberry"],
+        "answer": "Cherry"
+    },
+    {
+        "question": "What type of cuisine is known for dishes like 'samosas' and 'naan'?",
+        "options": ["Indian", "Chinese", "Mexican", "Italian"],
+        "answer": "Indian"
+    },
+    {
+        "question": "What is the primary ingredient in a traditional 'carbonara' pasta sauce?",
+        "options": ["Egg", "Cream", "Tomato", "Garlic"],
+        "answer": "Egg"
+    },
+    {
+        "question": "Which country is famous for its 'fondue' dish?",
+        "options": ["Switzerland", "France", "Italy", "Austria"],
+        "answer": "Switzerland"
+    },
+    {
+        "question": "What is the main ingredient in 'risotto'?",
+        "options": ["Rice", "Pasta", "Potato", "Quinoa"],
+        "answer": "Rice"
+    },
+    {
+        "question": "Which type of cuisine is associated with dishes like 'pho' and 'banh mi'?",
+        "options": ["Vietnamese", "Chinese", "Thai", "Korean"],
+        "answer": "Vietnamese"
+    },
+    {
+        "question": "What is the main ingredient in 'chili con carne'?",
+        "options": ["Beef", "Chicken", "Pork", "Lamb"],
+        "answer": "Beef"
+    },
+    {
+        "question": "Which fruit is commonly used to make traditional 'lemon meringue pie'?",
+        "options": ["Lemon", "Lime", "Orange", "Grapefruit"],
+        "answer": "Lemon"
+    },
+    {
+        "question": "What type of bread is used to make a traditional 'bagel'?",
+        "options": ["Yeast bread", "Sourdough", "Rye", "Whole grain"],
+        "answer": "Yeast bread"
+    },
+    {
+        "question": "What is the main ingredient in 'chocolate mousse'?",
+        "options": ["Chocolate", "Vanilla", "Coffee", "Caramel"],
+        "answer": "Chocolate"
+    },
+    {
+        "question": "Which vegetable is used to make traditional 'hummus'?",
+        "options": ["Chickpeas", "Lentils", "Beans", "Peas"],
+        "answer": "Chickpeas"
+    },
+    {
+        "question": "What is the main ingredient in 'beef stroganoff'?",
+        "options": ["Beef", "Chicken", "Pork", "Lamb"],
+        "answer": "Beef"
+    },
+    {
+        "question": "Which type of nut is used in the traditional dessert 'baklava'?",
+        "options": ["Walnut", "Almond", "Pistachio", "Cashew"],
+        "answer": "Pistachio"
+    },
+    {
+        "question": "What is the main ingredient in a traditional French 'crêpe'?",
+        "options": ["Flour", "Rice", "Potato", "Corn"],
+        "answer": "Flour"
+    },
+    {
+        "question": "Which fruit is often used to make traditional 'cider'?",
+        "options": ["Apple", "Pear", "Peach", "Cherry"],
+        "answer": "Apple"
+    },
+    {
+        "question": "What is the main ingredient in 'baba ganoush'?",
+        "options": ["Eggplant", "Tomato", "Bell pepper", "Cucumber"],
+        "answer": "Eggplant"
+    },
+    {
+        "question": "Which type of cheese is traditionally used in 'macaroni and cheese'?",
+        "options": ["Cheddar", "Mozzarella", "Gorgonzola", "Parmesan"],
+        "answer": "Cheddar"
+    },
+    {
+        "question": "What is the primary ingredient in a traditional 'shepherd's pie'?",
+        "options": ["Ground lamb", "Beef", "Chicken", "Pork"],
+        "answer": "Ground lamb"
+    },
+    {
+        "question": "Which type of sauce is typically used in a traditional 'barbecue' dish?",
+        "options": ["Tomato-based sauce", "Cream-based sauce", "Soy sauce", "Vinaigrette"],
+        "answer": "Tomato-based sauce"
+    },
+    {
+        "question": "What is the main ingredient in a traditional 'ratatouille'?",
+        "options": ["Vegetables", "Meat", "Cheese", "Rice"],
+        "answer": "Vegetables"
+    },
+    {
+        "question": "What is the main ingredient in a 'Caesar salad' dressing?",
+        "options": ["Anchovies", "Garlic", "Vinegar", "Mustard"],
+        "answer": "Anchovies"
+    },
+    {
+        "question": "Which type of fruit is used to make traditional 'crumble' desserts?",
+        "options": ["Apple", "Berry", "Peach", "Pear"],
+        "answer": "Apple"
+    },
+   {
+        "question": "What is the main ingredient in 'tiramisu'?",
+        "options": ["Coffee", "Chocolate", "Fruit", "Cheese"],
+        "answer": "Coffee"
+    },
+    {
+        "question": "Which vegetable is traditionally used in a Greek 'moussaka'?",
+        "options": ["Eggplant", "Potato", "Carrot", "Zucchini"],
+        "answer": "Eggplant"
+    },
+    {
+        "question": "What type of sauce is typically used in traditional Italian 'carbonara'?",
+        "options": ["Cream-based", "Tomato-based", "Cheese-based", "Pesto"],
+        "answer": "Cream-based"
+    },
+    {
+        "question": "Which fruit is often used in a traditional 'fruit tart'?",
+        "options": ["Berry", "Apple", "Banana", "Grape"],
+        "answer": "Berry"
+    },
+    {
+        "question": "What is the primary ingredient in 'tabbouleh'?",
+        "options": ["Parsley", "Cilantro", "Mint", "Tomato"],
+        "answer": "Parsley"
+    },
+    {
+        "question": "Which country is known for its dish 'poutine'?",
+        "options": ["Canada", "France", "Belgium", "USA"],
+        "answer": "Canada"
+    },
+    {
+        "question": "What type of meat is used in traditional 'beef Wellington'?",
+        "options": ["Beef", "Chicken", "Pork", "Lamb"],
+        "answer": "Beef"
+    },
+    {
+        "question": "What is the main ingredient in a traditional Japanese 'ramen'?",
+        "options": ["Noodles", "Rice", "Pasta", "Bread"],
+        "answer": "Noodles"
+    },
+    {
+        "question": "Which type of cheese is commonly used in 'cheesecake'?",
+        "options": ["Cream cheese", "Cheddar", "Mozzarella", "Ricotta"],
+        "answer": "Cream cheese"
+    },
+    {
+        "question": "What is the primary ingredient in a traditional 'chili con carne'?",
+        "options": ["Beef", "Pork", "Chicken", "Lamb"],
+        "answer": "Beef"
+    },
+    {
+        "question": "Which fruit is used to make traditional 'banana bread'?",
+        "options": ["Banana", "Apple", "Pear", "Peach"],
+        "answer": "Banana"
+    },
+    {
+        "question": "What is the main ingredient in a 'Caesar salad' dressing?",
+        "options": ["Anchovies", "Garlic", "Vinegar", "Mustard"],
+        "answer": "Anchovies"
+    },
+    {
+        "question": "Which country is famous for its 'sushi' cuisine?",
+        "options": ["Japan", "China", "Korea", "Thailand"],
+        "answer": "Japan"
+    },
+    {
+        "question": "What type of bread is used in a traditional 'submarine sandwich'?",
+        "options": ["Hoagie roll", "Baguette", "Ciabatta", "Focaccia"],
+        "answer": "Hoagie roll"
+    },
+    {
+        "question": "What is the primary ingredient in 'guacamole'?",
+        "options": ["Avocado", "Tomato", "Onion", "Pepper"],
+        "answer": "Avocado"
+    },
+    {
+        "question": "Which vegetable is used to make traditional 'coleslaw'?",
+        "options": ["Cabbage", "Carrot", "Onion", "Pea"],
+        "answer": "Cabbage"
+    },
+    {
+        "question": "What type of meat is traditionally used in a 'lamb curry'?",
+        "options": ["Lamb", "Beef", "Chicken", "Pork"],
+        "answer": "Lamb"
+    },
+    {
+        "question": "Which ingredient is used to make 'pesto' sauce?",
+        "options": ["Basil", "Mint", "Rosemary", "Cilantro"],
+        "answer": "Basil"
+    },
+    {
+        "question": "What is the main ingredient in 'tempeh'?",
+        "options": ["Soybeans", "Chickpeas", "Lentils", "Peas"],
+        "answer": "Soybeans"
+    },
+    {
+        "question": "Which fruit is used to make traditional 'grapefruit juice'?",
+        "options": ["Grapefruit", "Lemon", "Orange", "Apple"],
+        "answer": "Grapefruit"
+    },
+    {
+        "question": "What type of cuisine is known for dishes like 'pho' and 'banh mi'?",
+        "options": ["Vietnamese", "Chinese", "Thai", "Korean"],
+        "answer": "Vietnamese"
+    },
+    {
+        "question": "What is the main ingredient in a traditional 'paella'?",
+        "options": ["Rice", "Pasta", "Potato", "Bread"],
+        "answer": "Rice"
+    },
+    {
+        "question": "What is the primary flavor of 'sriracha' sauce?",
+        "options": ["Spicy", "Sweet", "Sour", "Salty"],
+        "answer": "Spicy"
+    },
+    {
+        "question": "Which herb is commonly used in Italian cuisine for its strong aroma?",
+        "options": ["Basil", "Rosemary", "Thyme", "Oregano"],
+        "answer": "Basil"
+    },
+    {
+        "question": "What is the main ingredient in 'cannoli'?",
+        "options": ["Ricotta cheese", "Cream cheese", "Mascarpone cheese", "Cream"],
+        "answer": "Ricotta cheese"
+    },
+    {
+        "question": "What is the primary ingredient in 'kimchi'?",
+        "options": ["Cabbage", "Carrot", "Cucumber", "Radish"],
+        "answer": "Cabbage"
+    },
+    {
+        "question": "What is the main ingredient in a traditional 'shepherd's pie'?",
+        "options": ["Ground lamb", "Beef", "Chicken", "Pork"],
+        "answer": "Ground lamb"
+    },
+    {
+        "question": "Which fruit is commonly used to make 'lime pie'?",
+        "options": ["Lime", "Lemon", "Orange", "Grapefruit"],
+        "answer": "Lime"
+    },
+    {
+        "question": "What is the main ingredient in a traditional 'risotto'?",
+        "options": ["Rice", "Pasta", "Potato", "Barley"],
+        "answer": "Rice"
+    },
+    {
+        "question": "Which country is famous for its dish 'sauerbraten'?",
+        "options": ["Germany", "France", "Austria", "Switzerland"],
+        "answer": "Germany"
+    },
+    {
+        "question": "What type of pastry is used to make a traditional 'croissant'?",
+        "options": ["Puff pastry", "Shortcrust pastry", "Filo pastry", "Choux pastry"],
+        "answer": "Puff pastry"
+    },
+    {
+        "question": "What is the main ingredient in a traditional 'creme brulee'?",
+        "options": ["Cream", "Cheese", "Eggs", "Milk"],
+        "answer": "Cream"
+    },
+    {
+        "question": "Which fruit is used to make traditional 'apple cider'?",
+        "options": ["Apple", "Grape", "Pear", "Cherry"],
+        "answer": "Apple"
+    },
+    {
+        "question": "What is the main ingredient in 'samosas'?",
+        "options": ["Potatoes", "Lentils", "Chickpeas", "Spinach"],
+        "answer": "Potatoes"
+    },
+    {
+        "question": "What type of cheese is used in a traditional 'caprese salad'?",
+        "options": ["Mozzarella", "Cheddar", "Swiss", "Parmesan"],
+        "answer": "Mozzarella"
+    },
+    {
+        "question": "What is the primary ingredient in 'hummus'?",
+        "options": ["Chickpeas", "Lentils", "Beans", "Peas"],
+        "answer": "Chickpeas"
+    },
+    {
+        "question": "What is the main ingredient in 'bolognese' sauce?",
+        "options": ["Ground beef", "Chicken", "Pork", "Lamb"],
+        "answer": "Ground beef"
+    },
+    {
+        "question": "Which fruit is used to make 'rhubarb pie'?",
+        "options": ["Rhubarb", "Apple", "Pear", "Cherry"],
+        "answer": "Rhubarb"
+    },
+    {
+        "question": "What is the main ingredient in 'beef bourguignon'?",
+        "options": ["Beef", "Chicken", "Pork", "Lamb"],
+        "answer": "Beef"
+    },
+    {
+        "question": "Which type of bread is used in a traditional 'English muffin'?",
+        "options": ["Yeast bread", "Sourdough", "Rye", "Whole grain"],
+        "answer": "Yeast bread"
+    },
+  ]
