@@ -803,5 +803,5 @@
         "question": "Which company is known for 'Netgear' networking equipment?",
         "options": ["Netgear", "Linksys", "D-Link", "TP-Link"],
         "answer": "Netgear"
-    },
+    }
   ]
