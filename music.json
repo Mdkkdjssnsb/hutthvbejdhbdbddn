@@ -1,0 +1,562 @@
+[
+  {
+    "question": "Which band released the album 'Abbey Road'?",
+    "options": ["The Beatles", "The Rolling Stones", "Led Zeppelin", "The Who"],
+    "answer": "The Beatles"
+  },
+  {
+    "question": "Who is known as the 'Queen of Pop'?",
+    "options": ["Madonna", "Beyoncé", "Lady Gaga", "Taylor Swift"],
+    "answer": "Madonna"
+  },
+  {
+    "question": "Which classical composer is known for 'Symphony No. 5'?",
+    "options": ["Ludwig van Beethoven", "Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Franz Schubert"],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "question": "Which musical genre is associated with the term 'grunge'?",
+    "options": ["Rock", "Jazz", "Hip Hop", "Classical"],
+    "answer": "Rock"
+  },
+  {
+    "question": "Which artist is famous for the hit song 'Thriller'?",
+    "options": ["Michael Jackson", "Prince", "Elvis Presley", "Whitney Houston"],
+    "answer": "Michael Jackson"
+  },
+  {
+    "question": "Which instrument is primarily used in jazz music?",
+    "options": ["Saxophone", "Violin", "Flute", "Harp"],
+    "answer": "Saxophone"
+  },
+  {
+    "question": "What type of music is characterized by improvisation and swing rhythms?",
+    "options": ["Jazz", "Classical", "Electronic", "Country"],
+    "answer": "Jazz"
+  },
+  {
+    "question": "Which band is known for the song 'Bohemian Rhapsody'?",
+    "options": ["Queen", "The Beatles", "Pink Floyd", "Led Zeppelin"],
+    "answer": "Queen"
+  },
+  {
+    "question": "Which composer wrote 'The Four Seasons'?",
+    "options": ["Antonio Vivaldi", "Ludwig van Beethoven", "Johann Bach", "Wolfgang Amadeus Mozart"],
+    "answer": "Antonio Vivaldi"
+  },
+  {
+    "question": "Who is known as the 'God of Thunder' in rock music?",
+    "options": ["KISS", "AC/DC", "Led Zeppelin", "Black Sabbath"],
+    "answer": "KISS"
+  },
+  {
+    "question": "Which instrument is a key part of a traditional rock band?",
+    "options": ["Guitar", "Violin", "Cello", "Oboe"],
+    "answer": "Guitar"
+  },
+  {
+    "question": "Which artist is known for the hit single 'Shape of You'?",
+    "options": ["Ed Sheeran", "Adele", "Justin Bieber", "Bruno Mars"],
+    "answer": "Ed Sheeran"
+  },
+  {
+    "question": "Which genre of music is associated with Tupac Shakur?",
+    "options": ["Hip Hop", "Rock", "Classical", "Jazz"],
+    "answer": "Hip Hop"
+  },
+  {
+    "question": "Which band was formed in Seattle and is known for the song 'Smells Like Teen Spirit'?",
+    "options": ["Nirvana", "Pearl Jam", "Soundgarden", "Alice in Chains"],
+    "answer": "Nirvana"
+  },
+  {
+    "question": "Who composed the 'Wedding March'?",
+    "options": ["Felix Mendelssohn", "Richard Wagner", "Ludwig van Beethoven", "Johannes Brahms"],
+    "answer": "Felix Mendelssohn"
+  },
+  {
+    "question": "Which musical genre does the artist Adele primarily perform?",
+    "options": ["Pop", "Rock", "Classical", "Jazz"],
+    "answer": "Pop"
+  },
+  {
+    "question": "Which music streaming service was founded by Daniel Ek and Martin Lorentzon?",
+    "options": ["Spotify", "Apple Music", "Tidal", "Pandora"],
+    "answer": "Spotify"
+  },
+  {
+    "question": "Which famous artist was known as 'The King of Rock and Roll'?",
+    "options": ["Elvis Presley", "Chuck Berry", "Buddy Holly", "Little Richard"],
+    "answer": "Elvis Presley"
+  },
+  {
+    "question": "Which musical instrument has keys and is a staple in classical compositions?",
+    "options": ["Piano", "Guitar", "Violin", "Drums"],
+    "answer": "Piano"
+  },
+  {
+    "question": "Who is known for the song 'Uptown Funk'?",
+    "options": ["Bruno Mars", "Pharrell Williams", "Justin Timberlake", "Ed Sheeran"],
+    "answer": "Bruno Mars"
+  },
+  {
+    "question": "Which artist is associated with the genre of reggae music?",
+    "options": ["Bob Marley", "James Brown", "Jimi Hendrix", "Elton John"],
+    "answer": "Bob Marley"
+  },
+  {
+    "question": "Which symphony is composed by Wolfgang Amadeus Mozart?",
+    "options": ["Symphony No. 40", "Symphony No. 5", "Symphony No. 6", "Symphony No. 9"],
+    "answer": "Symphony No. 40"
+  },
+  {
+    "question": "Which 80s artist is famous for the hit 'Like a Virgin'?",
+    "options": ["Madonna", "Cyndi Lauper", "Whitney Houston", "Janet Jackson"],
+    "answer": "Madonna"
+  },
+  {
+    "question": "Which genre is associated with the term 'soulful ballads'?",
+    "options": ["Soul", "Country", "Electronic", "Rap"],
+    "answer": "Soul"
+  },
+  {
+    "question": "Which singer released the album '1989'?",
+    "options": ["Taylor Swift", "Katy Perry", "Adele", "Beyoncé"],
+    "answer": "Taylor Swift"
+  },
+  {
+    "question": "Which music genre is known for its use of synthesizers and electronic beats?",
+    "options": ["Electronic", "Classical", "Jazz", "Folk"],
+    "answer": "Electronic"
+  },
+  {
+    "question": "Which artist is known for the song 'Purple Rain'?",
+    "options": ["Prince", "Michael Jackson", "David Bowie", "Elton John"],
+    "answer": "Prince"
+  },
+  {
+    "question": "Which band is known for the album 'Dark Side of the Moon'?",
+    "options": ["Pink Floyd", "Led Zeppelin", "The Rolling Stones", "The Who"],
+    "answer": "Pink Floyd"
+  },
+  {
+    "question": "Who is the composer of the 'Moonlight Sonata'?",
+    "options": ["Ludwig van Beethoven", "Franz Schubert", "Johann Sebastian Bach", "Wolfgang Amadeus Mozart"],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "question": "Which classical composer wrote 'Eine kleine Nachtmusik'?",
+    "options": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Franz Schubert"],
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "question": "Which genre of music is characterized by its use of electric guitars and strong rhythms?",
+    "options": ["Rock", "Jazz", "Classical", "Blues"],
+    "answer": "Rock"
+  },
+  {
+    "question": "Which musician is known for playing the violin and composing 'The Four Seasons'?",
+    "options": ["Antonio Vivaldi", "Johann Sebastian Bach", "Ludwig van Beethoven", "Wolfgang Amadeus Mozart"],
+    "answer": "Antonio Vivaldi"
+  },
+  {
+    "question": "Which artist is famous for the album 'Born This Way'?",
+    "options": ["Lady Gaga", "Beyoncé", "Katy Perry", "Adele"],
+    "answer": "Lady Gaga"
+  },
+  {
+    "question": "Which band is known for the song 'Hotel California'?",
+    "options": ["Eagles", "Fleetwood Mac", "The Rolling Stones", "Led Zeppelin"],
+    "answer": "Eagles"
+  },
+  {
+    "question": "Which genre is known for its improvisational style and use of brass instruments?",
+    "options": ["Jazz", "Classical", "Pop", "Rock"],
+    "answer": "Jazz"
+  },
+  {
+    "question": "Which artist released the album 'Thriller'?",
+    "options": ["Michael Jackson", "Prince", "Elvis Presley", "Whitney Houston"],
+    "answer": "Michael Jackson"
+  },
+  {
+    "question": "Which musical instrument has strings and is typically played with a bow?",
+    "options": ["Violin", "Piano", "Drums", "Guitar"],
+    "answer": "Violin"
+  },
+  {
+    "question": "Which artist is known for the song 'Someone Like You'?",
+    "options": ["Adele", "Taylor Swift", "Beyoncé", "Katy Perry"],
+    "answer": "Adele"
+  },
+  {
+    "question": "Which musical genre is characterized by its use of a synthesizer and electronic beats?",
+    "options": ["Electronic", "Jazz", "Classical", "Rock"],
+    "answer": "Electronic"
+  },
+  {
+    "question": "Which artist is known for the hit single 'Rolling in the Deep'?",
+    "options": ["Adele", "Bruno Mars", "Katy Perry", "Lady Gaga"],
+    "answer": "Adele"
+  },
+  {
+    "question": "Who composed 'Clair de Lune'?",
+    "options": ["Claude Debussy", "Ludwig van Beethoven", "Johannes Brahms", "Franz Liszt"],
+    "answer": "Claude Debussy"
+  },
+  {
+    "question": "Which band is known for the song 'Sweet Child o' Mine'?",
+    "options": ["Guns N' Roses", "AC/DC", "Led Zeppelin", "The Rolling Stones"],
+    "answer": "Guns N' Roses"
+  },
+  {
+    "question": "Which artist is famous for the hit 'Bad Romance'?",
+    "options": ["Lady Gaga", "Rihanna", "Beyoncé", "Katy Perry"],
+    "answer": "Lady Gaga"
+  },
+  {
+    "question": "Which classical composer is known for the 'Brandenburg Concertos'?",
+    "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Antonio Vivaldi"],
+    "answer": "Johann Sebastian Bach"
+  },
+  {
+    "question": "Which genre of music is associated with Elvis Presley?",
+    "options": ["Rock and Roll", "Jazz", "Classical", "Blues"],
+    "answer": "Rock and Roll"
+  },
+  {
+    "question": "Which music award is given annually by the Grammy Awards?",
+    "options": ["Best Album", "Best Performance", "Best New Artist", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which artist is known for the album 'Lemonade'?",
+    "options": ["Beyoncé", "Adele", "Rihanna", "Taylor Swift"],
+    "answer": "Beyoncé"
+  },
+  {
+    "question": "Which composer wrote the 'Nutcracker Suite'?",
+    "options": ["Pyotr Ilyich Tchaikovsky", "Sergei Rachmaninoff", "Igor Stravinsky", "Gustav Mahler"],
+    "answer": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "question": "Which genre of music is characterized by fast beats and electronic sounds?",
+    "options": ["Dance", "Country", "Classical", "Folk"],
+    "answer": "Dance"
+  },
+  {
+    "question": "Which singer is known for the song 'Like a Prayer'?",
+    "options": ["Madonna", "Whitney Houston", "Mariah Carey", "Cyndi Lauper"],
+    "answer": "Madonna"
+  },
+  {
+    "question": "Which band released the album 'A Night at the Opera'?",
+    "options": ["Queen", "The Who", "The Rolling Stones", "Led Zeppelin"],
+    "answer": "Queen"
+  },
+  {
+    "question": "Who is known for the song 'Purple Haze'?",
+    "options": ["Jimi Hendrix", "Eric Clapton", "Jimmy Page", "Jeff Beck"],
+    "answer": "Jimi Hendrix"
+  },
+  {
+    "question": "Which music genre is known for its lyrical focus on social and political issues?",
+    "options": ["Folk", "Pop", "Electronic", "Classical"],
+    "answer": "Folk"
+  },
+  {
+    "question": "Which artist released the album '1989'?",
+    "options": ["Taylor Swift", "Katy Perry", "Adele", "Beyoncé"],
+    "answer": "Taylor Swift"
+  },
+  {
+    "question": "Which band is known for the hit 'Stairway to Heaven'?",
+    "options": ["Led Zeppelin", "Black Sabbath", "Pink Floyd", "The Rolling Stones"],
+    "answer": "Led Zeppelin"
+  },
+  {
+    "question": "Which artist is famous for the song 'Roar'?",
+    "options": ["Katy Perry", "Lady Gaga", "Rihanna", "Adele"],
+    "answer": "Katy Perry"
+  },
+  {
+    "question": "Who composed the opera 'The Magic Flute'?",
+    "options": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Richard Wagner", "Giuseppe Verdi"],
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "question": "Which instrument is central to country music?",
+    "options": ["Guitar", "Piano", "Saxophone", "Drums"],
+    "answer": "Guitar"
+  },
+  {
+    "question": "Which artist is known for the hit single 'Billie Jean'?",
+    "options": ["Michael Jackson", "Prince", "Elvis Presley", "James Brown"],
+    "answer": "Michael Jackson"
+  },
+  {
+    "question": "Which genre is associated with the artist Bob Dylan?",
+    "options": ["Folk", "Rock", "Jazz", "Classical"],
+    "answer": "Folk"
+  },
+  {
+    "question": "Who composed the famous 'Piano Concerto No. 1'?",
+    "options": ["Pyotr Ilyich Tchaikovsky", "Ludwig van Beethoven", "Franz Liszt", "Johannes Brahms"],
+    "answer": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "question": "Which music genre is known for its use of acoustic guitars and storytelling?",
+    "options": ["Folk", "Hip Hop", "Electronic", "Dance"],
+    "answer": "Folk"
+  },
+  {
+    "question": "Which artist is famous for the album 'Born in the U.S.A.'?",
+    "options": ["Bruce Springsteen", "Bob Dylan", "Tom Petty", "Paul Simon"],
+    "answer": "Bruce Springsteen"
+  },
+  {
+    "question": "Which classical composer is known for 'The Ride of the Valkyries'?",
+    "options": ["Richard Wagner", "Ludwig van Beethoven", "Johann Sebastian Bach", "Gustav Mahler"],
+    "answer": "Richard Wagner"
+  },
+  {
+    "question": "Which music genre is characterized by its use of heavy guitar riffs and strong rhythms?",
+    "options": ["Rock", "Jazz", "Classical", "Country"],
+    "answer": "Rock"
+  },
+  {
+    "question": "Which artist is known for the song 'Uptown Funk'?",
+    "options": ["Bruno Mars", "Pharrell Williams", "Ed Sheeran", "Justin Timberlake"],
+    "answer": "Bruno Mars"
+  },
+  {
+    "question": "Who is known for composing the 'Symphony No. 9'?",
+    "options": ["Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Franz Schubert", "Johannes Brahms"],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "question": "Which genre of music is characterized by upbeat rhythms and vocal harmonies?",
+    "options": ["Pop", "Classical", "Jazz", "Blues"],
+    "answer": "Pop"
+  },
+  {
+    "question": "Which artist is famous for the song 'Smells Like Teen Spirit'?",
+    "options": ["Nirvana", "Pearl Jam", "Soundgarden", "Alice in Chains"],
+    "answer": "Nirvana"
+  },
+  {
+    "question": "Which musical genre is known for its use of electronic instruments and repetitive beats?",
+    "options": ["Electronic", "Rock", "Folk", "Jazz"],
+    "answer": "Electronic"
+  },
+  {
+    "question": "Which composer wrote 'Eine kleine Nachtmusik'?",
+    "options": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Franz Schubert"],
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "question": "Which artist is known for the hit 'I Will Always Love You'?",
+    "options": ["Whitney Houston", "Celine Dion", "Mariah Carey", "Adele"],
+    "answer": "Whitney Houston"
+  },
+  {
+    "question": "Which band is famous for the song 'Hey Jude'?",
+    "options": ["The Beatles", "The Rolling Stones", "Led Zeppelin", "The Who"],
+    "answer": "The Beatles"
+  },
+  {
+    "question": "Who composed the famous 'Rhapsody in Blue'?",
+    "options": ["George Gershwin", "Leonard Bernstein", "Aaron Copland", "Igor Stravinsky"],
+    "answer": "George Gershwin"
+  },
+  {
+    "question": "Which genre is known for its complex rhythms and improvisation?",
+    "options": ["Jazz", "Classical", "Pop", "Rock"],
+    "answer": "Jazz"
+  },
+  {
+    "question": "Which artist released the album '25'?",
+    "options": ["Adele", "Taylor Swift", "Katy Perry", "Beyoncé"],
+    "answer": "Adele"
+  },
+  {
+    "question": "Which band is known for the album 'The Joshua Tree'?",
+    "options": ["U2", "Coldplay", "Radiohead", "The Police"],
+    "answer": "U2"
+  },
+  {
+    "question": "Who composed the famous 'Largo' from 'Xerxes'?",
+    "options": ["George Frideric Handel", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Antonio Vivaldi"],
+    "answer": "George Frideric Handel"
+  },
+  {
+    "question": "Which musical genre is known for its focus on lyrical storytelling and acoustic instrumentation?",
+    "options": ["Folk", "Electronic", "Hip Hop", "Rock"],
+    "answer": "Folk"
+  },
+  {
+    "question": "Which artist is known for the hit 'Levitating'?",
+    "options": ["Dua Lipa", "Ariana Grande", "Billie Eilish", "Rihanna"],
+    "answer": "Dua Lipa"
+  },
+  {
+    "question": "Which band is famous for the song 'Come Together'?",
+    "options": ["The Beatles", "The Rolling Stones", "Led Zeppelin", "Pink Floyd"],
+    "answer": "The Beatles"
+  },
+  {
+    "question": "Who composed the famous 'Symphony No. 9' also known as the 'Choral Symphony'?",
+    "options": ["Ludwig van Beethoven", "Franz Schubert", "Johannes Brahms", "Wolfgang Amadeus Mozart"],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "question": "Which genre is known for its emphasis on rhythm and blues?",
+    "options": ["Soul", "Pop", "Jazz", "Classical"],
+    "answer": "Soul"
+  },
+  {
+    "question": "Which artist is known for the hit 'Toxic'?",
+    "options": ["Britney Spears", "Christina Aguilera", "Katy Perry", "Lady Gaga"],
+    "answer": "Britney Spears"
+  },
+  {
+    "question": "Which music genre is characterized by fast tempo and heavy guitar riffs?",
+    "options": ["Metal", "Pop", "Country", "Jazz"],
+    "answer": "Metal"
+  },
+  {
+    "question": "Which artist is known for the album 'Random Access Memories'?",
+    "options": ["Daft Punk", "The Weeknd", "Bruno Mars", "Calvin Harris"],
+    "answer": "Daft Punk"
+  },
+  {
+    "question": "Which composer wrote 'Swan Lake'?",
+    "options": ["Pyotr Ilyich Tchaikovsky", "Sergei Prokofiev", "Igor Stravinsky", "Gustav Mahler"],
+    "answer": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "question": "Which genre of music is associated with the artist Frank Sinatra?",
+    "options": ["Jazz", "Pop", "Country", "Rock"],
+    "answer": "Jazz"
+  },
+  {
+    "question": "Which band released the album 'Back in Black'?",
+    "options": ["AC/DC", "Led Zeppelin", "The Rolling Stones", "Aerosmith"],
+    "answer": "AC/DC"
+  },
+  {
+    "question": "Who composed the opera 'Carmen'?",
+    "options": ["Georges Bizet", "Richard Wagner", "Giuseppe Verdi", "Wolfgang Amadeus Mozart"],
+    "answer": "Georges Bizet"
+  },
+  {
+    "question": "Which artist is known for the song 'Shake It Off'?",
+    "options": ["Taylor Swift", "Katy Perry", "Adele", "Lady Gaga"],
+    "answer": "Taylor Swift"
+  },
+  {
+    "question": "Which genre is characterized by its use of brass instruments and improvisation?",
+    "options": ["Jazz", "Rock", "Classical", "Folk"],
+    "answer": "Jazz"
+  },
+  {
+    "question": "Which artist is known for the song 'Watermelon Sugar'?",
+    "options": ["Harry Styles", "Ed Sheeran", "Bruno Mars", "Adele"],
+    "answer": "Harry Styles"
+  },
+  {
+    "question": "Which composer is known for 'The Nutcracker' suite?",
+    "options": ["Pyotr Ilyich Tchaikovsky", "Johann Sebastian Bach", "Ludwig van Beethoven", "Franz Liszt"],
+    "answer": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "question": "Which musical genre features artists like Skrillex and Deadmau5?",
+    "options": ["Electronic Dance Music (EDM)", "Jazz", "Classical", "Rock"],
+    "answer": "Electronic Dance Music (EDM)"
+  },
+  {
+    "question": "Which artist is known for the album 'Dangerous Woman'?",
+    "options": ["Ariana Grande", "Rihanna", "Katy Perry", "Lady Gaga"],
+    "answer": "Ariana Grande"
+  },
+  {
+    "question": "Which band released the song 'Enter Sandman'?",
+    "options": ["Metallica", "Slayer", "Megadeth", "Anthrax"],
+    "answer": "Metallica"
+  },
+  {
+    "question": "Which artist is known for the hit 'Blinding Lights'?",
+    "options": ["The Weeknd", "Ed Sheeran", "Ariana Grande", "Bruno Mars"],
+    "answer": "The Weeknd"
+  },
+  {
+    "question": "Which composer wrote 'The Planets'?",
+    "options": ["Gustav Holst", "Richard Strauss", "Sergei Rachmaninoff", "Igor Stravinsky"],
+    "answer": "Gustav Holst"
+  },
+  {
+    "question": "Which genre of music is known for its use of electric guitars and strong backbeat?",
+    "options": ["Rock", "Pop", "Classical", "Folk"],
+    "answer": "Rock"
+  },
+  {
+    "question": "Which artist is known for the song 'Lose Yourself'?",
+    "options": ["Eminem", "Jay-Z", "Kanye West", "Drake"],
+    "answer": "Eminem"
+  },
+  {
+    "question": "Which musical genre is characterized by its improvisation and complex rhythms?",
+    "options": ["Jazz", "Classical", "Rock", "Country"],
+    "answer": "Jazz"
+  },
+  {
+    "question": "Who composed 'Symphony No. 5' and is known for the iconic four-note motif?",
+    "options": ["Ludwig van Beethoven", "Johannes Brahms", "Wolfgang Amadeus Mozart", "Franz Schubert"],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "question": "Which artist released the album 'Reputation'?",
+    "options": ["Taylor Swift", "Ariana Grande", "Katy Perry", "Beyoncé"],
+    "answer": "Taylor Swift"
+  },
+  {
+    "question": "Which band is known for the song 'Billie Jean'?",
+    "options": ["Michael Jackson", "The Jackson 5", "Prince", "Madonna"],
+    "answer": "Michael Jackson"
+  },
+  {
+    "question": "Which musical genre is characterized by its use of synthesizers and sequencers?",
+    "options": ["Electronic", "Rock", "Classical", "Jazz"],
+    "answer": "Electronic"
+  },
+  {
+    "question": "Who composed the famous 'Eine kleine Nachtmusik'?",
+    "options": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach", "Franz Liszt"],
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "question": "Which artist is known for the hit song 'Royals'?",
+    "options": ["Lorde", "Billie Eilish", "Adele", "Katy Perry"],
+    "answer": "Lorde"
+  },
+  {
+    "question": "Which composer is known for the opera 'La Traviata'?",
+    "options": ["Giuseppe Verdi", "Richard Wagner", "Georges Bizet", "Wolfgang Amadeus Mozart"],
+    "answer": "Giuseppe Verdi"
+  },
+  {
+    "question": "Which band is known for the song 'Under Pressure'?",
+    "options": ["Queen and David Bowie", "The Beatles", "Led Zeppelin", "The Rolling Stones"],
+    "answer": "Queen and David Bowie"
+  },
+  {
+    "question": "Which artist is famous for the song 'Havana'?",
+    "options": ["Camila Cabello", "Rihanna", "Ariana Grande", "Shawn Mendes"],
+    "answer": "Camila Cabello"
+  },
+  {
+    "question": "Which music genre is associated with artists like Tupac Shakur and Notorious B.I.G.?",
+    "options": ["Hip Hop", "Rock", "Jazz", "Classical"],
+    "answer": "Hip Hop"
+  },
+ ]
