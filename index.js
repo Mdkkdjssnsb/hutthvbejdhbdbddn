@@ -63,9 +63,9 @@ app.get('/api/quiz', async (req, res) => {
 
 // Endpoint to update user progress
 app.post('/api/update-progress', async (req, res) => {
-  const { uid, correct, incorrect, played } = req.body;
+  const { uid, userName, correct, incorrect, played } = req.body;
 
-  if (typeof uid !== 'string' || typeof correct !== 'number' || typeof incorrect !== 'number' || typeof played !== 'number') {
+  if (typeof uid !== 'string' || typeof userName !== 'string' || typeof correct !== 'number' || typeof incorrect !== 'number' || typeof played !== 'number') {
     return res.status(400).json({ error: 'Invalid input types.' });
   }
 
@@ -74,11 +74,12 @@ app.post('/api/update-progress', async (req, res) => {
     let user = users.find(u => u.uid === uid);
 
     if (user) {
+      user.userName = userName;
       user.correct += correct;
       user.incorrect += incorrect;
       user.played += played;
     } else {
-      user = { uid, correct, incorrect, played };
+      user = { uid, userName, correct, incorrect, played };
       users.push(user);
     }
 
@@ -118,7 +119,11 @@ app.get('/api/global-ranking', async (req, res) => {
   try {
     const users = await readJsonFile(usersFilePath);
     const sortedUsers = users.sort((a, b) => b.correct - a.correct);
-    res.json(sortedUsers);
+    const rankedUsers = sortedUsers.map((user, index) => ({
+      ...user,
+      rank: index + 1
+    }));
+    res.json(rankedUsers);
   } catch (error) {
     console.error('Error:', error.message);
     res.status(500).json({ error: 'Failed to fetch global ranking' });
