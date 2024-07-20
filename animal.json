@@ -1,0 +1,612 @@
+[
+    {
+        "question": "What is the largest land animal?",
+        "options": ["Elephant", "Giraffe", "Hippopotamus", "Rhino"],
+        "answer": "Elephant"
+    },
+    {
+        "question": "Which animal is known as the 'king of the jungle'?",
+        "options": ["Lion", "Tiger", "Elephant", "Bear"],
+        "answer": "Lion"
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "options": ["Cheetah", "Lion", "Horse", "Gazelle"],
+        "answer": "Cheetah"
+    },
+    {
+        "question": "Which bird is known for its ability to mimic human speech?",
+        "options": ["Parrot", "Eagle", "Sparrow", "Owl"],
+        "answer": "Parrot"
+    },
+    {
+        "question": "What is the largest species of shark?",
+        "options": ["Whale shark", "Great white shark", "Hammerhead shark", "Tiger shark"],
+        "answer": "Whale shark"
+    },
+    {
+        "question": "Which animal has the longest neck?",
+        "options": ["Giraffe", "Elephant", "Camel", "Ostrich"],
+        "answer": "Giraffe"
+    },
+    {
+        "question": "What is the smallest mammal by weight?",
+        "options": ["Bumblebee bat", "Pygmy shrew", "Mouse", "Hamster"],
+        "answer": "Bumblebee bat"
+    },
+    {
+        "question": "Which animal is known for its ability to change color?",
+        "options": ["Chameleon", "Octopus", "Cuttlefish", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What type of animal is a Komodo dragon?",
+        "options": ["Lizard", "Snake", "Crocodile", "Turtle"],
+        "answer": "Lizard"
+    },
+    {
+        "question": "Which animal is known for its intelligence and use of tools?",
+        "options": ["Chimpanzee", "Dolphin", "Elephant", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary diet of a giant panda?",
+        "options": ["Bamboo", "Fish", "Insects", "Meat"],
+        "answer": "Bamboo"
+    },
+    {
+        "question": "Which mammal is known to have the longest gestation period?",
+        "options": ["Elephant", "Whale", "Horse", "Giraffe"],
+        "answer": "Elephant"
+    },
+    {
+        "question": "Which animal can sleep with one eye open?",
+        "options": ["Dolphin", "Cat", "Dog", "Horse"],
+        "answer": "Dolphin"
+    },
+    {
+        "question": "What is the primary diet of a koala?",
+        "options": ["Eucalyptus leaves", "Bamboo", "Fruit", "Insects"],
+        "answer": "Eucalyptus leaves"
+    },
+    {
+        "question": "Which animal has a unique 'thumb' that helps it grasp objects?",
+        "options": ["Koala", "Panda", "Chimpanzee", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which bird is known for its distinctive colorful tail feathers?",
+        "options": ["Peacock", "Eagle", "Swan", "Falcon"],
+        "answer": "Peacock"
+    },
+    {
+        "question": "What is the largest species of penguin?",
+        "options": ["Emperor penguin", "King penguin", "Chinstrap penguin", "Gentoo penguin"],
+        "answer": "Emperor penguin"
+    },
+    {
+        "question": "Which animal is known to have the most powerful bite force?",
+        "options": ["Saltwater crocodile", "Lion", "Great white shark", "Hyena"],
+        "answer": "Saltwater crocodile"
+    },
+    {
+        "question": "What is the primary diet of a polar bear?",
+        "options": ["Seals", "Fish", "Berries", "Carrots"],
+        "answer": "Seals"
+    },
+    {
+        "question": "Which animal is known for its ability to regenerate lost body parts?",
+        "options": ["Starfish", "Lizard", "Worm", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What type of animal is a platypus?",
+        "options": ["Mammal", "Bird", "Reptile", "Fish"],
+        "answer": "Mammal"
+    },
+    {
+        "question": "Which animal is known for its distinctive black and white stripes?",
+        "options": ["Zebra", "Tiger", "Skunk", "Panda"],
+        "answer": "Zebra"
+    },
+    {
+        "question": "Which animal is known for being the largest member of the cat family?",
+        "options": ["Lion", "Tiger", "Leopard", "Jaguar"],
+        "answer": "Tiger"
+    },
+    {
+        "question": "What is the main habitat of the giant panda?",
+        "options": ["Bamboo forests", "Deserts", "Savannas", "Oceans"],
+        "answer": "Bamboo forests"
+    },
+    {
+        "question": "Which animal has a tongue that is longer than its body?",
+        "options": ["Chameleon", "Anteater", "Elephant", "Giraffe"],
+        "answer": "Anteater"
+    },
+    {
+        "question": "What is the primary diet of a carnivorous animal?",
+        "options": ["Meat", "Plants", "Insects", "Fruits"],
+        "answer": "Meat"
+    },
+    {
+        "question": "Which animal is known for its ability to produce silk?",
+        "options": ["Silk moth", "Spider", "Worm", "Bee"],
+        "answer": "Silk moth"
+    },
+    {
+        "question": "What is the largest species of turtle?",
+        "options": ["Leatherback turtle", "Green turtle", "Hawksbill turtle", "Loggerhead turtle"],
+        "answer": "Leatherback turtle"
+    },
+    {
+        "question": "Which animal has a built-in compass for navigation?",
+        "options": ["Hummingbird", "Salmon", "Monarch butterfly", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which animal is known for its unique ability to produce electricity?",
+        "options": ["Electric eel", "Pufferfish", "Catfish", "Stingray"],
+        "answer": "Electric eel"
+    },
+    {
+        "question": "Which animal is known for having a 'pouch' to carry its young?",
+        "options": ["Kangaroo", "Elephant", "Bear", "Giraffe"],
+        "answer": "Kangaroo"
+    },
+    {
+        "question": "What is the primary diet of a herbivorous animal?",
+        "options": ["Plants", "Meat", "Insects", "Fish"],
+        "answer": "Plants"
+    },
+    {
+        "question": "Which animal is known for having the longest migration route?",
+        "options": ["Arctic tern", "Whale", "Elephant", "Salmon"],
+        "answer": "Arctic tern"
+    },
+    {
+        "question": "Which animal is known for its unique ability to regenerate limbs?",
+        "options": ["Axolotl", "Starfish", "Lizard", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary food source for a beaver?",
+        "options": ["Wood", "Fish", "Plants", "Insects"],
+        "answer": "Wood"
+    },
+    {
+        "question": "Which animal is known for its ability to produce venom?",
+        "options": ["Snake", "Frog", "Spider", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which animal is known for its unique 'hump'?",
+        "options": ["Camel", "Bison", "Giraffe", "Elephant"],
+        "answer": "Camel"
+    },
+    {
+        "question": "Which animal is known for its ability to survive without water for a long time?",
+        "options": ["Camel", "Elephant", "Tiger", "Giraffe"],
+        "answer": "Camel"
+    },
+    {
+        "question": "What is the main diet of a koala?",
+        "options": ["Eucalyptus leaves", "Bamboo", "Fruit", "Insects"],
+        "answer": "Eucalyptus leaves"
+    },
+    {
+        "question": "Which animal is known for its ability to change its skin texture?",
+        "options": ["Octopus", "Chameleon", "Squid", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which animal is known for being the largest land predator?",
+        "options": ["Polar bear", "Grizzly bear", "Lion", "Tiger"],
+        "answer": "Polar bear"
+    },
+  {
+        "question": "What is the largest species of bear?",
+        "options": ["Polar bear", "Grizzly bear", "Brown bear", "Kodiak bear"],
+        "answer": "Polar bear"
+    },
+    {
+        "question": "Which animal is known for having a prehensile tail?",
+        "options": ["Spider monkey", "Lion", "Giraffe", "Elephant"],
+        "answer": "Spider monkey"
+    },
+    {
+        "question": "What type of animal is a manatee?",
+        "options": ["Mammal", "Bird", "Fish", "Reptile"],
+        "answer": "Mammal"
+    },
+    {
+        "question": "Which animal has the longest lifespan?",
+        "options": ["Galápagos tortoise", "Elephant", "Blue whale", "Parrot"],
+        "answer": "Galápagos tortoise"
+    },
+    {
+        "question": "Which animal is known for its nocturnal habits and large eyes?",
+        "options": ["Owl", "Bat", "Hedgehog", "Raccoon"],
+        "answer": "Owl"
+    },
+    {
+        "question": "What is the primary diet of a sloth?",
+        "options": ["Leaves", "Insects", "Fruit", "Fish"],
+        "answer": "Leaves"
+    },
+    {
+        "question": "Which animal is known for its ability to produce ink?",
+        "options": ["Squid", "Octopus", "Cuttlefish", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary diet of a komodo dragon?",
+        "options": ["Meat", "Insects", "Fruit", "Plants"],
+        "answer": "Meat"
+    },
+    {
+        "question": "Which animal is known for its ability to fly backwards?",
+        "options": ["Hummingbird", "Eagle", "Bat", "Dragonfly"],
+        "answer": "Hummingbird"
+    },
+    {
+        "question": "What is the primary diet of a polar bear?",
+        "options": ["Seals", "Fish", "Berries", "Carrots"],
+        "answer": "Seals"
+    },
+    {
+        "question": "Which animal is known for its ability to mimic sounds, including human speech?",
+        "options": ["Parrot", "Crow", "Dolphin", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary habitat of a sea otter?",
+        "options": ["Ocean", "Desert", "Forest", "Grassland"],
+        "answer": "Ocean"
+    },
+    {
+        "question": "Which animal is known for having a 'mane'?",
+        "options": ["Lion", "Horse", "Zebra", "Giraffe"],
+        "answer": "Lion"
+    },
+    {
+        "question": "What is the primary diet of a rhinoceros?",
+        "options": ["Grass", "Meat", "Fruit", "Insects"],
+        "answer": "Grass"
+    },
+    {
+        "question": "Which animal is known for its ability to regenerate lost limbs?",
+        "options": ["Axolotl", "Lizard", "Starfish", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary habitat of a Bengal tiger?",
+        "options": ["Tropical forest", "Desert", "Grassland", "Arctic"],
+        "answer": "Tropical forest"
+    },
+    {
+        "question": "Which animal is known for its ability to see in complete darkness?",
+        "options": ["Bat", "Owl", "Cat", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the largest species of dolphin?",
+        "options": ["Orca", "Bottlenose dolphin", "Beluga whale", "Spinner dolphin"],
+        "answer": "Orca"
+    },
+    {
+        "question": "Which animal is known for its ability to produce honey?",
+        "options": ["Bee", "Ant", "Wasp", "Butterfly"],
+        "answer": "Bee"
+    },
+    {
+        "question": "What is the primary diet of a giant panda?",
+        "options": ["Bamboo", "Meat", "Fruit", "Insects"],
+        "answer": "Bamboo"
+    },
+    {
+        "question": "Which animal is known for its ability to camouflage with its environment?",
+        "options": ["Chameleon", "Octopus", "Cuttlefish", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary habitat of a red fox?",
+        "options": ["Forest", "Desert", "Ocean", "Grassland"],
+        "answer": "Forest"
+    },
+    {
+        "question": "Which animal has the longest migration route?",
+        "options": ["Arctic tern", "Monarch butterfly", "Humpback whale", "Elephant"],
+        "answer": "Arctic tern"
+    },
+    {
+        "question": "What is the primary diet of a giraffe?",
+        "options": ["Leaves", "Grass", "Fruit", "Insects"],
+        "answer": "Leaves"
+    },
+    {
+        "question": "Which animal is known for its ability to use tools?",
+        "options": ["Chimpanzee", "Crow", "Elephant", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the largest species of snake?",
+        "options": ["Reticulated python", "Anaconda", "King cobra", "Boa constrictor"],
+        "answer": "Anaconda"
+    },
+    {
+        "question": "Which animal is known for having a 'sack' to store food?",
+        "options": ["Kangaroo", "Camel", "Hummingbird", "Squirrel"],
+        "answer": "Kangaroo"
+    },
+    {
+        "question": "What is the primary diet of a honey badger?",
+        "options": ["Insects", "Fruit", "Meat", "Nuts"],
+        "answer": "Insects"
+    },
+    {
+        "question": "Which animal is known for its ability to change its body temperature?",
+        "options": ["Lizard", "Mammal", "Bird", "Fish"],
+        "answer": "Lizard"
+    },
+    {
+        "question": "What is the primary habitat of a polar bear?",
+        "options": ["Arctic ice", "Tropical rainforest", "Desert", "Grassland"],
+        "answer": "Arctic ice"
+    },
+    {
+        "question": "Which animal is known for having a complex social structure and hierarchy?",
+        "options": ["Elephant", "Lion", "Wolf", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the largest species of whale?",
+        "options": ["Blue whale", "Humpback whale", "Orca", "Sperm whale"],
+        "answer": "Blue whale"
+    },
+    {
+        "question": "Which animal is known for its ability to sleep while flying?",
+        "options": ["Albatross", "Bat", "Hummingbird", "Eagle"],
+        "answer": "Albatross"
+    },
+    {
+        "question": "What is the primary diet of a komodo dragon?",
+        "options": ["Meat", "Insects", "Fruit", "Plants"],
+        "answer": "Meat"
+    },
+    {
+        "question": "Which animal is known for having a 'hump'?",
+        "options": ["Camel", "Elephant", "Bison", "Giraffe"],
+        "answer": "Camel"
+    },
+    {
+        "question": "What is the primary diet of a giant squid?",
+        "options": ["Fish", "Plankton", "Crustaceans", "Other squid"],
+        "answer": "Fish"
+    },
+    {
+        "question": "Which animal is known for its ability to regenerate lost limbs?",
+        "options": ["Axolotl", "Lizard", "Starfish", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary habitat of a koala?",
+        "options": ["Eucalyptus forest", "Tropical rainforest", "Desert", "Savanna"],
+        "answer": "Eucalyptus forest"
+    },
+    {
+        "question": "Which animal is known for its ability to produce silk?",
+        "options": ["Spider", "Silk moth", "Worm", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary diet of a hippo?",
+        "options": ["Grass", "Fruit", "Fish", "Insects"],
+        "answer": "Grass"
+    },
+    {
+        "question": "Which animal is known for its unique 'mask' of black fur around its eyes?",
+        "options": ["Raccoon", "Panda", "Koala", "Skunk"],
+        "answer": "Raccoon"
+    },
+    {
+        "question": "What is the largest species of frog?",
+        "options": ["Goliath frog", "American bullfrog", "Tree frog", "Toad"],
+        "answer": "Goliath frog"
+    },
+    {
+        "question": "Which animal is known for having a unique 'horn' on its head?",
+        "options": ["Rhino", "Unicorn", "Narwhal", "Triceratops"],
+        "answer": "Narwhal"
+    },
+    {
+        "question": "What type of animal is a sea urchin?",
+        "options": ["Echinoderm", "Mollusk", "Crustacean", "Fish"],
+        "answer": "Echinoderm"
+    },
+    {
+        "question": "Which animal is known for its large, distinctive tusks?",
+        "options": ["Elephant", "Walrus", "Boar", "Hippo"],
+        "answer": "Walrus"
+    },
+    {
+        "question": "What is the primary diet of a grizzly bear?",
+        "options": ["Fish", "Berries", "Insects", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which animal is known for its ability to produce milk?",
+        "options": ["Cow", "Goat", "Human", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the largest species of rodent?",
+        "options": ["Capybara", "Beaver", "Porcupine", "Rat"],
+        "answer": "Capybara"
+    },
+    {
+        "question": "Which animal is known for its long, prehensile tail used for grasping objects?",
+        "options": ["Spider monkey", "Giraffe", "Elephant", "Horse"],
+        "answer": "Spider monkey"
+    },
+    {
+        "question": "What is the primary diet of a cheetah?",
+        "options": ["Meat", "Fruit", "Insects", "Grass"],
+        "answer": "Meat"
+    },
+    {
+        "question": "Which animal is known for its ability to change its color to blend into its environment?",
+        "options": ["Chameleon", "Octopus", "Cuttlefish", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary diet of a zebra?",
+        "options": ["Grass", "Fruit", "Meat", "Insects"],
+        "answer": "Grass"
+    },
+    {
+        "question": "Which animal is known for its ability to fly long distances?",
+        "options": ["Albatross", "Hummingbird", "Eagle", "Penguin"],
+        "answer": "Albatross"
+    },
+    {
+        "question": "What is the primary diet of a giraffe?",
+        "options": ["Leaves", "Grass", "Fruit", "Insects"],
+        "answer": "Leaves"
+    },
+    {
+        "question": "Which animal is known for its large, powerful jaws?",
+        "options": ["Crocodile", "Elephant", "Tiger", "Lion"],
+        "answer": "Crocodile"
+    },
+    {
+        "question": "What type of animal is a seahorse?",
+        "options": ["Fish", "Mammal", "Reptile", "Amphibian"],
+        "answer": "Fish"
+    },
+    {
+        "question": "Which animal is known for its ability to navigate using echolocation?",
+        "options": ["Bat", "Dolphin", "Whale", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary diet of a lion?",
+        "options": ["Meat", "Grass", "Fruits", "Insects"],
+        "answer": "Meat"
+    },
+    {
+        "question": "Which animal is known for its ability to swim at high speeds?",
+        "options": ["Dolphin", "Shark", "Seal", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary habitat of a polar bear?",
+        "options": ["Arctic ice", "Rainforest", "Desert", "Savanna"],
+        "answer": "Arctic ice"
+    },
+    {
+        "question": "Which animal is known for its long migrations across continents?",
+        "options": ["Arctic tern", "Whale", "Elephant", "Salmon"],
+        "answer": "Arctic tern"
+    },
+    {
+        "question": "What is the primary diet of a giant panda?",
+        "options": ["Bamboo", "Meat", "Fruit", "Insects"],
+        "answer": "Bamboo"
+    },
+    {
+        "question": "Which animal is known for its large, colorful feathers?",
+        "options": ["Peacock", "Eagle", "Sparrow", "Parrot"],
+        "answer": "Peacock"
+    },
+    {
+        "question": "What is the largest species of owl?",
+        "options": ["Blakiston's fish owl", "Barn owl", "Great horned owl", "Snowy owl"],
+        "answer": "Blakiston's fish owl"
+    },
+    {
+        "question": "Which animal is known for its unique 'horns' that are used for defense and competition?",
+        "options": ["Rhino", "Gazelle", "Antelope", "Deer"],
+        "answer": "Rhino"
+    },
+    {
+        "question": "What type of animal is a starfish?",
+        "options": ["Echinoderm", "Mollusk", "Crustacean", "Fish"],
+        "answer": "Echinoderm"
+    },
+    {
+        "question": "Which animal is known for its ability to regenerate lost limbs?",
+        "options": ["Axolotl", "Lizard", "Starfish", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary diet of a cheetah?",
+        "options": ["Meat", "Fruit", "Insects", "Grass"],
+        "answer": "Meat"
+    },
+    {
+        "question": "Which animal is known for its ability to produce venom?",
+        "options": ["Snake", "Spider", "Scorpion", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the largest species of bird?",
+        "options": ["Ostrich", "Eagle", "Albatross", "Condor"],
+        "answer": "Ostrich"
+    },
+    {
+        "question": "Which animal is known for its ability to sleep while standing?",
+        "options": ["Horse", "Cow", "Elephant", "Giraffe"],
+        "answer": "Horse"
+    },
+    {
+        "question": "What is the primary diet of a hippo?",
+        "options": ["Grass", "Fruit", "Meat", "Insects"],
+        "answer": "Grass"
+    },
+    {
+        "question": "Which animal is known for its unique ability to produce silk?",
+        "options": ["Spider", "Silk moth", "Worm", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary diet of a giraffe?",
+        "options": ["Leaves", "Grass", "Fruit", "Insects"],
+        "answer": "Leaves"
+    },
+    {
+        "question": "Which animal is known for its large, distinctively colored bill?",
+        "options": ["Duck", "Pelican", "Flamingo", "Eagle"],
+        "answer": "Pelican"
+    },
+    {
+        "question": "What type of animal is a platypus?",
+        "options": ["Mammal", "Bird", "Reptile", "Fish"],
+        "answer": "Mammal"
+    },
+    {
+        "question": "Which animal is known for its ability to breathe through its skin?",
+        "options": ["Frog", "Fish", "Lizard", "All of the above"],
+        "answer": "Frog"
+    },
+    {
+        "question": "What is the largest species of reptile?",
+        "options": ["Saltwater crocodile", "Komodo dragon", "Leatherback turtle", "Anaconda"],
+        "answer": "Saltwater crocodile"
+    },
+    {
+        "question": "Which animal is known for its large, powerful claws used for digging?",
+        "options": ["Wolverine", "Badger", "Beaver", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the primary diet of a koala?",
+        "options": ["Eucalyptus leaves", "Bamboo", "Fruit", "Insects"],
+        "answer": "Eucalyptus leaves"
+    },
+    {
+        "question": "Which animal is known for its ability to see in complete darkness?",
+        "options": ["Bat", "Owl", "Cat", "All of the above"],
+        "answer": "All of the above"
+    },
+  ]
