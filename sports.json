@@ -1,0 +1,622 @@
+[
+  {
+    "question": "Which sport is known as 'the beautiful game'?",
+    "options": ["Soccer", "Basketball", "Tennis", "Cricket"],
+    "answer": "Soccer"
+  },
+  {
+    "question": "In which sport would you perform a slam dunk?",
+    "options": ["Basketball", "Volleyball", "Soccer", "Rugby"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "options": ["France", "Brazil", "Germany", "Argentina"],
+    "answer": "France"
+  },
+  {
+    "question": "How many players are there in a rugby union team?",
+    "options": ["15", "11", "7", "13"],
+    "answer": "15"
+  },
+  {
+    "question": "Which sport is played on a diamond-shaped field?",
+    "options": ["Baseball", "Cricket", "Soccer", "Rugby"],
+    "answer": "Baseball"
+  },
+  {
+    "question": "Which tennis tournament is played on grass courts?",
+    "options": ["Wimbledon", "US Open", "French Open", "Australian Open"],
+    "answer": "Wimbledon"
+  },
+  {
+    "question": "Which sport uses the term 'hat trick' to describe three consecutive goals by a player?",
+    "options": ["Soccer", "Hockey", "Cricket", "Rugby"],
+    "answer": "Soccer"
+  },
+  {
+    "question": "In which sport would you find a pommel horse?",
+    "options": ["Gymnastics", "Equestrian", "Wrestling", "Boxing"],
+    "answer": "Gymnastics"
+  },
+  {
+    "question": "What is the maximum score in a single frame of ten-pin bowling?",
+    "options": ["300", "200", "150", "250"],
+    "answer": "300"
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": ["Brazil", "China", "United Kingdom", "Russia"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "Which sport is known as 'the gentleman's game'?",
+    "options": ["Cricket", "Golf", "Tennis", "Baseball"],
+    "answer": "Cricket"
+  },
+  {
+    "question": "Which sport is played with a shuttlecock?",
+    "options": ["Badminton", "Tennis", "Squash", "Table Tennis"],
+    "answer": "Badminton"
+  },
+  {
+    "question": "In which sport would you use a coxswain?",
+    "options": ["Rowing", "Sailing", "Swimming", "Canoeing"],
+    "answer": "Rowing"
+  },
+  {
+    "question": "Which country won the first ever Rugby World Cup in 1987?",
+    "options": ["New Zealand", "Australia", "England", "South Africa"],
+    "answer": "New Zealand"
+  },
+  {
+    "question": "Which sport is played on an oval with a bat and ball?",
+    "options": ["Cricket", "Baseball", "Rugby", "Tennis"],
+    "answer": "Cricket"
+  },
+  {
+    "question": "What is the term for a score of one under par in golf?",
+    "options": ["Birdie", "Eagle", "Bogey", "Albatross"],
+    "answer": "Birdie"
+  },
+  {
+    "question": "Which sport is associated with the term 'checkmate'?",
+    "options": ["Chess", "Boxing", "Wrestling", "Fencing"],
+    "answer": "Chess"
+  },
+  {
+    "question": "In which sport would you use a backboard?",
+    "options": ["Basketball", "Tennis", "Squash", "Badminton"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "Which sport features a halfpipe?",
+    "options": ["Snowboarding", "Surfing", "Skateboarding", "Cycling"],
+    "answer": "Snowboarding"
+  },
+  {
+    "question": "Which country won the 2019 Cricket World Cup?",
+    "options": ["England", "Australia", "India", "New Zealand"],
+    "answer": "England"
+  },
+  {
+    "question": "Which sport is known for the term 'alley-oop'?",
+    "options": ["Basketball", "Volleyball", "Soccer", "Tennis"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "What is the object hit back and forth in a game of badminton?",
+    "options": ["Shuttlecock", "Ball", "Puck", "Frisbee"],
+    "answer": "Shuttlecock"
+  },
+  {
+    "question": "In which sport would you find a double fault?",
+    "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "Which country won the FIFA Women's World Cup in 2019?",
+    "options": ["United States", "Germany", "France", "Brazil"],
+    "answer": "United States"
+  },
+  {
+    "question": "In which sport would you perform a triple axel?",
+    "options": ["Figure Skating", "Gymnastics", "Diving", "Skiing"],
+    "answer": "Figure Skating"
+  },
+  {
+    "question": "Which sport is played on a rectangular court with a net in the middle?",
+    "options": ["Tennis", "Basketball", "Badminton", "Volleyball"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "In which sport would you use a putter?",
+    "options": ["Golf", "Cricket", "Hockey", "Croquet"],
+    "answer": "Golf"
+  },
+  {
+    "question": "Which country hosted the 2014 Winter Olympics?",
+    "options": ["Russia", "Canada", "Norway", "Switzerland"],
+    "answer": "Russia"
+  },
+  {
+    "question": "In which sport would you use a bow and arrow?",
+    "options": ["Archery", "Fencing", "Javelin", "Shooting"],
+    "answer": "Archery"
+  },
+  {
+    "question": "Which sport is known for the term 'home run'?",
+    "options": ["Baseball", "Cricket", "Rugby", "Soccer"],
+    "answer": "Baseball"
+  },
+  {
+    "question": "In which sport would you find a scrum?",
+    "options": ["Rugby", "Soccer", "Hockey", "Basketball"],
+    "answer": "Rugby"
+  },
+  {
+    "question": "Which sport uses the term 'bogey'?",
+    "options": ["Golf", "Tennis", "Cricket", "Basketball"],
+    "answer": "Golf"
+  },
+  {
+    "question": "In which sport would you find a deuce?",
+    "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "Which sport features the Vince Lombardi Trophy?",
+    "options": ["American Football", "Basketball", "Baseball", "Soccer"],
+    "answer": "American Football"
+  },
+  {
+    "question": "In which sport would you use a face mask?",
+    "options": ["American Football", "Hockey", "Baseball", "Cricket"],
+    "answer": "American Football"
+  },
+  {
+    "question": "Which country has won the most Olympic gold medals in ice hockey?",
+    "options": ["Canada", "United States", "Russia", "Sweden"],
+    "answer": "Canada"
+  },
+  {
+    "question": "In which sport would you perform a butterfly stroke?",
+    "options": ["Swimming", "Gymnastics", "Wrestling", "Diving"],
+    "answer": "Swimming"
+  },
+  {
+    "question": "Which sport is associated with the Stanley Cup?",
+    "options": ["Ice Hockey", "Baseball", "Soccer", "Basketball"],
+    "answer": "Ice Hockey"
+  },
+  {
+    "question": "In which sport would you use a shuttlecock?",
+    "options": ["Badminton", "Tennis", "Squash", "Table Tennis"],
+    "answer": "Badminton"
+  },
+  {
+    "question": "Which sport uses the term 'spare'?",
+    "options": ["Bowling", "Golf", "Tennis", "Cricket"],
+    "answer": "Bowling"
+  },
+  {
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "options": ["France", "Germany", "Brazil", "Argentina"],
+    "answer": "France"
+  },
+  {
+    "question": "In which sport would you use a pommel horse?",
+    "options": ["Gymnastics", "Equestrian", "Boxing", "Wrestling"],
+    "answer": "Gymnastics"
+  },
+  {
+    "question": "Which sport is played on a rink with sticks and a puck?",
+    "options": ["Ice Hockey", "Field Hockey", "Lacrosse", "Curling"],
+    "answer": "Ice Hockey"
+  },
+  {
+    "question": "In which sport would you perform a flip turn?",
+    "options": ["Swimming", "Diving", "Gymnastics", "Track and Field"],
+    "answer": "Swimming"
+  },
+  {
+    "question": "Which sport uses the term 'touchdown'?",
+    "options": ["American Football", "Soccer", "Rugby", "Basketball"],
+    "answer": "American Football"
+  },
+  {
+    "question": "In which sport would you find a dribble?",
+    "options": ["Basketball", "Soccer", "Hockey", "Rugby"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "Which country won the 2010 FIFA World Cup?",
+    "options": ["Spain", "Brazil", "Germany", "Italy"],
+    "answer": "Spain"
+  },
+  {
+    "question": "In which sport is the Ryder Cup contested?",
+    "options": ["Golf", "Tennis", "Cricket", "Rugby"],
+    "answer": "Golf"
+  },
+  {
+    "question": "Which sport is played with a bat and a ball and involves running between wickets?",
+    "options": ["Cricket", "Baseball", "Softball", "Rounders"],
+    "answer": "Cricket"
+  },
+  {
+    "question": "In which sport would you find a quarterback?",
+    "options": ["American Football", "Rugby", "Soccer", "Basketball"],
+    "answer": "American Football"
+  },
+  {
+    "question": "Which sport is associated with the term 'knockout'?",
+    "options": ["Boxing", "Wrestling", "Judo", "Karate"],
+    "answer": "Boxing"
+  },
+  {
+    "question": "In which sport would you perform a spike?",
+    "options": ["Volleyball", "Basketball", "Tennis", "Soccer"],
+    "answer": "Volleyball"
+  },
+  {
+    "question": "Which sport is played on a pitch and involves scoring goals by hitting a ball with a stick?",
+    "options": ["Field Hockey", "Lacrosse", "Cricket", "Baseball"],
+    "answer": "Field Hockey"
+  },
+  {
+    "question": "In which sport would you use a javelin?",
+    "options": ["Track and Field", "Archery", "Fencing", "Gymnastics"],
+    "answer": "Track and Field"
+  },
+  {
+    "question": "Which sport uses the term 'ace' to describe a serve that the opponent cannot return?",
+    "options": ["Tennis", "Volleyball", "Badminton", "Table Tennis"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "In which sport would you find a birdie?",
+    "options": ["Badminton", "Golf", "Soccer", "Basketball"],
+    "answer": "Badminton"
+  },
+  {
+    "question": "Which sport is played with an oval ball and involves tackling the opposing players?",
+    "options": ["Rugby", "American Football", "Soccer", "Hockey"],
+    "answer": "Rugby"
+  },
+  {
+    "question": "In which sport would you use a canoe?",
+    "options": ["Canoeing", "Rowing", "Sailing", "Swimming"],
+    "answer": "Canoeing"
+  },
+  {
+    "question": "Which sport is known for the term 'buzzer beater'?",
+    "options": ["Basketball", "Soccer", "Hockey", "Tennis"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "In which sport would you find a guard, forward, and center?",
+    "options": ["Basketball", "Soccer", "Hockey", "Rugby"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "Which sport uses the term 'birdie'?",
+    "options": ["Golf", "Badminton", "Tennis", "Soccer"],
+    "answer": "Golf"
+  },
+  {
+    "question": "In which sport would you find a libero?",
+    "options": ["Volleyball", "Basketball", "Soccer", "Rugby"],
+    "answer": "Volleyball"
+  },
+  {
+    "question": "Which sport is played on a court with a net and involves rallying a ball back and forth?",
+    "options": ["Tennis", "Volleyball", "Badminton", "Squash"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "In which sport would you find a hook shot?",
+    "options": ["Basketball", "Soccer", "Tennis", "Rugby"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "Which sport is known for the term 'hat trick'?",
+    "options": ["Soccer", "Hockey", "Cricket", "Rugby"],
+    "answer": "Soccer"
+  },
+  {
+    "question": "In which sport would you use a diving board?",
+    "options": ["Diving", "Swimming", "Gymnastics", "Water Polo"],
+    "answer": "Diving"
+  },
+  {
+    "question": "Which sport is played with a small ball and clubs on a large outdoor course?",
+    "options": ["Golf", "Cricket", "Tennis", "Baseball"],
+    "answer": "Golf"
+  },
+  {
+    "question": "In which sport would you find a batter and a pitcher?",
+    "options": ["Baseball", "Cricket", "Softball", "Rounders"],
+    "answer": "Baseball"
+  },
+  {
+    "question": "Which sport is played with a frisbee and involves passing it to teammates to score points?",
+    "options": ["Ultimate Frisbee", "Disc Golf", "Field Hockey", "Lacrosse"],
+    "answer": "Ultimate Frisbee"
+  },
+  {
+    "question": "In which sport would you find a backhand shot?",
+    "options": ["Tennis", "Badminton", "Squash", "Table Tennis"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "Which sport uses the term 'knockout'?",
+    "options": ["Boxing", "Wrestling", "Judo", "Karate"],
+    "answer": "Boxing"
+  },
+  {
+    "question": "In which sport would you perform a serve?",
+    "options": ["Tennis", "Volleyball", "Badminton", "Table Tennis"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "Which sport is played with a stick and a puck on ice?",
+    "options": ["Ice Hockey", "Field Hockey", "Lacrosse", "Curling"],
+    "answer": "Ice Hockey"
+  },
+  {
+    "question": "In which sport would you use a baton?",
+    "options": ["Relay Racing", "Pole Vault", "Javelin", "High Jump"],
+    "answer": "Relay Racing"
+  },
+  {
+    "question": "Which sport is known for the term 'free throw'?",
+    "options": ["Basketball", "Soccer", "Rugby", "Hockey"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "In which sport would you find a scrum?",
+    "options": ["Rugby", "Soccer", "Hockey", "Basketball"],
+    "answer": "Rugby"
+  },
+  {
+    "question": "Which sport is played with a bat and a ball and involves scoring runs?",
+    "options": ["Cricket", "Baseball", "Softball", "Rounders"],
+    "answer": "Cricket"
+  },
+  {
+    "question": "In which sport would you perform a butterfly stroke?",
+    "options": ["Swimming", "Gymnastics", "Wrestling", "Diving"],
+    "answer": "Swimming"
+  },
+  {
+    "question": "Which sport is associated with the Stanley Cup?",
+    "options": ["Ice Hockey", "Baseball", "Soccer", "Basketball"],
+    "answer": "Ice Hockey"
+  },
+  {
+    "question": "In which sport would you use a pommel horse?",
+    "options": ["Gymnastics", "Equestrian", "Boxing", "Wrestling"],
+    "answer": "Gymnastics"
+  },
+  {
+    "question": "Which sport is played with a shuttlecock?",
+    "options": ["Badminton", "Tennis", "Squash", "Table Tennis"],
+    "answer": "Badminton"
+  },
+  {
+    "question": "Which sport uses the term 'bogey'?",
+    "options": ["Golf", "Tennis", "Cricket", "Basketball"],
+    "answer": "Golf"
+  },
+  {
+    "question": "In which sport would you use a backboard?",
+    "options": ["Basketball", "Tennis", "Squash", "Badminton"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "Which country has won the most World Cups in soccer?",
+    "options": ["Brazil", "Germany", "Italy", "Argentina"],
+    "answer": "Brazil"
+  },
+  {
+    "question": "In which sport would you find a grand slam?",
+    "options": ["Tennis", "Baseball", "Golf", "Cricket"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "Which sport uses the term 'offside'?",
+    "options": ["Soccer", "American Football", "Hockey", "Rugby"],
+    "answer": "Soccer"
+  },
+  {
+    "question": "In which sport is the Heisman Trophy awarded?",
+    "options": ["American Football", "Basketball", "Baseball", "Soccer"],
+    "answer": "American Football"
+  },
+  {
+    "question": "Which sport is played on a table with small paddles and a lightweight ball?",
+    "options": ["Table Tennis", "Squash", "Badminton", "Tennis"],
+    "answer": "Table Tennis"
+  },
+  {
+    "question": "In which sport would you find a pinch hitter?",
+    "options": ["Baseball", "Cricket", "Softball", "Hockey"],
+    "answer": "Baseball"
+  },
+  {
+    "question": "Which sport is known for the term 'slam dunk'?",
+    "options": ["Basketball", "Volleyball", "Tennis", "Soccer"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "In which sport would you use a racket?",
+    "options": ["Tennis", "Squash", "Badminton", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which sport is played on a court with a hoop?",
+    "options": ["Basketball", "Netball", "Tennis", "Volleyball"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "In which sport would you perform a vault?",
+    "options": ["Gymnastics", "Pole Vault", "Diving", "Track and Field"],
+    "answer": "Gymnastics"
+  },
+  {
+    "question": "Which sport uses the term 'strike'?",
+    "options": ["Baseball", "Bowling", "Cricket", "Soccer"],
+    "answer": "Baseball"
+  },
+  {
+    "question": "In which sport would you use a scrum cap?",
+    "options": ["Rugby", "American Football", "Soccer", "Hockey"],
+    "answer": "Rugby"
+  },
+  {
+    "question": "Which sport features a race with hurdles?",
+    "options": ["Track and Field", "Swimming", "Cycling", "Skiing"],
+    "answer": "Track and Field"
+  },
+  {
+    "question": "In which sport would you use a snatch and clean and jerk?",
+    "options": ["Weightlifting", "Powerlifting", "Bodybuilding", "CrossFit"],
+    "answer": "Weightlifting"
+  },
+  {
+    "question": "Which sport is known for the term 'triple crown'?",
+    "options": ["Horse Racing", "Baseball", "Cycling", "Boxing"],
+    "answer": "Horse Racing"
+  },
+  {
+    "question": "In which sport would you perform a header?",
+    "options": ["Soccer", "Volleyball", "Basketball", "Hockey"],
+    "answer": "Soccer"
+  },
+  {
+    "question": "Which sport uses the term 'offside trap'?",
+    "options": ["Soccer", "Hockey", "Rugby", "American Football"],
+    "answer": "Soccer"
+  },
+  {
+    "question": "In which sport would you find a maul?",
+    "options": ["Rugby", "American Football", "Soccer", "Hockey"],
+    "answer": "Rugby"
+  },
+  {
+    "question": "Which sport is known for the term 'hat trick'?",
+    "options": ["Soccer", "Hockey", "Cricket", "Rugby"],
+    "answer": "Soccer"
+  },
+  {
+    "question": "In which sport would you use a shuttlecock?",
+    "options": ["Badminton", "Tennis", "Squash", "Table Tennis"],
+    "answer": "Badminton"
+  },
+  {
+    "question": "Which sport is played on a court with a net and involves rallying a ball back and forth?",
+    "options": ["Tennis", "Volleyball", "Badminton", "Squash"],
+    "answer": "Tennis"
+  },
+  {
+    "question": "In which sport would you find a slam dunk?",
+    "options": ["Basketball", "Volleyball", "Soccer", "Rugby"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "Which sport is known for the term 'birdie'?",
+    "options": ["Golf", "Badminton", "Soccer", "Basketball"],
+    "answer": "Golf"
+  },
+  {
+    "question": "In which sport would you use a pommel horse?",
+    "options": ["Gymnastics", "Equestrian", "Boxing", "Wrestling"],
+    "answer": "Gymnastics"
+  },
+  {
+    "question": "Which sport is played on a field with a bat and ball and involves running between wickets?",
+    "options": ["Cricket", "Baseball", "Softball", "Rounders"],
+    "answer": "Cricket"
+  },
+  {
+    "question": "In which sport would you find a scrum?",
+    "options": ["Rugby", "Soccer", "Hockey", "Basketball"],
+    "answer": "Rugby"
+  },
+  {
+    "question": "Which sport is known for the term 'knockout'?",
+    "options": ["Boxing", "Wrestling", "Judo", "Karate"],
+    "answer": "Boxing"
+  },
+  {
+    "question": "In which sport would you use a coxswain?",
+    "options": ["Rowing", "Sailing", "Swimming", "Canoeing"],
+    "answer": "Rowing"
+  },
+  {
+    "question": "Which sport is played with a small ball and clubs on a large outdoor course?",
+    "options": ["Golf", "Cricket", "Tennis", "Baseball"],
+    "answer": "Golf"
+  },
+  {
+    "question": "In which sport would you perform a backflip?",
+    "options": ["Gymnastics", "Diving", "Figure Skating", "Skiing"],
+    "answer": "Gymnastics"
+  },
+  {
+    "question": "Which sport is known for the term 'free throw'?",
+    "options": ["Basketball", "Soccer", "Rugby", "Hockey"],
+    "answer": "Basketball"
+  },
+  {
+    "question": "In which sport would you use a surfboard?",
+    "options": ["Surfing", "Wakeboarding", "Windsurfing", "Water Polo"],
+    "answer": "Surfing"
+  },
+  {
+    "question": "Which sport is associated with the Stanley Cup?",
+    "options": ["Ice Hockey", "Baseball", "Soccer", "Basketball"],
+    "answer": "Ice Hockey"
+  },
+  {
+    "question": "In which sport would you use a kayak?",
+    "options": ["Kayaking", "Rowing", "Sailing", "Swimming"],
+    "answer": "Kayaking"
+  },
+  {
+    "question": "Which sport is known for the term 'offside'?",
+    "options": ["Soccer", "American Football", "Hockey", "Rugby"],
+    "answer": "Soccer"
+  },
+  {
+    "question": "In which sport would you use a javelin?",
+    "options": ["Track and Field", "Archery", "Fencing", "Gymnastics"],
+    "answer": "Track and Field"
+  },
+  {
+    "question": "Which sport is known for the term 'triple crown'?",
+    "options": ["Horse Racing", "Baseball", "Cycling", "Boxing"],
+    "answer": "Horse Racing"
+  },
+  {
+    "question": "In which sport would you perform a somersault?",
+    "options": ["Gymnastics", "Diving", "Figure Skating", "Skiing"],
+    "answer": "Gymnastics"
+  },
+  {
+    "question": "Which sport is played with a bat and ball and involves scoring runs?",
+    "options": ["Cricket", "Baseball", "Softball", "Rounders"],
+    "answer": "Cricket"
+  },
+  {
+    "question": "In which sport would you perform a flip turn?",
+    "options": ["Swimming", "Diving", "Gymnastics", "Track and Field"],
+    "answer": "Swimming"
+  },
+  {
+    "question": "Which sport is known for the term 'buzzer beater'?",
+    "options": ["Basketball", "Soccer", "Hockey", "Tennis"],
+    "answer": "Basketball"
+  },
+ ]
