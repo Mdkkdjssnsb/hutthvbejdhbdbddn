@@ -1,0 +1,547 @@
+[
+    {
+        "question": "What is the closest planet to the Sun?",
+        "options": ["Mercury", "Venus", "Earth", "Mars"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the largest planet in our Solar System?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the name of our galaxy?",
+        "options": ["Milky Way", "Andromeda", "Whirlpool", "Pinwheel"],
+        "answer": "Milky Way"
+    },
+    {
+        "question": "Which planet has the most extensive ring system?",
+        "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the term for a year on Venus?",
+        "options": ["225 Earth days", "365 Earth days", "243 Earth days", "687 Earth days"],
+        "answer": "225 Earth days"
+    },
+    {
+        "question": "Which planet is known for having a Great Red Spot?",
+        "options": ["Jupiter", "Mars", "Saturn", "Uranus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What force keeps the planets in orbit around the Sun?",
+        "options": ["Gravity", "Magnetism", "Friction", "Inertia"],
+        "answer": "Gravity"
+    },
+    {
+        "question": "Which celestial body is known as Earth's Moon?",
+        "options": ["Luna", "Titan", "Callisto", "Ganymede"],
+        "answer": "Luna"
+    },
+    {
+        "question": "What is the name of the first artificial satellite launched into space?",
+        "options": ["Sputnik 1", "Explorer 1", "Hubble", "Voyager 1"],
+        "answer": "Sputnik 1"
+    },
+    {
+        "question": "Which planet is known for having the longest day?",
+        "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the hottest planet in our Solar System?",
+        "options": ["Venus", "Mercury", "Mars", "Jupiter"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the term for a moon orbiting a planet?",
+        "options": ["Satellite", "Comet", "Asteroid", "Meteor"],
+        "answer": "Satellite"
+    },
+    {
+        "question": "Which planet has the highest mountain in the Solar System?",
+        "options": ["Mars", "Earth", "Venus", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the name of the first human to travel into space?",
+        "options": ["Yuri Gagarin", "Neil Armstrong", "John Glenn", "Alan Shepard"],
+        "answer": "Yuri Gagarin"
+    },
+    {
+        "question": "What is the name of the largest moon of Saturn?",
+        "options": ["Titan", "Rhea", "Iapetus", "Enceladus"],
+        "answer": "Titan"
+    },
+    {
+        "question": "Which planet has the strongest magnetic field?",
+        "options": ["Jupiter", "Saturn", "Earth", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the name of the boundary surrounding our Solar System?",
+        "options": ["Heliosphere", "Oort Cloud", "Kuiper Belt", "Asteroid Belt"],
+        "answer": "Heliosphere"
+    },
+    {
+        "question": "What is the name of the largest volcano in the Solar System?",
+        "options": ["Olympus Mons", "Mauna Kea", "Mount Everest", "Mount Kilimanjaro"],
+        "answer": "Olympus Mons"
+    },
+    {
+        "question": "Which planet is known for its tilted axis causing extreme seasons?",
+        "options": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the name of the phenomenon where the Moon partially covers the Sun?",
+        "options": ["Solar Eclipse", "Lunar Eclipse", "Aurora", "Meteor Shower"],
+        "answer": "Solar Eclipse"
+    },
+    {
+        "question": "What is the name of the famous space telescope launched in 1990?",
+        "options": ["Hubble Space Telescope", "James Webb Telescope", "Chandra X-ray Observatory", "Spitzer Space Telescope"],
+        "answer": "Hubble Space Telescope"
+    },
+    {
+        "question": "Which planet is known for having the most moons?",
+        "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the term for a small rocky body orbiting the Sun, primarily found between Mars and Jupiter?",
+        "options": ["Asteroid", "Comet", "Meteor", "Planet"],
+        "answer": "Asteroid"
+    },
+    {
+        "question": "What is the name of the first successful Mars rover?",
+        "options": ["Spirit", "Opportunity", "Curiosity", "Perseverance"],
+        "answer": "Spirit"
+    },
+    {
+        "question": "Which celestial body is known for its ice and rock composition and has a bright coma and tail when close to the Sun?",
+        "options": ["Comet", "Asteroid", "Meteor", "Planet"],
+        "answer": "Comet"
+    },
+    {
+        "question": "What is the name of the layer of the Sun’s atmosphere visible during a total solar eclipse?",
+        "options": ["Corona", "Photosphere", "Chromosphere", "Core"],
+        "answer": "Corona"
+    },
+    {
+        "question": "What is the name of the closest galaxy to the Milky Way?",
+        "options": ["Andromeda", "Triangulum", "Whirlpool", "Pinwheel"],
+        "answer": "Andromeda"
+    },
+    {
+        "question": "What is the term for a region in space with a gravitational pull so strong that not even light can escape?",
+        "options": ["Black Hole", "Neutron Star", "White Dwarf", "Red Giant"],
+        "answer": "Black Hole"
+    },
+    {
+        "question": "What is the name of the region of space where the density of comets is high, located beyond Neptune?",
+        "options": ["Kuiper Belt", "Oort Cloud", "Asteroid Belt", "Heliosphere"],
+        "answer": "Kuiper Belt"
+    },
+    {
+        "question": "What is the name of the largest and most massive planet in our Solar System?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "Which planet is known for having a dense atmosphere and extremely high surface temperatures?",
+        "options": ["Venus", "Mars", "Earth", "Mercury"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the name of the spacecraft that first landed humans on the Moon?",
+        "options": ["Apollo 11", "Voyager 1", "Hubble", "Sputnik 1"],
+        "answer": "Apollo 11"
+    },
+    {
+        "question": "Which planet has the shortest day of any planet in the Solar System?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the name of the boundary where the Solar System transitions into interstellar space?",
+        "options": ["Heliopause", "Oort Cloud", "Kuiper Belt", "Asteroid Belt"],
+        "answer": "Heliopause"
+    },
+    {
+        "question": "Which planet is known for having the largest volcano and canyon systems?",
+        "options": ["Mars", "Earth", "Venus", "Mercury"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the term for a bright streak of light produced when a meteoroid enters Earth's atmosphere?",
+        "options": ["Meteor", "Comet", "Asteroid", "Satellite"],
+        "answer": "Meteor"
+    },
+    {
+        "question": "What is the name of the spacecraft that explored the outer planets and is now in interstellar space?",
+        "options": ["Voyager 1", "New Horizons", "Pioneer 10", "Hubble"],
+        "answer": "Voyager 1"
+    },
+    {
+        "question": "Which planet has the most extreme temperature variations between day and night?",
+        "options": ["Mercury", "Mars", "Venus", "Jupiter"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the largest known star by diameter?",
+        "options": ["UY Scuti", "Betelgeuse", "VY Canis Majoris", "Antares"],
+        "answer": "UY Scuti"
+    },
+    {
+        "question": "Which planet has the highest average surface temperature?",
+        "options": ["Venus", "Mercury", "Mars", "Earth"],
+        "answer": "Venus"
+    },
+    {
+        "question": "What is the name of the first successful interplanetary spacecraft?",
+        "options": ["Voyager 1", "Pioneer 10", "Mariner 4", "New Horizons"],
+        "answer": "Mariner 4"
+    },
+    {
+        "question": "Which spacecraft was the first to land on a comet?",
+        "options": ["Rosetta", "Philae", "Huygens", "Viking 1"],
+        "answer": "Philae"
+    },
+    {
+        "question": "What is the name of the largest known exoplanet?",
+        "options": ["HD 100546 b", "WASP-12b", "TrES-4b", "Kepler-39b"],
+        "answer": "HD 100546 b"
+    },
+    {
+        "question": "Which star is closest to our Solar System?",
+        "options": ["Proxima Centauri", "Alpha Centauri A", "Sirius", "Betelgeuse"],
+        "answer": "Proxima Centauri"
+    },
+    {
+        "question": "What is the name of the process by which stars produce energy?",
+        "options": ["Nuclear Fusion", "Fission", "Radioactive Decay", "Chemical Reactions"],
+        "answer": "Nuclear Fusion"
+    },
+    {
+        "question": "Which space mission was the first to reach the edge of the Solar System?",
+        "options": ["Voyager 1", "New Horizons", "Pioneer 10", "Voyager 2"],
+        "answer": "Voyager 1"
+    },
+    {
+        "question": "What is the term for a galaxy that is moving away from us, causing its light to shift to the red end of the spectrum?",
+        "options": ["Redshift", "Blueshift", "Cosmic Microwave Background", "Doppler Effect"],
+        "answer": "Redshift"
+    },
+    {
+        "question": "Which planet is known for having the most prominent rings?",
+        "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the name of the boundary between the Solar System and interstellar space?",
+        "options": ["Heliosphere", "Oort Cloud", "Kuiper Belt", "Heliopause"],
+        "answer": "Heliopause"
+    },
+    {
+        "question": "What is the name of the first woman to walk in space?",
+        "options": ["Valentina Tereshkova", "Sally Ride", "Eileen Collins", "Peggy Whitson"],
+        "answer": "Valentina Tereshkova"
+    },
+    {
+        "question": "Which celestial object is known as a 'dirty snowball'?",
+        "options": ["Comet", "Asteroid", "Meteoroid", "Planet"],
+        "answer": "Comet"
+    },
+    {
+        "question": "What is the name of the largest dwarf planet in the Solar System?",
+        "options": ["Eris", "Ceres", "Haumea", "Makemake"],
+        "answer": "Eris"
+    },
+    {
+        "question": "Which planet has a surface covered in iron oxide, giving it a reddish appearance?",
+        "options": ["Mars", "Venus", "Mercury", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the name of the event when the Moon passes between the Earth and the Sun, blocking the Sun's light?",
+        "options": ["Solar Eclipse", "Lunar Eclipse", "Transit", "Occultation"],
+        "answer": "Solar Eclipse"
+    },
+    {
+        "question": "What is the term for the region around a black hole where the escape velocity equals the speed of light?",
+        "options": ["Event Horizon", "Singularity", "Photon Sphere", "Accretion Disk"],
+        "answer": "Event Horizon"
+    },
+    {
+        "question": "Which mission was the first to land humans on the Moon?",
+        "options": ["Apollo 11", "Apollo 13", "Apollo 15", "Apollo 16"],
+        "answer": "Apollo 11"
+    },
+    {
+        "question": "Which planet is known for its hexagonal storm at its north pole?",
+        "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the name of the process where a star sheds its outer layers, often creating a colorful nebula?",
+        "options": ["Planetary Nebula Formation", "Supernova Explosion", "Stellar Wind", "Black Hole Formation"],
+        "answer": "Planetary Nebula Formation"
+    },
+    {
+        "question": "Which space telescope was launched in 2009 to observe the universe in infrared wavelengths?",
+        "options": ["James Webb Space Telescope", "Hubble Space Telescope", "Spitzer Space Telescope", "Chandra X-ray Observatory"],
+        "answer": "James Webb Space Telescope"
+    },
+    {
+        "question": "What is the name of the largest known structure in the Universe, consisting of interconnected clusters of galaxies?",
+        "options": ["Laniakea Supercluster", "Virgo Supercluster", "Local Group", "Coma Cluster"],
+        "answer": "Laniakea Supercluster"
+    },
+    {
+        "question": "Which planet is known for its large and bright storm system called the Great Dark Spot?",
+        "options": ["Neptune", "Uranus", "Jupiter", "Saturn"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the name of the spacecraft that recently captured the first close-up images of Pluto?",
+        "options": ["New Horizons", "Voyager 1", "Cassini", "Hubble"],
+        "answer": "New Horizons"
+    },
+    {
+        "question": "What is the term for a group of stars that form a recognizable pattern in the night sky?",
+        "options": ["Constellation", "Galaxy", "Cluster", "Nebula"],
+        "answer": "Constellation"
+    },
+    {
+        "question": "What is the name of the second-largest moon of Saturn, known for its dense atmosphere?",
+        "options": ["Titan", "Rhea", "Iapetus", "Enceladus"],
+        "answer": "Titan"
+    },
+    {
+        "question": "Which planet has a moon named Phobos that is slowly spiraling inward and will eventually crash into the planet?",
+        "options": ["Mars", "Jupiter", "Saturn", "Uranus"],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the name of the brightest star in the night sky?",
+        "options": ["Sirius", "Betelgeuse", "Rigel", "Polaris"],
+        "answer": "Sirius"
+    },
+    {
+        "question": "Which planet has the most extreme seasons due to its highly tilted axis?",
+        "options": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the name of the large, gaseous region surrounding a newly forming star?",
+        "options": ["Protoplanetary Disk", "Accretion Disk", "Nebula", "Pulsar"],
+        "answer": "Protoplanetary Disk"
+    },
+    {
+        "question": "Which mission was the first to land a rover on Mars?",
+        "options": ["Mars Pathfinder", "Curiosity", "Opportunity", "Perseverance"],
+        "answer": "Mars Pathfinder"
+    },
+    {
+        "question": "What is the name of the boundary surrounding the Solar System, filled with icy bodies and comets?",
+        "options": ["Oort Cloud", "Kuiper Belt", "Asteroid Belt", "Heliosphere"],
+        "answer": "Oort Cloud"
+    },
+    {
+        "question": "Which space mission provided the first detailed images of the surface of Venus?",
+        "options": ["Magellan", "Voyager 1", "Pioneer Venus", "Hubble"],
+        "answer": "Magellan"
+    },
+    {
+        "question": "What is the name of the phenomenon where light from distant galaxies is stretched as the universe expands?",
+        "options": ["Cosmic Expansion", "Redshift", "Blueshift", "Gravitational Lensing"],
+        "answer": "Redshift"
+    },
+    {
+        "question": "Which celestial object is known for its rapid rotation and strong magnetic field, emitting beams of radiation?",
+        "options": ["Pulsar", "Neutron Star", "Black Hole", "White Dwarf"],
+        "answer": "Pulsar"
+    },
+    {
+        "question": "What is the name of the largest moon of Jupiter?",
+        "options": ["Ganymede", "Callisto", "Io", "Europa"],
+        "answer": "Ganymede"
+    },
+    {
+        "question": "Which mission was the first to successfully land on Mars?",
+        "options": ["Viking 1", "Mars Pathfinder", "Curiosity", "Perseverance"],
+        "answer": "Viking 1"
+    },
+    {
+        "question": "What is the name of the region around a black hole where gravity is so strong that not even light can escape?",
+        "options": ["Event Horizon", "Photon Sphere", "Singularity", "Accretion Disk"],
+        "answer": "Event Horizon"
+    },
+    {
+        "question": "Which planet in our Solar System has the most extreme weather?",
+        "options": ["Neptune", "Uranus", "Jupiter", "Saturn"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the name of the belt of icy bodies located beyond Neptune?",
+        "options": ["Oort Cloud", "Kuiper Belt", "Asteroid Belt", "Heliosphere"],
+        "answer": "Kuiper Belt"
+    },
+    {
+        "question": "Which space agency launched the Hubble Space Telescope?",
+        "options": ["NASA", "ESA", "JAXA", "Roscosmos"],
+        "answer": "NASA"
+    },
+    {
+        "question": "What is the name of the first human-made object to enter interstellar space?",
+        "options": ["Voyager 1", "Pioneer 10", "New Horizons", "Voyager 2"],
+        "answer": "Voyager 1"
+    },
+    {
+        "question": "Which planet's moon has geysers that shoot ice and vapor into space?",
+        "options": ["Enceladus", "Europa", "Titan", "Rhea"],
+        "answer": "Enceladus"
+    },
+    {
+        "question": "What is the name of the phenomenon where the Moon passes through the Earth's shadow?",
+        "options": ["Lunar Eclipse", "Solar Eclipse", "Transit", "Occultation"],
+        "answer": "Lunar Eclipse"
+    },
+    {
+        "question": "Which planet is famous for its blue color due to the presence of methane in its atmosphere?",
+        "options": ["Neptune", "Uranus", "Saturn", "Jupiter"],
+        "answer": "Neptune"
+    },
+    {
+        "question": "What is the name of the spacecraft that recently captured the first images of the far side of the Moon?",
+        "options": ["Chang'e 4", "Lunar Reconnaissance Orbiter", "Apollo 11", "Voyager 1"],
+        "answer": "Chang'e 4"
+    },
+    {
+        "question": "Which space telescope is known for capturing deep field images of the universe?",
+        "options": ["Hubble Space Telescope", "James Webb Space Telescope", "Chandra X-ray Observatory", "Spitzer Space Telescope"],
+        "answer": "Hubble Space Telescope"
+    },
+    {
+        "question": "What is the name of the dark, flat areas on the Moon's surface caused by ancient volcanic eruptions?",
+        "options": ["Maria", "Highlands", "Rilles", "Craters"],
+        "answer": "Maria"
+    },
+    {
+        "question": "Which planet has the most moons in the Solar System?",
+        "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the term for a moon that orbits its planet in the opposite direction to the planet's rotation?",
+        "options": ["Retrograde Moon", "Prograde Moon", "Synchronous Moon", "Tidal Moon"],
+        "answer": "Retrograde Moon"
+    },
+    {
+        "question": "Which planet has a moon named Titan, which is larger than the planet Mercury?",
+        "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the name of the phenomenon where distant galaxies appear to be moving away from us, causing their light to shift to longer wavelengths?",
+        "options": ["Redshift", "Blueshift", "Gravitational Lensing", "Cosmic Microwave Background"],
+        "answer": "Redshift"
+    },
+    {
+        "question": "Which planet is known for its large and prominent storm system called the Great Red Spot?",
+        "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the term for a star that suddenly increases in brightness due to an explosion on its surface?",
+        "options": ["Supernova", "Nova", "Pulsar", "Neutron Star"],
+        "answer": "Nova"
+    },
+    {
+        "question": "Which planet is known for having a highly tilted axis that causes extreme seasonal variations?",
+        "options": ["Uranus", "Neptune", "Saturn", "Jupiter"],
+        "answer": "Uranus"
+    },
+    {
+        "question": "What is the name of the first successful mission to land a rover on Mars?",
+        "options": ["Mars Pathfinder", "Curiosity", "Opportunity", "Perseverance"],
+        "answer": "Mars Pathfinder"
+    },
+    {
+        "question": "What is the name of the boundary that marks the edge of the Sun’s influence?",
+        "options": ["Heliosphere", "Oort Cloud", "Kuiper Belt", "Asteroid Belt"],
+        "answer": "Heliosphere"
+    },
+    {
+        "question": "Which moon of Saturn is known for its extensive system of ice geysers?",
+        "options": ["Enceladus", "Titan", "Rhea", "Iapetus"],
+        "answer": "Enceladus"
+    },
+    {
+        "question": "What is the name of the phenomenon when two galaxies collide and merge into one?",
+        "options": ["Galactic Collision", "Supernova", "Stellar Evolution", "Cosmic Inflation"],
+        "answer": "Galactic Collision"
+    },
+    {
+        "question": "Which spacecraft is famous for its detailed images of the surface of Pluto?",
+        "options": ["New Horizons", "Voyager 1", "Hubble", "Cassini"],
+        "answer": "New Horizons"
+    },
+    {
+        "question": "What is the name of the effect where light is bent around a massive object due to its gravitational field?",
+        "options": ["Gravitational Lensing", "Redshift", "Blueshift", "Cosmic Microwave Background"],
+        "answer": "Gravitational Lensing"
+    },
+    {
+        "question": "What is the term for a massive cloud of gas and dust in space where stars are born?",
+        "options": ["Nebula", "Supernova Remnant", "Black Hole", "Galaxy"],
+        "answer": "Nebula"
+    },
+    {
+        "question": "Which planet has the shortest year, or orbit around the Sun?",
+        "options": ["Mercury", "Venus", "Earth", "Mars"],
+        "answer": "Mercury"
+    },
+    {
+        "question": "What is the name of the boundary beyond which comets are believed to originate, located far from the Sun?",
+        "options": ["Oort Cloud", "Kuiper Belt", "Asteroid Belt", "Heliosphere"],
+        "answer": "Oort Cloud"
+    },
+    {
+        "question": "Which planet is known for its famous rings, which were first observed by Galileo?",
+        "options": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "question": "What is the name of the phenomenon where distant galaxies appear to be moving towards us, causing their light to shift to shorter wavelengths?",
+        "options": ["Blueshift", "Redshift", "Cosmic Microwave Background", "Gravitational Lensing"],
+        "answer": "Blueshift"
+    },
+    {
+        "question": "What is the name of the boundary where the Solar System transitions into interstellar space?",
+        "options": ["Heliopause", "Oort Cloud", "Kuiper Belt", "Asteroid Belt"],
+        "answer": "Heliopause"
+    },
+    {
+        "question": "Which planet's moon is known for its large, bright, and dark spots and has a surface covered in icy plates?",
+        "options": ["Europa", "Titan", "Enceladus", "Ganymede"],
+        "answer": "Europa"
+    },
+    {
+        "question": "What is the name of the large, dense region surrounding a newly forming star, where planets are likely to form?",
+        "options": ["Protoplanetary Disk", "Accretion Disk", "Nebula", "Photon Sphere"],
+        "answer": "Protoplanetary Disk"
+    },
+    {
+        "question": "Which space mission was the first to visit and study the outer planets of our Solar System?",
+        "options": ["Voyager 1", "Pioneer 10", "New Horizons", "Voyager 2"],
+        "answer": "Voyager 1"
+    },
+  ]
