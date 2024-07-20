@@ -1,0 +1,652 @@
+[
+    {
+        "question": "What is the capital city of France?",
+        "options": ["Paris", "Berlin", "Madrid", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["Japan", "China", "South Korea", "Thailand"],
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the largest country by land area?",
+        "options": ["Russia", "Canada", "China", "United States"],
+        "answer": "Russia"
+    },
+    {
+        "question": "Which country has the largest population?",
+        "options": ["China", "India", "United States", "Brazil"],
+        "answer": "China"
+    },
+    {
+        "question": "What is the smallest country in the world by land area?",
+        "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+        "answer": "Vatican City"
+    },
+    {
+        "question": "Which country is known for having the longest coastline?",
+        "options": ["Canada", "Australia", "United States", "Russia"],
+        "answer": "Canada"
+    },
+    {
+        "question": "What is the capital city of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "answer": "Canberra"
+    },
+    {
+        "question": "Which country is famous for its tulips and windmills?",
+        "options": ["Netherlands", "Belgium", "Denmark", "Sweden"],
+        "answer": "Netherlands"
+    },
+    {
+        "question": "What is the official language of Brazil?",
+        "options": ["Spanish", "Portuguese", "English", "French"],
+        "answer": "Portuguese"
+    },
+    {
+        "question": "Which country is known as the Pearl of Africa?",
+        "options": ["Uganda", "Kenya", "Tanzania", "Rwanda"],
+        "answer": "Uganda"
+    },
+    {
+        "question": "What is the capital city of Canada?",
+        "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "Which country is home to the Great Wall?",
+        "options": ["China", "India", "Japan", "South Korea"],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital city of Italy?",
+        "options": ["Rome", "Venice", "Milan", "Florence"],
+        "answer": "Rome"
+    },
+    {
+        "question": "Which country is famous for its pyramids?",
+        "options": ["Egypt", "Greece", "Mexico", "Peru"],
+        "answer": "Egypt"
+    },
+    {
+        "question": "What is the capital city of Spain?",
+        "options": ["Madrid", "Barcelona", "Seville", "Valencia"],
+        "answer": "Madrid"
+    },
+    {
+        "question": "Which country is known for having a maple leaf on its flag?",
+        "options": ["Canada", "United States", "Australia", "New Zealand"],
+        "answer": "Canada"
+    },
+    {
+        "question": "What is the largest island in the world?",
+        "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+        "answer": "Greenland"
+    },
+    {
+        "question": "Which country is known for its unique Maori culture?",
+        "options": ["New Zealand", "Australia", "Fiji", "Samoa"],
+        "answer": "New Zealand"
+    },
+    {
+        "question": "What is the capital city of Germany?",
+        "options": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+        "answer": "Berlin"
+    },
+    {
+        "question": "Which country is known for its fjords?",
+        "options": ["Norway", "Sweden", "Denmark", "Iceland"],
+        "answer": "Norway"
+    },
+    {
+        "question": "What is the capital city of Brazil?",
+        "options": ["São Paulo", "Brasília", "Rio de Janeiro", "Salvador"],
+        "answer": "Brasília"
+    },
+    {
+        "question": "Which country is known for the city of Petra?",
+        "options": ["Jordan", "Egypt", "Israel", "Lebanon"],
+        "answer": "Jordan"
+    },
+    {
+        "question": "What is the capital city of South Africa?",
+        "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"],
+        "answer": "Pretoria"
+    },
+    {
+        "question": "Which country is known for its distinctive green hills and sheep?",
+        "options": ["New Zealand", "Ireland", "Scotland", "Wales"],
+        "answer": "New Zealand"
+    },
+    {
+        "question": "What is the capital city of India?",
+        "options": ["New Delhi", "Mumbai", "Kolkata", "Chennai"],
+        "answer": "New Delhi"
+    },
+    {
+        "question": "Which country is known for its vibrant Carnaval festival?",
+        "options": ["Brazil", "Argentina", "Chile", "Colombia"],
+        "answer": "Brazil"
+    },
+    {
+        "question": "What is the capital city of Russia?",
+        "options": ["Moscow", "St. Petersburg", "Novosibirsk", "Kazan"],
+        "answer": "Moscow"
+    },
+    {
+        "question": "Which country is famous for its traditional sushi?",
+        "options": ["Japan", "China", "Thailand", "Korea"],
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the capital city of Mexico?",
+        "options": ["Mexico City", "Guadalajara", "Monterrey", "Cancún"],
+        "answer": "Mexico City"
+    },
+    {
+        "question": "Which country is known for its historic ruins of Machu Picchu?",
+        "options": ["Peru", "Bolivia", "Ecuador", "Colombia"],
+        "answer": "Peru"
+    },
+    {
+        "question": "What is the capital city of Greece?",
+        "options": ["Athens", "Thessaloniki", "Heraklion", "Patras"],
+        "answer": "Athens"
+    },
+    {
+        "question": "Which country is known for its famous wine regions in Bordeaux and Burgundy?",
+        "options": ["France", "Italy", "Spain", "Portugal"],
+        "answer": "France"
+    },
+    {
+        "question": "What is the capital city of Argentina?",
+        "options": ["Buenos Aires", "Córdoba", "Rosario", "Mendoza"],
+        "answer": "Buenos Aires"
+    },
+    {
+        "question": "Which country is known for the historic Silk Road?",
+        "options": ["China", "Turkey", "Iran", "India"],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital city of Norway?",
+        "options": ["Oslo", "Bergen", "Stavanger", "Trondheim"],
+        "answer": "Oslo"
+    },
+    {
+        "question": "Which country is known for the Great Barrier Reef?",
+        "options": ["Australia", "New Zealand", "Philippines", "Indonesia"],
+        "answer": "Australia"
+    },
+    {
+        "question": "What is the capital city of Sweden?",
+        "options": ["Stockholm", "Gothenburg", "Malmö", "Uppsala"],
+        "answer": "Stockholm"
+    },
+    {
+        "question": "Which country is known for its traditional samurai culture?",
+        "options": ["Japan", "South Korea", "China", "Thailand"],
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the capital city of Turkey?",
+        "options": ["Ankara", "Istanbul", "Izmir", "Antalya"],
+        "answer": "Ankara"
+    },
+    {
+        "question": "Which country is famous for its numerous volcanoes and hot springs?",
+        "options": ["Iceland", "Japan", "New Zealand", "Italy"],
+        "answer": "Iceland"
+    },
+    {
+        "question": "What is the capital city of Thailand?",
+        "options": ["Bangkok", "Chiang Mai", "Phuket", "Pattaya"],
+        "answer": "Bangkok"
+    },
+    {
+        "question": "Which country is known for its rich Viking history?",
+        "options": ["Denmark", "Norway", "Sweden", "Iceland"],
+        "answer": "Denmark"
+    },
+    {
+        "question": "What is the capital city of the United Kingdom?",
+        "options": ["London", "Edinburgh", "Cardiff", "Belfast"],
+        "answer": "London"
+    },
+    {
+        "question": "Which country is known for its tulips and windmills?",
+        "options": ["Netherlands", "Belgium", "Denmark", "Sweden"],
+        "answer": "Netherlands"
+    },
+    {
+        "question": "Which country is famous for its pyramids and ancient civilization?",
+        "options": ["Egypt", "Greece", "Mexico", "China"],
+        "answer": "Egypt"
+    },
+    {
+        "question": "What is the capital city of Belgium?",
+        "options": ["Brussels", "Antwerp", "Ghent", "Bruges"],
+        "answer": "Brussels"
+    },
+    {
+        "question": "Which country is known for the Great Wall?",
+        "options": ["China", "Japan", "India", "South Korea"],
+        "answer": "China"
+    },
+    {
+        "question": "What is the largest island nation in the world?",
+        "options": ["Australia", "Indonesia", "Madagascar", "New Zealand"],
+        "answer": "Australia"
+    },
+    {
+        "question": "What is the capital city of Portugal?",
+        "options": ["Lisbon", "Porto", "Braga", "Coimbra"],
+        "answer": "Lisbon"
+    },
+    {
+        "question": "Which country is known for its distinctive architecture and canals?",
+        "options": ["Netherlands", "France", "Italy", "Spain"],
+        "answer": "Netherlands"
+    },
+    {
+        "question": "What is the capital city of South Korea?",
+        "options": ["Seoul", "Busan", "Incheon", "Gwangju"],
+        "answer": "Seoul"
+    },
+    {
+        "question": "Which country is known for its traditional tango dance?",
+        "options": ["Argentina", "Brazil", "Chile", "Peru"],
+        "answer": "Argentina"
+    },
+    {
+        "question": "What is the capital city of Saudi Arabia?",
+        "options": ["Riyadh", "Jeddah", "Mecca", "Medina"],
+        "answer": "Riyadh"
+    },
+    {
+        "question": "Which country is known for the historic city of Machu Picchu?",
+        "options": ["Peru", "Bolivia", "Chile", "Colombia"],
+        "answer": "Peru"
+    },
+    {
+        "question": "What is the capital city of Switzerland?",
+        "options": ["Bern", "Zurich", "Geneva", "Lucerne"],
+        "answer": "Bern"
+    },
+    {
+        "question": "Which country is known for its annual Running of the Bulls event?",
+        "options": ["Spain", "Portugal", "France", "Italy"],
+        "answer": "Spain"
+    },
+    {
+        "question": "What is the capital city of Finland?",
+        "options": ["Helsinki", "Espoo", "Tampere", "Oulu"],
+        "answer": "Helsinki"
+    },
+    {
+        "question": "Which country is famous for its chocolate and watches?",
+        "options": ["Switzerland", "Belgium", "France", "Germany"],
+        "answer": "Switzerland"
+    },
+    {
+        "question": "What is the capital city of the United Arab Emirates?",
+        "options": ["Abu Dhabi", "Dubai", "Sharjah", "Ajman"],
+        "answer": "Abu Dhabi"
+    },
+    {
+        "question": "Which country is known for the Taj Mahal?",
+        "options": ["India", "Pakistan", "Bangladesh", "Sri Lanka"],
+        "answer": "India"
+    },
+    {
+        "question": "What is the capital city of Norway?",
+        "options": ["Oslo", "Bergen", "Stavanger", "Trondheim"],
+        "answer": "Oslo"
+    },
+    {
+        "question": "Which country is known for its vast rainforests and biodiversity?",
+        "options": ["Brazil", "Australia", "Indonesia", "Congo"],
+        "answer": "Brazil"
+    },
+    {
+        "question": "What is the capital city of Iceland?",
+        "options": ["Reykjavik", "Akureyri", "Hafnarfjordur", "Selfoss"],
+        "answer": "Reykjavik"
+    },
+    {
+        "question": "Which country is known for its famous Eiffel Tower?",
+        "options": ["France", "Italy", "Germany", "Spain"],
+        "answer": "France"
+    },
+    {
+        "question": "What is the capital city of Kenya?",
+        "options": ["Nairobi", "Mombasa", "Kisumu", "Eldoret"],
+        "answer": "Nairobi"
+    },
+    {
+        "question": "Which country is famous for its opera house in Sydney?",
+        "options": ["Australia", "New Zealand", "South Africa", "Canada"],
+        "answer": "Australia"
+    },
+    {
+        "question": "What is the capital city of Argentina?",
+        "options": ["Buenos Aires", "Cordoba", "Rosario", "Mendoza"],
+        "answer": "Buenos Aires"
+    },
+    {
+        "question": "Which country is known for its fjords and northern lights?",
+        "options": ["Norway", "Sweden", "Denmark", "Finland"],
+        "answer": "Norway"
+    },
+    {
+        "question": "What is the capital city of Turkey?",
+        "options": ["Ankara", "Istanbul", "Izmir", "Antalya"],
+        "answer": "Ankara"
+    },
+    {
+        "question": "Which country is known for its traditional sushi?",
+        "options": ["Japan", "China", "Thailand", "Vietnam"],
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the capital city of Egypt?",
+        "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+        "answer": "Cairo"
+    },
+    {
+        "question": "Which country is known for its famous Great Barrier Reef?",
+        "options": ["Australia", "New Zealand", "Philippines", "Indonesia"],
+        "answer": "Australia"
+    },
+    {
+        "question": "What is the capital city of the Netherlands?",
+        "options": ["Amsterdam", "Rotterdam", "Utrecht", "The Hague"],
+        "answer": "Amsterdam"
+    },
+    {
+        "question": "Which country is known for its historic castles and whisky?",
+        "options": ["Scotland", "Ireland", "Wales", "England"],
+        "answer": "Scotland"
+    },
+    {
+        "question": "What is the capital city of Chile?",
+        "options": ["Santiago", "Valparaíso", "Concepción", "Temuco"],
+        "answer": "Santiago"
+    },
+    {
+        "question": "Which country is known for its ancient ruins of Petra?",
+        "options": ["Jordan", "Lebanon", "Syria", "Israel"],
+        "answer": "Jordan"
+    },
+    {
+        "question": "What is the capital city of Malaysia?",
+        "options": ["Kuala Lumpur", "Penang", "Kota Kinabalu", "Johor Bahru"],
+        "answer": "Kuala Lumpur"
+    },
+    {
+        "question": "Which country is known for its famous pyramids of Giza?",
+        "options": ["Egypt", "Sudan", "Libya", "Morocco"],
+        "answer": "Egypt"
+    },
+    {
+        "question": "What is the capital city of Poland?",
+        "options": ["Warsaw", "Kraków", "Gdańsk", "Wrocław"],
+        "answer": "Warsaw"
+    },
+    {
+        "question": "Which country is famous for its historical Silk Road routes?",
+        "options": ["China", "Turkey", "Iran", "India"],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital city of South Africa?",
+        "options": ["Pretoria", "Cape Town", "Johannesburg", "Durban"],
+        "answer": "Pretoria"
+    },
+    {
+        "question": "Which country is known for its hot springs and geothermal activity?",
+        "options": ["Iceland", "Japan", "New Zealand", "Hawaii"],
+        "answer": "Iceland"
+    },
+    {
+        "question": "What is the capital city of Finland?",
+        "options": ["Helsinki", "Espoo", "Tampere", "Oulu"],
+        "answer": "Helsinki"
+    },
+    {
+        "question": "Which country is famous for its traditional beer culture and Oktoberfest?",
+        "options": ["Germany", "Austria", "Belgium", "Netherlands"],
+        "answer": "Germany"
+    },
+    {
+        "question": "What is the capital city of Venezuela?",
+        "options": ["Caracas", "Maracaibo", "Valencia", "Barquisimeto"],
+        "answer": "Caracas"
+    },
+    {
+        "question": "Which country is known for its unique opera house located in Sydney?",
+        "options": ["Australia", "New Zealand", "Canada", "South Africa"],
+        "answer": "Australia"
+    },
+    {
+        "question": "What is the capital city of Cuba?",
+        "options": ["Havana", "Santiago de Cuba", "Camagüey", "Holguín"],
+        "answer": "Havana"
+    },
+    {
+        "question": "Which country is famous for the historic city of Dubrovnik?",
+        "options": ["Croatia", "Montenegro", "Serbia", "Bosnia and Herzegovina"],
+        "answer": "Croatia"
+    },
+    {
+        "question": "What is the capital city of Hungary?",
+        "options": ["Budapest", "Debrecen", "Szeged", "Pécs"],
+        "answer": "Budapest"
+    },
+    {
+        "question": "Which country is known for its traditional Maori culture and haka dance?",
+        "options": ["New Zealand", "Australia", "Fiji", "Samoa"],
+        "answer": "New Zealand"
+    },
+    {
+        "question": "What is the capital city of Colombia?",
+        "options": ["Bogotá", "Medellín", "Cali", "Cartagena"],
+        "answer": "Bogotá"
+    },
+    {
+        "question": "Which country is known for its vibrant Carnival celebrations in Rio de Janeiro?",
+        "options": ["Brazil", "Argentina", "Chile", "Peru"],
+        "answer": "Brazil"
+    },
+    {
+        "question": "What is the capital city of Singapore?",
+        "options": ["Singapore", "Kuala Lumpur", "Jakarta", "Bangkok"],
+        "answer": "Singapore"
+    },
+    {
+        "question": "Which country is known for its historical site of Petra?",
+        "options": ["Jordan", "Israel", "Egypt", "Lebanon"],
+        "answer": "Jordan"
+    },
+    {
+        "question": "What is the capital city of Poland?",
+        "options": ["Warsaw", "Kraków", "Wrocław", "Gdańsk"],
+        "answer": "Warsaw"
+    },
+    {
+        "question": "Which country is famous for its cuisine featuring sushi and sashimi?",
+        "options": ["Japan", "China", "Thailand", "Vietnam"],
+        "answer": "Japan"
+    },
+    {
+        "question": "What is the capital city of the Philippines?",
+        "options": ["Manila", "Quezon City", "Cebu City", "Davao City"],
+        "answer": "Manila"
+    },
+    {
+        "question": "Which country is known for its historical site of the Colosseum?",
+        "options": ["Italy", "Greece", "Turkey", "Egypt"],
+        "answer": "Italy"
+    },
+    {
+        "question": "What is the capital city of Kenya?",
+        "options": ["Nairobi", "Mombasa", "Kisumu", "Eldoret"],
+        "answer": "Nairobi"
+    },
+    {
+        "question": "Which country is famous for its stunning fjords?",
+        "options": ["Norway", "Sweden", "Denmark", "Finland"],
+        "answer": "Norway"
+    },
+    {
+        "question": "What is the capital city of Israel?",
+        "options": ["Jerusalem", "Tel Aviv", "Haifa", "Nazareth"],
+        "answer": "Jerusalem"
+    },
+    {
+        "question": "Which country is known for its iconic Eiffel Tower?",
+        "options": ["France", "Italy", "Germany", "Spain"],
+        "answer": "France"
+    },
+    {
+        "question": "What is the capital city of Turkey?",
+        "options": ["Ankara", "Istanbul", "Izmir", "Antalya"],
+        "answer": "Ankara"
+    },
+    {
+        "question": "Which country is famous for its historic site of Angkor Wat?",
+        "options": ["Cambodia", "Thailand", "Vietnam", "Laos"],
+        "answer": "Cambodia"
+    },
+    {
+        "question": "What is the capital city of Austria?",
+        "options": ["Vienna", "Salzburg", "Innsbruck", "Graz"],
+        "answer": "Vienna"
+    },
+    {
+        "question": "Which country is known for its traditional food including croissants and baguettes?",
+        "options": ["France", "Italy", "Germany", "Spain"],
+        "answer": "France"
+    },
+    {
+        "question": "What is the capital city of Morocco?",
+        "options": ["Rabat", "Casablanca", "Marrakech", "Tangier"],
+        "answer": "Rabat"
+    },
+    {
+        "question": "Which country is known for its tulip fields and windmills?",
+        "options": ["Netherlands", "Belgium", "Denmark", "Sweden"],
+        "answer": "Netherlands"
+    },
+    {
+        "question": "What is the capital city of Argentina?",
+        "options": ["Buenos Aires", "Cordoba", "Rosario", "Mendoza"],
+        "answer": "Buenos Aires"
+    },
+    {
+        "question": "Which country is famous for its picturesque Alps and ski resorts?",
+        "options": ["Switzerland", "France", "Austria", "Germany"],
+        "answer": "Switzerland"
+    },
+    {
+        "question": "What is the capital city of Peru?",
+        "options": ["Lima", "Cusco", "Arequipa", "Trujillo"],
+        "answer": "Lima"
+    },
+    {
+        "question": "Which country is known for its historical landmarks such as the Acropolis?",
+        "options": ["Greece", "Italy", "Turkey", "Egypt"],
+        "answer": "Greece"
+    },
+    {
+        "question": "What is the capital city of Denmark?",
+        "options": ["Copenhagen", "Aarhus", "Odense", "Aalborg"],
+        "answer": "Copenhagen"
+    },
+    {
+        "question": "Which country is known for its rich cultural heritage and historical ruins of Machu Picchu?",
+        "options": ["Peru", "Bolivia", "Chile", "Colombia"],
+        "answer": "Peru"
+    },
+    {
+        "question": "What is the capital city of Switzerland?",
+        "options": ["Bern", "Zurich", "Geneva", "Lausanne"],
+        "answer": "Bern"
+    },
+    {
+        "question": "Which country is known for its famous Great Wall?",
+        "options": ["China", "India", "Vietnam", "Japan"],
+        "answer": "China"
+    },
+    {
+        "question": "What is the capital city of the Netherlands?",
+        "options": ["Amsterdam", "Rotterdam", "Utrecht", "The Hague"],
+        "answer": "Amsterdam"
+    },
+    {
+        "question": "Which country is famous for its beautiful beaches and tropical climate?",
+        "options": ["Thailand", "Indonesia", "Philippines", "Maldives"],
+        "answer": "Thailand"
+    },
+    {
+        "question": "What is the capital city of Germany?",
+        "options": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+        "answer": "Berlin"
+    },
+    {
+        "question": "Which country is known for its iconic pyramids and Sphinx?",
+        "options": ["Egypt", "Greece", "Mexico", "Peru"],
+        "answer": "Egypt"
+    },
+    {
+        "question": "What is the capital city of Canada?",
+        "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+        "answer": "Ottawa"
+    },
+    {
+        "question": "Which country is famous for its vibrant culture and dance festivals in Buenos Aires?",
+        "options": ["Argentina", "Brazil", "Chile", "Uruguay"],
+        "answer": "Argentina"
+    },
+    {
+        "question": "What is the capital city of Vietnam?",
+        "options": ["Hanoi", "Ho Chi Minh City", "Da Nang", "Hue"],
+        "answer": "Hanoi"
+    },
+    {
+        "question": "Which country is known for its rich history and the city of Petra?",
+        "options": ["Jordan", "Israel", "Egypt", "Lebanon"],
+        "answer": "Jordan"
+    },
+    {
+        "question": "What is the capital city of New Zealand?",
+        "options": ["Wellington", "Auckland", "Christchurch", "Hamilton"],
+        "answer": "Wellington"
+    },
+    {
+        "question": "Which country is known for its stunning coastline and beautiful beaches in the Caribbean?",
+        "options": ["Jamaica", "Dominican Republic", "Cuba", "Barbados"],
+        "answer": "Jamaica"
+    },
+    {
+        "question": "What is the capital city of Portugal?",
+        "options": ["Lisbon", "Porto", "Coimbra", "Braga"],
+        "answer": "Lisbon"
+    },
+    {
+        "question": "Which country is famous for its unique architecture and canals in Venice?",
+        "options": ["Italy", "France", "Spain", "Greece"],
+        "answer": "Italy"
+    },
+    {
+        "question": "What is the capital city of the Czech Republic?",
+        "options": ["Prague", "Brno", "Ostrava", "Plzeň"],
+        "answer": "Prague"
+    },
+    {
+        "question": "Which country is known for its historic site of Angkor Wat?",
+        "options": ["Cambodia", "Thailand", "Vietnam", "Laos"],
+        "answer": "Cambodia"
+    },
+  ]
