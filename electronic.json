@@ -1,0 +1,807 @@
+[
+  {
+    "question": "What does the acronym 'LED' stand for?",
+    "options": ["Light Emitting Diode", "Light Energy Device", "Laser Emitting Diode", "Low Energy Display"],
+    "answer": "Light Emitting Diode"
+  },
+  {
+    "question": "Which company developed the first commercially successful personal computer?",
+    "options": ["Apple", "IBM", "Microsoft", "Compaq"],
+    "answer": "IBM"
+  },
+  {
+    "question": "What is the primary function of a CPU in a computer?",
+    "options": ["Processing data", "Storing data", "Displaying data", "Networking"],
+    "answer": "Processing data"
+  },
+  {
+    "question": "Which company is known for creating the Galaxy series of smartphones?",
+    "options": ["Samsung", "Apple", "Google", "Huawei"],
+    "answer": "Samsung"
+  },
+  {
+    "question": "What does 'RAM' stand for in computer terminology?",
+    "options": ["Random Access Memory", "Read Access Memory", "Rapid Access Memory", "Reserved Access Memory"],
+    "answer": "Random Access Memory"
+  },
+  {
+    "question": "Which technology is used for wireless communication between devices over short distances?",
+    "options": ["Bluetooth", "Wi-Fi", "NFC", "Zigbee"],
+    "answer": "Bluetooth"
+  },
+  {
+    "question": "What is the purpose of an SSD in a computer?",
+    "options": ["Storage", "Processing", "Networking", "Graphics"],
+    "answer": "Storage"
+  },
+  {
+    "question": "Which company is known for its gaming console 'PlayStation'?",
+    "options": ["Sony", "Microsoft", "Nintendo", "Sega"],
+    "answer": "Sony"
+  },
+  {
+    "question": "What does 'USB' stand for?",
+    "options": ["Universal Serial Bus", "Universal System Bus", "United Serial Bus", "Unified System Bus"],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "question": "Which company is famous for its iPhone series?",
+    "options": ["Apple", "Samsung", "Google", "OnePlus"],
+    "answer": "Apple"
+  },
+  {
+    "question": "What type of battery is commonly used in most modern smartphones?",
+    "options": ["Lithium-ion", "Nickel-Cadmium", "Lead-Acid", "Alkaline"],
+    "answer": "Lithium-ion"
+  },
+  {
+    "question": "What does 'GPU' stand for in computer hardware?",
+    "options": ["Graphics Processing Unit", "General Processing Unit", "Graphics Power Unit", "General Power Unit"],
+    "answer": "Graphics Processing Unit"
+  },
+  {
+    "question": "Which device is used to input text into a computer?",
+    "options": ["Keyboard", "Mouse", "Printer", "Monitor"],
+    "answer": "Keyboard"
+  },
+  {
+    "question": "What is the main purpose of a router in a network?",
+    "options": ["Directing traffic", "Storing data", "Processing data", "Displaying information"],
+    "answer": "Directing traffic"
+  },
+  {
+    "question": "Which company is known for the 'Echo' smart speaker?",
+    "options": ["Amazon", "Google", "Apple", "Microsoft"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "What does 'Wi-Fi' stand for?",
+    "options": ["Wireless Fidelity", "Wireless Field", "Wired Fidelity", "Wireless Frequency"],
+    "answer": "Wireless Fidelity"
+  },
+  {
+    "question": "Which technology is used for wireless data transfer over short distances?",
+    "options": ["NFC", "Bluetooth", "Wi-Fi", "LTE"],
+    "answer": "NFC"
+  },
+  {
+    "question": "What does 'HDMI' stand for?",
+    "options": ["High-Definition Multimedia Interface", "High-Density Media Interface", "High-Definition Monitor Interface", "High-Definition Modular Interface"],
+    "answer": "High-Definition Multimedia Interface"
+  },
+  {
+    "question": "Which device is used for capturing photographs and videos?",
+    "options": ["Camera", "Microphone", "Speaker", "Monitor"],
+    "answer": "Camera"
+  },
+  {
+    "question": "What type of screen technology is known for its high resolution and color accuracy?",
+    "options": ["OLED", "LCD", "LED", "Plasma"],
+    "answer": "OLED"
+  },
+  {
+    "question": "Which company is known for its gaming console 'Xbox'?",
+    "options": ["Microsoft", "Sony", "Nintendo", "Sega"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "What is the primary function of a motherboard in a computer?",
+    "options": ["Connecting components", "Storing data", "Processing data", "Displaying data"],
+    "answer": "Connecting components"
+  },
+  {
+    "question": "Which technology allows for touch input on screens?",
+    "options": ["Touchscreen", "LCD", "LED", "Plasma"],
+    "answer": "Touchscreen"
+  },
+  {
+    "question": "What does '4K' refer to in display technology?",
+    "options": ["Resolution", "Refresh rate", "Aspect ratio", "Color depth"],
+    "answer": "Resolution"
+  },
+  {
+    "question": "Which company developed the first smartphone?",
+    "options": ["IBM", "Apple", "Nokia", "Samsung"],
+    "answer": "IBM"
+  },
+  {
+    "question": "What is the main function of a cooling fan in a computer?",
+    "options": ["Preventing overheating", "Increasing processing speed", "Improving storage", "Enhancing graphics"],
+    "answer": "Preventing overheating"
+  },
+  {
+    "question": "Which company is known for the 'Surface' line of tablets and laptops?",
+    "options": ["Microsoft", "Apple", "Google", "Samsung"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "What type of device is a smartwatch?",
+    "options": ["Wearable", "Desktop", "Mobile", "Peripheral"],
+    "answer": "Wearable"
+  },
+  {
+    "question": "Which company is known for creating the 'Raspberry Pi'?",
+    "options": ["Raspberry Pi Foundation", "Arduino", "Intel", "NVIDIA"],
+    "answer": "Raspberry Pi Foundation"
+  },
+  {
+    "question": "What does 'VPN' stand for?",
+    "options": ["Virtual Private Network", "Virtual Public Network", "Variable Private Network", "Variable Public Network"],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "question": "Which technology is used for fast wireless internet access?",
+    "options": ["5G", "4G", "3G", "2G"],
+    "answer": "5G"
+  },
+  {
+    "question": "What type of port is commonly used for connecting external storage devices?",
+    "options": ["USB", "HDMI", "Ethernet", "Audio"],
+    "answer": "USB"
+  },
+  {
+    "question": "Which company is known for the 'iPad'?",
+    "options": ["Apple", "Microsoft", "Samsung", "Google"],
+    "answer": "Apple"
+  },
+  {
+    "question": "What is the primary function of a graphics card in a computer?",
+    "options": ["Rendering graphics", "Processing data", "Storing data", "Connecting to networks"],
+    "answer": "Rendering graphics"
+  },
+  {
+    "question": "Which company developed the first digital camera?",
+    "options": ["Kodak", "Canon", "Sony", "Nikon"],
+    "answer": "Kodak"
+  },
+  {
+    "question": "What does 'IoT' stand for in technology?",
+    "options": ["Internet of Things", "Interface of Technology", "Information on Transfer", "Integration of Technology"],
+    "answer": "Internet of Things"
+  },
+  {
+    "question": "Which technology is used for creating virtual reality environments?",
+    "options": ["VR", "AR", "AI", "3D Printing"],
+    "answer": "VR"
+  },
+  {
+    "question": "What is the main function of a power supply unit (PSU) in a computer?",
+    "options": ["Providing power", "Processing data", "Storing data", "Cooling components"],
+    "answer": "Providing power"
+  },
+  {
+    "question": "Which company is known for the 'Echo' smart home devices?",
+    "options": ["Amazon", "Google", "Apple", "Samsung"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "What does 'GPS' stand for?",
+    "options": ["Global Positioning System", "Geographic Positioning System", "General Positioning System", "Global Processing System"],
+    "answer": "Global Positioning System"
+  },
+  {
+    "question": "Which company is known for creating the 'Nexus' line of smartphones?",
+    "options": ["Google", "Samsung", "Apple", "Sony"],
+    "answer": "Google"
+  },
+  {
+    "question": "What is the purpose of an external hard drive?",
+    "options": ["Backup storage", "Processing data", "Displaying graphics", "Cooling components"],
+    "answer": "Backup storage"
+  },
+  {
+    "question": "What is the main function of a semiconductor in electronics?",
+    "options": ["Controlling electrical current", "Storing data", "Generating power", "Displaying images"],
+    "answer": "Controlling electrical current"
+  },
+  {
+    "question": "Which company is known for the 'MacBook' line of laptops?",
+    "options": ["Apple", "Dell", "HP", "Lenovo"],
+    "answer": "Apple"
+  },
+  {
+    "question": "What does 'OLED' stand for in display technology?",
+    "options": ["Organic Light Emitting Diode", "Optical Light Emitting Display", "Organic Light Energy Display", "Optical Light Energy Device"],
+    "answer": "Organic Light Emitting Diode"
+  },
+  {
+    "question": "Which company produces the 'Surface Pro' series?",
+    "options": ["Microsoft", "Apple", "Samsung", "Huawei"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "What type of device is a 'smart thermostat'?",
+    "options": ["IoT device", "Wearable", "Peripheral", "Networking"],
+    "answer": "IoT device"
+  },
+  {
+    "question": "What does '4G' refer to in mobile network technology?",
+    "options": ["Fourth generation", "Fast generation", "Fourth group", "Frequency generation"],
+    "answer": "Fourth generation"
+  },
+  {
+    "question": "Which company is known for its 'Fire TV' devices?",
+    "options": ["Amazon", "Google", "Apple", "Roku"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "What is the primary function of a 'motherboard' in a computer?",
+    "options": ["Connecting all components", "Storing data", "Processing graphics", "Managing power"],
+    "answer": "Connecting all components"
+  },
+  {
+    "question": "Which technology is used for biometric authentication?",
+    "options": ["Fingerprint sensor", "Bluetooth", "Wi-Fi", "NFC"],
+    "answer": "Fingerprint sensor"
+  },
+  {
+    "question": "What does 'IP' stand for in 'IP address'?",
+    "options": ["Internet Protocol", "Integrated Protocol", "International Protocol", "Internet Program"],
+    "answer": "Internet Protocol"
+  },
+  {
+    "question": "Which company is famous for its 'Echo Dot' smart speaker?",
+    "options": ["Amazon", "Google", "Apple", "Sony"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "What is the purpose of a 'graphics card'?",
+    "options": ["Rendering images and videos", "Storing data", "Connecting to the internet", "Processing audio"],
+    "answer": "Rendering images and videos"
+  },
+  {
+    "question": "Which company developed the 'Nest' smart home products?",
+    "options": ["Google", "Amazon", "Apple", "Samsung"],
+    "answer": "Google"
+  },
+  {
+    "question": "What type of screen technology is known for its deep blacks and vibrant colors?",
+    "options": ["OLED", "LCD", "LED", "Plasma"],
+    "answer": "OLED"
+  },
+  {
+    "question": "What does 'SSD' stand for in computer storage?",
+    "options": ["Solid State Drive", "Solid Storage Device", "System Storage Drive", "Solid System Drive"],
+    "answer": "Solid State Drive"
+  },
+  {
+    "question": "Which company is known for its 'Galaxy' line of smartphones?",
+    "options": ["Samsung", "Apple", "Huawei", "Sony"],
+    "answer": "Samsung"
+  },
+  {
+    "question": "What does 'VR' stand for in gaming technology?",
+    "options": ["Virtual Reality", "Variable Reality", "Visual Reality", "Virtual Recreation"],
+    "answer": "Virtual Reality"
+  },
+  {
+    "question": "Which type of memory is volatile and used for temporary storage in computers?",
+    "options": ["RAM", "ROM", "SSD", "HDD"],
+    "answer": "RAM"
+  },
+  {
+    "question": "Which company is known for the 'Duo' smartphone series?",
+    "options": ["Microsoft", "Google", "Samsung", "Apple"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "What does 'Bluetooth' allow devices to do?",
+    "options": ["Communicate wirelessly", "Connect via cables", "Transmit data through fiber optics", "Store data locally"],
+    "answer": "Communicate wirelessly"
+  },
+  {
+    "question": "Which device is primarily used for connecting to the internet wirelessly?",
+    "options": ["Router", "Printer", "Monitor", "Keyboard"],
+    "answer": "Router"
+  },
+  {
+    "question": "What does 'Wi-Fi' provide for electronic devices?",
+    "options": ["Wireless internet access", "Wired internet access", "Bluetooth connectivity", "USB connections"],
+    "answer": "Wireless internet access"
+  },
+  {
+    "question": "Which company produces the 'XPS' line of laptops?",
+    "options": ["Dell", "HP", "Lenovo", "Apple"],
+    "answer": "Dell"
+  },
+  {
+    "question": "What does 'NFC' stand for in wireless technology?",
+    "options": ["Near Field Communication", "Network Field Communication", "National Frequency Communication", "New Frequency Communication"],
+    "answer": "Near Field Communication"
+  },
+  {
+    "question": "Which company is known for creating the 'PlayStation' gaming consoles?",
+    "options": ["Sony", "Microsoft", "Nintendo", "Sega"],
+    "answer": "Sony"
+  },
+  {
+    "question": "What type of battery is commonly used in laptops and smartphones?",
+    "options": ["Lithium-ion", "Nickel-Metal Hydride", "Lead-Acid", "Alkaline"],
+    "answer": "Lithium-ion"
+  },
+  {
+    "question": "What does 'HD' stand for in display technology?",
+    "options": ["High Definition", "High Density", "High Display", "High Digital"],
+    "answer": "High Definition"
+  },
+  {
+    "question": "Which company is known for its 'Razer' gaming peripherals?",
+    "options": ["Razer", "Logitech", "Corsair", "SteelSeries"],
+    "answer": "Razer"
+  },
+  {
+    "question": "What is the main use of a 'tablet' device?",
+    "options": ["Portable computing", "Storing data", "High-speed processing", "Gaming only"],
+    "answer": "Portable computing"
+  },
+  {
+    "question": "Which company is known for the 'iWatch' line of smartwatches?",
+    "options": ["Apple", "Samsung", "Garmin", "Fitbit"],
+    "answer": "Apple"
+  },
+  {
+    "question": "What does 'LAN' stand for in networking?",
+    "options": ["Local Area Network", "Long Area Network", "Large Area Network", "Limited Area Network"],
+    "answer": "Local Area Network"
+  },
+  {
+    "question": "Which device is used to project images or videos onto a screen or wall?",
+    "options": ["Projector", "Monitor", "Speaker", "Printer"],
+    "answer": "Projector"
+  },
+  {
+    "question": "Which company is known for its 'MacBook' laptops?",
+    "options": ["Apple", "Dell", "HP", "Lenovo"],
+    "answer": "Apple"
+  },
+  {
+    "question": "What does 'DDR' stand for in memory technology?",
+    "options": ["Double Data Rate", "Dynamic Data Rate", "Direct Data Rate", "Dual Data Rate"],
+    "answer": "Double Data Rate"
+  },
+  {
+    "question": "What is the function of a 'power bank'?",
+    "options": ["Portable charging", "Wireless internet access", "Data storage", "Network routing"],
+    "answer": "Portable charging"
+  },
+  {
+    "question": "Which company is known for its 'Nest' smart home products?",
+    "options": ["Google", "Amazon", "Apple", "Samsung"],
+    "answer": "Google"
+  },
+  {
+    "question": "What does 'VPN' stand for in network security?",
+    "options": ["Virtual Private Network", "Virtual Public Network", "Variable Private Network", "Virtual Protected Network"],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "question": "Which device is used for capturing audio?",
+    "options": ["Microphone", "Camera", "Speaker", "Monitor"],
+    "answer": "Microphone"
+  },
+  {
+    "question": "What does 'HDD' stand for in storage technology?",
+    "options": ["Hard Disk Drive", "Hard Data Drive", "High Definition Disk", "High Density Drive"],
+    "answer": "Hard Disk Drive"
+  },
+  {
+    "question": "Which company is known for creating the 'Kindle' e-reader?",
+    "options": ["Amazon", "Barnes & Noble", "Apple", "Kobo"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "What does '3D' stand for in display technology?",
+    "options": ["Three-Dimensional", "Three-Digit", "Three-Display", "Three-Definition"],
+    "answer": "Three-Dimensional"
+  },
+{
+        "question": "What is the purpose of a smart thermostat?",
+        "options": ["Climate control", "Audio playback", "Data storage", "Gaming"],
+        "answer": "Climate control"
+    },
+    {
+        "question": "Which company developed the 'Echo Show' smart display?",
+        "options": ["Amazon", "Apple", "Google", "Microsoft"],
+        "answer": "Amazon"
+    },
+    {
+        "question": "What does 'e-ink' technology in e-readers stand for?",
+        "options": ["Electronic Ink", "Enhanced Ink", "Energy-efficient Ink", "Electronic Interface"],
+        "answer": "Electronic Ink"
+    },
+    {
+        "question": "Which gadget is primarily used to track physical fitness?",
+        "options": ["Fitness tracker", "Smart speaker", "Digital camera", "Router"],
+        "answer": "Fitness tracker"
+    },
+    {
+        "question": "What type of device is a 'smart ring'?",
+        "options": ["Wearable", "Peripheral", "Desktop", "Networking"],
+        "answer": "Wearable"
+    },
+    {
+        "question": "Which company is known for the 'Nest Cam' security cameras?",
+        "options": ["Google", "Amazon", "Ring", "Arlo"],
+        "answer": "Google"
+    },
+    {
+        "question": "What does 'GPS' technology help with?",
+        "options": ["Location tracking", "Wireless charging", "Audio streaming", "Video recording"],
+        "answer": "Location tracking"
+    },
+    {
+        "question": "What is the primary use of a digital assistant like Siri or Alexa?",
+        "options": ["Voice commands and queries", "Image editing", "Data backup", "Internet browsing"],
+        "answer": "Voice commands and queries"
+    },
+    {
+        "question": "Which company created the 'Oculus' VR headset?",
+        "options": ["Meta (formerly Facebook)", "Sony", "HTC", "Valve"],
+        "answer": "Meta (formerly Facebook)"
+    },
+    {
+        "question": "What does 'USB-C' refer to in connectivity?",
+        "options": ["A universal port standard", "A type of memory card", "A brand of headphones", "A wireless protocol"],
+        "answer": "A universal port standard"
+    },
+    {
+        "question": "What is the function of a 'smart lock'?",
+        "options": ["Remote door access control", "Data encryption", "Wireless audio transmission", "Internet speed enhancement"],
+        "answer": "Remote door access control"
+    },
+    {
+        "question": "Which company produces the 'GoPro' action cameras?",
+        "options": ["GoPro", "Sony", "Canon", "Nikon"],
+        "answer": "GoPro"
+    },
+    {
+        "question": "What does 'Bluetooth LE' stand for?",
+        "options": ["Bluetooth Low Energy", "Bluetooth Long Edition", "Bluetooth Light Edition", "Bluetooth Link Environment"],
+        "answer": "Bluetooth Low Energy"
+    },
+    {
+        "question": "What is the main function of a 'drone'?",
+        "options": ["Aerial photography and video", "Audio amplification", "Data storage", "Networking"],
+        "answer": "Aerial photography and video"
+    },
+    {
+        "question": "Which company is known for the 'Chromecast' streaming device?",
+        "options": ["Google", "Amazon", "Apple", "Roku"],
+        "answer": "Google"
+    },
+    {
+        "question": "What is the purpose of a 'smart plug'?",
+        "options": ["Remote control of electrical outlets", "Data encryption", "Wireless internet access", "Audio enhancement"],
+        "answer": "Remote control of electrical outlets"
+    },
+    {
+        "question": "What does 'OLED' technology stand for in displays?",
+        "options": ["Organic Light Emitting Diode", "Optical Light Emitting Device", "Organic Light Energy Display", "Optical Light Energy Diode"],
+        "answer": "Organic Light Emitting Diode"
+    },
+    {
+        "question": "Which device is used to measure heart rate during exercise?",
+        "options": ["Heart rate monitor", "Smartwatch", "Fitness tracker", "Pulse oximeter"],
+        "answer": "Heart rate monitor"
+    },
+    {
+        "question": "What does 'NFC' allow devices to do?",
+        "options": ["Exchange data over short distances", "Connect via Bluetooth", "Process payments", "Enhance audio quality"],
+        "answer": "Exchange data over short distances"
+    },
+    {
+        "question": "Which company produces the 'Echo Frames' smart glasses?",
+        "options": ["Amazon", "Google", "Apple", "Bose"],
+        "answer": "Amazon"
+    },
+    {
+        "question": "What is the main function of a 'smart refrigerator'?",
+        "options": ["Food management and connectivity", "Audio playback", "Data backup", "Wireless charging"],
+        "answer": "Food management and connectivity"
+    },
+    {
+        "question": "Which gadget is commonly used to track sleep patterns?",
+        "options": ["Sleep tracker", "Smart speaker", "Digital camera", "Gaming console"],
+        "answer": "Sleep tracker"
+    },
+    {
+        "question": "What is the purpose of a 'wireless charger'?",
+        "options": ["Charging devices without cables", "Enhancing internet speed", "Capturing audio", "Storing data"],
+        "answer": "Charging devices without cables"
+    },
+    {
+        "question": "Which company is known for its 'Sonos' wireless speakers?",
+        "options": ["Sonos", "Bose", "Apple", "Samsung"],
+        "answer": "Sonos"
+    },
+    {
+        "question": "What does 'HMD' stand for in technology?",
+        "options": ["Head-Mounted Display", "High-Memory Device", "Home-Monitoring Device", "Hybrid-Media Device"],
+        "answer": "Head-Mounted Display"
+    },
+    {
+        "question": "What is the function of a 'smart oven'?",
+        "options": ["Remote cooking control", "Data storage", "Audio playback", "Internet access"],
+        "answer": "Remote cooking control"
+    },
+    {
+        "question": "Which company developed the 'AirPods' wireless earbuds?",
+        "options": ["Apple", "Samsung", "Google", "Bose"],
+        "answer": "Apple"
+    },
+    {
+        "question": "What does 'Wi-Fi 6' refer to?",
+        "options": ["A new generation of wireless technology", "A type of data storage", "A sound enhancement technology", "A new display standard"],
+        "answer": "A new generation of wireless technology"
+    },
+    {
+        "question": "What is the purpose of a 'smartwatch'?",
+        "options": ["Tracking health metrics and notifications", "Storing data", "Enhancing audio", "Connecting to the internet"],
+        "answer": "Tracking health metrics and notifications"
+    },
+    {
+        "question": "Which company is known for its 'JBL' portable speakers?",
+        "options": ["JBL", "Sony", "Bose", "Apple"],
+        "answer": "JBL"
+    },
+    {
+        "question": "What does 'IP65' indicate about a device?",
+        "options": ["Water and dust resistance", "Shock resistance", "Temperature resistance", "Data protection"],
+        "answer": "Water and dust resistance"
+    },
+    {
+        "question": "What type of device is a 'smartband'?",
+        "options": ["Wearable", "Peripheral", "Desktop", "Networking"],
+        "answer": "Wearable"
+    },
+    {
+        "question": "Which company is known for the 'Kindle' e-readers?",
+        "options": ["Amazon", "Barnes & Noble", "Apple", "Kobo"],
+        "answer": "Amazon"
+    },
+    {
+        "question": "What does '4K' stand for in display resolution?",
+        "options": ["Ultra High Definition", "Four Thousand", "Four-Kilometer", "Fast Processing"],
+        "answer": "Ultra High Definition"
+    },
+    {
+        "question": "Which device is primarily used to control smart home systems?",
+        "options": ["Smart home hub", "Fitness tracker", "Wireless speaker", "Router"],
+        "answer": "Smart home hub"
+    },
+    {
+        "question": "What is the function of a 'smart plug'?",
+        "options": ["Remote control of electrical outlets", "Data encryption", "Wireless internet access", "Audio enhancement"],
+        "answer": "Remote control of electrical outlets"
+    },
+    {
+        "question": "Which company produces the 'DJI' drones?",
+        "options": ["DJI", "GoPro", "Sony", "Apple"],
+        "answer": "DJI"
+    },
+    {
+        "question": "What does 'HDR10' refer to in video technology?",
+        "options": ["High Dynamic Range", "High Definition Resolution", "High Data Rate", "High Display Resolution"],
+        "answer": "High Dynamic Range"
+    },
+    {
+        "question": "Which company is known for its 'Netgear' routers?",
+        "options": ["Netgear", "Linksys", "D-Link", "TP-Link"],
+        "answer": "Netgear"
+    },
+ {
+        "question": "What is the primary function of a 'smart thermostat'?",
+        "options": ["Climate control", "Data encryption", "Video streaming", "Audio playback"],
+        "answer": "Climate control"
+    },
+    {
+        "question": "Which company developed the 'Echo Dot'?",
+        "options": ["Amazon", "Apple", "Google", "Microsoft"],
+        "answer": "Amazon"
+    },
+    {
+        "question": "What does 'e-ink' technology help reduce?",
+        "options": ["Screen glare", "Battery consumption", "Processing speed", "Data usage"],
+        "answer": "Battery consumption"
+    },
+    {
+        "question": "Which gadget is used to monitor physical activity and sleep patterns?",
+        "options": ["Fitness tracker", "Smart speaker", "Digital camera", "Laptop"],
+        "answer": "Fitness tracker"
+    },
+    {
+        "question": "What feature distinguishes a 'smart ring' from traditional rings?",
+        "options": ["Technological integration", "Material quality", "Design", "Size"],
+        "answer": "Technological integration"
+    },
+    {
+        "question": "Which company is known for producing 'Nest Protect' smoke detectors?",
+        "options": ["Google", "Amazon", "Apple", "Ring"],
+        "answer": "Google"
+    },
+    {
+        "question": "What does 'GPS' stand for?",
+        "options": ["Global Positioning System", "Global Performance System", "General Positioning Service", "General Performance System"],
+        "answer": "Global Positioning System"
+    },
+    {
+        "question": "What is the main function of a digital assistant like Alexa?",
+        "options": ["Voice commands and queries", "Photo editing", "Data backup", "Streaming music"],
+        "answer": "Voice commands and queries"
+    },
+    {
+        "question": "Which company is behind the 'Oculus Rift' VR headset?",
+        "options": ["Meta (formerly Facebook)", "Sony", "HTC", "Valve"],
+        "answer": "Meta (formerly Facebook)"
+    },
+    {
+        "question": "What is a key benefit of using 'USB-C' over older USB types?",
+        "options": ["Reversible connector", "Faster data transfer", "Wider compatibility", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is a 'smart lock' commonly used for?",
+        "options": ["Securing doors remotely", "Increasing internet speed", "Improving audio quality", "Charging devices"],
+        "answer": "Securing doors remotely"
+    },
+    {
+        "question": "Which company is renowned for 'Hero' action cameras?",
+        "options": ["GoPro", "Sony", "Canon", "Nikon"],
+        "answer": "GoPro"
+    },
+    {
+        "question": "What does 'Bluetooth LE' enable in devices?",
+        "options": ["Low energy data transfer", "High-definition audio streaming", "Extended wireless range", "Enhanced video playback"],
+        "answer": "Low energy data transfer"
+    },
+    {
+        "question": "What is a primary use for 'drones' in consumer electronics?",
+        "options": ["Aerial photography", "Voice commands", "Data backup", "Wireless charging"],
+        "answer": "Aerial photography"
+    },
+    {
+        "question": "Which company developed the 'Chromecast' device?",
+        "options": ["Google", "Amazon", "Apple", "Roku"],
+        "answer": "Google"
+    },
+    {
+        "question": "What functionality does a 'smart plug' provide?",
+        "options": ["Remote control of electrical devices", "Internet connectivity", "Audio enhancement", "Video recording"],
+        "answer": "Remote control of electrical devices"
+    },
+    {
+        "question": "What technology does 'OLED' display use?",
+        "options": ["Organic light-emitting diodes", "Optical light-emitting diodes", "Organic light-emitting devices", "Optical light-emitting devices"],
+        "answer": "Organic light-emitting diodes"
+    },
+    {
+        "question": "Which device is used to monitor heart rate during exercise?",
+        "options": ["Heart rate monitor", "Smartwatch", "Fitness tracker", "Pulse oximeter"],
+        "answer": "Heart rate monitor"
+    },
+    {
+        "question": "What does 'NFC' technology enable?",
+        "options": ["Short-range wireless communication", "Long-range Bluetooth connection", "Enhanced audio quality", "High-speed data transfer"],
+        "answer": "Short-range wireless communication"
+    },
+    {
+        "question": "Which company manufactures 'Echo Frames' smart glasses?",
+        "options": ["Amazon", "Google", "Apple", "Bose"],
+        "answer": "Amazon"
+    },
+    {
+        "question": "What feature does a 'smart refrigerator' typically offer?",
+        "options": ["Connectivity and food management", "Wireless charging", "Audio playback", "Data storage"],
+        "answer": "Connectivity and food management"
+    },
+    {
+        "question": "Which gadget tracks sleep patterns and physical activity?",
+        "options": ["Smartwatch", "Digital camera", "Fitness tracker", "Smart speaker"],
+        "answer": "Fitness tracker"
+    },
+    {
+        "question": "What is the main use of a 'wireless charger'?",
+        "options": ["Charging devices without cables", "Improving internet speed", "Enhancing audio quality", "Storing data"],
+        "answer": "Charging devices without cables"
+    },
+    {
+        "question": "Which company is known for 'Sonos' wireless speakers?",
+        "options": ["Sonos", "Bose", "Apple", "Samsung"],
+        "answer": "Sonos"
+    },
+    {
+        "question": "What does 'HMD' stand for in technology?",
+        "options": ["Head-Mounted Display", "High-Memory Device", "Home-Monitoring Device", "Hybrid-Media Device"],
+        "answer": "Head-Mounted Display"
+    },
+    {
+        "question": "What is a 'smart oven' designed to do?",
+        "options": ["Allow remote cooking control", "Increase internet speed", "Enhance audio quality", "Store data"],
+        "answer": "Allow remote cooking control"
+    },
+    {
+        "question": "Which company produces 'AirPods' wireless earbuds?",
+        "options": ["Apple", "Samsung", "Google", "Bose"],
+        "answer": "Apple"
+    },
+    {
+        "question": "What does 'Wi-Fi 6' refer to?",
+        "options": ["The latest generation of wireless technology", "A type of data storage", "A sound enhancement technology", "A new display standard"],
+        "answer": "The latest generation of wireless technology"
+    },
+    {
+        "question": "What is the main function of a 'smartwatch'?",
+        "options": ["Tracking health metrics and notifications", "Storing data", "Enhancing audio", "Connecting to the internet"],
+        "answer": "Tracking health metrics and notifications"
+    },
+    {
+        "question": "Which company is known for producing 'JBL' portable speakers?",
+        "options": ["JBL", "Sony", "Bose", "Apple"],
+        "answer": "JBL"
+    },
+    {
+        "question": "What does 'IP65' rating signify?",
+        "options": ["Water and dust resistance", "Shock resistance", "Temperature resistance", "Data protection"],
+        "answer": "Water and dust resistance"
+    },
+    {
+        "question": "What type of device is a 'smartband'?",
+        "options": ["Wearable", "Peripheral", "Desktop", "Networking"],
+        "answer": "Wearable"
+    },
+    {
+        "question": "Which company is known for the 'Kindle' e-readers?",
+        "options": ["Amazon", "Barnes & Noble", "Apple", "Kobo"],
+        "answer": "Amazon"
+    },
+    {
+        "question": "What does '4K' resolution refer to?",
+        "options": ["Ultra High Definition", "Four Thousand Pixels", "Four Kilometers", "Fast Processing"],
+        "answer": "Ultra High Definition"
+    },
+    {
+        "question": "What is the primary use of a 'smart home hub'?",
+        "options": ["Centralized control of smart devices", "Data storage", "Enhancing audio", "Video recording"],
+        "answer": "Centralized control of smart devices"
+    },
+    {
+        "question": "What feature does a 'smart plug' provide?",
+        "options": ["Remote control of electrical outlets", "Data encryption", "Wireless internet access", "Audio enhancement"],
+        "answer": "Remote control of electrical outlets"
+    },
+    {
+        "question": "Which company manufactures 'DJI' drones?",
+        "options": ["DJI", "GoPro", "Sony", "Apple"],
+        "answer": "DJI"
+    },
+    {
+        "question": "What does 'HDR10' stand for in video technology?",
+        "options": ["High Dynamic Range", "High Definition Resolution", "High Data Rate", "High Display Resolution"],
+        "answer": "High Dynamic Range"
+    },
+    {
+        "question": "Which company is known for 'Netgear' networking equipment?",
+        "options": ["Netgear", "Linksys", "D-Link", "TP-Link"],
+        "answer": "Netgear"
+    },
+  ]
