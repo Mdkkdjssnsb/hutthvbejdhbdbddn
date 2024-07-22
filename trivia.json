@@ -1,0 +1,448 @@
+[
+    {
+        "question": "What does 🕵️‍♂️🔍📜 represent?",
+        "options": ["Detective investigating a case", "History lesson", "Treasure hunt", "Research study"],
+        "answer": "Detective investigating a case"
+    },
+    {
+        "question": "What does 🏰👸🕵️ represent?",
+        "options": ["Fairy tale", "Royal inspection", "Castle mystery", "Knight in shining armor"],
+        "answer": "Castle mystery"
+    },
+    {
+        "question": "What does 🧪🔬🧫 represent?",
+        "options": ["Scientific experiment", "Laboratory work", "Health checkup", "Research study"],
+        "answer": "Scientific experiment"
+    },
+    {
+        "question": "What does 🏞️🚶‍♂️🌲 represent?",
+        "options": ["Hiking in nature", "Picnic in the park", "Camping trip", "Road trip"],
+        "answer": "Hiking in nature"
+    },
+    {
+        "question": "What does 🚀🌕👩‍🚀 represent?",
+        "options": ["Space mission", "Moon landing", "Astronaut dream", "Sci-fi movie"],
+        "answer": "Moon landing"
+    },
+    {
+        "question": "What does 🍰🎂🎉 represent?",
+        "options": ["Birthday celebration", "Wedding anniversary", "Party dessert", "Graduation party"],
+        "answer": "Birthday celebration"
+    },
+    {
+        "question": "What does 🎭🕵️‍♂️🎩 represent?",
+        "options": ["Mystery play", "Masquerade party", "Theater performance", "Detective story"],
+        "answer": "Masquerade party"
+    },
+    {
+        "question": "What does 💍💒👰 represent?",
+        "options": ["Wedding ceremony", "Engagement party", "Anniversary celebration", "Marriage proposal"],
+        "answer": "Wedding ceremony"
+    },
+    {
+        "question": "What does 🏆🎖️🥇 represent?",
+        "options": ["Achievement awards", "Sporting event", "Competition prizes", "Recognition ceremony"],
+        "answer": "Competition prizes"
+    },
+    {
+        "question": "What does 🌪️🏚️🚧 represent?",
+        "options": ["Natural disaster", "Storm damage", "Emergency response", "Reconstruction"],
+        "answer": "Storm damage"
+    },
+    {
+        "question": "What does 🎬🍿📽️ represent?",
+        "options": ["Movie night", "Film production", "Cinema experience", "Film festival"],
+        "answer": "Movie night"
+    },
+    {
+        "question": "What does 🏖️🏄‍♂️🌞 represent?",
+        "options": ["Beach vacation", "Summer sports", "Sunny day", "Tropical getaway"],
+        "answer": "Beach vacation"
+    },
+    {
+        "question": "What does 🚢⚓🌊 represent?",
+        "options": ["Sea voyage", "Cruise trip", "Ocean adventure", "Nautical journey"],
+        "answer": "Cruise trip"
+    },
+    {
+        "question": "What does 📚💼🎓 represent?",
+        "options": ["Education and career", "Student life", "Graduation ceremony", "Study abroad"],
+        "answer": "Graduation ceremony"
+    },
+    {
+        "question": "What does 🦠💉🏥 represent?",
+        "options": ["Health checkup", "Vaccine development", "Medical treatment", "Disease outbreak"],
+        "answer": "Disease outbreak"
+    },
+    {
+        "question": "What does 🌋🔥🌋 represent?",
+        "options": ["Volcanic eruption", "Lava flow", "Geological activity", "Natural disaster"],
+        "answer": "Volcanic eruption"
+    },
+    {
+        "question": "What does 🎼🎻🎹 represent?",
+        "options": ["Music concert", "Orchestra performance", "Musical composition", "Music festival"],
+        "answer": "Orchestra performance"
+    },
+    {
+        "question": "What does 🚧👷‍♂️🔨 represent?",
+        "options": ["Construction site", "Renovation project", "Road work", "Building development"],
+        "answer": "Construction site"
+    },
+    {
+        "question": "What does 🎃👻🍬 represent?",
+        "options": ["Halloween celebration", "Spooky party", "Candy collection", "Costume party"],
+        "answer": "Halloween celebration"
+    },
+    {
+        "question": "What does 🏒🥅🏆 represent?",
+        "options": ["Hockey game", "Ice rink", "Sports competition", "Team victory"],
+        "answer": "Hockey game"
+    },
+    {
+        "question": "What does 🎳🏆🥇 represent?",
+        "options": ["Bowling competition", "Sports tournament", "Achievement award", "Game night"],
+        "answer": "Bowling competition"
+    },
+    {
+        "question": "What does 🚂🛤️🚆 represent?",
+        "options": ["Train journey", "Railroad trip", "Transportation system", "Train station"],
+        "answer": "Train journey"
+    },
+    {
+        "question": "What does 🎣🏞️🐟 represent?",
+        "options": ["Fishing trip", "Outdoor adventure", "Camping and fishing", "Lake activity"],
+        "answer": "Fishing trip"
+    },
+    {
+        "question": "What does 🌠🔭🪐 represent?",
+        "options": ["Stargazing", "Astronomy", "Planet observation", "Space exploration"],
+        "answer": "Stargazing"
+    },
+    {
+        "question": "What does 🎢🎡🎠 represent?",
+        "options": ["Amusement park", "Funfair", "Theme park rides", "Entertainment venue"],
+        "answer": "Amusement park"
+    },
+    {
+        "question": "What does 🛏️💤🌙 represent?",
+        "options": ["Sleep time", "Bedtime routine", "Dreams", "Rest and relaxation"],
+        "answer": "Sleep time"
+    },
+    {
+        "question": "What does 🚤🌅🌴 represent?",
+        "options": ["Island vacation", "Beach sunset", "Tropical getaway", "Boat tour"],
+        "answer": "Island vacation"
+    },
+    {
+        "question": "What does 🦉🌕✨ represent?",
+        "options": ["Nighttime", "Moonlight", "Owl's vision", "Magical night"],
+        "answer": "Magical night"
+    },
+    {
+        "question": "What does 🎲🎯🏆 represent?",
+        "options": ["Game night", "Competition", "Winning prize", "Board game"],
+        "answer": "Game night"
+    },
+    {
+        "question": "What does 🌧️☔️🌈 represent?",
+        "options": ["Weather changes", "Rainy day", "Rainbow after rain", "Springtime"],
+        "answer": "Rainbow after rain"
+    },
+    {
+        "question": "What does 🏕️🔥🌌 represent?",
+        "options": ["Camping trip", "Outdoor fire", "Starry night", "Nature escape"],
+        "answer": "Camping trip"
+    },
+    {
+        "question": "What does 🥨🍺🧀 represent?",
+        "options": ["Beer festival", "Bar snacks", "Pub food", "German cuisine"],
+        "answer": "Bar snacks"
+    },
+    {
+        "question": "What does 🏄‍♀️🌊👙 represent?",
+        "options": ["Surfing", "Beach vacation", "Summer sports", "Water sports"],
+        "answer": "Surfing"
+    },
+    {
+        "question": "What does 🏎️🏁🎯 represent?",
+        "options": ["Race car", "Finish line", "Racing competition", "High-speed racing"],
+        "answer": "Racing competition"
+    },
+    {
+        "question": "What does 📸🌟🎆 represent?",
+        "options": ["Photography", "Special event", "Celebration", "Night out"],
+        "answer": "Celebration"
+    },
+    {
+        "question": "What does 🧗‍♂️🪂🏞️ represent?",
+        "options": ["Adventure sports", "Mountain climbing", "Skydiving", "Outdoor activities"],
+        "answer": "Adventure sports"
+    },
+    {
+        "question": "What does 🚜🌾🏡 represent?",
+        "options": ["Farm life", "Agriculture", "Countryside", "Rural area"],
+        "answer": "Farm life"
+    },
+    {
+        "question": "What does 🕹️🎮🕹️ represent?",
+        "options": ["Video games", "Gaming session", "Arcade games", "Gaming console"],
+        "answer": "Video games"
+    },
+    {
+        "question": "What does 🚧🏗️🔨 represent?",
+        "options": ["Construction site", "Building project", "Renovation", "Work zone"],
+        "answer": "Construction site"
+    },
+    {
+        "question": "What does 🎤🎵🎼 represent?",
+        "options": ["Music performance", "Concert", "Singing", "Live show"],
+        "answer": "Music performance"
+    },
+    {
+        "question": "What does 🚢🌊🏝️ represent?",
+        "options": ["Cruise vacation", "Island hopping", "Sea adventure", "Beach resort"],
+        "answer": "Cruise vacation"
+    },
+    {
+        "question": "What does 🧙‍♂️🔮🗡️ represent?",
+        "options": ["Fantasy story", "Magic and adventure", "Wizard quest", "Mythical journey"],
+        "answer": "Fantasy story"
+    },
+    {
+        "question": "What does 🏂🏔️🎿 represent?",
+        "options": ["Winter sports", "Skiing trip", "Snowboarding", "Mountain adventure"],
+        "answer": "Winter sports"
+    },
+    {
+        "question": "What does 🍓🍌🍇 represent?",
+        "options": ["Fruit salad", "Healthy snack", "Fruit basket", "Summer fruits"],
+        "answer": "Fruit salad"
+    },
+    {
+        "question": "What does 🚴‍♂️🚵‍♀️🏆 represent?",
+        "options": ["Cycling competition", "Mountain biking", "Sports event", "Race"],
+        "answer": "Cycling competition"
+    },
+    {
+        "question": "What does 🎢🎠🎪 represent?",
+        "options": ["Amusement park", "Theme park", "Fun fair", "Carnival rides"],
+        "answer": "Carnival rides"
+    },
+    {
+        "question": "What does 🧺🧀🍇 represent?",
+        "options": ["Picnic", "Outdoor meal", "Basket of food", "Lunch outdoors"],
+        "answer": "Picnic"
+    },
+    {
+        "question": "What does 🏙️🌇🌆 represent?",
+        "options": ["City skyline", "Urban landscape", "Evening view", "Cityscape"],
+        "answer": "City skyline"
+    },
+    {
+        "question": "What does 🌌🌠🌕 represent?",
+        "options": ["Starry night", "Astronomy", "Night sky", "Celestial view"],
+        "answer": "Starry night"
+    },
+    [
+    {
+        "question": "What does 🕺💃🎶 represent?",
+        "options": ["Dance party", "Music festival", "Concert", "Dance class"],
+        "answer": "Dance party"
+    },
+    {
+        "question": "What does 🥋🥊🥇 represent?",
+        "options": ["Martial arts competition", "Boxing match", "Sports championship", "Athletic training"],
+        "answer": "Martial arts competition"
+    },
+    {
+        "question": "What does 📚✍️📝 represent?",
+        "options": ["Studying", "Writing a book", "Taking notes", "Doing homework"],
+        "answer": "Studying"
+    },
+    {
+        "question": "What does 🏰🐉⚔️ represent?",
+        "options": ["Medieval times", "Fantasy story", "Castle defense", "Dragon quest"],
+        "answer": "Fantasy story"
+    },
+    {
+        "question": "What does 🛌🧘‍♂️🌺 represent?",
+        "options": ["Relaxation", "Meditation retreat", "Spa day", "Yoga session"],
+        "answer": "Meditation retreat"
+    },
+    {
+        "question": "What does 🛩️🌏📸 represent?",
+        "options": ["Travel photography", "World tour", "Vacation snapshots", "Travel blog"],
+        "answer": "Travel photography"
+    },
+    {
+        "question": "What does 🍱🍣🍤 represent?",
+        "options": ["Japanese cuisine", "Sushi meal", "Seafood platter", "Asian dinner"],
+        "answer": "Sushi meal"
+    },
+    {
+        "question": "What does 🚓👮‍♂️🔦 represent?",
+        "options": ["Police investigation", "Crime scene", "Law enforcement", "Night patrol"],
+        "answer": "Police investigation"
+    },
+    {
+        "question": "What does 🛠️🔧🔩 represent?",
+        "options": ["Toolbox", "Mechanical work", "Home repair", "Engineering project"],
+        "answer": "Mechanical work"
+    },
+    {
+        "question": "What does 🧵🪡👗 represent?",
+        "options": ["Sewing", "Fashion design", "Clothing repair", "Tailoring"],
+        "answer": "Sewing"
+    },
+    {
+        "question": "What does 🏋️‍♂️💪🏃‍♀️ represent?",
+        "options": ["Fitness routine", "Gym workout", "Strength training", "Exercise program"],
+        "answer": "Fitness routine"
+    },
+    {
+        "question": "What does 🐠🐟🌊 represent?",
+        "options": ["Aquarium", "Fishing", "Marine life", "Underwater exploration"],
+        "answer": "Aquarium"
+    },
+    {
+        "question": "What does 🚴‍♀️🌳🌄 represent?",
+        "options": ["Cycling trip", "Nature ride", "Mountain biking", "Outdoor adventure"],
+        "answer": "Cycling trip"
+    },
+    {
+        "question": "What does 🏙️🌃🌉 represent?",
+        "options": ["City nightlife", "Urban exploration", "Night out", "City tour"],
+        "answer": "City nightlife"
+    },
+    {
+        "question": "What does 🎨🖌️🖼️ represent?",
+        "options": ["Art class", "Painting", "Art gallery", "Creative workshop"],
+        "answer": "Painting"
+    },
+    {
+        "question": "What does 🏖️🍹☀️ represent?",
+        "options": ["Beach day", "Summer vacation", "Tropical holiday", "Relaxing getaway"],
+        "answer": "Beach day"
+    },
+    {
+        "question": "What does 🚣‍♂️🏞️🌅 represent?",
+        "options": ["Kayaking", "Nature adventure", "Sunset trip", "Water sports"],
+        "answer": "Kayaking"
+    },
+    {
+        "question": "What does 🌌🌠🔭 represent?",
+        "options": ["Stargazing", "Astronomy", "Night sky observation", "Space exploration"],
+        "answer": "Stargazing"
+    },
+    {
+        "question": "What does 🧳✈️🌍 represent?",
+        "options": ["Traveling", "Vacation planning", "World tour", "Adventure trip"],
+        "answer": "Traveling"
+    },
+    {
+        "question": "What does 🎄🎁🎅 represent?",
+        "options": ["Christmas", "Holiday season", "Gift exchange", "Winter celebration"],
+        "answer": "Christmas"
+    },
+    {
+        "question": "What does 🏡🌻🌷 represent?",
+        "options": ["Home gardening", "Flower garden", "Backyard project", "Planting flowers"],
+        "answer": "Home gardening"
+    },
+    {
+        "question": "What does 🧗‍♀️🏞️⛰️ represent?",
+        "options": ["Rock climbing", "Mountain adventure", "Outdoor challenge", "Nature exploration"],
+        "answer": "Rock climbing"
+    },
+    {
+        "question": "What does 🏃‍♂️🏅🎽 represent?",
+        "options": ["Marathon", "Running race", "Athletic competition", "Fitness challenge"],
+        "answer": "Marathon"
+    },
+    {
+        "question": "What does 🧁🎉🎈 represent?",
+        "options": ["Birthday party", "Celebration", "Dessert table", "Special occasion"],
+        "answer": "Birthday party"
+    },
+    {
+        "question": "What does 🥂🎊🎆 represent?",
+        "options": ["New Year's Eve", "Celebration", "Toast", "Party"],
+        "answer": "New Year's Eve"
+    },
+    {
+        "question": "What does 🏄‍♂️🌊🏖️ represent?",
+        "options": ["Surfing", "Beach vacation", "Water sports", "Ocean adventure"],
+        "answer": "Surfing"
+    },
+    {
+        "question": "What does 🎮🕹️💻 represent?",
+        "options": ["Video gaming", "Computer games", "Gaming setup", "Online play"],
+        "answer": "Video gaming"
+    },
+    {
+        "question": "What does 🥗🍏🥕 represent?",
+        "options": ["Healthy eating", "Salad", "Vegetarian meal", "Fresh food"],
+        "answer": "Healthy eating"
+    },
+    {
+        "question": "What does 🎹🎷🎻 represent?",
+        "options": ["Music instruments", "Orchestra", "Band practice", "Music class"],
+        "answer": "Orchestra"
+    },
+    {
+        "question": "What does 🎭🎟️🎨 represent?",
+        "options": ["Theater performance", "Art show", "Cultural event", "Stage play"],
+        "answer": "Theater performance"
+    },
+    {
+        "question": "What does 🐒🌳🍌 represent?",
+        "options": ["Jungle", "Monkey habitat", "Tropical forest", "Wildlife"],
+        "answer": "Jungle"
+    },
+    {
+        "question": "What does 🍿🎬📽️ represent?",
+        "options": ["Movie night", "Cinema", "Film screening", "Home theater"],
+        "answer": "Movie night"
+    },
+    {
+        "question": "What does 🛤️🚂🌄 represent?",
+        "options": ["Train journey", "Railroad trip", "Scenic route", "Travel adventure"],
+        "answer": "Train journey"
+    },
+    {
+        "question": "What does 🌻🌞🌱 represent?",
+        "options": ["Springtime", "Gardening", "Nature", "Sunshine"],
+        "answer": "Springtime"
+    },
+    {
+        "question": "What does 📅📝🕒 represent?",
+        "options": ["Appointment", "Schedule", "Meeting", "Time management"],
+        "answer": "Appointment"
+    },
+    {
+        "question": "What does 🥂🍾🎉 represent?",
+        "options": ["Celebration", "Champagne toast", "Party", "Special occasion"],
+        "answer": "Celebration"
+    },
+    {
+        "question": "What does 🧁🍪🍩 represent?",
+        "options": ["Desserts", "Bakery treats", "Sweet snacks", "Party food"],
+        "answer": "Desserts"
+    },
+    {
+        "question": "What does 🏋️‍♀️💪🏆 represent?",
+        "options": ["Weightlifting competition", "Fitness challenge", "Strength training", "Bodybuilding"],
+        "answer": "Weightlifting competition"
+    },
+    {
+        "question": "What does 🐘🌿🌏 represent?",
+        "options": ["Safari", "Wildlife conservation", "Animal habitat", "Nature reserve"],
+        "answer": "Safari"
+    },
+    {
+        "question": "What does 🌞🌊🌴 represent?",
+        "options": ["Beach day", "Tropical vacation", "Summer holiday", "Island getaway"],
+        "answer": "Tropical vacation"
+    }
+  ]
