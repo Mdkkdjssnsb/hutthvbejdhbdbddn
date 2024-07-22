@@ -1,0 +1,537 @@
+[
+    {
+        "question": "Who is known for the 'PewDiePie' YouTube channel?",
+        "options": ["Felix Kjellberg", "Markiplier", "Jacksepticeye", "DanTDM"],
+        "answer": "Felix Kjellberg"
+    },
+    {
+        "question": "Which YouTube channel is famous for 'unboxing' videos?",
+        "options": ["Unbox Therapy", "The Slow Mo Guys", "Dude Perfect", "Good Mythical Morning"],
+        "answer": "Unbox Therapy"
+    },
+    {
+        "question": "What was the original name of the YouTube channel 'T-Series'?",
+        "options": ["T-Series Music", "T-Series Entertainment", "T-Series Bollywood", "T-Series Films"],
+        "answer": "T-Series Music"
+    },
+    {
+        "question": "Which YouTuber is known for the 'My Drunk Kitchen' series?",
+        "options": ["Hannah Hart", "Gordon Ramsay", "Binging with Babish", "Rosanna Pansino"],
+        "answer": "Hannah Hart"
+    },
+    {
+        "question": "What type of content is 'MrBeast' famous for?",
+        "options": ["Challenges and stunts", "Gaming", "Educational videos", "Travel vlogs"],
+        "answer": "Challenges and stunts"
+    },
+    {
+        "question": "Which platform did 'Logan Paul' gain fame on before YouTube?",
+        "options": ["Vine", "TikTok", "Instagram", "Facebook"],
+        "answer": "Vine"
+    },
+    {
+        "question": "Which YouTube channel features 'Epic Rap Battles of History'?",
+        "options": ["ERB", "The Fine Bros", "CollegeHumor", "Jacksfilms"],
+        "answer": "ERB"
+    },
+    {
+        "question": "Who is known for the YouTube channel 'CrashCourse'?",
+        "options": ["John Green", "Hank Green", "Marques Brownlee", "Philip DeFranco"],
+        "answer": "Hank Green"
+    },
+    {
+        "question": "Which YouTuber is famous for 'Nerdy Nummies'?",
+        "options": ["Rosanna Pansino", "Laura Vitale", "Tasty", "The Food Network"],
+        "answer": "Rosanna Pansino"
+    },
+    {
+        "question": "What is the main focus of the 'Smosh' channel?",
+        "options": ["Comedy sketches", "Gaming", "Music videos", "DIY crafts"],
+        "answer": "Comedy sketches"
+    },
+    {
+        "question": "Which YouTuber is known for 'The Try Guys'?",
+        "options": ["Keith Habersberger", "Zach Kornfeld", "Ned Fulmer", "Eugene Lee Yang"],
+        "answer": "Keith Habersberger"
+    },
+    {
+        "question": "What is the primary content of the 'TED' YouTube channel?",
+        "options": ["Educational talks", "Comedy sketches", "Gaming reviews", "Vlogs"],
+        "answer": "Educational talks"
+    },
+    {
+        "question": "Which YouTube creator is known for 'Good Mythical Morning'?",
+        "options": ["Rhett & Link", "PewDiePie", "Shane Dawson", "Jenna Marbles"],
+        "answer": "Rhett & Link"
+    },
+    {
+        "question": "What is the name of the channel started by 'James Charles'?",
+        "options": ["James Charles", "Beauty with James", "Makeup by James", "James’ Beauty"],
+        "answer": "James Charles"
+    },
+    {
+        "question": "Which YouTube channel is famous for 'Tasty' recipe videos?",
+        "options": ["BuzzFeed", "Food Network", "Bon Appétit", "Delish"],
+        "answer": "BuzzFeed"
+    },
+    {
+        "question": "Which YouTuber is known for the 'Binging with Babish' series?",
+        "options": ["Andrew Rea", "Gordon Ramsay", "Alton Brown", "Rachel Ray"],
+        "answer": "Andrew Rea"
+    },
+    {
+        "question": "What is the primary focus of the 'Veritasium' channel?",
+        "options": ["Science and engineering", "Music", "Travel", "Gaming"],
+        "answer": "Science and engineering"
+    },
+    {
+        "question": "Which YouTuber gained fame with the 'Annoying Orange' channel?",
+        "options": ["Daneboe", "Shane Dawson", "Jacksfilms", "Ray William Johnson"],
+        "answer": "Daneboe"
+    },
+    {
+        "question": "Which YouTube channel features 'The Ellen DeGeneres Show' episodes?",
+        "options": ["EllenTube", "Ellen DeGeneres", "Ellen Show", "Ellen Digital"],
+        "answer": "Ellen DeGeneres"
+    },
+    {
+        "question": "Who is known for the 'ASAP Science' YouTube channel?",
+        "options": ["Mitchell Moffit", "Greg Brown", "Michael Stevens", "Hank Green"],
+        "answer": "Mitchell Moffit"
+    },
+    {
+        "question": "Which YouTuber is known for the 'JoJo Siwa' channel?",
+        "options": ["JoJo Siwa", "Nia Sioux", "Mackenzie Ziegler", "Kendall Vertes"],
+        "answer": "JoJo Siwa"
+    },
+    {
+        "question": "What type of content does 'Marques Brownlee' primarily create?",
+        "options": ["Tech reviews", "Cooking", "Travel vlogs", "Music"],
+        "answer": "Tech reviews"
+    },
+    {
+        "question": "Which YouTube channel is known for 'Daily Dose of Internet'?",
+        "options": ["Daily Dose of Internet", "Rhett & Link", "Unbox Therapy", "TechCrunch"],
+        "answer": "Daily Dose of Internet"
+    },
+    {
+        "question": "Who is the host of the 'Phil DeFranco Show'?",
+        "options": ["Philip DeFranco", "Hank Green", "Shane Dawson", "Ethan Klein"],
+        "answer": "Philip DeFranco"
+    },
+    {
+        "question": "What is the focus of the 'The Slow Mo Guys' channel?",
+        "options": ["Slow-motion videos", "Gaming", "Cooking", "DIY projects"],
+        "answer": "Slow-motion videos"
+    },
+    {
+        "question": "Which YouTube channel is known for 'H3H3 Productions'?",
+        "options": ["Ethan Klein", "Philip DeFranco", "PewDiePie", "Lilly Singh"],
+        "answer": "Ethan Klein"
+    },
+    {
+        "question": "What type of content is 'Lilly Singh' known for on YouTube?",
+        "options": ["Comedy skits and vlogs", "Gaming", "Tech reviews", "Music"],
+        "answer": "Comedy skits and vlogs"
+    },
+    {
+        "question": "Which YouTuber created the 'Vlogbrothers' channel?",
+        "options": ["John Green", "Hank Green", "Shane Dawson", "Nerdfighteria"],
+        "answer": "John Green"
+    },
+    {
+        "question": "What type of content is 'T-Series' known for?",
+        "options": ["Music videos", "Gaming", "Vlogs", "Tech reviews"],
+        "answer": "Music videos"
+    },
+    {
+        "question": "Which channel is known for the 'Hot Ones' interview series?",
+        "options": ["First We Feast", "Bon Appétit", "Tasty", "Food Network"],
+        "answer": "First We Feast"
+    },
+    {
+        "question": "Which YouTube channel is famous for 'The Game Theorists'?",
+        "options": ["The Game Theorists", "GameSpot", "IGN", "Gameranx"],
+        "answer": "The Game Theorists"
+    },
+    {
+        "question": "Which YouTuber is known for the 'Nostalgia Critic' reviews?",
+        "options": ["Doug Walker", "James Rolfe", "Cinemassacre", "Screen Junkies"],
+        "answer": "Doug Walker"
+    },
+    {
+        "question": "What is the primary content of 'Dude Perfect'?",
+        "options": ["Trick shots and stunts", "Gaming", "Music", "Cooking"],
+        "answer": "Trick shots and stunts"
+    },
+    {
+        "question": "Which channel is known for the 'WatchMojo' top 10 lists?",
+        "options": ["WatchMojo", "BuzzFeed", "Vulture", "The Ringer"],
+        "answer": "WatchMojo"
+    },
+    {
+        "question": "Who is the creator of 'Dr. Mike' YouTube channel?",
+        "options": ["Mikhail Varshavski", "James Wilks", "Ben Carlsen", "Mike Varshavski"],
+        "answer": "Mikhail Varshavski"
+    },
+    {
+        "question": "Which YouTuber is known for the 'PewDiePie' channel?",
+        "options": ["Felix Kjellberg", "Markiplier", "Jacksepticeye", "DanTDM"],
+        "answer": "Felix Kjellberg"
+    },
+    {
+        "question": "What is the primary content of the 'Linus Tech Tips' channel?",
+        "options": ["Technology reviews", "Gaming", "Cooking", "Travel"],
+        "answer": "Technology reviews"
+    },
+    {
+        "question": "Which YouTuber created the 'Jenna Marbles' channel?",
+        "options": ["Jenna Mourey", "Brittany Furlan", "Lilly Singh", "Shane Dawson"],
+        "answer": "Jenna Mourey"
+    },
+    {
+        "question": "What type of content is 'The Try Guys' known for?",
+        "options": ["Challenges and experiments", "Cooking", "Travel vlogs", "Tech reviews"],
+        "answer": "Challenges and experiments"
+    },
+    {
+        "question": "Which YouTube channel is famous for 'Try Not to Laugh' challenges?",
+        "options": ["The Try Guys", "Jacksfilms", "BuzzFeed", "Tasty"],
+        "answer": "Jacksfilms"
+    },
+    {
+        "question": "Who is the creator of 'Markiplier' channel?",
+        "options": ["Mark Fischbach", "Ethan Klein", "Felix Kjellberg", "Jacksepticeye"],
+        "answer": "Mark Fischbach"
+    },
+    {
+        "question": "Which channel is known for 'The Philip DeFranco Show'?",
+        "options": ["Philip DeFranco", "H3H3 Productions", "Vlogbrothers", "Good Mythical Morning"],
+        "answer": "Philip DeFranco"
+    },
+    {
+        "question": "What type of content does 'Tasty' focus on?",
+        "options": ["Cooking and recipes", "Technology", "Gaming", "Travel"],
+        "answer": "Cooking and recipes"
+    },
+    {
+        "question": "Which YouTuber is known for 'Good Mythical Morning'?",
+        "options": ["Rhett & Link", "Marques Brownlee", "PewDiePie", "Lilly Singh"],
+        "answer": "Rhett & Link"
+    },
+    {
+        "question": "Which channel is known for 'The Young Turks'?",
+        "options": ["The Young Turks", "Phil DeFranco", "Cenk Uygur", "Vox"],
+        "answer": "The Young Turks"
+    },
+    {
+        "question": "What type of content does 'Ray William Johnson' create?",
+        "options": ["Comedy and reaction videos", "Tech reviews", "Cooking", "Music"],
+        "answer": "Comedy and reaction videos"
+    },
+    {
+        "question": "Which YouTube channel is known for 'Ellen’s Game of Games'?",
+        "options": ["Ellen DeGeneres", "Jimmy Fallon", "Stephen Colbert", "James Corden"],
+        "answer": "Ellen DeGeneres"
+    },
+    {
+        "question": "Who is known for the 'Channel Awesome' network?",
+        "options": ["Doug Walker", "James Rolfe", "Chris Stuckmann", "Jeremy Jahns"],
+        "answer": "Doug Walker"
+    },
+    {
+        "question": "What type of content does 'Shane Dawson' primarily produce?",
+        "options": ["Documentaries and vlogs", "Gaming", "Tech reviews", "Cooking"],
+        "answer": "Documentaries and vlogs"
+    },
+    {
+        "question": "Which YouTube channel is known for 'Vsauce'?",
+        "options": ["Michael Stevens", "Hank Green", "Philip DeFranco", "Jenna Marbles"],
+        "answer": "Michael Stevens"
+    },
+    {
+        "question": "Which YouTuber is known for the 'Rhett & Link' channel?",
+        "options": ["Rhett McLaughlin", "Link Neal", "Shane Dawson", "PewDiePie"],
+        "answer": "Rhett McLaughlin"
+    },
+    {
+        "question": "What is the primary content of 'GMM' channel?",
+        "options": ["Comedy and talk show", "Gaming", "Tech reviews", "Cooking"],
+        "answer": "Comedy and talk show"
+    },
+    {
+        "question": "Who is known for the 'James Charles' YouTube channel?",
+        "options": ["James Charles", "Jeffree Star", "Huda Beauty", "NikkieTutorials"],
+        "answer": "James Charles"
+    },
+    {
+        "question": "Which channel features 'H3 Podcast'?",
+        "options": ["H3H3 Productions", "Philip DeFranco", "Jenna Marbles", "Lilly Singh"],
+        "answer": "H3H3 Productions"
+    },
+    {
+        "question": "What type of content does 'Epic Meal Time' focus on?",
+        "options": ["Over-the-top food recipes", "Gaming", "Tech reviews", "Travel"],
+        "answer": "Over-the-top food recipes"
+    },
+    {
+        "question": "Which YouTube channel is known for 'Inside Edition'?",
+        "options": ["Inside Edition", "The Daily Mail", "TMZ", "Entertainment Tonight"],
+        "answer": "Inside Edition"
+    },
+    {
+        "question": "What is the main focus of 'Science Channel'?",
+        "options": ["Science and technology", "Gaming", "Cooking", "Music"],
+        "answer": "Science and technology"
+    },
+    {
+        "question": "Which YouTube creator is known for 'Liza Koshy'?",
+        "options": ["Liza Koshy", "Jenna Marbles", "Rhett & Link", "Shane Dawson"],
+        "answer": "Liza Koshy"
+    },
+    {
+        "question": "Who is known for the 'James Rolfe' YouTube channel?",
+        "options": ["James Rolfe", "Doug Walker", "Shane Dawson", "Ethan Klein"],
+        "answer": "James Rolfe"
+    },
+    {
+        "question": "What type of content does 'Ben Shapiro' primarily produce on YouTube?",
+        "options": ["Political commentary", "Cooking", "Gaming", "Music"],
+        "answer": "Political commentary"
+    },
+    {
+        "question": "Which YouTube channel features 'Binging with Babish'?",
+        "options": ["Andrew Rea", "Gordon Ramsay", "Tasty", "Food Network"],
+        "answer": "Andrew Rea"
+    },
+    {
+        "question": "What is the main content focus of 'Nerdist' channel?",
+        "options": ["Pop culture and entertainment", "Gaming", "Tech reviews", "Cooking"],
+        "answer": "Pop culture and entertainment"
+    },
+    {
+        "question": "Which YouTuber is known for 'Hank Green' and 'CrashCourse'?",
+        "options": ["Hank Green", "John Green", "Michael Stevens", "Philip DeFranco"],
+        "answer": "Hank Green"
+    },
+    {
+        "question": "Which channel features 'The Late Late Show with James Corden' episodes?",
+        "options": ["The Late Late Show", "James Corden", "Jimmy Fallon", "Stephen Colbert"],
+        "answer": "James Corden"
+    },
+    {
+        "question": "What type of content does 'Marques Brownlee' focus on?",
+        "options": ["Tech reviews", "Gaming", "Music", "Vlogs"],
+        "answer": "Tech reviews"
+    },
+    {
+        "question": "Which YouTube channel is famous for 'Cinemassacre' and 'Angry Video Game Nerd'?",
+        "options": ["James Rolfe", "Doug Walker", "Shane Dawson", "Lilly Singh"],
+        "answer": "James Rolfe"
+    },
+    {
+        "question": "Who is known for 'Philip DeFranco' YouTube channel?",
+        "options": ["Philip DeFranco", "H3H3 Productions", "The Young Turks", "BuzzFeed"],
+        "answer": "Philip DeFranco"
+    },
+    {
+        "question": "What type of content does 'Lilly Singh' primarily create?",
+        "options": ["Comedy skits and talk shows", "Gaming", "Tech reviews", "Travel"],
+        "answer": "Comedy skits and talk shows"
+    },
+    {
+        "question": "Which YouTube channel features 'Good Mythical Morning'?",
+        "options": ["Rhett & Link", "PewDiePie", "Jacksepticeye", "DanTDM"],
+        "answer": "Rhett & Link"
+    },
+    {
+        "question": "Who is the creator of 'Tati' channel?",
+        "options": ["Tati Westbrook", "James Charles", "NikkieTutorials", "Jeffree Star"],
+        "answer": "Tati Westbrook"
+    },
+    {
+        "question": "What is the primary focus of 'ASAP Science' channel?",
+        "options": ["Science and educational content", "Tech reviews", "Gaming", "Music"],
+        "answer": "Science and educational content"
+    },
+   {
+        "question": "Which YouTube channel is known for 'Dude Perfect'?",
+        "options": ["Dude Perfect", "Unbox Therapy", "Good Mythical Morning", "Smosh"],
+        "answer": "Dude Perfect"
+    },
+    {
+        "question": "What is the primary content of the 'The Game Theorists' channel?",
+        "options": ["Gaming theories and analysis", "Cooking", "Vlogs", "Tech reviews"],
+        "answer": "Gaming theories and analysis"
+    },
+    {
+        "question": "Who is the creator of the 'Superwoman' channel?",
+        "options": ["Lilly Singh", "Nikki Tutorials", "Tati Westbrook", "James Charles"],
+        "answer": "Lilly Singh"
+    },
+    {
+        "question": "Which channel is known for 'TechCrunch' news?",
+        "options": ["TechCrunch", "Marques Brownlee", "The Verge", "CNET"],
+        "answer": "TechCrunch"
+    },
+    {
+        "question": "What type of content does 'The Slow Mo Guys' focus on?",
+        "options": ["Slow-motion videos", "Gaming", "Tech reviews", "Music"],
+        "answer": "Slow-motion videos"
+    },
+    {
+        "question": "Which YouTube channel features 'The Late Show with Stephen Colbert' episodes?",
+        "options": ["Stephen Colbert", "James Corden", "Jimmy Fallon", "Ellen DeGeneres"],
+        "answer": "Stephen Colbert"
+    },
+    {
+        "question": "Who is the creator of the 'The Fine Bros' channel?",
+        "options": ["Benny and Rafi Fine", "Ethan Klein", "Philip DeFranco", "Shane Dawson"],
+        "answer": "Benny and Rafi Fine"
+    },
+    {
+        "question": "Which YouTube channel is known for 'The Try Guys'?",
+        "options": ["The Try Guys", "Jacksfilms", "BuzzFeed", "Good Mythical Morning"],
+        "answer": "The Try Guys"
+    },
+    {
+        "question": "What is the focus of the 'Red Letter Media' channel?",
+        "options": ["Movie reviews and critiques", "Gaming", "Tech reviews", "Music"],
+        "answer": "Movie reviews and critiques"
+    },
+    {
+        "question": "Which YouTube creator is known for 'The King of Random'?",
+        "options": ["Grant Thompson", "Mark Rober", "Michael Stevens", "EvanTubeHD"],
+        "answer": "Grant Thompson"
+    },
+    {
+        "question": "What type of content does 'Gordon Ramsay' create on YouTube?",
+        "options": ["Cooking and recipes", "Gaming", "Tech reviews", "Travel"],
+        "answer": "Cooking and recipes"
+    },
+    {
+        "question": "Which YouTube channel is known for 'WatchMojo' top 10 lists?",
+        "options": ["WatchMojo", "Top10Archive", "Vox", "The Infographics Show"],
+        "answer": "WatchMojo"
+    },
+    {
+        "question": "Who is known for 'BuzzFeed' and its listicles?",
+        "options": ["BuzzFeed", "Jenna Marbles", "The Try Guys", "Good Mythical Morning"],
+        "answer": "BuzzFeed"
+    },
+    {
+        "question": "Which channel features 'The Ellen DeGeneres Show' episodes?",
+        "options": ["Ellen DeGeneres", "Jimmy Fallon", "Stephen Colbert", "James Corden"],
+        "answer": "Ellen DeGeneres"
+    },
+    {
+        "question": "What type of content does 'Tasty' produce?",
+        "options": ["Recipe and cooking videos", "Tech reviews", "Gaming", "Travel"],
+        "answer": "Recipe and cooking videos"
+    },
+    {
+        "question": "Which YouTuber is known for 'Ben and Jerry's' ice cream challenges?",
+        "options": ["Ben and Jerry's", "Good Mythical Morning", "The Try Guys", "Binging with Babish"],
+        "answer": "Good Mythical Morning"
+    },
+    {
+        "question": "Who is the creator of the 'Daily Dose of Internet' channel?",
+        "options": ["Jason Steele", "Daniel", "Derek", "Sven"],
+        "answer": "Jason Steele"
+    },
+    {
+        "question": "What type of content does 'CinemaSins' focus on?",
+        "options": ["Movie critiques and sins", "Gaming", "Tech reviews", "Music"],
+        "answer": "Movie critiques and sins"
+    },
+    {
+        "question": "Which YouTube channel is known for 'DIY projects'?",
+        "options": ["5-Minute Crafts", "The King of Random", "Tasty", "Good Mythical Morning"],
+        "answer": "5-Minute Crafts"
+    },
+    {
+        "question": "What is the main focus of 'Marques Brownlee' channel?",
+        "options": ["Tech reviews and unboxings", "Gaming", "Travel", "Cooking"],
+        "answer": "Tech reviews and unboxings"
+    },
+    {
+        "question": "Which YouTuber is known for 'The Try Guys' channel?",
+        "options": ["Keith Habersberger", "Zach Kornfeld", "Ned Fulmer", "Eugene Lee Yang"],
+        "answer": "Keith Habersberger"
+    },
+    {
+        "question": "What type of content does 'The Game Chasers' focus on?",
+        "options": ["Retro gaming and game collecting", "Cooking", "Tech reviews", "Travel"],
+        "answer": "Retro gaming and game collecting"
+    },
+    {
+        "question": "Which YouTube channel features 'GMM'?",
+        "options": ["Good Mythical Morning", "The Try Guys", "BuzzFeed", "Smosh"],
+        "answer": "Good Mythical Morning"
+    },
+    {
+        "question": "Who is known for 'Linus Tech Tips'?",
+        "options": ["Linus Sebastian", "Marques Brownlee", "Philip DeFranco", "Michael Stevens"],
+        "answer": "Linus Sebastian"
+    },
+    {
+        "question": "Which channel is famous for 'Mystery Science Theater 3000'?",
+        "options": ["RiffTrax", "Mystery Science Theater 3000", "Red Letter Media", "The Nostalgia Critic"],
+        "answer": "Mystery Science Theater 3000"
+    },
+    {
+        "question": "What is the primary content of 'James Charles' channel?",
+        "options": ["Beauty and makeup tutorials", "Gaming", "Tech reviews", "Travel"],
+        "answer": "Beauty and makeup tutorials"
+    },
+    {
+        "question": "Which YouTube channel is known for 'Epic Rap Battles of History'?",
+        "options": ["Epic Rap Battles", "The Fine Bros", "CollegeHumor", "Jacksfilms"],
+        "answer": "Epic Rap Battles"
+    },
+    {
+        "question": "What type of content does 'The Slow Mo Guys' focus on?",
+        "options": ["Slow-motion videos", "Cooking", "Gaming", "Music"],
+        "answer": "Slow-motion videos"
+    },
+    {
+        "question": "Which YouTube channel is known for 'Yoga with Adriene'?",
+        "options": ["Adriene Mishler", "Brett Larkin", "Fightmaster Yoga", "Yoga with Tim"],
+        "answer": "Adriene Mishler"
+    },
+    {
+        "question": "Who is the creator of the 'CrashCourse' channel?",
+        "options": ["John Green", "Hank Green", "Michael Stevens", "Philip DeFranco"],
+        "answer": "John Green"
+    },
+    {
+        "question": "Which YouTube channel features 'Hot Ones' interviews?",
+        "options": ["First We Feast", "BuzzFeed", "The Ringer", "Vox"],
+        "answer": "First We Feast"
+    },
+    {
+        "question": "What type of content does 'Mark Rober' focus on?",
+        "options": ["Engineering and science experiments", "Gaming", "Cooking", "Travel"],
+        "answer": "Engineering and science experiments"
+    },
+    {
+        "question": "Which channel is known for 'The Angry Video Game Nerd'?",
+        "options": ["Cinemassacre", "The Game Theorists", "The Nostalgia Critic", "GameSpot"],
+        "answer": "Cinemassacre"
+    },
+    {
+        "question": "What is the main focus of 'The Young Turks' channel?",
+        "options": ["News and political commentary", "Cooking", "Gaming", "Tech reviews"],
+        "answer": "News and political commentary"
+    },
+    {
+        "question": "Who is the creator of 'Good Mythical Morning'?",
+        "options": ["Rhett & Link", "Ethan Klein", "Philip DeFranco", "The Try Guys"],
+        "answer": "Rhett & Link"
+    },
+    {
+        "question": "Which YouTube channel is known for 'The Food Ranger'?",
+        "options": ["Trevor James", "Mark Wiens", "Migrationology", "Food Ranger"],
+        "answer": "Trevor James"
+    }
+  ]
