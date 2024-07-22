@@ -1,0 +1,607 @@
+[
+    {
+        "question": "What is the correct syntax to output 'Hello World' in JavaScript?",
+        "options": ["console.log('Hello World')", "print('Hello World')", "echo 'Hello World'", "document.write('Hello World')"],
+        "answer": "console.log('Hello World')"
+    },
+    {
+        "question": "How do you declare a variable in JavaScript?",
+        "options": ["var variableName", "let variableName", "const variableName", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What does '=== ' mean in JavaScript?",
+        "options": ["Equal to", "Strict equality", "Assignment", "Not equal to"],
+        "answer": "Strict equality"
+    },
+    {
+        "question": "Which method is used to find the length of an array in JavaScript?",
+        "options": ["array.length", "array.size", "array.count", "array.getLength()"],
+        "answer": "array.length"
+    },
+    {
+        "question": "How can you check if a variable is an array in JavaScript?",
+        "options": ["Array.isArray(variable)", "variable.isArray()", "typeof variable === 'array'", "variable instanceof Array"],
+        "answer": "Array.isArray(variable)"
+    },
+    {
+        "question": "What is the default value of an uninitialized variable in JavaScript?",
+        "options": ["undefined", "null", "0", "''"],
+        "answer": "undefined"
+    },
+    {
+        "question": "What does the 'this' keyword refer to in JavaScript?",
+        "options": ["The global object", "The current function", "The object calling the function", "None of the above"],
+        "answer": "The object calling the function"
+    },
+    {
+        "question": "How do you add a comment in JavaScript?",
+        "options": ["// This is a comment", "<!-- This is a comment -->", "/* This is a comment */", "## This is a comment"],
+        "answer": "// This is a comment"
+    },
+    {
+        "question": "Which operator is used to concatenate strings in JavaScript?",
+        "options": ["+", "&&", "||", "==="],
+        "answer": "+"
+    },
+    {
+        "question": "What is the purpose of the 'function' keyword in JavaScript?",
+        "options": ["To declare a function", "To create a variable", "To create a class", "To instantiate an object"],
+        "answer": "To declare a function"
+    },
+    {
+        "question": "Which built-in method converts a JavaScript object to a JSON string?",
+        "options": ["JSON.stringify()", "JSON.parse()", "Object.toJSON()", "Object.toString()"],
+        "answer": "JSON.stringify()"
+    },
+    {
+        "question": "How do you create a new object in JavaScript?",
+        "options": ["let obj = {};","let obj = new Object();","Both of the above","None of the above"],
+        "answer": "Both of the above"
+    },
+    {
+        "question": "What is the purpose of the 'return' keyword in JavaScript?",
+        "options": ["To exit a function", "To return a value from a function", "To declare a variable", "To create a loop"],
+        "answer": "To return a value from a function"
+    },
+    {
+        "question": "What is a closure in JavaScript?",
+        "options": ["A function inside another function", "A variable that stores a function", "A function that returns a value", "A function that modifies an array"],
+        "answer": "A function inside another function"
+    },
+    {
+        "question": "Which method can be used to remove the last element from an array in JavaScript?",
+        "options": ["pop()", "push()", "shift()", "unshift()"],
+        "answer": "pop()"
+    },
+    {
+        "question": "What is the result of '5' + 3 in JavaScript?",
+        "options": ["8", "53", "Error", "5 + 3"],
+        "answer": "53"
+    },
+    {
+        "question": "Which event is fired when a user clicks on an HTML element?",
+        "options": ["click", "mouseover", "focus", "submit"],
+        "answer": "click"
+    },
+    {
+        "question": "How do you access the first element of an array in JavaScript?",
+        "options": ["array[0]", "array.first()", "array.begin()", "array[1]"],
+        "answer": "array[0]"
+    },
+    {
+        "question": "What is the purpose of the 'try...catch' statement in JavaScript?",
+        "options": ["To handle exceptions", "To create loops", "To declare variables", "To define functions"],
+        "answer": "To handle exceptions"
+    },
+    {
+        "question": "How do you convert a string to an integer in JavaScript?",
+        "options": ["parseInt()", "parseFloat()", "Number()", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the output of 'typeof NaN' in JavaScript?",
+        "options": ["number", "NaN", "undefined", "object"],
+        "answer": "number"
+    },
+    {
+        "question": "How do you create a new array in JavaScript?",
+        "options": ["let arr = [];", "let arr = new Array();", "Both of the above", "None of the above"],
+        "answer": "Both of the above"
+    },
+    {
+        "question": "Which method is used to add an element to the end of an array?",
+        "options": ["push()", "pop()", "shift()", "unshift()"],
+        "answer": "push()"
+    },
+    {
+        "question": "What does 'event.preventDefault()' do in JavaScript?",
+        "options": ["Stops the default action of an event", "Stops event propagation", "Clears the event data", "Cancels the event listener"],
+        "answer": "Stops the default action of an event"
+    },
+    {
+        "question": "What is the purpose of 'setTimeout()' in JavaScript?",
+        "options": ["To execute code after a delay", "To set a timer", "To schedule an event", "To repeat a function"],
+        "answer": "To execute code after a delay"
+    },
+    {
+        "question": "How do you create a function that can accept parameters in JavaScript?",
+        "options": ["function myFunction(param1, param2) {}", "function myFunction() {}", "function myFunction[] {}", "function myFunction(param1; param2) {}"],
+        "answer": "function myFunction(param1, param2) {}"
+    },
+    {
+        "question": "What is the output of 'false + 1' in JavaScript?",
+        "options": ["1", "false", "NaN", "undefined"],
+        "answer": "1"
+    },
+    {
+        "question": "How do you define a constant in JavaScript?",
+        "options": ["const constantName", "let constantName", "var constantName", "constant constantName"],
+        "answer": "const constantName"
+    },
+    {
+        "question": "What does the 'map()' method do in JavaScript?",
+        "options": ["Creates a new array with the results of a function applied to each element", "Filters elements of an array", "Finds an element in an array", "Sorts an array"],
+        "answer": "Creates a new array with the results of a function applied to each element"
+    },
+    {
+        "question": "Which method is used to sort the elements of an array in JavaScript?",
+        "options": ["sort()", "order()", "arrange()", "shuffle()"],
+        "answer": "sort()"
+    },
+    {
+        "question": "How do you check if an object has a specific property?",
+        "options": ["object.hasOwnProperty(property)", "object.propertyExists(property)", "object.includes(property)", "object.get(property)"],
+        "answer": "object.hasOwnProperty(property)"
+    },
+    {
+        "question": "What is the result of 'null == undefined' in JavaScript?",
+        "options": ["true", "false", "null", "undefined"],
+        "answer": "true"
+    },
+    {
+        "question": "Which operator is used to test for both value and type equality in JavaScript?",
+        "options": ["===", "==", "!==", "!="],
+        "answer": "==="
+    },
+    {
+        "question": "What is the purpose of the 'Object.keys()' method?",
+        "options": ["Returns an array of a given object's property names", "Returns an array of the object's values", "Returns the length of the object", "Creates a new object with specified keys"],
+        "answer": "Returns an array of a given object's property names"
+    },
+    {
+        "question": "How do you convert a number to a string in JavaScript?",
+        "options": ["number.toString()", "String(number)", "number + ''", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the result of '0.1 + 0.2 === 0.3' in JavaScript?",
+        "options": ["true", "false", "NaN", "undefined"],
+        "answer": "false"
+    },
+    {
+        "question": "What is the output of 'console.log(typeof null)' in JavaScript?",
+        "options": ["'object'", "'null'", "'undefined'", "'number'"],
+        "answer": "'object'"
+    },
+    {
+        "question": "What does 'Object.create(null)' return?",
+        "options": ["An object with no prototype", "A new instance of Object", "An empty object with Object methods", "null"],
+        "answer": "An object with no prototype"
+    },
+    {
+        "question": "What is a 'Symbol' in JavaScript?",
+        "options": ["A primitive data type used as a unique identifier", "A way to define constants", "A special object type", "A type of function"],
+        "answer": "A primitive data type used as a unique identifier"
+    },
+    {
+        "question": "What does the 'Reflect' API provide in JavaScript?",
+        "options": ["Methods for interacting with object properties", "A way to define classes", "Function decorators", "Promises and async functions"],
+        "answer": "Methods for interacting with object properties"
+    },
+    {
+        "question": "How do you create a generator function in JavaScript?",
+        "options": ["function* myGenerator() {}", "function myGenerator*() {}", "generator function() {}", "function myGenerator() *{}"],
+        "answer": "function* myGenerator() {}"
+    },
+    {
+        "question": "What is the result of '[1, 2] == [1, 2]' in JavaScript?",
+        "options": ["true", "false", "undefined", "TypeError"],
+        "answer": "false"
+    },
+    {
+        "question": "What is the 'WeakMap' object used for in JavaScript?",
+        "options": ["To store key-value pairs where keys are objects and values can be any type", "To create maps with weak references", "To store primitive keys", "To define private properties"],
+        "answer": "To store key-value pairs where keys are objects and values can be any type"
+    },
+    {
+        "question": "What is the purpose of 'Promise.allSettled()'?",
+        "options": ["To wait for all promises to settle regardless of their outcome", "To return the first resolved promise", "To return the first rejected promise", "To cancel promises"],
+        "answer": "To wait for all promises to settle regardless of their outcome"
+    },
+    {
+        "question": "What does 'Array.from(new Set([1, 2, 2, 3]))' return?",
+        "options": ["[1, 2, 3]", "[1, 2, 2, 3]", "Set {1, 2, 2, 3}", "undefined"],
+        "answer": "[1, 2, 3]"
+    },
+    {
+        "question": "How do you access the prototype of an object in JavaScript?",
+        "options": ["Object.getPrototypeOf(obj)", "obj.__proto__", "Object.prototype(obj)", "obj.prototype"],
+        "answer": "Object.getPrototypeOf(obj)"
+    },
+    {
+        "question": "What is the difference between 'call()' and 'apply()' methods in JavaScript?",
+        "options": ["'call()' takes arguments separately, 'apply()' takes an array of arguments", "'apply()' is used for functions, 'call()' for objects", "'call()' modifies the original function, 'apply()' does not", "'apply()' executes asynchronously, 'call()' synchronously"],
+        "answer": "'call()' takes arguments separately, 'apply()' takes an array of arguments"
+    },
+    {
+        "question": "What is the result of '[] == ![]' in JavaScript?",
+        "options": ["true", "false", "undefined", "NaN"],
+        "answer": "true"
+    },
+    {
+        "question": "What is 'setImmediate()' used for in Node.js?",
+        "options": ["To execute a single callback after the current event loop phase", "To set a timeout", "To execute code at a specific interval", "To defer execution until the next tick"],
+        "answer": "To execute a single callback after the current event loop phase"
+    },
+    {
+        "question": "What is the difference between 'var', 'let', and 'const' in JavaScript?",
+        "options": ["'var' is function-scoped, 'let' and 'const' are block-scoped", "'let' and 'const' are function-scoped", "'var' is block-scoped", "'const' is mutable while 'let' and 'var' are immutable"],
+        "answer": "'var' is function-scoped, 'let' and 'const' are block-scoped"
+    },
+    {
+        "question": "What is the 'async' keyword used for in JavaScript?",
+        "options": ["To declare an asynchronous function", "To create a synchronous function", "To make a function return a promise", "To handle errors in promises"],
+        "answer": "To declare an asynchronous function"
+    },
+    {
+        "question": "How do you create a private property in a JavaScript class?",
+        "options": ["Using a symbol", "Prefixing with '_' or '#'", "Using a closure", "Using 'Object.defineProperty()'"],
+        "answer": "Prefixing with '_' or '#'"
+    },
+    {
+        "question": "What does 'Object.freeze()' do in JavaScript?",
+        "options": ["Prevents modifications to an object", "Prevents the object from being deleted", "Locks the object's prototype", "Converts the object to a string"],
+        "answer": "Prevents modifications to an object"
+    },
+    {
+        "question": "What is the purpose of 'async/await' in JavaScript?",
+        "options": ["To simplify handling asynchronous operations", "To execute synchronous operations", "To handle synchronous errors", "To create promise chains"],
+        "answer": "To simplify handling asynchronous operations"
+    },
+    {
+        "question": "What is the 'arguments' object in JavaScript functions?",
+        "options": ["An array-like object representing the function's arguments", "A special array used for all function calls", "A method for handling errors", "A way to access function properties"],
+        "answer": "An array-like object representing the function's arguments"
+    },
+    {
+        "question": "What is the result of 'typeof NaN' in JavaScript?",
+        "options": ["'number'", "'NaN'", "'undefined'", "'object'"],
+        "answer": "'number'"
+    },
+    {
+        "question": "What does 'Array.prototype.reduce()' do?",
+        "options": ["Executes a reducer function on each element of the array", "Filters elements of the array", "Finds an element in the array", "Sorts the array"],
+        "answer": "Executes a reducer function on each element of the array"
+    },
+    {
+        "question": "What is the purpose of 'Object.defineProperty()'?",
+        "options": ["To define a new property or modify an existing property on an object", "To create a new object", "To delete a property from an object", "To list all properties of an object"],
+        "answer": "To define a new property or modify an existing property on an object"
+    },
+    {
+        "question": "How can you prevent a JavaScript function from being called more than once?",
+        "options": ["Using a closure or 'debounce' function", "Using 'setTimeout()'", "Using 'setInterval()'", "Using 'once' event listeners"],
+        "answer": "Using a closure or 'debounce' function"
+    },
+    {
+        "question": "What is 'Function.prototype.bind()' used for?",
+        "options": ["To create a new function with a specific 'this' context and arguments", "To bind functions to events", "To modify the prototype of a function", "To execute a function in a specific scope"],
+        "answer": "To create a new function with a specific 'this' context and arguments"
+    },
+    {
+        "question": "What is 'JSON.stringify()' used for?",
+        "options": ["To convert a JavaScript object to a JSON string", "To parse a JSON string into a JavaScript object", "To stringify a function", "To validate JSON data"],
+        "answer": "To convert a JavaScript object to a JSON string"
+    },
+    {
+        "question": "What does 'Promise.race()' do?",
+        "options": ["Returns a promise that resolves or rejects as soon as one of the promises in the iterable resolves or rejects", "Waits for all promises to resolve", "Returns a promise that resolves when all promises reject", "Cancels all promises"],
+        "answer": "Returns a promise that resolves or rejects as soon as one of the promises in the iterable resolves or rejects"
+    },
+    {
+        "question": "What will be the output of '0.1 + 0.2 === 0.3' in JavaScript?",
+        "options": ["true", "false", "NaN", "undefined"],
+        "answer": "false"
+    },
+    {
+        "question": "What is the result of 'console.log([] == ![]);' in JavaScript?",
+        "options": ["true", "false", "undefined", "TypeError"],
+        "answer": "true"
+    },
+    {
+        "question": "How can you ensure that a JavaScript function is executed only once?",
+        "options": ["Using a closure", "Using 'setTimeout()'", "Using 'setInterval()'", "Using 'once' event listeners"],
+        "answer": "Using a closure"
+    },
+    {
+        "question": "What is the output of 'console.log([1] == [1]);' in JavaScript?",
+        "options": ["true", "false", "undefined", "ReferenceError"],
+        "answer": "false"
+    },
+    {
+        "question": "How do you create a private variable in JavaScript?",
+        "options": ["Using a closure", "Using 'const' keyword", "Using 'let' keyword", "Using 'Object.defineProperty()'"],
+        "answer": "Using a closure"
+    },
+    {
+        "question": "What does 'Object.prototype.hasOwnProperty.call(obj, prop)' do?",
+        "options": ["Checks if 'obj' has the property 'prop' directly", "Checks if 'obj' has 'prop' in its prototype chain", "Returns a boolean indicating if 'prop' is a method of 'obj'", "Returns the value of 'prop' from 'obj'"],
+        "answer": "Checks if 'obj' has the property 'prop' directly"
+    },
+    {
+        "question": "What is the output of 'typeof NaN'?",
+        "options": ["'number'", "'NaN'", "'undefined'", "'object'"],
+        "answer": "'number'"
+    },
+    {
+        "question": "What is a 'WeakSet' used for in JavaScript?",
+        "options": ["To store unique objects where the references are weak", "To store primitive values", "To handle set operations", "To create weak references to arrays"],
+        "answer": "To store unique objects where the references are weak"
+    },
+    {
+        "question": "How does 'Array.prototype.flat()' work?",
+        "options": ["Flattens nested arrays into a single array", "Sorts the array", "Filters out elements", "Maps elements to a new array"],
+        "answer": "Flattens nested arrays into a single array"
+    },
+    {
+        "question": "What does 'Object.freeze()' do?",
+        "options": ["Prevents modifications to an object", "Prevents the object from being deleted", "Locks the object's prototype", "Converts the object to a string"],
+        "answer": "Prevents modifications to an object"
+    },
+    {
+        "question": "What will be the result of 'typeof []'?",
+        "options": ["'object'", "'array'", "'list'", "'undefined'"],
+        "answer": "'object'"
+    },
+    {
+        "question": "How do you create a new instance of an object using 'Object.create()'?",
+        "options": ["Object.create(prototype)", "new Object(prototype)", "Object(prototype)", "Object.createNew(prototype)"],
+        "answer": "Object.create(prototype)"
+    },
+    {
+        "question": "What is 'Function.prototype.apply()' used for?",
+        "options": ["To call a function with a given 'this' value and arguments provided as an array", "To apply decorators to functions", "To bind functions to objects", "To create a new function"],
+        "answer": "To call a function with a given 'this' value and arguments provided as an array"
+    },
+    {
+        "question": "What does 'Reflect.get()' do?",
+        "options": ["Returns the value of a property from an object", "Sets a property value on an object", "Deletes a property from an object", "Checks if an object has a property"],
+        "answer": "Returns the value of a property from an object"
+    },
+    {
+        "question": "What will '([] == ![]).toString()' output?",
+        "options": ["'true'", "'false'", "'undefined'", "'NaN'"],
+        "answer": "'true'"
+    },
+    {
+        "question": "What is 'Function.prototype.toString()' used for?",
+        "options": ["Returns a string representing the source code of the function", "Returns the type of the function", "Creates a new function from a string", "Executes a function"],
+        "answer": "Returns a string representing the source code of the function"
+    },
+    {
+        "question": "What does 'new Map().set(key, value).get(key)' return?",
+        "options": ["value", "key", "undefined", "Map object"],
+        "answer": "value"
+    },
+    {
+        "question": "What is the purpose of 'Symbol.iterator'?",
+        "options": ["To create custom iteration behavior for objects", "To define properties of an object", "To convert objects to strings", "To create unique identifiers"],
+        "answer": "To create custom iteration behavior for objects"
+    },
+    {
+        "question": "What is the result of 'console.log([] == []);'?",
+        "options": ["true", "false", "undefined", "TypeError"],
+        "answer": "false"
+    },
+    {
+        "question": "How can you prevent a function from being executed more than once?",
+        "options": ["Using a closure or memoization", "Using 'setTimeout()'", "Using 'setInterval()'", "Using 'once' event listeners"],
+        "answer": "Using a closure or memoization"
+    },
+    {
+        "question": "What will be the result of '0 == -0' in JavaScript?",
+        "options": ["true", "false", "undefined", "NaN"],
+        "answer": "true"
+    },
+    {
+        "question": "What does 'Array.prototype.some()' do?",
+        "options": ["Tests whether at least one element in the array passes the test implemented by the provided function", "Executes a reducer function on each element of the array", "Creates a new array with all elements that pass the test", "Finds the first element in the array that passes the test"],
+        "answer": "Tests whether at least one element in the array passes the test implemented by the provided function"
+    },
+    {
+        "question": "How do you create an instance of a class in JavaScript?",
+        "options": ["new ClassName()", "ClassName.create()", "ClassName.newInstance()", "newInstance(ClassName)"],
+        "answer": "new ClassName()"
+    },
+    {
+        "question": "What does 'Object.getOwnPropertyDescriptors()' do?",
+        "options": ["Returns all own property descriptors of an object", "Returns the descriptors of all properties including inherited ones", "Creates new property descriptors for an object", "Deletes property descriptors from an object"],
+        "answer": "Returns all own property descriptors of an object"
+    },
+    {
+        "question": "What is the result of 'typeof {}'?",
+        "options": ["'object'", "'null'", "'undefined'", "'object'"],
+        "answer": "'object'"
+    },
+    {
+        "question": "How do you define a class in JavaScript?",
+        "options": ["class MyClass {}", "function MyClass() {}", "var MyClass = function() {}", "createClass(MyClass) {}"],
+        "answer": "class MyClass {}"
+    },
+    {
+        "question": "What does 'Object.keys()' return?",
+        "options": ["An array of the object's own enumerable property names", "An array of all property names including inherited ones", "A string representing the keys of the object", "The length of the object"],
+        "answer": "An array of the object's own enumerable property names"
+    },
+    {
+        "question": "What is the purpose of 'Object.getPrototypeOf()'?",
+        "options": ["Returns the prototype of the specified object", "Sets the prototype of the specified object", "Creates a new object with the specified prototype", "Returns a boolean indicating if an object has a prototype"],
+        "answer": "Returns the prototype of the specified object"
+    },
+    {
+        "question": "What is 'Array.prototype.reduceRight()' used for?",
+        "options": ["Executes a reducer function on each element of the array from right to left", "Executes a reducer function on each element of the array from left to right", "Filters the elements of the array", "Finds an element in the array"],
+        "answer": "Executes a reducer function on each element of the array from right to left"
+    },
+    {
+        "question": "What will be the result of 'typeof [1]'?",
+        "options": ["'object'", "'array'", "'list'", "'undefined'"],
+        "answer": "'object'"
+    },
+    {
+        "question": "What is the output of 'console.log([1, 2] == [1, 2]);'?",
+        "options": ["true", "false", "undefined", "TypeError"],
+        "answer": "false"
+    },
+    {
+        "question": "What will be the result of 'console.log(null instanceof Object);'?",
+        "options": ["true", "false", "TypeError", "undefined"],
+        "answer": "false"
+    },
+    {
+        "question": "What does 'Object.create(null)' return?",
+        "options": ["An object with no prototype", "A new instance of Object", "An empty object with Object methods", "null"],
+        "answer": "An object with no prototype"
+    },
+    {
+        "question": "What is the result of 'console.log(0.1 + 0.2 === 0.3);'?",
+        "options": ["true", "false", "NaN", "undefined"],
+        "answer": "false"
+    },
+    {
+        "question": "What is the output of 'console.log(Object.prototype.toString.call([]));'?",
+        "options": ["'[object Array]'", "'[object Object]'", "'[object Array]'", "'[object List]'"],
+        "answer": "'[object Array]'"
+    },
+    {
+        "question": "What does 'Object.getOwnPropertyNames()' return?",
+        "options": ["An array of all properties (including non-enumerable) of an object", "An array of all enumerable property names", "An array of all property values", "An array of all property descriptors"],
+        "answer": "An array of all properties (including non-enumerable) of an object"
+    },
+    {
+        "question": "What will be the result of 'console.log([1, 2] + [3, 4]);'?",
+        "options": ["'1,23,4'", "'[1, 2, 3, 4]'", "'NaN'", "'TypeError'"],
+        "answer": "'1,23,4'"
+    },
+    {
+        "question": "What is 'Function.prototype.bind()' used for?",
+        "options": ["To create a new function with a specific 'this' context and arguments", "To bind a function to an object", "To modify the prototype of a function", "To execute a function"],
+        "answer": "To create a new function with a specific 'this' context and arguments"
+    },
+    {
+        "question": "What is 'Reflect.construct()' used for?",
+        "options": ["To create a new instance of a class with specified arguments", "To get the constructor of an object", "To define a new class", "To check if an object is an instance of a class"],
+        "answer": "To create a new instance of a class with specified arguments"
+    },
+    {
+        "question": "What is the purpose of 'WeakMap' in JavaScript?",
+        "options": ["To store key-value pairs where keys are objects and values can be any type", "To create a map with weak references", "To handle primitive keys", "To define private properties"],
+        "answer": "To store key-value pairs where keys are objects and values can be any type"
+    },
+    {
+        "question": "What does 'Object.getPrototypeOf()' return?",
+        "options": ["The prototype of the specified object", "A new object with the specified prototype", "A boolean indicating if an object has a prototype", "The constructor of the object"],
+        "answer": "The prototype of the specified object"
+    },
+    {
+        "question": "What is the output of 'console.log(1 + '1');'?",
+        "options": ["'11'", "'2'", "'NaN'", "'undefined'"],
+        "answer": "'11'"
+    },
+    {
+        "question": "What is the purpose of 'Array.prototype.find()'?",
+        "options": ["To find the first element that satisfies the provided testing function", "To filter elements of an array", "To find the index of an element in the array", "To return all elements that satisfy a condition"],
+        "answer": "To find the first element that satisfies the provided testing function"
+    },
+    {
+        "question": "What does 'Object.defineProperty()' do?",
+        "options": ["Defines a new property or modifies an existing property on an object", "Deletes a property from an object", "Lists all properties of an object", "Creates a new object with specified properties"],
+        "answer": "Defines a new property or modifies an existing property on an object"
+    },
+    {
+        "question": "What is 'Symbol()' used for in JavaScript?",
+        "options": ["To create unique identifiers for object properties", "To create new data types", "To define constants", "To handle asynchronous operations"],
+        "answer": "To create unique identifiers for object properties"
+    },
+    {
+        "question": "What does 'Array.prototype.flatMap()' do?",
+        "options": ["First maps each element using a mapping function, then flattens the result", "Flattens a nested array", "Maps elements to a new array", "Filters elements based on a condition"],
+        "answer": "First maps each element using a mapping function, then flattens the result"
+    },
+    {
+        "question": "What will be the result of 'console.log([] + {});'?",
+        "options": ["'[object Object]'", "'[object Array]'", "'{}'", "'NaN'"],
+        "answer": "'[object Object]'"
+    },
+    {
+        "question": "How can you check if an object is frozen in JavaScript?",
+        "options": ["Using 'Object.isFrozen()'", "Using 'Object.isSealed()'", "Using 'Object.getOwnPropertyDescriptor()'", "Using 'Object.keys()'"],
+        "answer": "Using 'Object.isFrozen()'"
+    },
+    {
+        "question": "What is the output of 'console.log(1 == 1 == 2);'?",
+        "options": ["false", "true", "undefined", "NaN"],
+        "answer": "false"
+    },
+    {
+        "question": "What does 'Array.prototype.copyWithin()' do?",
+        "options": ["Copies a portion of an array to another location in the same array", "Creates a shallow copy of the array", "Finds elements within the array", "Filters elements within the array"],
+        "answer": "Copies a portion of an array to another location in the same array"
+    },
+    {
+        "question": "What will be the result of 'console.log({} + []);'?",
+        "options": ["'[object Object]'", "'[]'", "'{}'", "'NaN'"],
+        "answer": "'[object Object]'"
+    },
+    {
+        "question": "What does 'Array.prototype.sort()' do?",
+        "options": ["Sorts the elements of an array in place", "Sorts elements in a new array", "Filters elements of an array", "Maps elements to a new array"],
+        "answer": "Sorts the elements of an array in place"
+    },
+    {
+        "question": "What is the result of 'console.log(typeof ({}));'?",
+        "options": ["'object'", "'undefined'", "'null'", "'function'"],
+        "answer": "'object'"
+    },
+    {
+        "question": "What does 'Object.keys()' return?",
+        "options": ["An array of the object's own enumerable property names", "An array of all properties including inherited ones", "An array of property values", "A list of all enumerable properties"],
+        "answer": "An array of the object's own enumerable property names"
+    },
+    {
+        "question": "What is the purpose of 'Array.prototype.includes()'?",
+        "options": ["To determine if an array contains a certain element", "To find the index of an element", "To filter elements in an array", "To map elements to a new array"],
+        "answer": "To determine if an array contains a certain element"
+    },
+    {
+        "question": "What is the output of 'console.log([] == false);'?",
+        "options": ["true", "false", "undefined", "NaN"],
+        "answer": "false"
+    },
+    {
+        "question": "What is 'Function.prototype.toString()' used for?",
+        "options": ["To return a string representing the source code of the function", "To get the type of the function", "To create a new function from a string", "To execute a function"],
+        "answer": "To return a string representing the source code of the function"
+    },
+    {
+        "question": "What does 'Object.setPrototypeOf()' do?",
+        "options": ["Sets the prototype of a specified object", "Gets the prototype of a specified object", "Creates a new object with a specified prototype", "Checks if an object has a prototype"],
+        "answer": "Sets the prototype of a specified object"
+    },
+    {
+        "question": "What is the purpose of 'Array.prototype.every()'?",
+        "options": ["Tests whether all elements in the array pass the test implemented by the provided function", "Filters elements based on a condition", "Maps elements to a new array", "Finds an element in the array"],
+        "answer": "Tests whether all elements in the array pass the test implemented by the provided function"
+    },
+]
