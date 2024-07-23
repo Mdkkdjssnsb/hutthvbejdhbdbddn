@@ -1,0 +1,372 @@
+[
+    {
+        "question": "Who is known as the creator of the C programming language?",
+        "options": [
+            "Dennis Ritchie",
+            "Bjarne Stroustrup",
+            "James Gosling",
+            "Guido van Rossum"
+        ],
+        "answer": "Dennis Ritchie"
+    },
+    {
+        "question": "Which of the following is the correct file extension for C programs?",
+        "options": [
+            ".c",
+            ".cpp",
+            ".cs",
+            ".java"
+        ],
+        "answer": ".c"
+    },
+    {
+        "question": "Which function is the entry point for a C program?",
+        "options": [
+            "main",
+            "start",
+            "entry",
+            "begin"
+        ],
+        "answer": "main"
+    },
+    {
+        "question": "Which of the following is NOT a keyword in C?",
+        "options": [
+            "function",
+            "return",
+            "continue",
+            "break"
+        ],
+        "answer": "function"
+    },
+    {
+        "question": "Which library function is used to print a message to the console in C?",
+        "options": [
+            "printf",
+            "println",
+            "cout",
+            "print"
+        ],
+        "answer": "printf"
+    },
+    {
+        "question": "Which operator is used to access the address of a variable in C?",
+        "options": [
+            "&",
+            "*",
+            "@",
+            "#"
+        ],
+        "answer": "&"
+    },
+    {
+        "question": "Which data type is used to store floating-point numbers in C?",
+        "options": [
+            "float",
+            "int",
+            "char",
+            "double"
+        ],
+        "answer": "float"
+    },
+    {
+        "question": "Which symbol is used to denote a single-line comment in C?",
+        "options": [
+            "//",
+            "/*",
+            "#",
+            "--"
+        ],
+        "answer": "//"
+    },
+    {
+        "question": "Which header file is required for input/output functions in C?",
+        "options": [
+            "stdio.h",
+            "conio.h",
+            "stdlib.h",
+            "string.h"
+        ],
+        "answer": "stdio.h"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a for loop in C?",
+        "options": [
+            "for (initialization; condition; increment)",
+            "for (condition; initialization; increment)",
+            "for (initialization; increment; condition)",
+            "for (increment; condition; initialization)"
+        ],
+        "answer": "for (initialization; condition; increment)"
+    },
+    {
+        "question": "Which function is used to allocate memory dynamically in C?",
+        "options": [
+            "malloc",
+            "alloc",
+            "new",
+            "memalloc"
+        ],
+        "answer": "malloc"
+    },
+    {
+        "question": "Which function is used to deallocate previously allocated memory in C?",
+        "options": [
+            "free",
+            "delete",
+            "remove",
+            "dealloc"
+        ],
+        "answer": "free"
+    },
+    {
+        "question": "Which operator is used to access the value at the address stored in a pointer?",
+        "options": [
+            "*",
+            "&",
+            "@",
+            "$"
+        ],
+        "answer": "*"
+    },
+    {
+        "question": "Which of the following is the correct syntax for defining a macro in C?",
+        "options": [
+            "#define MACRO_NAME value",
+            "macro MACRO_NAME = value",
+            "def MACRO_NAME = value",
+            "define MACRO_NAME value"
+        ],
+        "answer": "#define MACRO_NAME value"
+    },
+    {
+        "question": "Which function is used to read a string from the console in C?",
+        "options": [
+            "gets",
+            "scanf",
+            "read",
+            "input"
+        ],
+        "answer": "gets"
+    },
+    {
+        "question": "Which keyword is used to define a constant variable in C?",
+        "options": [
+            "const",
+            "final",
+            "static",
+            "define"
+        ],
+        "answer": "const"
+    },
+    {
+        "question": "Which operator is used for bitwise AND in C?",
+        "options": [
+            "&",
+            "|",
+            "^",
+            "~"
+        ],
+        "answer": "&"
+    },
+    {
+        "question": "Which of the following is NOT a valid storage class specifier in C?",
+        "options": [
+            "mutable",
+            "auto",
+            "extern",
+            "static"
+        ],
+        "answer": "mutable"
+    },
+    {
+        "question": "Which keyword is used to return a value from a function in C?",
+        "options": [
+            "return",
+            "exit",
+            "end",
+            "stop"
+        ],
+        "answer": "return"
+    },
+    {
+        "question": "Which function is used to compare two strings in C?",
+        "options": [
+            "strcmp",
+            "strcomp",
+            "compare",
+            "strcompare"
+        ],
+        "answer": "strcmp"
+    },
+    {
+        "question": "Which keyword is used to define a structure in C?",
+        "options": [
+            "struct",
+            "class",
+            "object",
+            "module"
+        ],
+        "answer": "struct"
+    },
+    {
+        "question": "Which operator is used to access members of a structure through a pointer?",
+        "options": [
+            "->",
+            ".",
+            "::",
+            "=>"
+        ],
+        "answer": "->"
+    },
+    {
+        "question": "Which of the following is NOT a loop structure in C?",
+        "options": [
+            "repeat...until",
+            "for",
+            "while",
+            "do...while"
+        ],
+        "answer": "repeat...until"
+    },
+    {
+        "question": "Which function is used to copy a string in C?",
+        "options": [
+            "strcpy",
+            "strcopy",
+            "copystr",
+            "strcp"
+        ],
+        "answer": "strcpy"
+    },
+    {
+        "question": "Which keyword is used to define an enumeration in C?",
+        "options": [
+            "enum",
+            "define",
+            "enumerate",
+            "list"
+        ],
+        "answer": "enum"
+    },
+    {
+        "question": "Which function is used to find the length of a string in C?",
+        "options": [
+            "strlen",
+            "length",
+            "size",
+            "strlength"
+        ],
+        "answer": "strlen"
+    },
+    {
+        "question": "Which operator is used to perform modulo operation in C?",
+        "options": [
+            "%",
+            "&",
+            "/",
+            "#"
+        ],
+        "answer": "%"
+    },
+    {
+        "question": "Which function is used to convert a string to an integer in C?",
+        "options": [
+            "atoi",
+            "strtol",
+            "atoi",
+            "strtoint"
+        ],
+        "answer": "atoi"
+    },
+    {
+        "question": "Which keyword is used to define a union in C?",
+        "options": [
+            "union",
+            "structure",
+            "combine",
+            "group"
+        ],
+        "answer": "union"
+    },
+    {
+        "question": "Which function is used to open a file in C?",
+        "options": [
+            "fopen",
+            "open",
+            "file_open",
+            "fileopen"
+        ],
+        "answer": "fopen"
+    },
+    {
+        "question": "Which mode is used to open a file for reading in C?",
+        "options": [
+            "r",
+            "w",
+            "rw",
+            "a"
+        ],
+        "answer": "r"
+    },
+    {
+        "question": "Which function is used to write to a file in C?",
+        "options": [
+            "fprintf",
+            "fwrite",
+            "file_write",
+            "fprint"
+        ],
+        "answer": "fprintf"
+    },
+    {
+        "question": "Which function is used to close a file in C?",
+        "options": [
+            "fclose",
+            "close",
+            "file_close",
+            "fileclose"
+        ],
+        "answer": "fclose"
+    },
+    {
+        "question": "Which function is used to set the file position indicator in C?",
+        "options": [
+            "fseek",
+            "seek",
+            "fpos",
+            "file_seek"
+        ],
+        "answer": "fseek"
+    },
+    {
+        "question": "Which function is used to get the current file position indicator in C?",
+        "options": [
+            "ftell",
+            "tell",
+            "fpos",
+            "file_tell"
+        ],
+        "answer": "ftell"
+    },
+    {
+        "question": "Which function is used to rewind the file position indicator in C?",
+        "options": [
+            "rewind",
+            "rew",
+            "reset",
+            "file_rewind"
+        ],
+        "answer": "rewind"
+    },
+    {
+        "question": "Which function is used to check for the end of file in C?",
+        "options": [
+            "feof",
+            "eof",
+            "endfile",
+            "file_end"
+        ],
+        "answer": "feof"
+    }
+]
