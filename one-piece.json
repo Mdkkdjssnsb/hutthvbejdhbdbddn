@@ -1,0 +1,612 @@
+[
+    {
+        "question": "Which character is known for his powerful lava-based abilities?",
+        "options": [
+            "Akainu",
+            "Aokiji",
+            "Kizaru",
+            "Sengoku"
+        ],
+        "answer": "Akainu"
+    },
+    {
+        "question": "What is the name of the fish-man who was a former member of the Sun Pirates and later becomes an ally of the Straw Hats?",
+        "options": [
+            "Jinbei",
+            "Arlong",
+            "Hordy Jones",
+            "Fisher Tiger"
+        ],
+        "answer": "Jinbei"
+    },
+    {
+        "question": "What is the name of the island where the legendary treasure 'One Piece' is said to be located?",
+        "options": [
+            "Raftel",
+            "Skypiea",
+            "Enies Lobby",
+            "Dressrosa"
+        ],
+        "answer": "Raftel"
+    },
+    {
+        "question": "Which Straw Hat member is known for his expertise in sniping?",
+        "options": [
+            "Usopp",
+            "Sanji",
+            "Franky",
+            "Zoro"
+        ],
+        "answer": "Usopp"
+    },
+    {
+        "question": "Who is the character known for having the ability to turn things into stone?",
+        "options": [
+            "Boa Hancock",
+            "Kuma",
+            "Mihawk",
+            "Moria"
+        ],
+        "answer": "Boa Hancock"
+    },
+    {
+        "question": "Which powerful pirate is known for his ability to manipulate time?",
+        "options": [
+            "Doflamingo",
+            "Moria",
+            "Kizaru",
+            "Enel"
+        ],
+        "answer": "Enel"
+    },
+    {
+        "question": "What is the name of the place where the Straw Hat Pirates first meet Nico Robin?",
+        "options": [
+            "Alabasta",
+            "Water 7",
+            "Skypiea",
+            "Dressrosa"
+        ],
+        "answer": "Alabasta"
+    },
+    {
+        "question": "Which character is known for their incredible strength and the ability to control lightning?",
+        "options": [
+            "Enel",
+            "Aokiji",
+            "Kizaru",
+            "Akainu"
+        ],
+        "answer": "Enel"
+    },
+    {
+        "question": "What is the name of the giant sea creature that the Straw Hat Pirates encounter in the Fishman Island Arc?",
+        "options": [
+            "Zunisha",
+            "Kraken",
+            "Sea King",
+            "Whale Shark"
+        ],
+        "answer": "Zunisha"
+    },
+    {
+        "question": "Which character is known for their powerful 'Flame-Fist' technique?",
+        "options": [
+            "Portgas D. Ace",
+            "Sabo",
+            "Luffy",
+            "Zoro"
+        ],
+        "answer": "Portgas D. Ace"
+    },
+    {
+        "question": "What is the name of the revolutionary leader who is also Luffy's father?",
+        "options": [
+            "Monkey D. Dragon",
+            "Portgas D. Ace",
+            "Gol D. Roger",
+            "Shanks"
+        ],
+        "answer": "Monkey D. Dragon"
+    },
+    {
+        "question": "Which member of the Straw Hat Pirates is known for their ability to speak to animals?",
+        "options": [
+            "Chopper",
+            "Usopp",
+            "Robin",
+            "Sanji"
+        ],
+        "answer": "Chopper"
+    },
+    {
+        "question": "What is the name of the powerful pirate who is also known as the 'Strongest Man in the World'?",
+        "options": [
+            "Whitebeard",
+            "Shanks",
+            "Kaido",
+            "Big Mom"
+        ],
+        "answer": "Whitebeard"
+    },
+    {
+        "question": "Which character has the ability to control the wind and create tornadoes?",
+        "options": [
+            "Crocodile",
+            "Enel",
+            "Moria",
+            "Kaido"
+        ],
+        "answer": "Crocodile"
+    },
+    {
+        "question": "Who is the leader of the Heart Pirates?",
+        "options": [
+            "Trafalgar D. Water Law",
+            "Eustass Kid",
+            "Monkey D. Luffy",
+            "Portgas D. Ace"
+        ],
+        "answer": "Trafalgar D. Water Law"
+    },
+    {
+        "question": "What is the name of the technique that allows characters to read and predict their opponents' moves?",
+        "options": [
+            "Haki",
+            "Devil Fruit",
+            "Seastone",
+            "Tekkai"
+        ],
+        "answer": "Haki"
+    },
+    {
+        "question": "Which member of the Straw Hat Pirates is known for her exceptional navigation skills?",
+        "options": [
+            "Nami",
+            "Robin",
+            "Vivi",
+            "Hancock"
+        ],
+        "answer": "Nami"
+    },
+    {
+        "question": "What is the name of the island where Luffy and his crew find the legendary treasure 'One Piece'?",
+        "options": [
+            "Raftel",
+            "Skypiea",
+            "Enies Lobby",
+            "Alabasta"
+        ],
+        "answer": "Raftel"
+    },
+    {
+        "question": "Who is the character known for their mastery of the 'Haki of the Conqueror'?",
+        "options": [
+            "Luffy",
+            "Shanks",
+            "Zoro",
+            "Sanji"
+        ],
+        "answer": "Luffy"
+    },
+    {
+        "question": "Which member of the Straw Hat Pirates has a bounty on his head that exceeds 100 million berries?",
+        "options": [
+            "Luffy",
+            "Zoro",
+            "Sanji",
+            "Usopp"
+        ],
+        "answer": "Luffy"
+    },
+    {
+        "question": "What is the name of the organization that the main antagonist, Donquixote Doflamingo, was a part of?",
+        "options": [
+            "Shichibukai",
+            "Yonko",
+            "Marines",
+            "Revolutionary Army"
+        ],
+        "answer": "Shichibukai"
+    },
+    {
+        "question": "Which character has the power to manipulate gravity?",
+        "options": [
+            "Donquixote Doflamingo",
+            "Kizaru",
+            "Akainu",
+            "Enel"
+        ],
+        "answer": "Kizaru"
+    },
+    {
+        "question": "What is the name of the ship that the Straw Hat Pirates use after the Going Merry?",
+        "options": [
+            "Thousand Sunny",
+            "Red Force",
+            "Polar Tang",
+            "Moby Dick"
+        ],
+        "answer": "Thousand Sunny"
+    },
+    {
+        "question": "Who is the leader of the Germa 66?",
+        "options": [
+            "Judge Vinsmoke",
+            "Yonji Vinsmoke",
+            "Sanji",
+            "Reiju Vinsmoke"
+        ],
+        "answer": "Judge Vinsmoke"
+    },
+    {
+        "question": "Which character is known for their ability to transform into a giant elephant?",
+        "options": [
+            "Zunisha",
+            "Kong",
+            "Kaido",
+            "Oars"
+        ],
+        "answer": "Zunisha"
+    },
+    {
+        "question": "What is the name of the mysterious island where Luffy and his crew encounter the giant sea creature known as the Kraken?",
+        "options": [
+            "Fishman Island",
+            "Skypiea",
+            "Sabaody Archipelago",
+            "Amazon Lily"
+        ],
+        "answer": "Fishman Island"
+    },
+    {
+        "question": "Who is the leader of the Straw Hat Pirates' main rivals, the Kid Pirates?",
+        "options": [
+            "Eustass Kid",
+            "Trafalgar Law",
+            "Monkey D. Luffy",
+            "Shanks"
+        ],
+        "answer": "Eustass Kid"
+    },
+    {
+        "question": "What is the name of the powerful weapon that can destroy islands and was used by the World Government?",
+        "options": [
+            "Buster Call",
+            "Poneglyph",
+            "Sea Prism Stone",
+            "Dynamite"
+        ],
+        "answer": "Buster Call"
+    },
+    {
+        "question": "Which character has the power to control and manipulate strings?",
+        "options": [
+            "Donquixote Doflamingo",
+            "Kizaru",
+            "Akainu",
+            "Crocodile"
+        ],
+        "answer": "Donquixote Doflamingo"
+    },
+    {
+        "question": "Who is the member of the Straw Hat Pirates known for her expertise in archaeology and deciphering ancient texts?",
+        "options": [
+            "Nico Robin",
+            "Nami",
+            "Vivi",
+            "Hancock"
+        ],
+        "answer": "Nico Robin"
+    },
+    {
+        "question": "What is the full title of the series commonly known as 'One Piece'?",
+        "options": [
+            "One Piece",
+            "One Piece: The Grand Adventure",
+            "One Piece: The Pirate's Quest",
+            "One Piece: The New World"
+        ],
+        "answer": "One Piece"
+    },
+    {
+        "question": "Who is the main protagonist of *One Piece*?",
+        "options": [
+            "Monkey D. Luffy",
+            "Roronoa Zoro",
+            "Sanji",
+            "Nami"
+        ],
+        "answer": "Monkey D. Luffy"
+    },
+    {
+        "question": "What is the name of Luffy's pirate crew?",
+        "options": [
+            "The Straw Hat Pirates",
+            "The Red-Haired Pirates",
+            "The Blackbeard Pirates",
+            "The Heart Pirates"
+        ],
+        "answer": "The Straw Hat Pirates"
+    },
+    {
+        "question": "What is the name of Luffy's ship?",
+        "options": [
+            "Going Merry",
+            "Thousand Sunny",
+            "Red Force",
+            "Polar Tang"
+        ],
+        "answer": "Going Merry"
+    },
+    {
+        "question": "Who is the swordsman of the Straw Hat Pirates?",
+        "options": [
+            "Roronoa Zoro",
+            "Monkey D. Luffy",
+            "Sanji",
+            "Franky"
+        ],
+        "answer": "Roronoa Zoro"
+    },
+    {
+        "question": "What is Luffy’s ultimate goal in the series?",
+        "options": [
+            "To find the One Piece",
+            "To become the strongest swordsman",
+            "To defeat the World Government",
+            "To find the All Blue"
+        ],
+        "answer": "To find the One Piece"
+    },
+    {
+        "question": "What is the name of the powerful sea creature that Luffy and his crew encounter in the Grand Line?",
+        "options": [
+            "Sea King",
+            "Giant Squid",
+            "Kraken",
+            "Merman"
+        ],
+        "answer": "Sea King"
+    },
+    {
+        "question": "Which member of the Straw Hat Pirates is a cook?",
+        "options": [
+            "Sanji",
+            "Zoro",
+            "Nami",
+            "Usopp"
+        ],
+        "answer": "Sanji"
+    },
+    {
+        "question": "What is the name of the famous treasure that all pirates are searching for?",
+        "options": [
+            "One Piece",
+            "Grand Line",
+            "Eternal Pose",
+            "Davy Back Fight"
+        ],
+        "answer": "One Piece"
+    },
+    {
+        "question": "What type of fruit grants Luffy his powers?",
+        "options": [
+            "Devil Fruit",
+            "Logia Fruit",
+            "Zoan Fruit",
+            "Mythical Fruit"
+        ],
+        "answer": "Devil Fruit"
+    },
+    {
+        "question": "What is the name of the ability that allows Luffy to stretch his body like rubber?",
+        "options": [
+            "Gomu Gomu no Mi",
+            "Haki",
+            "Gear Second",
+            "Gear Third"
+        ],
+        "answer": "Gomu Gomu no Mi"
+    },
+    {
+        "question": "Who is the navigator of the Straw Hat Pirates?",
+        "options": [
+            "Nami",
+            "Robin",
+            "Chopper",
+            "Franky"
+        ],
+        "answer": "Nami"
+    },
+    {
+        "question": "What is the name of the shipwright who joins the Straw Hat Pirates?",
+        "options": [
+            "Franky",
+            "Usopp",
+            "Brook",
+            "Zoro"
+        ],
+        "answer": "Franky"
+    },
+    {
+        "question": "Which character has the power to control fire?",
+        "options": [
+            "Portgas D. Ace",
+            "Sabo",
+            "Kizaru",
+            "Enel"
+        ],
+        "answer": "Portgas D. Ace"
+    },
+    {
+        "question": "Who is the Captain of the Red-Haired Pirates?",
+        "options": [
+            "Shanks",
+            "Buggy",
+            "Blackbeard",
+            "Kaido"
+        ],
+        "answer": "Shanks"
+    },
+    {
+        "question": "Which powerful pirate group is led by Blackbeard?",
+        "options": [
+            "Blackbeard Pirates",
+            "Red-Haired Pirates",
+            "Whitebeard Pirates",
+            "Heart Pirates"
+        ],
+        "answer": "Blackbeard Pirates"
+    },
+    {
+        "question": "What is the name of the island where the Straw Hat Pirates first meet Chopper?",
+        "options": [
+            "Drum Island",
+            "Skypiea",
+            "Water 7",
+            "Alabasta"
+        ],
+        "answer": "Drum Island"
+    },
+    {
+        "question": "Who is the archaeologist of the Straw Hat Pirates?",
+        "options": [
+            "Nico Robin",
+            "Nami",
+            "Vivi",
+            "Boa Hancock"
+        ],
+        "answer": "Nico Robin"
+    },
+    {
+        "question": "What is the name of the marine admiral who controls ice?",
+        "options": [
+            "Aokiji",
+            "Akainu",
+            "Kizaru",
+            "Sengoku"
+        ],
+        "answer": "Aokiji"
+    },
+    {
+        "question": "Who is the leader of the Revolutionary Army?",
+        "options": [
+            "Monkey D. Dragon",
+            "Portgas D. Ace",
+            "Gol D. Roger",
+            "Sabo"
+        ],
+        "answer": "Monkey D. Dragon"
+    },
+    {
+        "question": "What is the name of the island that is home to the Fishmen?",
+        "options": [
+            "Fishman Island",
+            "Skypiea",
+            "Dressrosa",
+            "Enies Lobby"
+        ],
+        "answer": "Fishman Island"
+    },
+    {
+        "question": "What is the name of the sword technique that Zoro uses to fight?",
+        "options": [
+            "Three-Sword Style",
+            "One-Sword Style",
+            "Two-Sword Style",
+            "Haki"
+        ],
+        "answer": "Three-Sword Style"
+    },
+    {
+        "question": "Who is the ruler of the Underwater City of Fishman Island?",
+        "options": [
+            "Neptune",
+            "Hordy Jones",
+            "Arlong",
+            "Jinbei"
+        ],
+        "answer": "Neptune"
+    },
+    {
+        "question": "Which character can control animals using their Devil Fruit powers?",
+        "options": [
+            "Mink Tribe",
+            "Sabo",
+            "Donquixote Doflamingo",
+            "Caesar Clown"
+        ],
+        "answer": "Donquixote Doflamingo"
+    },
+    {
+        "question": "What is the name of the legendary pirate who is known as the 'King of the Pirates'?",
+        "options": [
+            "Gol D. Roger",
+            "Whitebeard",
+            "Shanks",
+            "Blackbeard"
+        ],
+        "answer": "Gol D. Roger"
+    },
+    {
+        "question": "Which island is known for its giant sea creatures and is the setting of the Straw Hat Pirates' adventure in the Skypiea Arc?",
+        "options": [
+            "Skypiea",
+            "Water 7",
+            "Alabasta",
+            "Enies Lobby"
+        ],
+        "answer": "Skypiea"
+    },
+    {
+        "question": "Who is the former Warlord of the Sea known for his ability to turn objects into stone?",
+        "options": [
+            "Boa Hancock",
+            "Jinbei",
+            "Mihawk",
+            "Kuma"
+        ],
+        "answer": "Boa Hancock"
+    },
+    {
+        "question": "What is the name of the ability that allows characters to read the minds of others?",
+        "options": [
+            "Haki",
+            "Logia",
+            "Zoan",
+            "Paramecia"
+        ],
+        "answer": "Haki"
+    },
+    {
+        "question": "Who is the character that has the ability to control shadows?",
+        "options": [
+            "Shiliew",
+            "Brook",
+            "Moria",
+            "Caesar Clown"
+        ],
+        "answer": "Moria"
+    },
+    {
+        "question": "What is the name of the powerful organization that acts as the main antagonists in the series?",
+        "options": [
+            "The World Government",
+            "The Revolutionary Army",
+            "The Marines",
+            "The Blackbeard Pirates"
+        ],
+        "answer": "The World Government"
+    },
+    {
+        "question": "What is the name of the power that allows users to enhance their physical abilities?",
+        "options": [
+            "Haki",
+            "Devil Fruit",
+            "Seastone",
+            "Tekkai"
+        ],
+        "answer": "Haki"
+    }
+]
