@@ -307,7 +307,7 @@
     {
         "question": "Which CSS property is used to control the number of decimal places in a number?",
         "options": ["decimal-count", "number-format", "numeric", "width"],
-        "answer": "none"  // Note: CSS does not directly support controlling decimal places; this is managed via other means like JavaScript.
+        "answer": "none" 
     },
     {
         "question": "How do you specify the size of the viewport in a responsive web design?",
