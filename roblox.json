@@ -1,0 +1,652 @@
+[
+    {
+        "question": "What is Roblox primarily known for?",
+        "options": [
+            "Streaming movies",
+            "Online shopping",
+            "Game creation and playing",
+            "Social networking"
+        ],
+        "answer": "Game creation and playing"
+    },
+    {
+        "question": "In which year was Roblox officially released?",
+        "options": [
+            "2005",
+            "2006",
+            "2007",
+            "2008"
+        ],
+        "answer": "2006"
+    },
+    {
+        "question": "What is the in-game currency used in Roblox?",
+        "options": [
+            "V-Bucks",
+            "Gold Coins",
+            "Robux",
+            "Diamonds"
+        ],
+        "answer": "Robux"
+    },
+    {
+        "question": "What is the name of the development environment for creating games in Roblox?",
+        "options": [
+            "Unity",
+            "Roblox Studio",
+            "Game Maker",
+            "Blender"
+        ],
+        "answer": "Roblox Studio"
+    },
+    {
+        "question": "Who are the co-founders of Roblox?",
+        "options": [
+            "Mark Zuckerberg and Eduardo Saverin",
+            "David Baszucki and Erik Cassel",
+            "Larry Page and Sergey Brin",
+            "Steve Jobs and Steve Wozniak"
+        ],
+        "answer": "David Baszucki and Erik Cassel"
+    },
+    {
+        "question": "Which of these is NOT a type of game genre on Roblox?",
+        "options": [
+            "Adventure",
+            "Puzzle",
+            "FPS",
+            "MMORPG"
+        ],
+        "answer": "MMORPG"
+    },
+    {
+        "question": "What is the maximum number of friends you can have on Roblox?",
+        "options": [
+            "100",
+            "200",
+            "300",
+            "400"
+        ],
+        "answer": "200"
+    },
+    {
+        "question": "What is the term for items you can buy for your avatar in Roblox?",
+        "options": [
+            "Skins",
+            "Outfits",
+            "Accessories",
+            "Gear"
+        ],
+        "answer": "Accessories"
+    },
+    {
+        "question": "What is the name of the virtual events hosted by Roblox?",
+        "options": [
+            "Roblox Conventions",
+            "Roblox Meetups",
+            "Roblox Gatherings",
+            "Roblox Events"
+        ],
+        "answer": "Roblox Events"
+    },
+    {
+        "question": "Which programming language is primarily used for scripting in Roblox?",
+        "options": [
+            "Java",
+            "Python",
+            "Lua",
+            "C++"
+        ],
+        "answer": "Lua"
+    },
+    {
+        "question": "What is the name of the virtual currency exchange on Roblox?",
+        "options": [
+            "Roblox Trade",
+            "Roblox Market",
+            "Roblox Exchange",
+            "Roblox Trade Currency"
+        ],
+        "answer": "Roblox Exchange"
+    },
+    {
+        "question": "Which of these is a popular game on Roblox?",
+        "options": [
+            "Minecraft",
+            "Adopt Me!",
+            "Fortnite",
+            "GTA V"
+        ],
+        "answer": "Adopt Me!"
+    },
+    {
+        "question": "What is the primary focus of the game 'Bloxburg' in Roblox?",
+        "options": [
+            "Racing",
+            "Shooting",
+            "Role-playing",
+            "Puzzle-solving"
+        ],
+        "answer": "Role-playing"
+    },
+    {
+        "question": "What does 'Obby' stand for in Roblox?",
+        "options": [
+            "Obstacle Course",
+            "Objective-Based Game",
+            "Official Build",
+            "Online Battle"
+        ],
+        "answer": "Obstacle Course"
+    },
+    {
+        "question": "What is the name of the annual event where players can find virtual eggs in Roblox?",
+        "options": [
+            "Egg Hunt",
+            "Easter Eggstravaganza",
+            "Eggstravaganza",
+            "Eggventure"
+        ],
+        "answer": "Egg Hunt"
+    },
+    {
+        "question": "Which feature allows you to customize your character in Roblox?",
+        "options": [
+            "Avatar Shop",
+            "Character Builder",
+            "Skin Editor",
+            "Costume Designer"
+        ],
+        "answer": "Avatar Shop"
+    },
+    {
+        "question": "What is the primary objective in the game 'Murder Mystery 2' on Roblox?",
+        "options": [
+            "Collecting coins",
+            "Surviving disasters",
+            "Solving puzzles",
+            "Identifying the murderer"
+        ],
+        "answer": "Identifying the murderer"
+    },
+    {
+        "question": "What is the Roblox program that allows users to earn money from their games?",
+        "options": [
+            "Roblox Developer Club",
+            "Roblox Creator Program",
+            "Roblox DevEx",
+            "Roblox Studio"
+        ],
+        "answer": "Roblox DevEx"
+    },
+    {
+        "question": "Which game on Roblox involves surviving natural disasters?",
+        "options": [
+            "Survival Island",
+            "Natural Disaster Survival",
+            "Disaster Escape",
+            "Calamity Survival"
+        ],
+        "answer": "Natural Disaster Survival"
+    },
+    {
+        "question": "What is the name of the Roblox feature that allows users to create and join groups?",
+        "options": [
+            "Roblox Clubs",
+            "Roblox Teams",
+            "Roblox Squads",
+            "Roblox Groups"
+        ],
+        "answer": "Roblox Groups"
+    },
+    {
+        "question": "Which game in Roblox is known for its parkour challenges?",
+        "options": [
+            "Parkour Paradise",
+            "Obby Rush",
+            "Parkour Simulator",
+            "Tower of Hell"
+        ],
+        "answer": "Tower of Hell"
+    },
+    {
+        "question": "What is the maximum number of players in a Roblox game server?",
+        "options": [
+            "50",
+            "100",
+            "200",
+            "300"
+        ],
+        "answer": "100"
+    },
+    {
+        "question": "What is the name of the Roblox premium membership?",
+        "options": [
+            "Builders Club",
+            "Roblox Premium",
+            "Roblox Pro",
+            "Developer Club"
+        ],
+        "answer": "Roblox Premium"
+    },
+    {
+        "question": "Which game in Roblox allows players to adopt and care for virtual pets?",
+        "options": [
+            "Pet Simulator",
+            "Adopt Me!",
+            "Pet Tycoon",
+            "Animal Care"
+        ],
+        "answer": "Adopt Me!"
+    },
+    {
+        "question": "What is the primary goal in the game 'Jailbreak' on Roblox?",
+        "options": [
+            "Building houses",
+            "Escaping from prison",
+            "Solving puzzles",
+            "Racing cars"
+        ],
+        "answer": "Escaping from prison"
+    },
+    {
+        "question": "What type of game is 'MeepCity' on Roblox?",
+        "options": [
+            "Role-playing",
+            "Racing",
+            "Shooting",
+            "Puzzle"
+        ],
+        "answer": "Role-playing"
+    },
+    {
+        "question": "What is the primary function of the 'Roblox Studio'?",
+        "options": [
+            "Playing games",
+            "Creating games",
+            "Socializing",
+            "Trading items"
+        ],
+        "answer": "Creating games"
+    },
+    {
+        "question": "Which Roblox game involves competing to build the best theme park?",
+        "options": [
+            "Theme Park Tycoon 2",
+            "Roller Coaster Mania",
+            "Park Builder",
+            "Funfair Tycoon"
+        ],
+        "answer": "Theme Park Tycoon 2"
+    },
+    {
+        "question": "What does 'Rthro' refer to in Roblox?",
+        "options": [
+            "A game genre",
+            "A scripting language",
+            "An avatar type",
+            "A game creation tool"
+        ],
+        "answer": "An avatar type"
+    },
+    {
+        "question": "Which Roblox event allows developers to showcase their games?",
+        "options": [
+            "Roblox Developer Conference",
+            "Roblox Game Expo",
+            "Roblox DevCon",
+            "Roblox Showcase"
+        ],
+        "answer": "Roblox Developer Conference"
+    },
+    {
+        "question": "What is the name of the official Roblox blog?",
+        "options": [
+            "Roblox News",
+            "Roblox DevHub",
+            "Roblox Blog",
+            "Roblox Forum"
+        ],
+        "answer": "Roblox Blog"
+    },
+    {
+        "question": "Which Roblox game features a battle royale mode?",
+        "options": [
+            "Battle Royale Simulator",
+            "Fortnite Roblox",
+            "Roblox Royale",
+            "Island Royale"
+        ],
+        "answer": "Island Royale"
+    },
+    {
+        "question": "What is the primary objective in the game 'Work at a Pizza Place' on Roblox?",
+        "options": [
+            "Delivering pizzas",
+            "Baking cakes",
+            "Building houses",
+            "Growing crops"
+        ],
+        "answer": "Delivering pizzas"
+    },
+    {
+        "question": "What is the maximum amount of Robux you can purchase in a single transaction?",
+        "options": [
+            "10,000 Robux",
+            "50,000 Robux",
+            "100,000 Robux",
+            "200,000 Robux"
+        ],
+        "answer": "200,000 Robux"
+    },
+    {
+        "question": "Which of the following is a popular Tycoon game on Roblox?",
+        "options": [
+            "Bloxburg",
+            "Theme Park Tycoon 2",
+            "Adopt Me!",
+            "Brookhaven"
+        ],
+        "answer": "Theme Park Tycoon 2"
+    },
+    {
+        "question": "What does the 'Roblox DevEx' program allow developers to do?",
+        "options": [
+            "Create new games",
+            "Exchange Robux for real money",
+            "Buy premium features",
+            "Sell game assets"
+        ],
+        "answer": "Exchange Robux for real money"
+    },
+    {
+        "question": "Which of these Roblox games is known for its racing mechanics?",
+        "options": [
+            "Vehicle Simulator",
+            "Bloxburg",
+            "Jailbreak",
+            "Adopt Me!"
+        ],
+        "answer": "Vehicle Simulator"
+    },
+    {
+        "question": "What is the primary feature of the game 'Piggy' on Roblox?",
+        "options": [
+            "Fighting monsters",
+            "Escape from a house",
+            "Building structures",
+            "Trading items"
+        ],
+        "answer": "Escape from a house"
+    },
+    {
+        "question": "Which Roblox feature allows players to chat with friends?",
+        "options": [
+            "Private Messages",
+            "Friends List",
+            "Chat Rooms",
+            "Community Boards"
+        ],
+        "answer": "Private Messages"
+    },
+    {
+        "question": "What is the main objective in the game 'Brookhaven' on Roblox?",
+        "options": [
+            "Surviving disasters",
+            "Role-playing in a town",
+            "Building a theme park",
+            "Racing against others"
+        ],
+        "answer": "Role-playing in a town"
+    },
+    {
+        "question": "Which Roblox feature is used to customize game settings and appearance?",
+        "options": [
+            "Roblox Studio",
+            "Roblox Marketplace",
+            "Roblox Hub",
+            "Roblox Dashboard"
+        ],
+        "answer": "Roblox Studio"
+    },
+    {
+        "question": "What is the primary function of the 'Admin Commands' in Roblox games?",
+        "options": [
+            "Modifying game rules",
+            "Creating new avatars",
+            "Purchasing items",
+            "Designing maps"
+        ],
+        "answer": "Modifying game rules"
+    },
+    {
+        "question": "Which game on Roblox features a 'Build to Survive' gameplay mode?",
+        "options": [
+            "Survive the Disasters",
+            "Build and Survive",
+            "Survival Tycoon",
+            "Build to Survive"
+        ],
+        "answer": "Build to Survive"
+    },
+    {
+        "question": "What is the main goal in the game 'Arsenal' on Roblox?",
+        "options": [
+            "Building structures",
+            "Fighting enemies",
+            "Exploring worlds",
+            "Collecting items"
+        ],
+        "answer": "Fighting enemies"
+    },
+    {
+        "question": "What feature allows players to earn badges in Roblox games?",
+        "options": [
+            "Achievements",
+            "Milestones",
+            "Badges",
+            "Trophies"
+        ],
+        "answer": "Badges"
+    },
+    {
+        "question": "Which of these is a social interaction feature in Roblox?",
+        "options": [
+            "Virtual Economy",
+            "Friends List",
+            "User-Generated Content",
+            "Roblox Studio"
+        ],
+        "answer": "Friends List"
+    },
+    {
+        "question": "What is the purpose of 'Roblox Premium' membership?",
+        "options": [
+            "Exclusive in-game items",
+            "Access to premium games",
+            "Monthly Robux allowance",
+            "Enhanced game creation tools"
+        ],
+        "answer": "Monthly Robux allowance"
+    },
+    {
+        "question": "Which Roblox game is famous for its escape room challenges?",
+        "options": [
+            "Escape Room",
+            "Escape the Dungeon",
+            "Escape the Facility",
+            "Escape the House"
+        ],
+        "answer": "Escape the Facility"
+    },
+    {
+        "question": "What is the name of the Roblox feature where users can create their own game worlds?",
+        "options": [
+            "Game Studio",
+            "Roblox Studio",
+            "Game Maker",
+            "Map Creator"
+        ],
+        "answer": "Roblox Studio"
+    },
+    {
+        "question": "Which game on Roblox is centered around a police and criminal theme?",
+        "options": [
+            "Jailbreak",
+            "Police Simulator",
+            "Criminal Minds",
+            "Robbery Tycoon"
+        ],
+        "answer": "Jailbreak"
+    },
+    {
+        "question": "Which type of currency is used to purchase virtual items in Roblox games?",
+        "options": [
+            "Diamonds",
+            "Coins",
+            "Robux",
+            "Tokens"
+        ],
+        "answer": "Robux"
+    },
+    {
+        "question": "What is the name of the annual Roblox developer conference?",
+        "options": [
+            "Roblox Summit",
+            "Roblox Con",
+            "Roblox DevCon",
+            "Roblox Creator Expo"
+        ],
+        "answer": "Roblox DevCon"
+    },
+    {
+        "question": "Which Roblox game allows players to design and run their own amusement parks?",
+        "options": [
+            "Park Tycoon",
+            "Amusement Park Simulator",
+            "Theme Park Tycoon 2",
+            "Roller Coaster Tycoon"
+        ],
+        "answer": "Theme Park Tycoon 2"
+    },
+    {
+        "question": "Which programming language is used for scripting in Roblox games?",
+        "options": [
+            "JavaScript",
+            "Python",
+            "Lua",
+            "C#"
+        ],
+        "answer": "Lua"
+    },
+    {
+        "question": "What does the 'Avatar Shop' feature allow players to do?",
+        "options": [
+            "Purchase Robux",
+            "Customize their avatars",
+            "Create new games",
+            "Trade items"
+        ],
+        "answer": "Customize their avatars"
+    },
+    {
+        "question": "What type of game is 'Murder Mystery 2' on Roblox?",
+        "options": [
+            "Role-playing",
+            "Puzzle",
+            "Strategy",
+            "Action"
+        ],
+        "answer": "Role-playing"
+    },
+    {
+        "question": "Which game involves building and managing a pizza restaurant?",
+        "options": [
+            "Pizza Tycoon",
+            "Work at a Pizza Place",
+            "Pizza Simulator",
+            "Pizza Factory"
+        ],
+        "answer": "Work at a Pizza Place"
+    },
+    {
+        "question": "What does 'Obby' refer to in Roblox?",
+        "options": [
+            "Obstacle Course",
+            "Official Game",
+            "Open World",
+            "Office Building"
+        ],
+        "answer": "Obstacle Course"
+    },
+    {
+        "question": "Which Roblox event is known for distributing virtual items during Halloween?",
+        "options": [
+            "Halloween Hunt",
+            "Spooky Fest",
+            "Halloween Event",
+            "Halloween Spooktacular"
+        ],
+        "answer": "Halloween Event"
+    },
+    {
+        "question": "Which feature in Roblox allows players to test their games before publishing?",
+        "options": [
+            "Preview Mode",
+            "Test Play",
+            "Beta Test",
+            "Roblox Studio"
+        ],
+        "answer": "Roblox Studio"
+    },
+    {
+        "question": "Which Roblox game involves fighting against zombies?",
+        "options": [
+            "Zombie Rush",
+            "Zombie Defense",
+            "Survive the Zombies",
+            "Zombie Simulator"
+        ],
+        "answer": "Zombie Rush"
+    },
+    {
+        "question": "What is the primary function of 'Admin Commands' in Roblox?",
+        "options": [
+            "Change game settings",
+            "Create new games",
+            "Design avatars",
+            "Purchase Robux"
+        ],
+        "answer": "Change game settings"
+    },
+    {
+        "question": "What does 'Rthro' represent in Roblox?",
+        "options": [
+            "A type of game",
+            "A type of avatar",
+            "A game mode",
+            "A development tool"
+        ],
+        "answer": "A type of avatar"
+    },
+    {
+        "question": "Which game on Roblox is known for its role-playing elements in a city setting?",
+        "options": [
+            "Brookhaven",
+            "Adopt Me!",
+            "Jailbreak",
+            "MeepCity"
+        ],
+        "answer": "Brookhaven"
+    },
+    {
+        "question": "What does the 'Developer Exchange' (DevEx) program allow Roblox developers to do?",
+        "options": [
+            "Sell their games",
+            "Exchange Robux for real currency",
+            "Create new avatars",
+            "Purchase premium tools"
+        ],
+        "answer": "Exchange Robux for real currency"
+    }
+]
