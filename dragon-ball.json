@@ -1,0 +1,622 @@
+[
+    {
+        "question": "Who is the main protagonist of the *Dragon Ball* series?",
+        "options": [
+            "Goku",
+            "Vegeta",
+            "Gohan",
+            "Krillin"
+        ],
+        "answer": "Goku"
+    },
+    {
+        "question": "What is the name of Goku's home planet?",
+        "options": [
+            "Earth",
+            "Vegeta",
+            "Namek",
+            "Planet Vegeta"
+        ],
+        "answer": "Planet Vegeta"
+    },
+    {
+        "question": "Who is Goku's first enemy in the series?",
+        "options": [
+            "Bulma",
+            "Yamcha",
+            "Emperor Pilaf",
+            "Frieza"
+        ],
+        "answer": "Emperor Pilaf"
+    },
+    {
+        "question": "What is the name of the powerful artifact that grants one wish?",
+        "options": [
+            "Dragon Balls",
+            "Magic Crystal",
+            "Eternal Flame",
+            "Wish Stone"
+        ],
+        "answer": "Dragon Balls"
+    },
+    {
+        "question": "Who is the creator of the Dragon Balls?",
+        "options": [
+            "Kami",
+            "King Kai",
+            "Master Roshi",
+            "Dende"
+        ],
+        "answer": "Kami"
+    },
+    {
+        "question": "What transformation does Goku achieve during his fight with Frieza?",
+        "options": [
+            "Super Saiyan",
+            "Kaioken",
+            "Super Saiyan 2",
+            "Super Saiyan 3"
+        ],
+        "answer": "Super Saiyan"
+    },
+    {
+        "question": "Who is Goku's main rival and eventual ally?",
+        "options": [
+            "Vegeta",
+            "Piccolo",
+            "Cell",
+            "Majin Buu"
+        ],
+        "answer": "Vegeta"
+    },
+    {
+        "question": "What is the name of Goku's signature energy attack?",
+        "options": [
+            "Kamehameha",
+            "Final Flash",
+            "Big Bang Attack",
+            "Special Beam Cannon"
+        ],
+        "answer": "Kamehameha"
+    },
+    {
+        "question": "What is the name of Goku's son?",
+        "options": [
+            "Gohan",
+            "Goten",
+            "Trunks",
+            "Pan"
+        ],
+        "answer": "Gohan"
+    },
+    {
+        "question": "Who is the android that Goku fights in the Android Saga?",
+        "options": [
+            "Android 17",
+            "Android 18",
+            "Android 19",
+            "Cell"
+        ],
+        "answer": "Cell"
+    },
+    {
+        "question": "What is the name of the Saiyan who was sent to destroy Earth but became its protector?",
+        "options": [
+            "Goku",
+            "Vegeta",
+            "Nappa",
+            "Raditz"
+        ],
+        "answer": "Goku"
+    },
+    {
+        "question": "Who is the creator of the Dragon Ball series?",
+        "options": [
+            "Akira Toriyama",
+            "Masashi Kishimoto",
+            "Hiro Mashima",
+            "Eiichiro Oda"
+        ],
+        "answer": "Akira Toriyama"
+    },
+    {
+        "question": "What is the name of the tournament where fighters from across the universe compete?",
+        "options": [
+            "World Martial Arts Tournament",
+            "Universal Fighting Championship",
+            "Intergalactic Tournament",
+            "Dragon Tournament"
+        ],
+        "answer": "World Martial Arts Tournament"
+    },
+    {
+        "question": "Who is the ruler of the planet Namek?",
+        "options": [
+            "Guru",
+            "Dende",
+            "Kami",
+            "Piccolo"
+        ],
+        "answer": "Guru"
+    },
+    {
+        "question": "What is the name of the villain who absorbs other beings to increase his power?",
+        "options": [
+            "Cell",
+            "Frieza",
+            "Majin Buu",
+            "Raditz"
+        ],
+        "answer": "Cell"
+    },
+    {
+        "question": "Who is the fusion of Goku and Vegeta using the Potara earrings?",
+        "options": [
+            "Vegito",
+            "Gogeta",
+            "Kefla",
+            "Jiren"
+        ],
+        "answer": "Vegito"
+    },
+    {
+        "question": "What is the name of the form that Goku achieves after mastering the Super Saiyan Blue transformation?",
+        "options": [
+            "Ultra Instinct",
+            "Super Saiyan God",
+            "Super Saiyan 4",
+            "Super Saiyan Blue Evolution"
+        ],
+        "answer": "Ultra Instinct"
+    },
+    {
+        "question": "What is the name of Goku’s wife?",
+        "options": [
+            "Chi-Chi",
+            "Bulma",
+            "Videl",
+            "Korin"
+        ],
+        "answer": "Chi-Chi"
+    },
+    {
+        "question": "Who is the Namekian warrior who first fights Goku?",
+        "options": [
+            "Piccolo",
+            "Kami",
+            "Dende",
+            "Nail"
+        ],
+        "answer": "Piccolo"
+    },
+    {
+        "question": "What is the name of Goku's transformation that allows him to use Kaioken?",
+        "options": [
+            "Super Saiyan",
+            "Normal Saiyan",
+            "Great Ape",
+            "Super Saiyan God"
+        ],
+        "answer": "Normal Saiyan"
+    },
+    {
+        "question": "What is the name of the android who joins the Z Fighters and eventually becomes Gohan's love interest?",
+        "options": [
+            "Android 18",
+            "Android 17",
+            "Android 19",
+            "Android 16"
+        ],
+        "answer": "Android 18"
+    },
+    {
+        "question": "Who is the antagonist of the Dragon Ball Z series, known for his ability to transform and control others?",
+        "options": [
+            "Frieza",
+            "Cell",
+            "Majin Buu",
+            "Raditz"
+        ],
+        "answer": "Frieza"
+    },
+    {
+        "question": "What is the name of the ultimate fusion of Goku and Vegeta using the Metamoran Fusion Dance?",
+        "options": [
+            "Gogeta",
+            "Vegito",
+            "Kefla",
+            "Xeno Goku"
+        ],
+        "answer": "Gogeta"
+    },
+    {
+        "question": "What is the name of the powerful form that Vegeta achieves through intense training and merging with his inner energy?",
+        "options": [
+            "Super Saiyan Blue",
+            "Super Saiyan God",
+            "Super Saiyan 4",
+            "Ultra Instinct"
+        ],
+        "answer": "Super Saiyan Blue"
+    },
+    {
+        "question": "Who is the original creator of the Saiyan race?",
+        "options": [
+            "The Dragon",
+            "The Gods",
+            "The Celestials",
+            "The Super Dragon"
+        ],
+        "answer": "The Gods"
+    },
+    {
+        "question": "What is the name of the powerful dragon that can grant any wish?",
+        "options": [
+            "Shenron",
+            "Porunga",
+            "Eternal Dragon",
+            "Super Shenron"
+        ],
+        "answer": "Shenron"
+    },
+    {
+        "question": "What is the name of the fusion that occurs when Goku and Vegeta use the Potara earrings?",
+        "options": [
+            "Vegito",
+            "Gogeta",
+            "Kefla",
+            "Jiren"
+        ],
+        "answer": "Vegito"
+    },
+    {
+        "question": "Who is the main antagonist of the Dragon Ball GT series?",
+        "options": [
+            "Baby",
+            "Omega Shenron",
+            "Super 17",
+            "Majin Buu"
+        ],
+        "answer": "Baby"
+    },
+    {
+        "question": "What is the name of the Saiyan transformation that is considered to be the strongest form?",
+        "options": [
+            "Super Saiyan Blue",
+            "Super Saiyan God",
+            "Super Saiyan 4",
+            "Ultra Instinct"
+        ],
+        "answer": "Ultra Instinct"
+    },
+    {
+        "question": "What is the name of the tournament that pits the best fighters from different universes against each other?",
+        "options": [
+            "Tournament of Power",
+            "World Martial Arts Tournament",
+            "Universal Tournament",
+            "Dragon Ball Tournament"
+        ],
+        "answer": "Tournament of Power"
+    },
+    {
+        "question": "What is the name of the android who has the ability to absorb other androids?",
+        "options": [
+            "Cell",
+            "Android 17",
+            "Android 18",
+            "Android 19"
+        ],
+        "answer": "Cell"
+    },
+    {
+        "question": "Who is the Saiyan who becomes the leader of the Freeza Force after Frieza's defeat?",
+        "options": [
+            "Vegeta",
+            "Nappa",
+            "Raditz",
+            "Goku"
+        ],
+        "answer": "Vegeta"
+    },
+    {
+        "question": "What is the name of Goku’s grandfather who first teaches him martial arts?",
+        "options": [
+            "Gohan",
+            "Master Roshi",
+            "Krillin",
+            "Bardock"
+        ],
+        "answer": "Gohan"
+    },
+    {
+        "question": "What is the name of the powerful being who created the Dragon Balls in Dragon Ball GT?",
+        "options": [
+            "Super Shenron",
+            "Shenron",
+            "Porunga",
+            "Demon God"
+        ],
+        "answer": "Super Shenron"
+    },
+    {
+        "question": "Who is the Saiyan prince that initially rivals Goku but later becomes his ally?",
+        "options": [
+            "Vegeta",
+            "Nappa",
+            "Raditz",
+            "Broly"
+        ],
+        "answer": "Vegeta"
+    },
+    {
+        "question": "What is the name of the series where Goku first learns the Kamehameha wave?",
+        "options": [
+            "Dragon Ball",
+            "Dragon Ball Z",
+            "Dragon Ball GT",
+            "Dragon Ball Super"
+        ],
+        "answer": "Dragon Ball"
+    },
+    {
+        "question": "What is the name of the ancient Namekian who creates the Dragon Balls?",
+        "options": [
+            "Guru",
+            "Kami",
+            "Dende",
+            "Piccolo"
+        ],
+        "answer": "Guru"
+    },
+    {
+        "question": "What is the primary goal of the character known as 'Majin Buu'?",
+        "options": [
+            "To destroy the universe",
+            "To conquer Earth",
+            "To become a Super Saiyan",
+            "To find the Dragon Balls"
+        ],
+        "answer": "To destroy the universe"
+    },
+    {
+        "question": "Which character is known for his ability to manipulate time and space with his abilities?",
+        "options": [
+            "Whis",
+            "Beerus",
+            "Dende",
+            "Kami"
+        ],
+        "answer": "Whis"
+    },
+    {
+        "question": "What is the name of the powerful transformation that allows Goku to harness the power of gods?",
+        "options": [
+            "Super Saiyan God",
+            "Super Saiyan 4",
+            "Ultra Instinct",
+            "Super Saiyan Blue"
+        ],
+        "answer": "Super Saiyan God"
+    },
+    {
+        "question": "What is the name of the technique used to increase a Saiyan's strength and speed temporarily?",
+        "options": [
+            "Kaioken",
+            "Kamehameha",
+            "Final Flash",
+            "Big Bang Attack"
+        ],
+        "answer": "Kaioken"
+    },
+    {
+        "question": "What is the name of the fused form of Goku and Vegeta that appears in Dragon Ball GT?",
+        "options": [
+            "Super Saiyan 4",
+            "Gogeta",
+            "Vegito",
+            "Omega Shenron"
+        ],
+        "answer": "Super Saiyan 4"
+    },
+    {
+        "question": "Who is the antagonist in the Dragon Ball Z saga known for his ability to absorb other beings and become stronger?",
+        "options": [
+            "Cell",
+            "Frieza",
+            "Majin Buu",
+            "Raditz"
+        ],
+        "answer": "Cell"
+    },
+    {
+        "question": "What is the name of the transformation that allows Vegeta to access god-like power?",
+        "options": [
+            "Super Saiyan Blue",
+            "Super Saiyan God",
+            "Super Saiyan 4",
+            "Ultra Instinct"
+        ],
+        "answer": "Super Saiyan Blue"
+    },
+    {
+        "question": "Who is the creator of the Dragon Balls in the universe of Dragon Ball Super?",
+        "options": [
+            "Super Shenron",
+            "Shenron",
+            "Porunga",
+            "The Great Dragon"
+        ],
+        "answer": "Super Shenron"
+    },
+    {
+        "question": "What is the name of Goku’s rival who was sent to Earth as a baby to destroy it?",
+        "options": [
+            "Raditz",
+            "Vegeta",
+            "Nappa",
+            "Broly"
+        ],
+        "answer": "Raditz"
+    },
+    {
+        "question": "What is the name of the dragon that appears when all seven Dragon Balls are gathered?",
+        "options": [
+            "Shenron",
+            "Porunga",
+            "Super Shenron",
+            "Dragon God"
+        ],
+        "answer": "Shenron"
+    },
+    {
+        "question": "What is the name of the villain who manipulates the minds of people to do his bidding?",
+        "options": [
+            "Majin Buu",
+            "Frieza",
+            "Cell",
+            "King Piccolo"
+        ],
+        "answer": "Majin Buu"
+    },
+    {
+        "question": "Who trains Goku to master the Kaioken technique?",
+        "options": [
+            "King Kai",
+            "Master Roshi",
+            "Kami",
+            "Whis"
+        ],
+        "answer": "King Kai"
+    },
+    {
+        "question": "What is the name of the powerful Saiyan transformation introduced in Dragon Ball GT?",
+        "options": [
+            "Super Saiyan 4",
+            "Super Saiyan God",
+            "Super Saiyan Blue",
+            "Ultra Instinct"
+        ],
+        "answer": "Super Saiyan 4"
+    },
+    {
+        "question": "What is the name of the fusion technique that involves merging two people using the Potara earrings?",
+        "options": [
+            "Fusion Dance",
+            "Potara Fusion",
+            "Namekian Fusion",
+            "Kami Fusion"
+        ],
+        "answer": "Potara Fusion"
+    },
+    {
+        "question": "Who is the Namekian warrior that fuses with Piccolo to become more powerful?",
+        "options": [
+            "Kami",
+            "Dende",
+            "Nail",
+            "Guru"
+        ],
+        "answer": "Nail"
+    },
+    {
+        "question": "Who is the leader of the Ginyu Force?",
+        "options": [
+            "Captain Ginyu",
+            "Jeice",
+            "Burta",
+            "Recoome"
+        ],
+        "answer": "Captain Ginyu"
+    },
+    {
+        "question": "What is the name of the dragon that grants wishes in the Namek Saga?",
+        "options": [
+            "Porunga",
+            "Shenron",
+            "Super Shenron",
+            "Dragon God"
+        ],
+        "answer": "Porunga"
+    },
+    {
+        "question": "Who is the powerful enemy that Goku and Vegeta must defeat in the Dragon Ball Super series?",
+        "options": [
+            "Zamasu",
+            "Jiren",
+            "Goku Black",
+            "Beerus"
+        ],
+        "answer": "Jiren"
+    },
+    {
+        "question": "What is the name of the energy-based attack that is Goku's signature move?",
+        "options": [
+            "Kamehameha",
+            "Final Flash",
+            "Big Bang Attack",
+            "Masenko"
+        ],
+        "answer": "Kamehameha"
+    },
+    {
+        "question": "What is the name of the transformation that increases Goku’s power significantly by combining Super Saiyan and God energy?",
+        "options": [
+            "Super Saiyan Blue",
+            "Super Saiyan God",
+            "Super Saiyan 4",
+            "Ultra Instinct"
+        ],
+        "answer": "Super Saiyan Blue"
+    },
+    {
+        "question": "Who is the character that is known for using the technique called the Special Beam Cannon?",
+        "options": [
+            "Piccolo",
+            "Goku",
+            "Vegeta",
+            "Trunks"
+        ],
+        "answer": "Piccolo"
+    },
+    {
+        "question": "What is the name of the character that is known for his ability to create and manipulate energy blasts?",
+        "options": [
+            "Frieza",
+            "Cell",
+            "Majin Buu",
+            "Raditz"
+        ],
+        "answer": "Frieza"
+    },
+    {
+        "question": "What is the name of the attack used by Vegeta to finish off his enemies in the later series?",
+        "options": [
+            "Final Flash",
+            "Big Bang Attack",
+            "Galick Gun",
+            "Big Bang Kamehameha"
+        ],
+        "answer": "Final Flash"
+    },
+    {
+        "question": "What is the name of the character who becomes the new Supreme Kai in Dragon Ball Super?",
+        "options": [
+            "Kibito Kai",
+            "Old Kai",
+            "Grand Kai",
+            "Supreme Kai of Time"
+        ],
+        "answer": "Kibito Kai"
+    },
+    {
+        "question": "Who is the Saiyan warrior that is Goku’s father?",
+        "options": [
+            "Bardock",
+            "Vegeta",
+            "Raditz",
+            "Nappa"
+        ],
+        "answer": "Bardock"
+    }
+]
