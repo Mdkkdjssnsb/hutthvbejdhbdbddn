@@ -1,0 +1,722 @@
+[
+    {
+        "question": "What does PUBG stand for?",
+        "options": [
+            "PlayerUnknown's Battlegrounds",
+            "Public Battlegrounds",
+            "PlayerUnite Battlegrounds",
+            "Public Ultimate Battlegrounds"
+        ],
+        "answer": "PlayerUnknown's Battlegrounds"
+    },
+    {
+        "question": "What is the maximum number of players in a PUBG match?",
+        "options": [
+            "50",
+            "75",
+            "100",
+            "125"
+        ],
+        "answer": "100"
+    },
+    {
+        "question": "Which company developed PUBG?",
+        "options": [
+            "Epic Games",
+            "Tencent Games",
+            "PUBG Corporation",
+            "Activision"
+        ],
+        "answer": "PUBG Corporation"
+    },
+    {
+        "question": "Which map was the first to be released in PUBG?",
+        "options": [
+            "Miramar",
+            "Erangel",
+            "Sanhok",
+            "Vikendi"
+        ],
+        "answer": "Erangel"
+    },
+    {
+        "question": "What is the name of the smallest map in PUBG?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Karakin"
+        ],
+        "answer": "Karakin"
+    },
+    {
+        "question": "Which of the following is NOT a vehicle in PUBG?",
+        "options": [
+            "Dacia",
+            "UAZ",
+            "Buggy",
+            "Warthog"
+        ],
+        "answer": "Warthog"
+    },
+    {
+        "question": "Which weapon is known for its high damage and slow firing rate?",
+        "options": [
+            "AKM",
+            "M416",
+            "AWM",
+            "Vector"
+        ],
+        "answer": "AWM"
+    },
+    {
+        "question": "What is the primary function of the 'Red Zone'?",
+        "options": [
+            "Drop supplies",
+            "Spawn vehicles",
+            "Bombard a specific area",
+            "Increase player speed"
+        ],
+        "answer": "Bombard a specific area"
+    },
+    {
+        "question": "Which attachment is used to reduce weapon recoil?",
+        "options": [
+            "Suppressor",
+            "Extended Mag",
+            "Vertical Foregrip",
+            "Laser Sight"
+        ],
+        "answer": "Vertical Foregrip"
+    },
+    {
+        "question": "Which item can be used to revive a downed teammate?",
+        "options": [
+            "Medkit",
+            "First Aid Kit",
+            "Adrenaline Syringe",
+            "Defibrillator"
+        ],
+        "answer": "Defibrillator"
+    },
+    {
+        "question": "What is the maximum number of people in a squad in PUBG?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "Which map is known for its desert terrain?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Vikendi"
+        ],
+        "answer": "Miramar"
+    },
+    {
+        "question": "What is the primary purpose of the 'Blue Zone'?",
+        "options": [
+            "Heal players",
+            "Shrink the play area",
+            "Increase loot spawn",
+            "Increase player speed"
+        ],
+        "answer": "Shrink the play area"
+    },
+    {
+        "question": "Which weapon uses 9mm ammunition?",
+        "options": [
+            "AKM",
+            "M416",
+            "UMP45",
+            "Vector"
+        ],
+        "answer": "Vector"
+    },
+    {
+        "question": "What is the name of the winter map in PUBG?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Vikendi"
+        ],
+        "answer": "Vikendi"
+    },
+    {
+        "question": "Which consumable item fully restores health?",
+        "options": [
+            "First Aid Kit",
+            "Medkit",
+            "Bandages",
+            "Energy Drink"
+        ],
+        "answer": "Medkit"
+    },
+    {
+        "question": "Which vehicle is exclusive to the map Sanhok?",
+        "options": [
+            "Dacia",
+            "UAZ",
+            "Buggy",
+            "Scooter"
+        ],
+        "answer": "Scooter"
+    },
+    {
+        "question": "Which weapon is known as a sniper rifle?",
+        "options": [
+            "AKM",
+            "M416",
+            "AWM",
+            "Vector"
+        ],
+        "answer": "AWM"
+    },
+    {
+        "question": "Which attachment can reduce the sound of gunfire?",
+        "options": [
+            "Suppressor",
+            "Extended Mag",
+            "Vertical Foregrip",
+            "Laser Sight"
+        ],
+        "answer": "Suppressor"
+    },
+    {
+        "question": "What is the name of the map with dense jungle terrain?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Vikendi"
+        ],
+        "answer": "Sanhok"
+    },
+    {
+        "question": "Which item increases running speed and boosts health?",
+        "options": [
+            "First Aid Kit",
+            "Medkit",
+            "Adrenaline Syringe",
+            "Energy Drink"
+        ],
+        "answer": "Adrenaline Syringe"
+    },
+    {
+        "question": "Which weapon is considered a shotgun?",
+        "options": [
+            "AKM",
+            "M416",
+            "S686",
+            "Vector"
+        ],
+        "answer": "S686"
+    },
+    {
+        "question": "Which of the following is NOT a throwable weapon in PUBG?",
+        "options": [
+            "Grenade",
+            "Molotov Cocktail",
+            "Smoke Bomb",
+            "Boomerang"
+        ],
+        "answer": "Boomerang"
+    },
+    {
+        "question": "What is the primary function of the 'Ghillie Suit'?",
+        "options": [
+            "Increase armor",
+            "Provide camouflage",
+            "Increase speed",
+            "Boost health"
+        ],
+        "answer": "Provide camouflage"
+    },
+    {
+        "question": "Which item can be used to heal a player over time?",
+        "options": [
+            "First Aid Kit",
+            "Medkit",
+            "Bandages",
+            "Energy Drink"
+        ],
+        "answer": "Bandages"
+    },
+    {
+        "question": "Which vehicle is known for its speed on water?",
+        "options": [
+            "Dacia",
+            "UAZ",
+            "Buggy",
+            "Aquarail"
+        ],
+        "answer": "Aquarail"
+    },
+    {
+        "question": "Which weapon is an assault rifle?",
+        "options": [
+            "AKM",
+            "AWM",
+            "S686",
+            "Vector"
+        ],
+        "answer": "AKM"
+    },
+    {
+        "question": "Which attachment increases magazine capacity?",
+        "options": [
+            "Suppressor",
+            "Extended Mag",
+            "Vertical Foregrip",
+            "Laser Sight"
+        ],
+        "answer": "Extended Mag"
+    },
+    {
+        "question": "What is the name of the dynamic weather map in PUBG?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Vikendi"
+        ],
+        "answer": "Sanhok"
+    },
+    {
+        "question": "Which consumable item provides a temporary health boost?",
+        "options": [
+            "First Aid Kit",
+            "Medkit",
+            "Bandages",
+            "Energy Drink"
+        ],
+        "answer": "Energy Drink"
+    },
+    {
+        "question": "Which weapon is a designated marksman rifle (DMR)?",
+        "options": [
+            "AKM",
+            "SKS",
+            "S686",
+            "Vector"
+        ],
+        "answer": "SKS"
+    },
+    {
+        "question": "Which of the following is NOT a type of grenade in PUBG?",
+        "options": [
+            "Frag Grenade",
+            "Smoke Grenade",
+            "Stun Grenade",
+            "Incendiary Grenade"
+        ],
+        "answer": "Incendiary Grenade"
+    },
+    {
+        "question": "Which item can be used to protect from headshots?",
+        "options": [
+            "Armor",
+            "Ghillie Suit",
+            "Helmet",
+            "Backpack"
+        ],
+        "answer": "Helmet"
+    },
+    {
+        "question": "Which item can be used to restore health instantly?",
+        "options": [
+            "First Aid Kit",
+            "Medkit",
+            "Bandages",
+            "Energy Drink"
+        ],
+        "answer": "First Aid Kit"
+    },
+    {
+        "question": "Which vehicle is exclusive to the map Miramar?",
+        "options": [
+            "Dacia",
+            "UAZ",
+            "Buggy",
+            "Mirado"
+        ],
+        "answer": "Mirado"
+    },
+    {
+        "question": "Which weapon is considered a light machine gun (LMG)?",
+        "options": [
+            "AKM",
+            "M249",
+            "S686",
+            "Vector"
+        ],
+        "answer": "M249"
+    },
+    {
+        "question": "Which company publishes PUBG?",
+        "options": [
+            "Tencent Games",
+            "Epic Games",
+            "Activision",
+            "Bluehole"
+        ],
+        "answer": "Tencent Games"
+    },
+    {
+        "question": "What is the maximum level of helmet in PUBG?",
+        "options": [
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Level 4"
+        ],
+        "answer": "Level 3"
+    },
+    {
+        "question": "Which of these weapons is a bolt-action sniper rifle?",
+        "options": [
+            "M416",
+            "AKM",
+            "Kar98k",
+            "UMP45"
+        ],
+        "answer": "Kar98k"
+    },
+    {
+        "question": "Which map introduced the Vikendi Snowmobile?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Vikendi"
+        ],
+        "answer": "Vikendi"
+    },
+    {
+        "question": "What is the damage reduction of a Level 3 vest?",
+        "options": [
+            "30%",
+            "40%",
+            "50%",
+            "60%"
+        ],
+        "answer": "55%"
+    },
+    {
+        "question": "Which map is known for its tropical rainforest environment?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Vikendi"
+        ],
+        "answer": "Sanhok"
+    },
+    {
+        "question": "Which vehicle is known for being the fastest in PUBG?",
+        "options": [
+            "Dacia",
+            "Mirado",
+            "Motorcycle",
+            "Buggy"
+        ],
+        "answer": "Motorcycle"
+    },
+    {
+        "question": "Which weapon uses 7.62mm ammunition?",
+        "options": [
+            "M416",
+            "AKM",
+            "UMP45",
+            "Vector"
+        ],
+        "answer": "AKM"
+    },
+    {
+        "question": "What is the maximum number of players in a solo match?",
+        "options": [
+            "50",
+            "75",
+            "100",
+            "125"
+        ],
+        "answer": "100"
+    },
+    {
+        "question": "What is the name of the desert map in PUBG?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Vikendi"
+        ],
+        "answer": "Miramar"
+    },
+    {
+        "question": "Which item restores both health and boosts?",
+        "options": [
+            "First Aid Kit",
+            "Medkit",
+            "Adrenaline Syringe",
+            "Energy Drink"
+        ],
+        "answer": "Adrenaline Syringe"
+    },
+    {
+        "question": "Which weapon is considered a submachine gun (SMG)?",
+        "options": [
+            "AKM",
+            "M416",
+            "UMP45",
+            "AWM"
+        ],
+        "answer": "UMP45"
+    },
+    {
+        "question": "Which throwable creates a cloud of smoke?",
+        "options": [
+            "Frag Grenade",
+            "Molotov Cocktail",
+            "Smoke Grenade",
+            "Stun Grenade"
+        ],
+        "answer": "Smoke Grenade"
+    },
+    {
+        "question": "What is the primary purpose of the 'Red Zone'?",
+        "options": [
+            "Drop supplies",
+            "Spawn vehicles",
+            "Bombard a specific area",
+            "Increase player speed"
+        ],
+        "answer": "Bombard a specific area"
+    },
+    {
+        "question": "Which weapon is known for its burst fire mode?",
+        "options": [
+            "M416",
+            "AKM",
+            "M16A4",
+            "Vector"
+        ],
+        "answer": "M16A4"
+    },
+    {
+        "question": "Which map features a dynamic weather system?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Vikendi"
+        ],
+        "answer": "Sanhok"
+    },
+    {
+        "question": "Which consumable item boosts health over time?",
+        "options": [
+            "First Aid Kit",
+            "Medkit",
+            "Bandages",
+            "Energy Drink"
+        ],
+        "answer": "Energy Drink"
+    },
+    {
+        "question": "Which weapon is a light machine gun (LMG)?",
+        "options": [
+            "AKM",
+            "M249",
+            "S686",
+            "Vector"
+        ],
+        "answer": "M249"
+    },
+    {
+        "question": "Which of the following is NOT a type of grenade in PUBG?",
+        "options": [
+            "Frag Grenade",
+            "Smoke Grenade",
+            "Stun Grenade",
+            "Incendiary Grenade"
+        ],
+        "answer": "Incendiary Grenade"
+    },
+    {
+        "question": "What is the maximum level of backpack in PUBG?",
+        "options": [
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Level 4"
+        ],
+        "answer": "Level 3"
+    },
+    {
+        "question": "Which weapon is considered a shotgun?",
+        "options": [
+            "AKM",
+            "M416",
+            "S686",
+            "Vector"
+        ],
+        "answer": "S686"
+    },
+    {
+        "question": "Which map was added to PUBG Mobile before being added to the PC version?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Livik"
+        ],
+        "answer": "Livik"
+    },
+    {
+        "question": "What is the maximum level of armor in PUBG?",
+        "options": [
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Level 4"
+        ],
+        "answer": "Level 3"
+    },
+    {
+        "question": "Which vehicle is exclusive to the map Vikendi?",
+        "options": [
+            "Dacia",
+            "UAZ",
+            "Buggy",
+            "Snowmobile"
+        ],
+        "answer": "Snowmobile"
+    },
+    {
+        "question": "Which weapon uses 5.56mm ammunition?",
+        "options": [
+            "AKM",
+            "M416",
+            "UMP45",
+            "Vector"
+        ],
+        "answer": "M416"
+    },
+    {
+        "question": "Which attachment is used to reduce weapon recoil?",
+        "options": [
+            "Suppressor",
+            "Extended Mag",
+            "Vertical Foregrip",
+            "Laser Sight"
+        ],
+        "answer": "Vertical Foregrip"
+    },
+    {
+        "question": "Which map introduced the Golden Mirado vehicle?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Vikendi"
+        ],
+        "answer": "Miramar"
+    },
+    {
+        "question": "What is the purpose of the 'Blue Zone'?",
+        "options": [
+            "Heal players",
+            "Shrink the play area",
+            "Increase loot spawn",
+            "Increase player speed"
+        ],
+        "answer": "Shrink the play area"
+    },
+    {
+        "question": "Which weapon is known as a sniper rifle?",
+        "options": [
+            "AKM",
+            "M416",
+            "AWM",
+            "Vector"
+        ],
+        "answer": "AWM"
+    },
+    {
+        "question": "Which item increases magazine capacity?",
+        "options": [
+            "Suppressor",
+            "Extended Mag",
+            "Vertical Foregrip",
+            "Laser Sight"
+        ],
+        "answer": "Extended Mag"
+    },
+    {
+        "question": "Which map is known for its snow-covered terrain?",
+        "options": [
+            "Erangel",
+            "Miramar",
+            "Sanhok",
+            "Vikendi"
+        ],
+        "answer": "Vikendi"
+    },
+    {
+        "question": "Which consumable item provides a temporary health boost?",
+        "options": [
+            "First Aid Kit",
+            "Medkit",
+            "Bandages",
+            "Energy Drink"
+        ],
+        "answer": "Energy Drink"
+    },
+    {
+        "question": "Which weapon is a designated marksman rifle (DMR)?",
+        "options": [
+            "AKM",
+            "SKS",
+            "S686",
+            "Vector"
+        ],
+        "answer": "SKS"
+    },
+    {
+        "question": "Which of the following is NOT a throwable weapon in PUBG?",
+        "options": [
+            "Grenade",
+            "Molotov Cocktail",
+            "Smoke Bomb",
+            "Boomerang"
+        ],
+        "answer": "Boomerang"
+    },
+    {
+        "question": "Which attachment can reduce the sound of gunfire?",
+        "options": [
+            "Suppressor",
+            "Extended Mag",
+            "Vertical Foregrip",
+            "Laser Sight"
+        ],
+        "answer": "Suppressor"
+    },
+    {
+        "question": "Which item can be used to restore health instantly?",
+        "options": [
+            "First Aid Kit",
+            "Medkit",
+            "Bandages",
+            "Energy Drink"
+        ],
+        "answer": "First Aid Kit"
+    }
+ ]
