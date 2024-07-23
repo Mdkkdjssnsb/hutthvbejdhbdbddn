@@ -1,0 +1,347 @@
+[
+    {
+        "question": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+        "answer": "Cascading Style Sheets"
+    },
+    {
+        "question": "Which property is used to change the text color in CSS?",
+        "options": ["color", "text-color", "font-color", "background-color"],
+        "answer": "color"
+    },
+    {
+        "question": "Which property is used to change the background color of an element?",
+        "options": ["background-color", "bg-color", "color", "background"],
+        "answer": "background-color"
+    },
+    {
+        "question": "Which CSS property controls the font size?",
+        "options": ["font-size", "text-size", "size", "font"],
+        "answer": "font-size"
+    },
+    {
+        "question": "How do you select an element with the id 'header' in CSS?",
+        "options": ["#header", ".header", "header", "id=header"],
+        "answer": "#header"
+    },
+    {
+        "question": "How do you select all elements with the class 'nav'?",
+        "options": [".nav", "#nav", "nav", "class=nav"],
+        "answer": ".nav"
+    },
+    {
+        "question": "Which CSS property is used to set the space between words?",
+        "options": ["word-spacing", "letter-spacing", "line-height", "margin"],
+        "answer": "word-spacing"
+    },
+    {
+        "question": "Which property is used to set the space between lines of text?",
+        "options": ["line-height", "text-spacing", "letter-spacing", "word-spacing"],
+        "answer": "line-height"
+    },
+    {
+        "question": "How do you apply a style to all `<p>` elements in CSS?",
+        "options": ["p {}", "p()", "p[]", "p: {}"],
+        "answer": "p {}"
+    },
+    {
+        "question": "Which CSS property controls the text alignment?",
+        "options": ["text-align", "align", "text-position", "align-text"],
+        "answer": "text-align"
+    },
+    {
+        "question": "What is the default value of the `display` property?",
+        "options": ["block", "inline", "inline-block", "none"],
+        "answer": "block"
+    },
+    {
+        "question": "Which property is used to change the style of a list in CSS?",
+        "options": ["list-style", "list-type", "list-color", "style-list"],
+        "answer": "list-style"
+    },
+    {
+        "question": "How do you add a border to an element in CSS?",
+        "options": ["border", "border-style", "border-width", "border-color"],
+        "answer": "border"
+    },
+    {
+        "question": "How do you specify the width of an element's border?",
+        "options": ["border-width", "border-size", "width", "border"],
+        "answer": "border-width"
+    },
+    {
+        "question": "Which property is used to set the width of an element?",
+        "options": ["width", "element-width", "size", "measure"],
+        "answer": "width"
+    },
+    {
+        "question": "Which property is used to set the height of an element?",
+        "options": ["height", "element-height", "size", "measure"],
+        "answer": "height"
+    },
+    {
+        "question": "How do you center text horizontally in CSS?",
+        "options": ["text-align: center;", "align: center;", "center: true;", "text-center;"],
+        "answer": "text-align: center;"
+    },
+    {
+        "question": "How do you make text bold in CSS?",
+        "options": ["font-weight: bold;", "text-weight: bold;", "font-style: bold;", "font: bold;"],
+        "answer": "font-weight: bold;"
+    },
+    {
+        "question": "How do you italicize text in CSS?",
+        "options": ["font-style: italic;", "text-style: italic;", "font-weight: italic;", "text-decoration: italic;"],
+        "answer": "font-style: italic;"
+    },
+    {
+        "question": "Which property is used to change the font family?",
+        "options": ["font-family", "font-type", "font", "text-family"],
+        "answer": "font-family"
+    },
+    {
+        "question": "How do you apply a CSS style only to screens with a width greater than 600px?",
+        "options": ["@media screen and (min-width: 600px) {}", "@media (min-width: 600px) {}", "@media screen (min-width: 600px) {}", "@media (width: 600px) {}"],
+        "answer": "@media screen and (min-width: 600px) {}"
+    },
+    {
+        "question": "Which property is used to set the margin of an element?",
+        "options": ["margin", "padding", "border", "space"],
+        "answer": "margin"
+    },
+    {
+        "question": "Which property is used to set the padding of an element?",
+        "options": ["padding", "margin", "border", "space"],
+        "answer": "padding"
+    },
+    {
+        "question": "How do you set the background image of an element in CSS?",
+        "options": ["background-image: url('image.jpg');", "background: url('image.jpg');", "image: url('image.jpg');", "background-url: 'image.jpg';"],
+        "answer": "background-image: url('image.jpg');"
+    },
+    {
+        "question": "Which property is used to specify the position of an element?",
+        "options": ["position", "locate", "align", "place"],
+        "answer": "position"
+    },
+    {
+        "question": "How do you position an element absolutely in CSS?",
+        "options": ["position: absolute;", "position: fixed;", "position: relative;", "position: static;"],
+        "answer": "position: absolute;"
+    },
+    {
+        "question": "Which property is used to make an element invisible but still take up space in the layout?",
+        "options": ["visibility: hidden;", "display: none;", "opacity: 0;", "position: absolute;"],
+        "answer": "visibility: hidden;"
+    },
+    {
+        "question": "How do you apply a shadow effect to text in CSS?",
+        "options": ["text-shadow: 2px 2px 5px #000;", "shadow: 2px 2px 5px #000;", "text-effect: shadow;", "font-shadow: 2px 2px 5px #000;"],
+        "answer": "text-shadow: 2px 2px 5px #000;"
+    },
+    {
+        "question": "Which property is used to round the corners of an element?",
+        "options": ["border-radius", "corner-radius", "border-corner", "radius"],
+        "answer": "border-radius"
+    },
+    {
+        "question": "How do you create a flex container in CSS?",
+        "options": ["display: flex;", "flex: container;", "container: flex;", "layout: flex;"],
+        "answer": "display: flex;"
+    },
+    {
+        "question": "Which property is used to align items within a flex container?",
+        "options": ["align-items", "justify-content", "align-content", "align"],
+        "answer": "align-items"
+    },
+    {
+        "question": "Which property is used to set the spacing between items in a flex container?",
+        "options": ["gap", "space-between", "margin", "padding"],
+        "answer": "gap"
+    },
+    {
+        "question": "Which property is used to define the order of flex items?",
+        "options": ["order", "flex-order", "item-order", "sequence"],
+        "answer": "order"
+    },
+    {
+        "question": "How do you apply a style to an element when the user hovers over it?",
+        "options": ["selector:hover {}", "element:hover {}", "hover: element {}", "element: hover {}"],
+        "answer": "selector:hover {}"
+    },
+    {
+        "question": "Which property is used to set the opacity level of an element?",
+        "options": ["opacity", "transparency", "visibility", "fade"],
+        "answer": "opacity"
+    },
+    {
+        "question": "How do you hide an element completely from the layout and the view?",
+        "options": ["display: none;", "visibility: hidden;", "opacity: 0;", "position: absolute;"],
+        "answer": "display: none;"
+    },
+    {
+        "question": "Which property is used to create a gradient background in CSS?",
+        "options": ["background-image: linear-gradient();", "background: gradient();", "gradient: linear();", "background: linear-gradient();"],
+        "answer": "background-image: linear-gradient();"
+    },
+    {
+        "question": "Which property is used to set the font size of an element?",
+        "options": ["font-size", "text-size", "size", "font"],
+        "answer": "font-size"
+    },
+    {
+        "question": "Which CSS property can be used to create a multi-column layout?",
+        "options": ["column-count", "multi-column", "columns", "column-layout"],
+        "answer": "column-count"
+    },
+    {
+        "question": "Which property would you use to create a responsive grid with equal-width columns?",
+        "options": ["grid-template-columns", "flex-basis", "column-width", "grid-auto-flow"],
+        "answer": "grid-template-columns"
+    },
+    {
+        "question": "How do you target the third child of a parent element using CSS?",
+        "options": ["nth-child(3)", "nth-of-type(3)", "child(3)", "third-child()"],
+        "answer": "nth-child(3)"
+    },
+    {
+        "question": "What does the `box-sizing` property control?",
+        "options": ["how the width and height of an element are calculated", "the alignment of text in a box", "the display type of an element", "the border style of a box"],
+        "answer": "how the width and height of an element are calculated"
+    },
+    {
+        "question": "Which CSS property controls the position of an element relative to its normal position?",
+        "options": ["position", "relative-position", "placement", "alignment"],
+        "answer": "position"
+    },
+    {
+        "question": "How can you apply different styles to a single element depending on its state?",
+        "options": ["using pseudo-classes", "using pseudo-elements", "using media queries", "using attribute selectors"],
+        "answer": "using pseudo-classes"
+    },
+    {
+        "question": "What is the default value of the `position` property in CSS?",
+        "options": ["static", "relative", "absolute", "fixed"],
+        "answer": "static"
+    },
+    {
+        "question": "Which CSS property can be used to control the order of flex items in a flex container?",
+        "options": ["order", "flex-direction", "flex-order", "align-items"],
+        "answer": "order"
+    },
+    {
+        "question": "What does the `overflow` property control?",
+        "options": ["how to handle content that overflows the container", "how to align elements", "how to apply shadow effects", "how to handle text wrapping"],
+        "answer": "how to handle content that overflows the container"
+    },
+    {
+        "question": "Which pseudo-class targets elements that are currently being visited?",
+        "options": [":visited", ":focus", ":hover", ":active"],
+        "answer": ":visited"
+    },
+    {
+        "question": "How do you create a CSS animation that loops infinitely?",
+        "options": ["animation: name duration infinite;", "animation: name infinite;", "animation: name duration loop;", "animation: name loop;"],
+        "answer": "animation: name duration infinite;"
+    },
+    {
+        "question": "Which property allows you to set the opacity level of a background image independently from the rest of the content?",
+        "options": ["background: rgba();", "background-color", "background-opacity", "background-image"],
+        "answer": "background: rgba();"
+    },
+    {
+        "question": "What is the function of the `calc()` function in CSS?",
+        "options": ["to perform calculations for dynamic property values", "to calculate element sizes", "to adjust pixel values", "to compute color values"],
+        "answer": "to perform calculations for dynamic property values"
+    },
+    {
+        "question": "How can you center a block-level element horizontally within its parent using CSS?",
+        "options": ["margin: auto;", "text-align: center;", "align-items: center;", "justify-content: center;"],
+        "answer": "margin: auto;"
+    },
+    {
+        "question": "Which property can you use to create a gradient background with multiple color stops?",
+        "options": ["background-image", "background-color", "gradient", "background"],
+        "answer": "background-image"
+    },
+    {
+        "question": "How do you create a grid layout with equal-sized columns and rows?",
+        "options": ["grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); grid-template-rows: repeat(auto-fit, minmax(100px, 1fr));", "grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr;", "display: grid; grid-template-columns: 1fr; grid-template-rows: 1fr;", "grid-template: 1fr 1fr / 1fr 1fr;"],
+        "answer": "grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); grid-template-rows: repeat(auto-fit, minmax(100px, 1fr));"
+    },
+    {
+        "question": "What does the `transform` property do in CSS?",
+        "options": ["applies 2D or 3D transformations to an element", "transforms text into different fonts", "changes the color of an element", "adjusts the size of an element"],
+        "answer": "applies 2D or 3D transformations to an element"
+    },
+    {
+        "question": "Which CSS property can be used to create a flexible and responsive grid layout?",
+        "options": ["display: grid;", "display: flex;", "grid-template-columns", "flex-direction"],
+        "answer": "display: grid;"
+    },
+    {
+        "question": "What is the purpose of the `z-index` property?",
+        "options": ["controls the stacking order of elements", "sets the width of an element", "applies a shadow effect", "changes the text color"],
+        "answer": "controls the stacking order of elements"
+    },
+    {
+        "question": "Which property would you use to control the space between letters of text?",
+        "options": ["letter-spacing", "word-spacing", "line-height", "text-spacing"],
+        "answer": "letter-spacing"
+    },
+    {
+        "question": "How do you create a CSS transition that affects the `opacity` property?",
+        "options": ["transition: opacity 0.5s ease;", "transition: all 0.5s;", "opacity: transition 0.5s;", "transition-opacity: 0.5s;"],
+        "answer": "transition: opacity 0.5s ease;"
+    },
+    {
+        "question": "Which property is used to control the visibility of an element in a flex container?",
+        "options": ["flex", "visibility", "display", "align-items"],
+        "answer": "flex"
+    },
+    {
+        "question": "How can you hide an element while still making it available for screen readers?",
+        "options": ["visibility: hidden;", "opacity: 0; position: absolute;", "display: none;", "position: absolute; left: -9999px;"],
+        "answer": "visibility: hidden;"
+    },
+    {
+        "question": "Which CSS property is used to control the number of decimal places in a number?",
+        "options": ["decimal-count", "number-format", "numeric", "width"],
+        "answer": "none"  // Note: CSS does not directly support controlling decimal places; this is managed via other means like JavaScript.
+    },
+    {
+        "question": "How do you specify the size of the viewport in a responsive web design?",
+        "options": ["meta name='viewport'", "viewport-size", "meta viewport='width=device-width'", "viewport-size: device-width"],
+        "answer": "meta name='viewport'"
+    },
+    {
+        "question": "Which property allows you to apply a shadow effect to an element's border?",
+        "options": ["box-shadow", "border-shadow", "shadow", "text-shadow"],
+        "answer": "box-shadow"
+    },
+    {
+        "question": "How do you create a CSS grid where items span multiple rows and columns?",
+        "options": ["grid-area", "grid-column", "grid-row", "grid-span"],
+        "answer": "grid-area"
+    },
+    {
+        "question": "Which property would you use to change the display type of an element?",
+        "options": ["display", "visibility", "float", "position"],
+        "answer": "display"
+    },
+    {
+        "question": "How do you apply a CSS style to an element only when it is not hovered over?",
+        "options": [":not(:hover)", ":hover:not()", ":hover ~", ":not(:hover)"],
+        "answer": ":not(:hover)"
+    },
+    {
+        "question": "What is the difference between `inline` and `inline-block` display values?",
+        "options": ["inline-block elements can have width and height, while inline elements cannot", "inline elements can have width and height, while inline-block elements cannot", "inline and inline-block are identical", "inline-block elements cannot be styled"],
+        "answer": "inline-block elements can have width and height, while inline elements cannot"
+    },
+    {
+        "question": "Which property is used to control the amount of space between the border and content of an element?",
+        "options": ["padding", "margin", "border-spacing", "border-padding"],
+        "answer": "padding"
+    }
+]
