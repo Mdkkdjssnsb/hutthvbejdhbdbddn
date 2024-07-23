@@ -1,0 +1,427 @@
+[
+    {
+        "question": "Which HTML element is used to create a hyperlink?",
+        "options": ["<a>", "<link>", "<href>", "<hyperlink>"],
+        "answer": "<a>"
+    },
+    {
+        "question": "Which attribute specifies the URL in an `<a>` element?",
+        "options": ["href", "src", "url", "target"],
+        "answer": "href"
+    },
+    {
+        "question": "Which HTML element is used to display an image?",
+        "options": ["<img>", "<image>", "<picture>", "<photo>"],
+        "answer": "<img>"
+    },
+    {
+        "question": "Which attribute specifies the source of the image in an `<img>` element?",
+        "options": ["src", "alt", "title", "href"],
+        "answer": "src"
+    },
+    {
+        "question": "Which HTML element is used to create a level 1 heading?",
+        "options": ["<h1>", "<title>", "<head>", "<header>"],
+        "answer": "<h1>"
+    },
+    {
+        "question": "Which HTML element is used to create an unordered list?",
+        "options": ["<ul>", "<ol>", "<li>", "<list>"],
+        "answer": "<ul>"
+    },
+    {
+        "question": "Which element is used to define an item in an unordered or ordered list?",
+        "options": ["<li>", "<item>", "<list>", "<ul>"],
+        "answer": "<li>"
+    },
+    {
+        "question": "Which HTML element is used to create a table?",
+        "options": ["<table>", "<tr>", "<td>", "<thead>"],
+        "answer": "<table>"
+    },
+    {
+        "question": "Which element is used to define a cell in an HTML table?",
+        "options": ["<td>", "<cell>", "<th>", "<tr>"],
+        "answer": "<td>"
+    },
+    {
+        "question": "Which element is used to define a row in an HTML table?",
+        "options": ["<tr>", "<td>", "<th>", "<row>"],
+        "answer": "<tr>"
+    },
+    {
+        "question": "Which attribute is used to provide alternative text for an image in an `<img>` element?",
+        "options": ["alt", "title", "src", "href"],
+        "answer": "alt"
+    },
+    {
+        "question": "Which HTML element is used to create a text input field?",
+        "options": ["<input>", "<textarea>", "<form>", "<select>"],
+        "answer": "<input>"
+    },
+    {
+        "question": "Which attribute is used to specify the type of data for an input field in an `<input>` element?",
+        "options": ["type", "value", "name", "placeholder"],
+        "answer": "type"
+    },
+    {
+        "question": "Which HTML element is used to create a form?",
+        "options": ["<form>", "<input>", "<button>", "<fieldset>"],
+        "answer": "<form>"
+    },
+    {
+        "question": "Which attribute is used to give a name to a form field?",
+        "options": ["name", "id", "value", "placeholder"],
+        "answer": "name"
+    },
+    {
+        "question": "Which HTML element is used to create a checkbox?",
+        "options": ["<input type='checkbox'>", "<input type='radio'>", "<input type='text'>", "<select>"],
+        "answer": "<input type='checkbox'>"
+    },
+    {
+        "question": "Which HTML element is used to create a button?",
+        "options": ["<button>", "<input type='button'>", "<a>", "<div>"],
+        "answer": "<button>"
+    },
+    {
+        "question": "Which HTML element is used to define a paragraph?",
+        "options": ["<p>", "<para>", "<text>", "<div>"],
+        "answer": "<p>"
+    },
+    {
+        "question": "Which HTML element is used to create a division or section in a document?",
+        "options": ["<div>", "<section>", "<article>", "<header>"],
+        "answer": "<div>"
+    },
+    {
+        "question": "Which attribute is used to specify the URL of a hyperlink?",
+        "options": ["href", "src", "alt", "target"],
+        "answer": "href"
+    },
+    {
+        "question": "Which HTML element is used to define the title of a page?",
+        "options": ["<title>", "<head>", "<meta>", "<link>"],
+        "answer": "<title>"
+    },
+    {
+        "question": "Which element is used to add metadata in an HTML document?",
+        "options": ["<meta>", "<script>", "<style>", "<link>"],
+        "answer": "<meta>"
+    },
+    {
+        "question": "Which HTML element is used to define a section of a document?",
+        "options": ["<section>", "<article>", "<aside>", "<div>"],
+        "answer": "<section>"
+    },
+    {
+        "question": "Which HTML element is used to include an external CSS stylesheet?",
+        "options": ["<link>", "<style>", "<script>", "<meta>"],
+        "answer": "<link>"
+    },
+    {
+        "question": "Which HTML element is used to specify internal CSS styles?",
+        "options": ["<style>", "<link>", "<script>", "<meta>"],
+        "answer": "<style>"
+    },
+    {
+        "question": "Which HTML element is used to include a JavaScript script?",
+        "options": ["<script>", "<link>", "<style>", "<meta>"],
+        "answer": "<script>"
+    },
+    {
+        "question": "Which attribute is used to specify a text that appears when a user hovers over an element?",
+        "options": ["title", "alt", "placeholder", "value"],
+        "answer": "title"
+    },
+    {
+        "question": "Which HTML element is used to define a level 2 heading?",
+        "options": ["<h2>", "<header>", "<h1>", "<h3>"],
+        "answer": "<h2>"
+    },
+    {
+        "question": "Which HTML element is used to create an ordered list?",
+        "options": ["<ol>", "<ul>", "<li>", "<dl>"],
+        "answer": "<ol>"
+    },
+    {
+        "question": "Which element is used to create a group of options in a form?",
+        "options": ["<select>", "<input>", "<option>", "<button>"],
+        "answer": "<select>"
+    },
+    {
+        "question": "Which attribute is used to set a default value for a text field in a form?",
+        "options": ["value", "placeholder", "name", "type"],
+        "answer": "value"
+    },
+    {
+        "question": "Which HTML element is used to include comments in the code?",
+        "options": ["<!-- Comment -->", "<comment>", "// Comment", "# Comment"],
+        "answer": "<!-- Comment -->"
+    },
+    {
+        "question": "Which HTML element is used to define a level 4 heading?",
+        "options": ["<h4>", "<header>", "<h1>", "<h5>"],
+        "answer": "<h4>"
+    },
+    {
+        "question": "Which HTML element is used to create a section with a title?",
+        "options": ["<fieldset>", "<div>", "<section>", "<header>"],
+        "answer": "<fieldset>"
+    },
+    {
+        "question": "Which attribute is used to specify a unique identifier for an HTML element?",
+        "options": ["id", "class", "name", "type"],
+        "answer": "id"
+    },
+    {
+        "question": "Which HTML element is used to create a link to another page within the same document?",
+        "options": ["<a>", "<link>", "<button>", "<form>"],
+        "answer": "<a>"
+    },
+    {
+        "question": "Which HTML element is used to define a header cell in a table?",
+        "options": ["<th>", "<td>", "<tr>", "<caption>"],
+        "answer": "<th>"
+    },
+    {
+        "question": "Which HTML element is used to embed another document within a web page?",
+        "options": ["<iframe>", "<frame>", "<embed>", "<object>"],
+        "answer": "<iframe>"
+    },
+    {
+        "question": "Which HTML element is used to add subtitles to a video?",
+        "options": ["<track>", "<subtitles>", "<caption>", "<video>"],
+        "answer": "<track>"
+    },
+    {
+        "question": "Which HTML element is used to define a group of form elements?",
+        "options": ["<fieldset>", "<form>", "<group>", "<div>"],
+        "answer": "<fieldset>"
+    },
+    {
+        "question": "Which attribute is used to specify the class of an HTML element?",
+        "options": ["class", "id", "style", "type"],
+        "answer": "class"
+    },
+    {
+        "question": "Which HTML element is used to define a list item in an unordered list?",
+        "options": ["<li>", "<item>", "<list>", "<ul>"],
+        "answer": "<li>"
+    },
+    {
+        "question": "Which HTML element is used to create a dropdown menu?",
+        "options": ["<select>", "<dropdown>", "<menu>", "<option>"],
+        "answer": "<select>"
+    },
+    {
+        "question": "Which attribute is used to specify the placeholder text for an input field?",
+        "options": ["placeholder", "value", "name", "type"],
+        "answer": "placeholder"
+    },
+    {
+        "question": "Which HTML element is used to include audio content?",
+        "options": ["<audio>", "<sound>", "<music>", "<media>"],
+        "answer": "<audio>"
+    },
+    {
+        "question": "Which HTML element is used to include video content?",
+        "options": ["<video>", "<movie>", "<film>", "<media>"],
+        "answer": "<video>"
+    },
+    {
+        "question": "Which element is used to create a table heading?",
+        "options": ["<th>", "<td>", "<tr>", "<header>"],
+        "answer": "<th>"
+    },
+    {
+        "question": "Which HTML element is used to include an external JavaScript file?",
+        "options": ["<script src='file.js'>", "<js>", "<include>", "<link>"],
+        "answer": "<script src='file.js'>"
+    },
+    {
+        "question": "Which HTML element is used to create a form control for selecting options?",
+        "options": ["<select>", "<input>", "<button>", "<option>"],
+        "answer": "<select>"
+    },
+    {
+        "question": "Which attribute specifies the width of an image?",
+        "options": ["width", "height", "size", "src"],
+        "answer": "width"
+    },
+    {
+        "question": "Which attribute specifies the height of an image?",
+        "options": ["height", "width", "size", "src"],
+        "answer": "height"
+    },
+    {
+        "question": "Which HTML element is used to group inline elements?",
+        "options": ["<span>", "<div>", "<section>", "<article>"],
+        "answer": "<span>"
+    },
+    {
+        "question": "Which HTML element is used to group block-level elements?",
+        "options": ["<div>", "<span>", "<header>", "<footer>"],
+        "answer": "<div>"
+    },
+    {
+        "question": "Which HTML element is used to define a navigation section?",
+        "options": ["<nav>", "<section>", "<header>", "<aside>"],
+        "answer": "<nav>"
+    },
+    {
+        "question": "Which HTML element is used to define an article?",
+        "options": ["<article>", "<section>", "<div>", "<header>"],
+        "answer": "<article>"
+    },
+    {
+        "question": "Which HTML element is used to define a footer for a document or section?",
+        "options": ["<footer>", "<bottom>", "<section>", "<aside>"],
+        "answer": "<footer>"
+    },
+    {
+        "question": "Which HTML element is used to define a header for a document or section?",
+        "options": ["<header>", "<top>", "<section>", "<aside>"],
+        "answer": "<header>"
+    },
+    {
+        "question": "Which HTML element is used to define a section in a document?",
+        "options": ["<section>", "<article>", "<div>", "<header>"],
+        "answer": "<section>"
+    },
+    {
+        "question": "Which HTML element is used to create a clickable button?",
+        "options": ["<button>", "<input type='button'>", "<a>", "<div>"],
+        "answer": "<button>"
+    },
+    {
+        "question": "Which HTML element is used to define a form input that accepts multiple values?",
+        "options": ["<input multiple>", "<textarea>", "<select multiple>", "<form>"],
+        "answer": "<select multiple>"
+    },
+    {
+        "question": "Which HTML element is used to create a list of definitions?",
+        "options": ["<dl>", "<ul>", "<ol>", "<list>"],
+        "answer": "<dl>"
+    },
+    {
+        "question": "Which HTML element is used to define a term in a definition list?",
+        "options": ["<dt>", "<dd>", "<li>", "<term>"],
+        "answer": "<dt>"
+    },
+    {
+        "question": "Which HTML element is used to define the description of a term in a definition list?",
+        "options": ["<dd>", "<dt>", "<li>", "<desc>"],
+        "answer": "<dd>"
+    },
+    {
+        "question": "Which HTML element is used to define a preformatted text?",
+        "options": ["<pre>", "<code>", "<text>", "<div>"],
+        "answer": "<pre>"
+    },
+    {
+        "question": "Which HTML element is used to include a file for embedding?",
+        "options": ["<embed>", "<object>", "<iframe>", "<include>"],
+        "answer": "<embed>"
+    },
+    {
+        "question": "Which HTML element is used to create a progress bar?",
+        "options": ["<progress>", "<meter>", "<bar>", "<status>"],
+        "answer": "<progress>"
+    },
+    {
+        "question": "Which HTML element is used to create a container for a range of values?",
+        "options": ["<meter>", "<progress>", "<range>", "<slider>"],
+        "answer": "<meter>"
+    },
+    {
+        "question": "Which HTML element is used to define a block of code?",
+        "options": ["<code>", "<pre>", "<script>", "<block>"],
+        "answer": "<code>"
+    },
+    {
+        "question": "Which HTML attribute is used to specify the target window or tab for a link?",
+        "options": ["target", "href", "src", "rel"],
+        "answer": "target"
+    },
+    {
+        "question": "Which HTML attribute is used to define the relationship between the current document and the linked document?",
+        "options": ["rel", "href", "src", "type"],
+        "answer": "rel"
+    },
+    {
+        "question": "Which HTML element is used to define an inline frame?",
+        "options": ["<iframe>", "<frame>", "<embed>", "<object>"],
+        "answer": "<iframe>"
+    },
+    {
+        "question": "Which HTML attribute specifies the alignment of an element?",
+        "options": ["align", "style", "class", "id"],
+        "answer": "align"
+    },
+    {
+        "question": "Which HTML element is used to create a line break?",
+        "options": ["<br>", "<break>", "<lb>", "<hr>"],
+        "answer": "<br>"
+    },
+    {
+        "question": "Which HTML element is used to create a horizontal rule?",
+        "options": ["<hr>", "<line>", "<rule>", "<divider>"],
+        "answer": "<hr>"
+    },
+    {
+        "question": "Which HTML attribute specifies the language of the content?",
+        "options": ["lang", "type", "name", "id"],
+        "answer": "lang"
+    },
+    {
+        "question": "Which HTML element is used to create a table caption?",
+        "options": ["<caption>", "<title>", "<head>", "<footer>"],
+        "answer": "<caption>"
+    },
+    {
+        "question": "Which HTML element is used to include an external CSS file?",
+        "options": ["<link>", "<style>", "<script>", "<meta>"],
+        "answer": "<link>"
+    },
+    {
+        "question": "Which HTML attribute is used to specify a form action URL?",
+        "options": ["action", "method", "enctype", "target"],
+        "answer": "action"
+    },
+    {
+        "question": "Which HTML element is used to define a navigation link?",
+        "options": ["<a>", "<link>", "<nav>", "<button>"],
+        "answer": "<a>"
+    },
+    {
+        "question": "Which HTML element is used to display a tooltip when hovering over an element?",
+        "options": ["<title>", "<tooltip>", "<help>", "<info>"],
+        "answer": "<title>"
+    },
+    {
+        "question": "Which HTML element is used to create a text area for multi-line text input?",
+        "options": ["<textarea>", "<input>", "<field>", "<form>"],
+        "answer": "<textarea>"
+    },
+    {
+        "question": "Which HTML element is used to define a section of the page that can be styled or manipulated separately?",
+        "options": ["<div>", "<section>", "<article>", "<header>"],
+        "answer": "<div>"
+    },
+    {
+        "question": "Which HTML element is used to include metadata in the header of the document?",
+        "options": ["<meta>", "<link>", "<style>", "<script>"],
+        "answer": "<meta>"
+    },
+    {
+        "question": "Which HTML attribute specifies the form method?",
+        "options": ["method", "action", "enctype", "target"],
+        "answer": "method"
+    },
+    {
+        "question": "Which HTML element is used to create a label for an input element?",
+        "options": ["<label>", "<input>", "<form>", "<legend>"],
+        "answer": "<label>"
+    }
+ ]
