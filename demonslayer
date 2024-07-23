@@ -1,0 +1,562 @@
+[
+    {
+        "question": "What is the full title of the series commonly known as 'Demon Slayer'?",
+        "options": [
+            "Demon Slayer: Kimetsu no Yaiba",
+            "Demon Slayer: Sword of the Demon",
+            "Demon Slayer: Night Hunt",
+            "Demon Slayer: Blade of the Demon"
+        ],
+        "answer": "Demon Slayer: Kimetsu no Yaiba"
+    },
+    {
+        "question": "Who is the main protagonist of *Demon Slayer: Kimetsu no Yaiba*?",
+        "options": [
+            "Tanjiro Kamado",
+            "Zenitsu Agatsuma",
+            "Inosuke Hashibira",
+            "Kanao Tsuyuri"
+        ],
+        "answer": "Tanjiro Kamado"
+    },
+    {
+        "question": "What is the name of Tanjiro's sister who becomes a demon?",
+        "options": [
+            "Nezuko Kamado",
+            "Kanao Tsuyuri",
+            "Mitsuri Kanroji",
+            "Shinobu Kocho"
+        ],
+        "answer": "Nezuko Kamado"
+    },
+    {
+        "question": "What is the name of the organization that fights demons in the series?",
+        "options": [
+            "Demon Slayer Corps",
+            "Demon Hunters",
+            "Hashira Guild",
+            "Blade of Darkness"
+        ],
+        "answer": "Demon Slayer Corps"
+    },
+    {
+        "question": "Who is the leader of the Demon Slayer Corps?",
+        "options": [
+            "Kageya Ubuyashiki",
+            "Giyu Tomioka",
+            "Muzan Kibutsuji",
+            "Yoriichi Tsugikuni"
+        ],
+        "answer": "Kageya Ubuyashiki"
+    },
+    {
+        "question": "What is the name of the demon that killed Tanjiro's family?",
+        "options": [
+            "Muzan Kibutsuji",
+            "Akaza",
+            "Daki",
+            "Gyutaro"
+        ],
+        "answer": "Muzan Kibutsuji"
+    },
+    {
+        "question": "Which Hashira specializes in Water Breathing techniques?",
+        "options": [
+            "Giyu Tomioka",
+            "Sanemi Shinazugawa",
+            "Kyojuro Rengoku",
+            "Tengen Uzui"
+        ],
+        "answer": "Giyu Tomioka"
+    },
+    {
+        "question": "What is the name of the breathing technique used by Tanjiro?",
+        "options": [
+            "Water Breathing",
+            "Fire Breathing",
+            "Wind Breathing",
+            "Thunder Breathing"
+        ],
+        "answer": "Water Breathing"
+    },
+    {
+        "question": "Which character is known for their Thunder Breathing techniques?",
+        "options": [
+            "Zenitsu Agatsuma",
+            "Tanjiro Kamado",
+            "Inosuke Hashibira",
+            "Shinobu Kocho"
+        ],
+        "answer": "Zenitsu Agatsuma"
+    },
+    {
+        "question": "What is the name of the demon who is a member of the Twelve Kizuki and has a spider-themed ability?",
+        "options": [
+            "Rui",
+            "Kibutsuji",
+            "Daki",
+            "Akaza"
+        ],
+        "answer": "Rui"
+    },
+    {
+        "question": "Which Hashira is known as the Flame Hashira?",
+        "options": [
+            "Kyojuro Rengoku",
+            "Giyu Tomioka",
+            "Shinobu Kocho",
+            "Mitsuri Kanroji"
+        ],
+        "answer": "Kyojuro Rengoku"
+    },
+    {
+        "question": "What is the name of the technique that allows demons to regenerate?",
+        "options": [
+            "Regeneration",
+            "Healing",
+            "Rebirth",
+            "Restoration"
+        ],
+        "answer": "Regeneration"
+    },
+    {
+        "question": "Which character is known for their expertise in Insect Breathing techniques?",
+        "options": [
+            "Shinobu Kocho",
+            "Giyu Tomioka",
+            "Mitsuri Kanroji",
+            "Kanao Tsuyuri"
+        ],
+        "answer": "Shinobu Kocho"
+    },
+    {
+        "question": "What is the name of Tanjiro's sword style?",
+        "options": [
+            "Water Breathing",
+            "Fire Breathing",
+            "Thunder Breathing",
+            "Wind Breathing"
+        ],
+        "answer": "Water Breathing"
+    },
+    {
+        "question": "Which character uses the Beast Breathing techniques?",
+        "options": [
+            "Inosuke Hashibira",
+            "Tanjiro Kamado",
+            "Zenitsu Agatsuma",
+            "Kanao Tsuyuri"
+        ],
+        "answer": "Inosuke Hashibira"
+    },
+    {
+        "question": "What is the name of the demon who is also known as the Upper Moon One?",
+        "options": [
+            "Muzan Kibutsuji",
+            "Akaza",
+            "Daki",
+            "Gyutaro"
+        ],
+        "answer": "Akaza"
+    },
+    {
+        "question": "Which Hashira is known for their expertise in the Wind Breathing techniques?",
+        "options": [
+            "Sanemi Shinazugawa",
+            "Kyojuro Rengoku",
+            "Mitsuri Kanroji",
+            "Shinobu Kocho"
+        ],
+        "answer": "Sanemi Shinazugawa"
+    },
+    {
+        "question": "What is the name of the organization that Tanjiro joins to become a demon slayer?",
+        "options": [
+            "Demon Slayer Corps",
+            "Demon Hunter Guild",
+            "Hashira Order",
+            "Blade of Darkness"
+        ],
+        "answer": "Demon Slayer Corps"
+    },
+    {
+        "question": "Which demon has a love for eating human flesh and is known as the Upper Moon Six?",
+        "options": [
+            "Daki",
+            "Gyutaro",
+            "Akaza",
+            "Rui"
+        ],
+        "answer": "Daki"
+    },
+    {
+        "question": "What is the name of the demon who is also known as the Upper Moon Two?",
+        "options": [
+            "Daki",
+            "Gyutaro",
+            "Akaza",
+            "Rui"
+        ],
+        "answer": "Gyutaro"
+    },
+    {
+        "question": "Which character is known for her strength and affection for her friends?",
+        "options": [
+            "Mitsuri Kanroji",
+            "Shinobu Kocho",
+            "Kanao Tsuyuri",
+            "Nezuko Kamado"
+        ],
+        "answer": "Mitsuri Kanroji"
+    },
+    {
+        "question": "What is the name of the demon that possesses an incredible regenerative ability?",
+        "options": [
+            "Muzan Kibutsuji",
+            "Akaza",
+            "Daki",
+            "Gyutaro"
+        ],
+        "answer": "Muzan Kibutsuji"
+    },
+    {
+        "question": "Which demon is known for using his blood demon art to control threads?",
+        "options": [
+            "Rui",
+            "Akaza",
+            "Daki",
+            "Gyutaro"
+        ],
+        "answer": "Rui"
+    },
+    {
+        "question": "What is the name of the technique that allows Tanjiro to enhance his senses?",
+        "options": [
+            "Water Breathing",
+            "Breath of the Sun",
+            "Hinokami Kagura",
+            "Thunder Breathing"
+        ],
+        "answer": "Hinokami Kagura"
+    },
+    {
+        "question": "Which Hashira is known for their expertise in the Love Breathing techniques?",
+        "options": [
+            "Mitsuri Kanroji",
+            "Shinobu Kocho",
+            "Sanemi Shinazugawa",
+            "Giyu Tomioka"
+        ],
+        "answer": "Mitsuri Kanroji"
+    },
+    {
+        "question": "What is the name of the demon who is the leader of the Twelve Kizuki?",
+        "options": [
+            "Muzan Kibutsuji",
+            "Akaza",
+            "Daki",
+            "Gyutaro"
+        ],
+        "answer": "Muzan Kibutsuji"
+    },
+    {
+        "question": "Which character has the ability to manipulate the wind and is known for their Wind Breathing techniques?",
+        "options": [
+            "Sanemi Shinazugawa",
+            "Kyojuro Rengoku",
+            "Giyu Tomioka",
+            "Inosuke Hashibira"
+        ],
+        "answer": "Sanemi Shinazugawa"
+    },
+    {
+        "question": "Which demon is known for its ability to manipulate illusions and dreamscapes?",
+        "options": [
+            "Enmu",
+            "Muzan Kibutsuji",
+            "Akaza",
+            "Daki"
+        ],
+        "answer": "Enmu"
+    },
+    {
+        "question": "What is the name of the swordsmith who forges Tanjiro's sword?",
+        "options": [
+            "Hotaru Haganezuka",
+            "Kiyoshi Tokito",
+            "Genya Shinazugawa",
+            "Urokodaki Sakonji"
+        ],
+        "answer": "Hotaru Haganezuka"
+    },
+    {
+        "question": "What is the special ability of Tanjiro’s sword?",
+        "options": [
+            "Water Breathing techniques",
+            "Flame Breathing techniques",
+            "Sun Breathing techniques",
+            "Thunder Breathing techniques"
+        ],
+        "answer": "Sun Breathing techniques"
+    },
+    {
+        "question": "Which character becomes the leader of the Demon Slayer Corps after Ubuyashiki’s death?",
+        "options": [
+            "Kanao Tsuyuri",
+            "Tanjiro Kamado",
+            "Zenitsu Agatsuma",
+            "Inosuke Hashibira"
+        ],
+        "answer": "Kanao Tsuyuri"
+    },
+    {
+        "question": "What is the main goal of Tanjiro throughout the series?",
+        "options": [
+            "To become the strongest demon slayer",
+            "To find a cure for Nezuko",
+            "To defeat Muzan Kibutsuji",
+            "To protect his village"
+        ],
+        "answer": "To find a cure for Nezuko"
+    },
+    {
+        "question": "Which Hashira is known as the Mist Hashira?",
+        "options": [
+            "Sanemi Shinazugawa",
+            "Giyu Tomioka",
+            "Kyojuro Rengoku",
+            "Muichiro Tokito"
+        ],
+        "answer": "Muichiro Tokito"
+    },
+    {
+        "question": "What is the name of the demon that uses his blood demon art to manipulate and control threads?",
+        "options": [
+            "Rui",
+            "Akaza",
+            "Daki",
+            "Gyutaro"
+        ],
+        "answer": "Rui"
+    },
+    {
+        "question": "What is the unique characteristic of Muzan Kibutsuji?",
+        "options": [
+            "He can change his appearance",
+            "He has a powerful regeneration ability",
+            "He can control other demons",
+            "He is immune to sunlight"
+        ],
+        "answer": "He can change his appearance"
+    },
+    {
+        "question": "Which demon is known for their ability to manipulate and control others' dreams?",
+        "options": [
+            "Enmu",
+            "Muzan Kibutsuji",
+            "Akaza",
+            "Daki"
+        ],
+        "answer": "Enmu"
+    },
+    {
+        "question": "What is the name of the special technique that allows Tanjiro to use the Sun Breathing?",
+        "options": [
+            "Hinokami Kagura",
+            "Water Breathing",
+            "Thunder Breathing",
+            "Wind Breathing"
+        ],
+        "answer": "Hinokami Kagura"
+    },
+    {
+        "question": "Which character is known for having an almost superhuman sense of smell?",
+        "options": [
+            "Tanjiro Kamado",
+            "Zenitsu Agatsuma",
+            "Inosuke Hashibira",
+            "Giyu Tomioka"
+        ],
+        "answer": "Tanjiro Kamado"
+    },
+    {
+        "question": "What is the name of the character who is the most skilled at using the Beast Breathing techniques?",
+        "options": [
+            "Inosuke Hashibira",
+            "Zenitsu Agatsuma",
+            "Tanjiro Kamado",
+            "Kanao Tsuyuri"
+        ],
+        "answer": "Inosuke Hashibira"
+    },
+    {
+        "question": "Which Hashira is known for their expertise in the Sound Breathing techniques?",
+        "options": [
+            "Tengen Uzui",
+            "Mitsuri Kanroji",
+            "Sanemi Shinazugawa",
+            "Shinobu Kocho"
+        ],
+        "answer": "Tengen Uzui"
+    },
+    {
+        "question": "What is the name of the demon who has the power to manipulate emotions and control people?",
+        "options": [
+            "Muzan Kibutsuji",
+            "Daki",
+            "Akaza",
+            "Gyutaro"
+        ],
+        "answer": "Daki"
+    },
+    {
+        "question": "Which character is known for his lightning-fast reflexes and Thunder Breathing techniques?",
+        "options": [
+            "Zenitsu Agatsuma",
+            "Tanjiro Kamado",
+            "Inosuke Hashibira",
+            "Kanao Tsuyuri"
+        ],
+        "answer": "Zenitsu Agatsuma"
+    },
+    {
+        "question": "What is the name of the breathing style used by the Hashira specializing in Love Breathing?",
+        "options": [
+            "Love Breathing",
+            "Water Breathing",
+            "Flame Breathing",
+            "Wind Breathing"
+        ],
+        "answer": "Love Breathing"
+    },
+    {
+        "question": "Which character is known for their technique called the 'Dance of the Fire God'?",
+        "options": [
+            "Tanjiro Kamado",
+            "Kyojuro Rengoku",
+            "Inosuke Hashibira",
+            "Zenitsu Agatsuma"
+        ],
+        "answer": "Tanjiro Kamado"
+    },
+    {
+        "question": "What is the primary weakness of demons in the series?",
+        "options": [
+            "Sunlight",
+            "Water",
+            "Fire",
+            "Wind"
+        ],
+        "answer": "Sunlight"
+    },
+    {
+        "question": "Which demon has the ability to manipulate and control shadows?",
+        "options": [
+            "Muzan Kibutsuji",
+            "Enmu",
+            "Akaza",
+            "Daki"
+        ],
+        "answer": "Muzan Kibutsuji"
+    },
+    {
+        "question": "What is the name of the technique used by Shinobu Kocho to inject poison into demons?",
+        "options": [
+            "Insect Breathing",
+            "Flower Breathing",
+            "Wind Breathing",
+            "Fire Breathing"
+        ],
+        "answer": "Insect Breathing"
+    },
+    {
+        "question": "Which character is known for having a strong sense of duty and responsibility as a Hashira?",
+        "options": [
+            "Kyojuro Rengoku",
+            "Giyu Tomioka",
+            "Mitsuri Kanroji",
+            "Sanemi Shinazugawa"
+        ],
+        "answer": "Kyojuro Rengoku"
+    },
+    {
+        "question": "What is the name of the special technique that allows users to enhance their physical abilities and senses?",
+        "options": [
+            "Breath of the Sun",
+            "Breath of the Moon",
+            "Breath of the Stars",
+            "Breath of the Sun and Moon"
+        ],
+        "answer": "Breath of the Sun"
+    },
+    {
+        "question": "Which character is known for their unique and powerful blood demon art that involves controlling other demons?",
+        "options": [
+            "Muzan Kibutsuji",
+            "Enmu",
+            "Daki",
+            "Akaza"
+        ],
+        "answer": "Muzan Kibutsuji"
+    },
+    {
+        "question": "What is the main goal of the Demon Slayer Corps?",
+        "options": [
+            "To eradicate demons",
+            "To find the Demon King",
+            "To protect humans",
+            "To restore peace"
+        ],
+        "answer": "To eradicate demons"
+    },
+    {
+        "question": "Which Hashira is known for their expertise in the Flower Breathing techniques?",
+        "options": [
+            "Shinobu Kocho",
+            "Mitsuri Kanroji",
+            "Sanemi Shinazugawa",
+            "Giyu Tomioka"
+        ],
+        "answer": "Shinobu Kocho"
+    },
+    {
+        "question": "What is the name of the demon that has the power to control blood and create blood demon arts?",
+        "options": [
+            "Muzan Kibutsuji",
+            "Akaza",
+            "Daki",
+            "Gyutaro"
+        ],
+        "answer": "Muzan Kibutsuji"
+    },
+    {
+        "question": "Which demon has the ability to manipulate emotions and has a distinctive appearance with multiple eyes?",
+        "options": [
+            "Rui",
+            "Enmu",
+            "Akaza",
+            "Gyutaro"
+        ],
+        "answer": "Rui"
+    },
+    {
+        "question": "What is the name of the character who trains Tanjiro to use the Water Breathing techniques?",
+        "options": [
+            "Urokodaki Sakonji",
+            "Giyu Tomioka",
+            "Hotaru Haganezuka",
+            "Kyojuro Rengoku"
+        ],
+        "answer": "Urokodaki Sakonji"
+    },
+    {
+        "question": "Which character uses the technique called 'Thunder Breathing'?",
+        "options": [
+            "Zenitsu Agatsuma",
+            "Inosuke Hashibira",
+            "Tanjiro Kamado",
+            "Kanao Tsuyuri"
+        ],
+        "answer": "Zenitsu Agatsuma"
+    }
+  ]
