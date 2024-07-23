@@ -1,0 +1,622 @@
+[
+    {
+        "question": "What is the primary setting of GTA V?",
+        "options": [
+            "Liberty City",
+            "San Andreas",
+            "Vice City",
+            "Los Santos"
+        ],
+        "answer": "Los Santos"
+    },
+    {
+        "question": "Who are the three main protagonists in GTA V?",
+        "options": [
+            "Michael, Trevor, Franklin",
+            "Niko, Johnny, Luis",
+            "CJ, Tommy, Claude",
+            "Carl, Victor, Ray"
+        ],
+        "answer": "Michael, Trevor, Franklin"
+    },
+    {
+        "question": "Which character is a former bank robber in GTA V?",
+        "options": [
+            "Michael De Santa",
+            "Trevor Philips",
+            "Franklin Clinton",
+            "Lamar Davis"
+        ],
+        "answer": "Michael De Santa"
+    },
+    {
+        "question": "Which character is known for his violent tendencies and drug dealings?",
+        "options": [
+            "Michael De Santa",
+            "Trevor Philips",
+            "Franklin Clinton",
+            "Steve Haines"
+        ],
+        "answer": "Trevor Philips"
+    },
+    {
+        "question": "What is the name of Franklin's friend who often gets him into trouble?",
+        "options": [
+            "Lamar Davis",
+            "Ron Jakowski",
+            "Wade Hebert",
+            "Martin Madrazo"
+        ],
+        "answer": "Lamar Davis"
+    },
+    {
+        "question": "In GTA V, what type of vehicle is the 'Adder'?",
+        "options": [
+            "Sedan",
+            "SUV",
+            "Sports car",
+            "Motorcycle"
+        ],
+        "answer": "Sports car"
+    },
+    {
+        "question": "What is the name of the heist that involves robbing the Union Depository?",
+        "options": [
+            "The Big Score",
+            "The Paleto Score",
+            "The Bureau Raid",
+            "The Prison Break"
+        ],
+        "answer": "The Big Score"
+    },
+    {
+        "question": "Which character owns the 'Los Santos Customs' shop?",
+        "options": [
+            "Franklin Clinton",
+            "Michael De Santa",
+            "Trevor Philips",
+            "Lamar Davis"
+        ],
+        "answer": "Franklin Clinton"
+    },
+    {
+        "question": "What is the primary currency used in GTA V?",
+        "options": [
+            "Dollars",
+            "Euros",
+            "Pounds",
+            "Pesos"
+        ],
+        "answer": "Dollars"
+    },
+    {
+        "question": "Which online multiplayer mode is featured in GTA V?",
+        "options": [
+            "GTA Online",
+            "GTA World",
+            "GTA City",
+            "GTA Network"
+        ],
+        "answer": "GTA Online"
+    },
+    {
+        "question": "In GTA V, what is the name of the strip club located in Los Santos?",
+        "options": [
+            "The Vanilla Unicorn",
+            "The Pink Diamond",
+            "The Blue Room",
+            "The Golden Club"
+        ],
+        "answer": "The Vanilla Unicorn"
+    },
+    {
+        "question": "Which character is known for his love of animals and farming?",
+        "options": [
+            "Michael De Santa",
+            "Trevor Philips",
+            "Franklin Clinton",
+            "Lamar Davis"
+        ],
+        "answer": "Trevor Philips"
+    },
+    {
+        "question": "What is the name of the prison in GTA V where the 'Prison Break' heist takes place?",
+        "options": [
+            "Bolingbroke Penitentiary",
+            "San Andreas State Prison",
+            "Los Santos Correctional Facility",
+            "El Burro Heights Prison"
+        ],
+        "answer": "Bolingbroke Penitentiary"
+    },
+    {
+        "question": "What is the name of Michael's wife in GTA V?",
+        "options": [
+            "Amanda",
+            "Tracy",
+            "Denise",
+            "Debra"
+        ],
+        "answer": "Amanda"
+    },
+    {
+        "question": "Which radio station in GTA V is known for its rock music?",
+        "options": [
+            "Los Santos Rock Radio",
+            "Radio Los Santos",
+            "K-DST",
+            "The Blue Ark"
+        ],
+        "answer": "Los Santos Rock Radio"
+    },
+    {
+        "question": "What is the name of Franklin's dog in GTA V?",
+        "options": [
+            "Chop",
+            "Rex",
+            "Buddy",
+            "Max"
+        ],
+        "answer": "Chop"
+    },
+    {
+        "question": "Which character is involved in a number of shady deals with the FIB?",
+        "options": [
+            "Steve Haines",
+            "Devin Weston",
+            "Martin Madrazo",
+            "Lamar Davis"
+        ],
+        "answer": "Steve Haines"
+    },
+    {
+        "question": "What is the name of the gang led by Trevor Philips in GTA V?",
+        "options": [
+            "The Lost MC",
+            "The Vagos",
+            "The Ballas",
+            "The Families"
+        ],
+        "answer": "The Lost MC"
+    },
+    {
+        "question": "What is the name of the casino in GTA V where players can gamble?",
+        "options": [
+            "The Diamond Casino & Resort",
+            "The Golden Nugget",
+            "The Royale Casino",
+            "The Lucky Lady"
+        ],
+        "answer": "The Diamond Casino & Resort"
+    },
+    {
+        "question": "Which character is known for working with the 'LifeInvader' company?",
+        "options": [
+            "Michael De Santa",
+            "Trevor Philips",
+            "Franklin Clinton",
+            "Lamar Davis"
+        ],
+        "answer": "Michael De Santa"
+    },
+    {
+        "question": "What is the name of the business owned by Trevor Philips?",
+        "options": [
+            "Trevor Philips Enterprises",
+            "TPI Trucking",
+            "Trevor's Guns",
+            "Trevor's Towing"
+        ],
+        "answer": "Trevor Philips Enterprises"
+    },
+    {
+        "question": "Which character has a daughter named Tracy in GTA V?",
+        "options": [
+            "Michael De Santa",
+            "Franklin Clinton",
+            "Trevor Philips",
+            "Steve Haines"
+        ],
+        "answer": "Michael De Santa"
+    },
+    {
+        "question": "What is the name of the criminal mastermind in the heist 'The Paleto Score'?",
+        "options": [
+            "Merryweather Security",
+            "The IAA",
+            "The FIB",
+            "The Merryweather Heist"
+        ],
+        "answer": "Merryweather Security"
+    },
+    {
+        "question": "Which character has a sidekick named Wade in GTA V?",
+        "options": [
+            "Michael De Santa",
+            "Franklin Clinton",
+            "Trevor Philips",
+            "Lamar Davis"
+        ],
+        "answer": "Trevor Philips"
+    },
+    {
+        "question": "Which character is known for being a retired bank robber in GTA V?",
+        "options": [
+            "Michael De Santa",
+            "Trevor Philips",
+            "Franklin Clinton",
+            "Lamar Davis"
+        ],
+        "answer": "Michael De Santa"
+    },
+    {
+        "question": "What is the name of the radio station that plays hip-hop and rap music in GTA V?",
+        "options": [
+            "Radio Los Santos",
+            "Los Santos Rock Radio",
+            "K-DST",
+            "The Blue Ark"
+        ],
+        "answer": "Radio Los Santos"
+    },
+    {
+        "question": "Which game mode in GTA V allows players to explore Los Santos and San Andreas with friends?",
+        "options": [
+            "GTA Online",
+            "Single Player",
+            "Story Mode",
+            "Survival Mode"
+        ],
+        "answer": "GTA Online"
+    },
+    {
+        "question": "What is the name of the beachside area that is popular for its nightlife in GTA V?",
+        "options": [
+            "Vespucci Beach",
+            "Santa Monica Beach",
+            "Venice Beach",
+            "Pacific Beach"
+        ],
+        "answer": "Vespucci Beach"
+    },
+    {
+        "question": "Which character owns a high-end property in Vinewood Hills?",
+        "options": [
+            "Michael De Santa",
+            "Franklin Clinton",
+            "Trevor Philips",
+            "Lamar Davis"
+        ],
+        "answer": "Michael De Santa"
+    },
+    {
+        "question": "What is the name of the fictional social media website in GTA V?",
+        "options": [
+            "LifeInvader",
+            "MySpace",
+            "FaceSpace",
+            "InstaLife"
+        ],
+        "answer": "LifeInvader"
+    },
+    {
+        "question": "Which vehicle in GTA V is based on the real-life Lamborghini Gallardo?",
+        "options": [
+            "Entity XF",
+            "Infernus",
+            "Vacca",
+            "Turismo R"
+        ],
+        "answer": "Infernus"
+    },
+    {
+        "question": "Which character is known for his work with the Merryweather Security?",
+        "options": [
+            "Steve Haines",
+            "Devin Weston",
+            "Martin Madrazo",
+            "Trevor Philips"
+        ],
+        "answer": "Steve Haines"
+    },
+    {
+        "question": "What is the name of the luxury car dealership in GTA V?",
+        "options": [
+            "Los Santos Customs",
+            "Luxury Autos",
+            "Legendary Motorsport",
+            "Southern San Andreas Super Autos"
+        ],
+        "answer": "Luxury Autos"
+    },
+    {
+        "question": "Which character is responsible for the death of the character, Mr. K?",
+        "options": [
+            "Trevor Philips",
+            "Michael De Santa",
+            "Franklin Clinton",
+            "Steve Haines"
+        ],
+        "answer": "Trevor Philips"
+    },
+    {
+        "question": "In which mission do the protagonists rob a jewelry store?",
+        "options": [
+            "The Jewel Store Job",
+            "The Big Score",
+            "The Paleto Score",
+            "The Bureau Raid"
+        ],
+        "answer": "The Jewel Store Job"
+    },
+    {
+        "question": "Which vehicle is based on the real-life Bugatti Veyron?",
+        "options": [
+            "Adder",
+            "Infernus",
+            "Turismo R",
+            "Entity XF"
+        ],
+        "answer": "Adder"
+    },
+    {
+        "question": "Which gang is known for wearing purple clothing in GTA V?",
+        "options": [
+            "The Ballas",
+            "The Vagos",
+            "The Families",
+            "The Lost MC"
+        ],
+        "answer": "The Ballas"
+    },
+    {
+        "question": "What is the name of the casino that is featured in the GTA Online update?",
+        "options": [
+            "The Diamond Casino & Resort",
+            "The Royale Casino",
+            "The Lucky Lady",
+            "The Grand Casino"
+        ],
+        "answer": "The Diamond Casino & Resort"
+    },
+    {
+        "question": "Which of these characters is NOT a protagonist in GTA V?",
+        "options": [
+            "Lamar Davis",
+            "Michael De Santa",
+            "Trevor Philips",
+            "Franklin Clinton"
+        ],
+        "answer": "Lamar Davis"
+    },
+    {
+        "question": "What is the name of Michael's son in GTA V?",
+        "options": [
+            "Jimmy",
+            "Tracy",
+            "Dave",
+            "Steve"
+        ],
+        "answer": "Jimmy"
+    },
+    {
+        "question": "Which character is a former gang member who works as a repo man?",
+        "options": [
+            "Franklin Clinton",
+            "Michael De Santa",
+            "Trevor Philips",
+            "Lamar Davis"
+        ],
+        "answer": "Franklin Clinton"
+    },
+    {
+        "question": "What is the name of the character who acts as a mentor to Franklin?",
+        "options": [
+            "Lamar Davis",
+            "Michael De Santa",
+            "Trevor Philips",
+            "Steve Haines"
+        ],
+        "answer": "Michael De Santa"
+    },
+    {
+        "question": "Which mission involves breaking into a government facility?",
+        "options": [
+            "The Bureau Raid",
+            "The Big Score",
+            "The Paleto Score",
+            "The Prison Break"
+        ],
+        "answer": "The Bureau Raid"
+    },
+    {
+        "question": "Which of these vehicles is used in the mission 'The Paleto Score'?",
+        "options": [
+            "The Armored Kuruma",
+            "The Insurgent",
+            "The Bogdan",
+            "The Merryweather"
+        ],
+        "answer": "The Insurgent"
+    },
+    {
+        "question": "Which character is the owner of the 'TPI Trucking' business?",
+        "options": [
+            "Trevor Philips",
+            "Michael De Santa",
+            "Franklin Clinton",
+            "Lamar Davis"
+        ],
+        "answer": "Trevor Philips"
+    },
+    {
+        "question": "In which GTA V mission do you steal a military vehicle?",
+        "options": [
+            "The Merryweather Heist",
+            "The Big Score",
+            "The Prison Break",
+            "The Paleto Score"
+        ],
+        "answer": "The Merryweather Heist"
+    },
+    {
+        "question": "What is the name of the gang that is involved in drug trafficking and is led by the character, Martin Madrazo?",
+        "options": [
+            "The Vagos",
+            "The Ballas",
+            "The Families",
+            "The Lost MC"
+        ],
+        "answer": "The Vagos"
+    },
+    {
+        "question": "Which GTA V character is known for owning a high-end car dealership?",
+        "options": [
+            "Franklin Clinton",
+            "Michael De Santa",
+            "Trevor Philips",
+            "Lamar Davis"
+        ],
+        "answer": "Franklin Clinton"
+    },
+    {
+        "question": "What is the name of the mission where Trevor attempts to steal a nuclear submarine?",
+        "options": [
+            "The Merryweather Heist",
+            "The Big Score",
+            "The Paleto Score",
+            "The Bogdan Problem"
+        ],
+        "answer": "The Bogdan Problem"
+    },
+    {
+        "question": "Which radio station in GTA V features electronic dance music?",
+        "options": [
+            "Non-Stop Pop FM",
+            "Radio Mirror Park",
+            "Los Santos Rock Radio",
+            "K-DST"
+        ],
+        "answer": "Radio Mirror Park"
+    },
+    {
+        "question": "What is the name of Michael's daughter in GTA V?",
+        "options": [
+            "Tracy",
+            "Denise",
+            "Amanda",
+            "Lacey"
+        ],
+        "answer": "Tracy"
+    },
+    {
+        "question": "Which character has a part-time job as a taxi driver in GTA V?",
+        "options": [
+            "Franklin Clinton",
+            "Michael De Santa",
+            "Trevor Philips",
+            "Lamar Davis"
+        ],
+        "answer": "Franklin Clinton"
+    },
+    {
+        "question": "In GTA V, which character is involved in a heist at a casino?",
+        "options": [
+            "Trevor Philips",
+            "Michael De Santa",
+            "Franklin Clinton",
+            "Lamar Davis"
+        ],
+        "answer": "Michael De Santa"
+    },
+    {
+        "question": "Which vehicle is based on the real-life Porsche 911 in GTA V?",
+        "options": [
+            "Pfister Comet",
+            "Elegy RH8",
+            "Infernus",
+            "Turismo R"
+        ],
+        "answer": "Pfister Comet"
+    },
+    {
+        "question": "What is the name of the mission where you rescue a character from the clutches of a rival gang?",
+        "options": [
+            "The Big Score",
+            "The Paleto Score",
+            "The Prison Break",
+            "The Meriwether Heist"
+        ],
+        "answer": "The Prison Break"
+    },
+    {
+        "question": "Which of these characters is known for their involvement in the meth trade?",
+        "options": [
+            "Trevor Philips",
+            "Michael De Santa",
+            "Franklin Clinton",
+            "Steve Haines"
+        ],
+        "answer": "Trevor Philips"
+    },
+    {
+        "question": "Which of these characters is NOT part of the main heist crew?",
+        "options": [
+            "Steve Haines",
+            "Michael De Santa",
+            "Trevor Philips",
+            "Franklin Clinton"
+        ],
+        "answer": "Steve Haines"
+    },
+    {
+        "question": "Which game mode allows players to complete various challenges and missions in GTA V?",
+        "options": [
+            "GTA Online",
+            "Story Mode",
+            "Multiplayer Mode",
+            "Survival Mode"
+        ],
+        "answer": "GTA Online"
+    },
+    {
+        "question": "What is the name of Trevor Philips' desert hideout?",
+        "options": [
+            "The Altruist Camp",
+            "The Lost MC Clubhouse",
+            "Trevor's Trailer",
+            "The Sandy Shores Airfield"
+        ],
+        "answer": "Trevor's Trailer"
+    },
+    {
+        "question": "What is the name of the fictional character who hosts the 'Weazel News' in GTA V?",
+        "options": [
+            "Steve Haines",
+            "Tom Connors",
+            "Jim Robinson",
+            "Michael De Santa"
+        ],
+        "answer": "Tom Connors"
+    },
+    {
+        "question": "What is the name of the popular beachside location in GTA V?",
+        "options": [
+            "Vespucci Beach",
+            "Santa Monica Beach",
+            "Venice Beach",
+            "Pacific Beach"
+        ],
+        "answer": "Vespucci Beach"
+    },
+    {
+        "question": "Which character is known for his involvement in the stock market in GTA V?",
+        "options": [
+            "Devin Weston",
+            "Martin Madrazo",
+            "Trevor Philips",
+            "Franklin Clinton"
+        ],
+        "answer": "Devin Weston"
+    }
+]
