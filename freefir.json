@@ -1,0 +1,712 @@
+[
+    {
+        "question": "What is the maximum number of players in a Free Fire match?",
+        "options": [
+            "50",
+            "75",
+            "100",
+            "125"
+        ],
+        "answer": "50"
+    },
+    {
+        "question": "Which company developed Free Fire?",
+        "options": [
+            "Tencent",
+            "Garena",
+            "Activision",
+            "PUBG Corporation"
+        ],
+        "answer": "Garena"
+    },
+    {
+        "question": "What is the in-game currency used in Free Fire?",
+        "options": [
+            "V-Bucks",
+            "UC",
+            "Diamonds",
+            "Coins"
+        ],
+        "answer": "Diamonds"
+    },
+    {
+        "question": "Which character is known as the 'Booyah Day' hero?",
+        "options": [
+            "Chrono",
+            "Alok",
+            "Kelly",
+            "Hayato"
+        ],
+        "answer": "Chrono"
+    },
+    {
+        "question": "What is the highest rank in Free Fire?",
+        "options": [
+            "Platinum",
+            "Diamond",
+            "Heroic",
+            "Grandmaster"
+        ],
+        "answer": "Grandmaster"
+    },
+    {
+        "question": "Which of the following is NOT a mode in Free Fire?",
+        "options": [
+            "Battle Royale",
+            "Clash Squad",
+            "Team Deathmatch",
+            "Warzone"
+        ],
+        "answer": "Warzone"
+    },
+    {
+        "question": "What is the name of the pet that can heal its owner?",
+        "options": [
+            "Ottero",
+            "Poring",
+            "Detective Panda",
+            "Night Panther"
+        ],
+        "answer": "Detective Panda"
+    },
+    {
+        "question": "Which character has the ability 'Drop the Beat'?",
+        "options": [
+            "K",
+            "Jota",
+            "Alok",
+            "Shani"
+        ],
+        "answer": "Alok"
+    },
+    {
+        "question": "What is the name of the currency used to buy characters?",
+        "options": [
+            "Gold",
+            "Diamonds",
+            "Silver",
+            "Bronze"
+        ],
+        "answer": "Gold"
+    },
+    {
+        "question": "What is the damage range of an AWM sniper rifle?",
+        "options": [
+            "90-100",
+            "100-110",
+            "110-120",
+            "120-130"
+        ],
+        "answer": "120-130"
+    },
+    {
+        "question": "Which character has the ability 'Bushido'?",
+        "options": [
+            "Kelly",
+            "Hayato",
+            "Moco",
+            "Miguel"
+        ],
+        "answer": "Hayato"
+    },
+    {
+        "question": "Which event is celebrated every year in Free Fire?",
+        "options": [
+            "Booyah Day",
+            "New Year Event",
+            "Halloween Event",
+            "Free Fire Anniversary"
+        ],
+        "answer": "Free Fire Anniversary"
+    },
+    {
+        "question": "What is the name of the ranked mode for squad battles?",
+        "options": [
+            "Clash Squad",
+            "Battle Royale",
+            "Rampage",
+            "Death Race"
+        ],
+        "answer": "Clash Squad"
+    },
+    {
+        "question": "Which pet has the ability 'Sustained Raids'?",
+        "options": [
+            "Poring",
+            "Detective Panda",
+            "Night Panther",
+            "Robo"
+        ],
+        "answer": "Detective Panda"
+    },
+    {
+        "question": "Which map is known for its hot climate and desert terrain?",
+        "options": [
+            "Bermuda",
+            "Kalahari",
+            "Purgatory",
+            "Alpine"
+        ],
+        "answer": "Kalahari"
+    },
+    {
+        "question": "What is the highest possible level for a character?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": "8"
+    },
+    {
+        "question": "Which character has the ability 'Sustained Raids'?",
+        "options": [
+            "Misha",
+            "Alok",
+            "Jota",
+            "Kelly"
+        ],
+        "answer": "Jota"
+    },
+    {
+        "question": "Which weapon is known as the 'Silent Death'?",
+        "options": [
+            "MP40",
+            "AWM",
+            "M4A1",
+            "VSS"
+        ],
+        "answer": "VSS"
+    },
+    {
+        "question": "Which character is a graffiti artist?",
+        "options": [
+            "Moco",
+            "Shani",
+            "Kapella",
+            "Steffie"
+        ],
+        "answer": "Steffie"
+    },
+    {
+        "question": "Which character has the ability 'Healing Song'?",
+        "options": [
+            "Clu",
+            "Kapella",
+            "Alok",
+            "K"
+        ],
+        "answer": "Kapella"
+    },
+    {
+        "question": "What is the name of the Free Fire's annual world tournament?",
+        "options": [
+            "Free Fire World Series",
+            "Free Fire Pro League",
+            "Free Fire Invitational",
+            "Free Fire Masters"
+        ],
+        "answer": "Free Fire World Series"
+    },
+    {
+        "question": "Which character is known as the 'Silent Killer'?",
+        "options": [
+            "Paloma",
+            "Laura",
+            "Hayato",
+            "Wukong"
+        ],
+        "answer": "Laura"
+    },
+    {
+        "question": "Which character has the ability 'Camouflage'?",
+        "options": [
+            "Kelly",
+            "Wukong",
+            "Rafael",
+            "Laura"
+        ],
+        "answer": "Wukong"
+    },
+    {
+        "question": "Which character has the ability 'Sharp Shooter'?",
+        "options": [
+            "Moco",
+            "Laura",
+            "Rafael",
+            "Kelly"
+        ],
+        "answer": "Laura"
+    },
+    {
+        "question": "Which character has the ability 'Hacker's Eye'?",
+        "options": [
+            "Moco",
+            "Alok",
+            "K",
+            "Hayato"
+        ],
+        "answer": "Moco"
+    },
+    {
+        "question": "Which character is known as the 'Ninja'?",
+        "options": [
+            "Kelly",
+            "Shani",
+            "Hayato",
+            "Wukong"
+        ],
+        "answer": "Kelly"
+    },
+    {
+        "question": "What is the ability of the character K?",
+        "options": [
+            "Healing Song",
+            "Psychic Power",
+            "Master of All",
+            "Bushido"
+        ],
+        "answer": "Master of All"
+    },
+    {
+        "question": "Which character has the ability 'Raging Reload'?",
+        "options": [
+            "Misha",
+            "Alok",
+            "Jota",
+            "Kelly"
+        ],
+        "answer": "Jota"
+    },
+    {
+        "question": "What is the ability of the character Chrono?",
+        "options": [
+            "Drop the Beat",
+            "Time Turner",
+            "Bushido",
+            "Master of All"
+        ],
+        "answer": "Time Turner"
+    },
+    {
+        "question": "What is the name of the Free Fire's survival mode?",
+        "options": [
+            "Clash Squad",
+            "Battle Royale",
+            "Death Race",
+            "Rampage"
+        ],
+        "answer": "Battle Royale"
+    },
+    {
+        "question": "Which character has the ability 'Bushido'?",
+        "options": [
+            "Kelly",
+            "Hayato",
+            "Moco",
+            "Miguel"
+        ],
+        "answer": "Hayato"
+    },
+    {
+        "question": "Which character has the ability 'Healing Song'?",
+        "options": [
+            "Clu",
+            "Kapella",
+            "Alok",
+            "K"
+        ],
+        "answer": "Kapella"
+    },
+    {
+        "question": "What is the name of the Free Fire's annual world tournament?",
+        "options": [
+            "Free Fire World Series",
+            "Free Fire Pro League",
+            "Free Fire Invitational",
+            "Free Fire Masters"
+        ],
+        "answer": "Free Fire World Series"
+    },
+    {
+        "question": "Which character is known as the 'Silent Killer'?",
+        "options": [
+            "Paloma",
+            "Laura",
+            "Hayato",
+            "Wukong"
+        ],
+        "answer": "Laura"
+    },
+    {
+        "question": "Which character has the ability 'Camouflage'?",
+        "options": [
+            "Kelly",
+            "Wukong",
+            "Rafael",
+            "Laura"
+        ],
+        "answer": "Wukong"
+    },
+    {
+        "question": "Which character has the ability 'Sharp Shooter'?",
+        "options": [
+            "Moco",
+            "Laura",
+            "Rafael",
+            "Kelly"
+        ],
+        "answer": "Laura"
+    },
+    {
+        "question": "What is the name of the character with the ability 'Camouflage'?",
+        "options": [
+            "Wukong",
+            "Chrono",
+            "Kapella",
+            "Moco"
+        ],
+        "answer": "Wukong"
+    },
+    {
+        "question": "Which character has the ability 'Headhunter'?",
+        "options": [
+            "Moco",
+            "Paloma",
+            "Laura",
+            "Clu"
+        ],
+        "answer": "Laura"
+    },
+    {
+        "question": "What is the unique ability of the character 'Alok'?",
+        "options": [
+            "Healing Song",
+            "Drop the Beat",
+            "Time Turner",
+            "Bushido"
+        ],
+        "answer": "Drop the Beat"
+    },
+    {
+        "question": "Which character has the ability 'Partying On'?",
+        "options": [
+            "K",
+            "Kapella",
+            "Steffie",
+            "Moco"
+        ],
+        "answer": "Steffie"
+    },
+    {
+        "question": "Which character has the ability 'Time Turner'?",
+        "options": [
+            "Chrono",
+            "Alok",
+            "Hayato",
+            "Kelly"
+        ],
+        "answer": "Chrono"
+    },
+    {
+        "question": "What is the name of Free Fire's first character?",
+        "options": [
+            "Kelly",
+            "Adam",
+            "Eve",
+            "Hayato"
+        ],
+        "answer": "Adam"
+    },
+    {
+        "question": "Which character is known for the ability 'Healing Song'?",
+        "options": [
+            "K",
+            "Kapella",
+            "Clu",
+            "Moco"
+        ],
+        "answer": "Kapella"
+    },
+    {
+        "question": "What is the name of the map with snow-covered terrain?",
+        "options": [
+            "Bermuda",
+            "Kalahari",
+            "Purgatory",
+            "Alpine"
+        ],
+        "answer": "Alpine"
+    },
+    {
+        "question": "Which character has the ability 'Master of All'?",
+        "options": [
+            "Chrono",
+            "K",
+            "Hayato",
+            "Alok"
+        ],
+        "answer": "K"
+    },
+    {
+        "question": "What is the unique ability of the character 'Alvaro'?",
+        "options": [
+            "Bounty Hunter",
+            "Time Turner",
+            "Art of Demolition",
+            "Healing Song"
+        ],
+        "answer": "Art of Demolition"
+    },
+    {
+        "question": "What is the main ability of the character 'Wukong'?",
+        "options": [
+            "Bushido",
+            "Camouflage",
+            "Healing Song",
+            "Drop the Beat"
+        ],
+        "answer": "Camouflage"
+    },
+    {
+        "question": "Which character can detect enemies using the ability 'Tracers'?",
+        "options": [
+            "Moco",
+            "Clu",
+            "Laura",
+            "Steffie"
+        ],
+        "answer": "Clu"
+    },
+    {
+        "question": "Which pet in Free Fire has the ability 'Smooth Gloo'?",
+        "options": [
+            "Robo",
+            "Poring",
+            "Ottero",
+            "Night Panther"
+        ],
+        "answer": "Robo"
+    },
+    {
+        "question": "What is the special ability of the pet 'Poring'?",
+        "options": [
+            "Detects Enemies",
+            "Heals the Owner",
+            "Reinforces Helmets",
+            "Boosts Speed"
+        ],
+        "answer": "Reinforces Helmets"
+    },
+    {
+        "question": "Which character is known for the ability 'Crazy Slayer'?",
+        "options": [
+            "Miguel",
+            "Moco",
+            "Kelly",
+            "Alok"
+        ],
+        "answer": "Miguel"
+    },
+    {
+        "question": "Which character has the ability 'Memory Mist'?",
+        "options": [
+            "Clu",
+            "Laura",
+            "Kapella",
+            "Steffie"
+        ],
+        "answer": "Clu"
+    },
+    {
+        "question": "Which character's ability is 'Bounty Hunter'?",
+        "options": [
+            "Hayato",
+            "Kapella",
+            "Moco",
+            "Wolfrahh"
+        ],
+        "answer": "Wolfrahh"
+    },
+    {
+        "question": "Which character is known as the 'Healer'?",
+        "options": [
+            "Moco",
+            "Kapella",
+            "Alok",
+            "Kelly"
+        ],
+        "answer": "Kapella"
+    },
+    {
+        "question": "Which character has the ability 'Madness'?",
+        "options": [
+            "Miguel",
+            "Kapella",
+            "Hayato",
+            "Alok"
+        ],
+        "answer": "Miguel"
+    },
+    {
+        "question": "Which character has the ability 'Bullet Beats'?",
+        "options": [
+            "Alok",
+            "Hayato",
+            "Kapella",
+            "Jota"
+        ],
+        "answer": "Jota"
+    },
+    {
+        "question": "Which character has the ability 'Blade Slaughter'?",
+        "options": [
+            "Kelly",
+            "Alok",
+            "Hayato",
+            "Jota"
+        ],
+        "answer": "Hayato"
+    },
+    {
+        "question": "Which pet has the ability 'Nutrient Run'?",
+        "options": [
+            "Poring",
+            "Ottero",
+            "Detective Panda",
+            "Night Panther"
+        ],
+        "answer": "Ottero"
+    },
+    {
+        "question": "What is the name of the elite version of the character 'Kelly'?",
+        "options": [
+            "Kelly the Swift",
+            "Kelly the Brave",
+            "Kelly the Quick",
+            "Kelly the Lucky"
+        ],
+        "answer": "Kelly the Swift"
+    },
+    {
+        "question": "What is the ability of the character 'Notora'?",
+        "options": [
+            "Speed of Light",
+            "Racer's Blessing",
+            "Healing Song",
+            "Time Turner"
+        ],
+        "answer": "Racer's Blessing"
+    },
+    {
+        "question": "Which character has the ability 'Gluttony'?",
+        "options": [
+            "Maxim",
+            "Kelly",
+            "Alok",
+            "Moco"
+        ],
+        "answer": "Maxim"
+    },
+    {
+        "question": "Which character has the ability 'Firing Up'?",
+        "options": [
+            "Jota",
+            "Moco",
+            "Kelly",
+            "Miguel"
+        ],
+        "answer": "Miguel"
+    },
+    {
+        "question": "Which character has the ability 'Sealing Eyes'?",
+        "options": [
+            "Clu",
+            "Laura",
+            "Moco",
+            "Wolfrahh"
+        ],
+        "answer": "Moco"
+    },
+    {
+        "question": "Which character is known for the ability 'In the Zone'?",
+        "options": [
+            "Jota",
+            "Hayato",
+            "K",
+            "Alok"
+        ],
+        "answer": "Jota"
+    },
+    {
+        "question": "Which character has the ability 'Thrill of Battle'?",
+        "options": [
+            "K",
+            "Hayato",
+            "Jota",
+            "Alok"
+        ],
+        "answer": "Hayato"
+    },
+    {
+        "question": "What is the ability of the character 'Shirou'?",
+        "options": [
+            "Healing Song",
+            "Damage Delivered",
+            "Time Turner",
+            "Bushido"
+        ],
+        "answer": "Damage Delivered"
+    },
+    {
+        "question": "What is the name of the character with the ability 'Mechanic'?",
+        "options": [
+            "Misha",
+            "Steffie",
+            "Shani",
+            "Kelly"
+        ],
+        "answer": "Shani"
+    },
+    {
+        "question": "Which character is known for the ability 'Martial Arts'?",
+        "options": [
+            "K",
+            "Joseph",
+            "Kelly",
+            "Alok"
+        ],
+        "answer": "Joseph"
+    },
+    {
+        "question": "What is the unique ability of the character 'Paloma'?",
+        "options": [
+            "Arms Dealing",
+            "Bushido",
+            "Time Turner",
+            "Healing Song"
+        ],
+        "answer": "Arms Dealing"
+    },
+    {
+        "question": "Which character has the ability 'Memories of War'?",
+        "options": [
+            "K",
+            "Joseph",
+            "Kelly",
+            "Kapella"
+        ],
+        "answer": "Joseph"
+    },
+    {
+        "question": "Which character has the ability 'Crazy Slayer'?",
+        "options": [
+            "Moco",
+            "Alok",
+            "Miguel",
+            "Kelly"
+        ],
+        "answer": "Miguel"
+    }
+ ]
