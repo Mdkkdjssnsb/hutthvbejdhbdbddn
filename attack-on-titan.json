@@ -1,0 +1,312 @@
+[
+    {
+        "question": "Who is the main protagonist of *Attack on Titan*?",
+        "options": [
+            "Eren Yeager",
+            "Mikasa Ackerman",
+            "Armin Arlert",
+            "Levi Ackerman"
+        ],
+        "answer": "Eren Yeager"
+    },
+    {
+        "question": "What is the name of the city where the story begins?",
+        "options": [
+            "Shiganshina",
+            "Trost",
+            "Stohess",
+            "Utopia"
+        ],
+        "answer": "Shiganshina"
+    },
+    {
+        "question": "Which of the following is NOT one of the three walls protecting humanity?",
+        "options": [
+            "Wall Maria",
+            "Wall Rose",
+            "Wall Sheena",
+            "Wall Sina"
+        ],
+        "answer": "Wall Sheena"
+    },
+    {
+        "question": "What is the primary goal of the Survey Corps?",
+        "options": [
+            "To explore outside the walls",
+            "To protect the King",
+            "To train new soldiers",
+            "To maintain order within the walls"
+        ],
+        "answer": "To explore outside the walls"
+    },
+    {
+        "question": "Who is the captain of the Survey Corps known for his exceptional combat skills?",
+        "options": [
+            "Levi Ackerman",
+            "Erwin Smith",
+            "Hange Zoë",
+            "Jean Kirstein"
+        ],
+        "answer": "Levi Ackerman"
+    },
+    {
+        "question": "What ability does Eren Yeager discover he has?",
+        "options": [
+            "The ability to transform into a Titan",
+            "The ability to fly",
+            "The ability to control weather",
+            "The ability to heal others"
+        ],
+        "answer": "The ability to transform into a Titan"
+    },
+    {
+        "question": "What is the name of Eren's adoptive sister?",
+        "options": [
+            "Mikasa Ackerman",
+            "Sasha Blouse",
+            "Annie Leonhart",
+            "Historia Reiss"
+        ],
+        "answer": "Mikasa Ackerman"
+    },
+    {
+        "question": "Who is the commander of the Survey Corps during the first seasons?",
+        "options": [
+            "Erwin Smith",
+            "Levi Ackerman",
+            "Dot Pixis",
+            "Hange Zoë"
+        ],
+        "answer": "Erwin Smith"
+    },
+    {
+        "question": "Which character is known for their remarkable sharpshooting skills and love for food?",
+        "options": [
+            "Sasha Blouse",
+            "Mikasa Ackerman",
+            "Connie Springer",
+            "Armin Arlert"
+        ],
+        "answer": "Sasha Blouse"
+    },
+    {
+        "question": "What is the name of the giant Titan that breaches Wall Maria in the first episode?",
+        "options": [
+            "Colossal Titan",
+            "Armored Titan",
+            "Beast Titan",
+            "Female Titan"
+        ],
+        "answer": "Colossal Titan"
+    },
+    {
+        "question": "Which of these Titans has a hardening ability that makes it nearly indestructible?",
+        "options": [
+            "Armored Titan",
+            "Colossal Titan",
+            "Female Titan",
+            "Beast Titan"
+        ],
+        "answer": "Armored Titan"
+    },
+    {
+        "question": "What is the true identity of the Female Titan?",
+        "options": [
+            "Annie Leonhart",
+            "Mikasa Ackerman",
+            "Historia Reiss",
+            "Hange Zoë"
+        ],
+        "answer": "Annie Leonhart"
+    },
+    {
+        "question": "What is the ultimate goal of the Titan shifters from Marley?",
+        "options": [
+            "To recover the Founding Titan",
+            "To destroy the Survey Corps",
+            "To protect humanity",
+            "To conquer the world"
+        ],
+        "answer": "To recover the Founding Titan"
+    },
+    {
+        "question": "Who inherits the Armored Titan after the fall of Wall Maria?",
+        "options": [
+            "Reiner Braun",
+            "Bertolt Hoover",
+            "Jean Kirstein",
+            "Erwin Smith"
+        ],
+        "answer": "Reiner Braun"
+    },
+    {
+        "question": "What is the name of the Titan form that Eren possesses?",
+        "options": [
+            "Attack Titan",
+            "Beast Titan",
+            "Colossal Titan",
+            "Jaw Titan"
+        ],
+        "answer": "Attack Titan"
+    },
+    {
+        "question": "What is Historia Reiss's royal title?",
+        "options": [
+            "Queen",
+            "Princess",
+            "Duchess",
+            "Lady"
+        ],
+        "answer": "Queen"
+    },
+    {
+        "question": "Who sacrifices themselves to allow the Survey Corps to defeat the Beast Titan?",
+        "options": [
+            "Erwin Smith",
+            "Mikasa Ackerman",
+            "Armin Arlert",
+            "Hange Zoë"
+        ],
+        "answer": "Erwin Smith"
+    },
+    {
+        "question": "What is the name of the technology used by soldiers to fight Titans?",
+        "options": [
+            "ODM Gear",
+            "3D Maneuver Gear",
+            "Titan Gear",
+            "Vertical Maneuver Gear"
+        ],
+        "answer": "ODM Gear"
+    },
+    {
+        "question": "Who is known as the Beast Titan?",
+        "options": [
+            "Zeke Yeager",
+            "Reiner Braun",
+            "Bertolt Hoover",
+            "Erwin Smith"
+        ],
+        "answer": "Zeke Yeager"
+    },
+    {
+        "question": "What is the main material used to create the walls?",
+        "options": [
+            "Hardening Titan ability",
+            "Concrete",
+            "Stone",
+            "Steel"
+        ],
+        "answer": "Hardening Titan ability"
+    },
+    {
+        "question": "What triggers Eren’s first transformation into a Titan?",
+        "options": [
+            "Being eaten by a Titan",
+            "Anger",
+            "A serum injection",
+            "A wish"
+        ],
+        "answer": "Being eaten by a Titan"
+    },
+    {
+        "question": "What is the name of the place where Titan shifters and the Marleyans originate from?",
+        "options": [
+            "Marley",
+            "Paradise",
+            "Eldia",
+            "Troya"
+        ],
+        "answer": "Marley"
+    },
+    {
+        "question": "Who is the character that takes command of the Survey Corps after Erwin Smith?",
+        "options": [
+            "Hange Zoë",
+            "Levi Ackerman",
+            "Mikasa Ackerman",
+            "Armin Arlert"
+        ],
+        "answer": "Hange Zoë"
+    },
+    {
+        "question": "Who is the armored Titan?",
+        "options": [
+            "Reiner Braun",
+            "Bertolt Hoover",
+            "Annie Leonhart",
+            "Zeke Yeager"
+        ],
+        "answer": "Reiner Braun"
+    },
+    {
+        "question": "What is the name of the Titan that can create and control other Titans?",
+        "options": [
+            "Founding Titan",
+            "Beast Titan",
+            "Attack Titan",
+            "War Hammer Titan"
+        ],
+        "answer": "Founding Titan"
+    },
+    {
+        "question": "Which character is known for their intelligence and strategic mind, often leading the group?",
+        "options": [
+            "Armin Arlert",
+            "Jean Kirstein",
+            "Sasha Blouse",
+            "Mikasa Ackerman"
+        ],
+        "answer": "Armin Arlert"
+    },
+    {
+        "question": "What is the special ability of the War Hammer Titan?",
+        "options": [
+            "Creating weapons from its body",
+            "Super strength",
+            "Flight",
+            "Invisibility"
+        ],
+        "answer": "Creating weapons from its body"
+    },
+    {
+        "question": "Who is the traitor that infiltrates the Survey Corps and is later revealed to be the Colossal Titan?",
+        "options": [
+            "Bertolt Hoover",
+            "Reiner Braun",
+            "Annie Leonhart",
+            "Zeke Yeager"
+        ],
+        "answer": "Bertolt Hoover"
+    },
+    {
+        "question": "What is the true identity of the Beast Titan?",
+        "options": [
+            "Zeke Yeager",
+            "Reiner Braun",
+            "Bertolt Hoover",
+            "Erwin Smith"
+        ],
+        "answer": "Zeke Yeager"
+    },
+    {
+        "question": "Who becomes the new Colossal Titan after Bertolt?",
+        "options": [
+            "Armin Arlert",
+            "Jean Kirstein",
+            "Eren Yeager",
+            "Mikasa Ackerman"
+        ],
+        "answer": "Armin Arlert"
+    },
+    {
+        "question": "What is the name of the island where most of the story takes place?",
+        "options": [
+            "Paradise Island",
+            "Eldia",
+            "Marley",
+            "Wall Island"
+        ],
+        "answer": "Paradise Island"
+    }
+]
