@@ -1,0 +1,402 @@
+[
+    {
+        "question": "Who is the main protagonist of *Death Note*?",
+        "options": [
+            "Light Yagami",
+            "L",
+            "Ryuk",
+            "Near"
+        ],
+        "answer": "Light Yagami"
+    },
+    {
+        "question": "What is the name of the Shinigami who drops the Death Note into the human world?",
+        "options": [
+            "Ryuk",
+            "Rem",
+            "Sidoh",
+            "Jealous"
+        ],
+        "answer": "Ryuk"
+    },
+    {
+        "question": "What is the primary power of the Death Note?",
+        "options": [
+            "To kill anyone whose name is written in it",
+            "To bring people back to life",
+            "To control people's minds",
+            "To grant immortality"
+        ],
+        "answer": "To kill anyone whose name is written in it"
+    },
+    {
+        "question": "What is the real name of the character known as 'L'?",
+        "options": [
+            "L Lawliet",
+            "Ryuuk",
+            "Light Yagami",
+            "Near"
+        ],
+        "answer": "L Lawliet"
+    },
+    {
+        "question": "Which character is Light Yagami's primary rival in the series?",
+        "options": [
+            "L",
+            "Near",
+            "Mello",
+            "Ryuk"
+        ],
+        "answer": "L"
+    },
+    {
+        "question": "What is the name of Light Yagami's alter ego when he is using the Death Note?",
+        "options": [
+            "Kira",
+            "L",
+            "Raito",
+            "Ryuk"
+        ],
+        "answer": "Kira"
+    },
+    {
+        "question": "What is the condition required for the Death Note's killing power to work?",
+        "options": [
+            "The name of the person must be written",
+            "The person must be a criminal",
+            "The person must be in the Death Note owner's presence",
+            "The Death Note must be burned"
+        ],
+        "answer": "The name of the person must be written"
+    },
+    {
+        "question": "Who is the Shinigami that takes an interest in Light Yagami?",
+        "options": [
+            "Ryuk",
+            "Rem",
+            "Sidoh",
+            "Jealous"
+        ],
+        "answer": "Ryuk"
+    },
+    {
+        "question": "What is the name of the character who uses a Death Note to kill criminals and eventually confronts Light?",
+        "options": [
+            "L",
+            "Mello",
+            "Near",
+            "Watari"
+        ],
+        "answer": "L"
+    },
+    {
+        "question": "What does Light Yagami use to hide his true identity while using the Death Note?",
+        "options": [
+            "A mask",
+            "A fake name",
+            "A disguise",
+            "A separate persona"
+        ],
+        "answer": "A separate persona"
+    },
+    {
+        "question": "What is the name of the organization that L forms to catch Kira?",
+        "options": [
+            "The Task Force",
+            "The FBI",
+            "Interpol",
+            "The Special Investigation Unit"
+        ],
+        "answer": "The Task Force"
+    },
+    {
+        "question": "What is the name of Light's sister?",
+        "options": [
+            "Sayu Yagami",
+            "Misa Amane",
+            "Naomi Misora",
+            "Rem"
+        ],
+        "answer": "Sayu Yagami"
+    },
+    {
+        "question": "What is the name of the second Kira who appears after Light?",
+        "options": [
+            "Misa Amane",
+            "Near",
+            "Mello",
+            "Rem"
+        ],
+        "answer": "Misa Amane"
+    },
+    {
+        "question": "Who is the Shinigami that partners with Misa Amane?",
+        "options": [
+            "Rem",
+            "Ryuk",
+            "Sidoh",
+            "Jealous"
+        ],
+        "answer": "Rem"
+    },
+    {
+        "question": "What does Light Yagami use to write names in the Death Note?",
+        "options": [
+            "A pen",
+            "A quill",
+            "A pencil",
+            "A marker"
+        ],
+        "answer": "A pen"
+    },
+    {
+        "question": "What is the name of the notebook that Ryuk drops into the human world?",
+        "options": [
+            "Death Note",
+            "Shinigami Note",
+            "Kira Note",
+            "Dark Note"
+        ],
+        "answer": "Death Note"
+    },
+    {
+        "question": "What is the lifespan of a Death Note before it is considered 'full'?",
+        "options": [
+            "When all pages are used",
+            "After 10 years",
+            "When the owner dies",
+            "After 1000 names are written"
+        ],
+        "answer": "When all pages are used"
+    },
+    {
+        "question": "What happens if the Death Note is used to write the name of a person who is already dead?",
+        "options": [
+            "Nothing happens",
+            "The person is resurrected",
+            "The Death Note is destroyed",
+            "The person’s death is accelerated"
+        ],
+        "answer": "Nothing happens"
+    },
+    {
+        "question": "What is the name of the third Kira who appears later in the series?",
+        "options": [
+            "Mello",
+            "Near",
+            "Teru Mikami",
+            "Kiyomi Takada"
+        ],
+        "answer": "Teru Mikami"
+    },
+    {
+        "question": "What is the name of L's assistant?",
+        "options": [
+            "Watari",
+            "Misa Amane",
+            "Ryuk",
+            "Near"
+        ],
+        "answer": "Watari"
+    },
+    {
+        "question": "What is the Shinigami's lifespan once they drop their Death Note into the human world?",
+        "options": [
+            "They die",
+            "They become human",
+            "They get a new Death Note",
+            "They live indefinitely"
+        ],
+        "answer": "They die"
+    },
+    {
+        "question": "What is the name of the Japanese TV show that features a character named Kira?",
+        "options": [
+            "Death Note",
+            "Kira’s Game",
+            "Shinigami Chronicles",
+            "Kira’s Diary"
+        ],
+        "answer": "Death Note"
+    },
+    {
+        "question": "How many Death Notes are there in the series at any given time?",
+        "options": [
+            "Two",
+            "One",
+            "Three",
+            "Four"
+        ],
+        "answer": "Two"
+    },
+    {
+        "question": "What is the primary motivation behind Light Yagami’s actions with the Death Note?",
+        "options": [
+            "To create a utopia free of crime",
+            "To gain power",
+            "To get revenge",
+            "To become famous"
+        ],
+        "answer": "To create a utopia free of crime"
+    },
+    {
+        "question": "Who does Light Yagami attempt to use the Death Note on to test its power?",
+        "options": [
+            "A criminal",
+            "His own family",
+            "His teacher",
+            "A police officer"
+        ],
+        "answer": "A criminal"
+    },
+    {
+        "question": "What does Light Yagami do to avoid suspicion from the task force?",
+        "options": [
+            "He feigns ignorance",
+            "He destroys the Death Note",
+            "He uses a fake name",
+            "He blames others"
+        ],
+        "answer": "He feigns ignorance"
+    },
+    {
+        "question": "What is the name of the character who becomes the leader of the Yotsuba Group?",
+        "options": [
+            "Teru Mikami",
+            "Kiyomi Takada",
+            "Mello",
+            "Near"
+        ],
+        "answer": "Kiyomi Takada"
+    },
+    {
+        "question": "What is the name of the investigation team that L assembles to track Kira?",
+        "options": [
+            "The Task Force",
+            "The Special Unit",
+            "The Kira Investigation Team",
+            "The Shinigami Squad"
+        ],
+        "answer": "The Task Force"
+    },
+    {
+        "question": "What is the name of the facility where L hides his identity?",
+        "options": [
+            "Wammy’s House",
+            "The Task Force Headquarters",
+            "The Shinigami Realm",
+            "The Kira Investigation Center"
+        ],
+        "answer": "Wammy’s House"
+    },
+    {
+        "question": "What does the Death Note require to be effective?",
+        "options": [
+            "The name of the person and their face",
+            "A picture of the person",
+            "The person’s blood",
+            "The person’s voice"
+        ],
+        "answer": "The name of the person and their face"
+    },
+    {
+        "question": "Who is the Shinigami who helps Misa Amane obtain a Death Note?",
+        "options": [
+            "Rem",
+            "Ryuk",
+            "Sidoh",
+            "Jealous"
+        ],
+        "answer": "Rem"
+    },
+    {
+        "question": "What is the real name of the character who is known as 'Near'?",
+        "options": [
+            "Nate River",
+            "L Lawliet",
+            "Light Yagami",
+            "Teru Mikami"
+        ],
+        "answer": "Nate River"
+    },
+    {
+        "question": "Which character is known for using the 'Death Note' to create a utopia?",
+        "options": [
+            "Light Yagami",
+            "L",
+            "Near",
+            "Mello"
+        ],
+        "answer": "Light Yagami"
+    },
+    {
+        "question": "What is the primary goal of the character Mello?",
+        "options": [
+            "To defeat Kira",
+            "To become the new Kira",
+            "To help Light Yagami",
+            "To find the Death Note"
+        ],
+        "answer": "To defeat Kira"
+    },
+    {
+        "question": "What is the name of the character who becomes the fourth Kira?",
+        "options": [
+            "Teru Mikami",
+            "Kiyomi Takada",
+            "Misa Amane",
+            "Light Yagami"
+        ],
+        "answer": "Teru Mikami"
+    },
+    {
+        "question": "What is the name of the character who works as L’s assistant and later becomes the new L?",
+        "options": [
+            "Near",
+            "Mello",
+            "Light Yagami",
+            "Watari"
+        ],
+        "answer": "Near"
+    },
+    {
+        "question": "What is the name of the high school that Light Yagami attends?",
+        "options": [
+            "To-oh University",
+            "Hosenka School",
+            "Ohara High School",
+            "Yokohama High School"
+        ],
+        "answer": "Ohara High School"
+    },
+    {
+        "question": "Who is the first person to find the Death Note after it falls to the human world?",
+        "options": [
+            "Light Yagami",
+            "L",
+            "Ryuk",
+            "Rem"
+        ],
+        "answer": "Light Yagami"
+    },
+    {
+        "question": "What does Misa Amane write in the Death Note to prove she is the second Kira?",
+        "options": [
+            "Her name and a criminal's name",
+            "A famous person's name",
+            "Light Yagami's name",
+            "The name of a random person"
+        ],
+        "answer": "Her name and a criminal's name"
+    },
+    {
+        "question": "How does Light Yagami first test the Death Note's power?",
+        "options": [
+            "By writing a criminal's name",
+            "By writing his own name",
+            "By writing L's name",
+            "By writing Ryuk's name"
+        ],
+        "answer": "By writing a criminal's name"
+    }
+ ]
