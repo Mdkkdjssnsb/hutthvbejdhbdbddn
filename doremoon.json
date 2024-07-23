@@ -1,0 +1,692 @@
+[
+    {
+        "question": "Who is the main character and robotic cat in the Doraemon series?",
+        "options": [
+            "Doraemon",
+            "Nobita",
+            "Shizuka",
+            "Gian"
+        ],
+        "answer": "Doraemon"
+    },
+    {
+        "question": "Who is Doraemon's best friend and often gets into trouble?",
+        "options": [
+            "Nobita",
+            "Suneo",
+            "Shizuka",
+            "Dekisugi"
+        ],
+        "answer": "Nobita"
+    },
+    {
+        "question": "What is the name of Nobita's love interest?",
+        "options": [
+            "Shizuka",
+            "Dorami",
+            "Sue",
+            "Miyoko"
+        ],
+        "answer": "Shizuka"
+    },
+    {
+        "question": "What is the name of the gadget that allows time travel in Doraemon?",
+        "options": [
+            "Time Machine",
+            "Anywhere Door",
+            "Bamboo Copter",
+            "Memory Bread"
+        ],
+        "answer": "Time Machine"
+    },
+    {
+        "question": "Which gadget allows Doraemon and friends to fly?",
+        "options": [
+            "Bamboo Copter",
+            "Air Gun",
+            "Anywhere Door",
+            "Hopter"
+        ],
+        "answer": "Bamboo Copter"
+    },
+    {
+        "question": "Who is the bully that often picks on Nobita?",
+        "options": [
+            "Gian",
+            "Suneo",
+            "Dekisugi",
+            "Nobisuke"
+        ],
+        "answer": "Gian"
+    },
+    {
+        "question": "What is the name of Gian's sidekick?",
+        "options": [
+            "Suneo",
+            "Shizuka",
+            "Dorami",
+            "Tamako"
+        ],
+        "answer": "Suneo"
+    },
+    {
+        "question": "What is the name of Doraemon's sister?",
+        "options": [
+            "Dorami",
+            "Shizuka",
+            "Sue",
+            "Nobi"
+        ],
+        "answer": "Dorami"
+    },
+    {
+        "question": "Which gadget allows users to go anywhere instantly?",
+        "options": [
+            "Anywhere Door",
+            "Time Machine",
+            "Bamboo Copter",
+            "Air Gun"
+        ],
+        "answer": "Anywhere Door"
+    },
+    {
+        "question": "What is the name of Nobita's mother?",
+        "options": [
+            "Tamako",
+            "Shizuka",
+            "Dorami",
+            "Sue"
+        ],
+        "answer": "Tamako"
+    },
+    {
+        "question": "What is Nobita's father's name?",
+        "options": [
+            "Nobisuke",
+            "Gian",
+            "Suneo",
+            "Doraemon"
+        ],
+        "answer": "Nobisuke"
+    },
+    {
+        "question": "Which gadget allows users to communicate with animals?",
+        "options": [
+            "Animal Translator",
+            "Bamboo Copter",
+            "Anywhere Door",
+            "Memory Bread"
+        ],
+        "answer": "Animal Translator"
+    },
+    {
+        "question": "What is Doraemon's favorite food?",
+        "options": [
+            "Dorayaki",
+            "Sushi",
+            "Pizza",
+            "Hamburgers"
+        ],
+        "answer": "Dorayaki"
+    },
+    {
+        "question": "Which gadget can duplicate anything?",
+        "options": [
+            "Copying Toast",
+            "Memory Bread",
+            "Anywhere Door",
+            "Time Machine"
+        ],
+        "answer": "Copying Toast"
+    },
+    {
+        "question": "What is the name of the mouse that Doraemon is afraid of?",
+        "options": [
+            "Michan",
+            "Jichan",
+            "Rachan",
+            "Sichan"
+        ],
+        "answer": "Michan"
+    },
+    {
+        "question": "Which gadget allows users to see into the future?",
+        "options": [
+            "Future Camera",
+            "Time Machine",
+            "Anywhere Door",
+            "Memory Bread"
+        ],
+        "answer": "Future Camera"
+    },
+    {
+        "question": "Who is Nobita's rival in academics?",
+        "options": [
+            "Dekisugi",
+            "Suneo",
+            "Gian",
+            "Shizuka"
+        ],
+        "answer": "Dekisugi"
+    },
+    {
+        "question": "What color is Doraemon's sister, Dorami?",
+        "options": [
+            "Yellow",
+            "Blue",
+            "Red",
+            "Green"
+        ],
+        "answer": "Yellow"
+    },
+    {
+        "question": "Which gadget allows users to create objects out of thin air?",
+        "options": [
+            "Materializer",
+            "Bamboo Copter",
+            "Anywhere Door",
+            "Time Machine"
+        ],
+        "answer": "Materializer"
+    },
+    {
+        "question": "Which year is Doraemon from?",
+        "options": [
+            "22nd Century",
+            "21st Century",
+            "23rd Century",
+            "20th Century"
+        ],
+        "answer": "22nd Century"
+    },
+    {
+        "question": "What is the name of the school that Nobita and his friends attend?",
+        "options": [
+            "Elementary School",
+            "Junior High School",
+            "High School",
+            "Middle School"
+        ],
+        "answer": "Elementary School"
+    },
+    {
+        "question": "Which gadget helps Nobita improve his grades?",
+        "options": [
+            "Memory Bread",
+            "Anywhere Door",
+            "Bamboo Copter",
+            "Time Machine"
+        ],
+        "answer": "Memory Bread"
+    },
+    {
+        "question": "What is the name of Doraemon's creator?",
+        "options": [
+            "Fujiko F. Fujio",
+            "Akira Toriyama",
+            "Osamu Tezuka",
+            "Hayao Miyazaki"
+        ],
+        "answer": "Fujiko F. Fujio"
+    },
+    {
+        "question": "Which gadget allows users to change their appearance?",
+        "options": [
+            "Transformation Biscuit",
+            "Bamboo Copter",
+            "Anywhere Door",
+            "Memory Bread"
+        ],
+        "answer": "Transformation Biscuit"
+    },
+    {
+        "question": "What is the primary function of the Bamboo Copter?",
+        "options": [
+            "Flying",
+            "Time Travel",
+            "Teleportation",
+            "Transformation"
+        ],
+        "answer": "Flying"
+    },
+    {
+        "question": "Which character is known for their singing, which often drives others away?",
+        "options": [
+            "Gian",
+            "Nobita",
+            "Shizuka",
+            "Suneo"
+        ],
+        "answer": "Gian"
+    },
+    {
+        "question": "What is the color of Doraemon's body?",
+        "options": [
+            "Blue",
+            "Red",
+            "Yellow",
+            "Green"
+        ],
+        "answer": "Blue"
+    },
+    {
+        "question": "Which gadget allows users to walk through walls?",
+        "options": [
+            "Ghost Sheets",
+            "Anywhere Door",
+            "Bamboo Copter",
+            "Time Machine"
+        ],
+        "answer": "Ghost Sheets"
+    },
+    {
+        "question": "Which gadget helps Nobita win races?",
+        "options": [
+            "Speed Shoes",
+            "Bamboo Copter",
+            "Anywhere Door",
+            "Time Machine"
+        ],
+        "answer": "Speed Shoes"
+    },
+    {
+        "question": "What is the name of the robot that often helps Nobita with his homework?",
+        "options": [
+            "Mini-Dora",
+            "Dorami",
+            "Mochi",
+            "Tamako"
+        ],
+        "answer": "Mini-Dora"
+    },
+    {
+        "question": "Which gadget can make any place feel like home?",
+        "options": [
+            "Portable House",
+            "Anywhere Door",
+            "Bamboo Copter",
+            "Memory Bread"
+        ],
+        "answer": "Portable House"
+    },
+    {
+        "question": "What is the name of the mouse that often scares Doraemon?",
+        "options": [
+            "Michan",
+            "Suneo",
+            "Gian",
+            "Tamako"
+        ],
+        "answer": "Michan"
+    },
+    {
+        "question": "Which gadget allows users to shrink or enlarge objects?",
+        "options": [
+            "Small Light",
+            "Big Light",
+            "Shrink Ray",
+            "Enlarging Ray"
+        ],
+        "answer": "Small Light"
+    },
+    {
+        "question": "Which gadget allows users to duplicate themselves?",
+        "options": [
+            "Double Mirror",
+            "Copying Toast",
+            "Anywhere Door",
+            "Time Machine"
+        ],
+        "answer": "Double Mirror"
+    },
+    {
+        "question": "Which gadget allows users to instantly know any language?",
+        "options": [
+            "Translation Jelly",
+            "Language Bread",
+            "Memory Bread",
+            "Anywhere Door"
+        ],
+        "answer": "Translation Jelly"
+    },
+    {
+        "question": "What is the primary function of Doraemon's 'Anywhere Door'?",
+        "options": [
+            "Teleportation",
+            "Flying",
+            "Invisibility",
+            "Time Travel"
+        ],
+        "answer": "Teleportation"
+    },
+    {
+        "question": "What is the name of Nobita's favorite spot to nap?",
+        "options": [
+            "Under the tree",
+            "On the bed",
+            "In the park",
+            "At the school"
+        ],
+        "answer": "Under the tree"
+    },
+    {
+        "question": "Which gadget is used to make a house portable?",
+        "options": [
+            "Portable House",
+            "Anywhere Door",
+            "Bamboo Copter",
+            "Time Machine"
+        ],
+        "answer": "Portable House"
+    },
+    {
+        "question": "What is Doraemon's original color before he turned blue?",
+        "options": [
+            "Yellow",
+            "Green",
+            "Red",
+            "Orange"
+        ],
+        "answer": "Yellow"
+    },
+    {
+        "question": "What is the name of the Doraemon gadget that allows the user to breathe underwater?",
+        "options": [
+            "Water Breather",
+            "Aqua Mask",
+            "Underwater Helmet",
+            "Water Helmet"
+        ],
+        "answer": "Water Helmet"
+    },
+    {
+        "question": "What is the name of the gadget that can bring items back from the future?",
+        "options": [
+            "Future Machine",
+            "Time Machine",
+            "Past Remover",
+            "Future Retrieval Device"
+        ],
+        "answer": "Time Machine"
+    },
+    {
+        "question": "Which gadget can make you invisible for a short time?",
+        "options": [
+            "Invisible Cloak",
+            "Invisibility Shield",
+            "Ghost Sheets",
+            "Transparent Suit"
+        ],
+        "answer": "Invisible Cloak"
+    },
+    {
+        "question": "What is the name of Nobita's pet cat?",
+        "options": [
+            "Doraemon",
+            "Mochi",
+            "Shiro",
+            "Kuro"
+        ],
+        "answer": "Shiro"
+    },
+    {
+        "question": "What does the 'Memory Bread' gadget do?",
+        "options": [
+            "Records memories",
+            "Remembers past events",
+            "Reproduces written information",
+            "Creates new memories"
+        ],
+        "answer": "Reproduces written information"
+    },
+    {
+        "question": "Which character is known for his love of eating and singing?",
+        "options": [
+            "Gian",
+            "Suneo",
+            "Nobita",
+            "Dekisugi"
+        ],
+        "answer": "Gian"
+    },
+    {
+        "question": "Which gadget allows users to travel to different dimensions?",
+        "options": [
+            "Dimension Door",
+            "Space Time Machine",
+            "Alternate Reality Portal",
+            "Multi-Dimensional Travel Device"
+        ],
+        "answer": "Dimension Door"
+    },
+    {
+        "question": "What is the name of the device that Doraemon uses to make food instantly?",
+        "options": [
+            "Instant Meal Maker",
+            "Food Generator",
+            "Instant Food Machine",
+            "Magic Cooker"
+        ],
+        "answer": "Instant Meal Maker"
+    },
+    {
+        "question": "Which character is known for his extraordinary intelligence and good grades?",
+        "options": [
+            "Dekisugi",
+            "Nobita",
+            "Gian",
+            "Suneo"
+        ],
+        "answer": "Dekisugi"
+    },
+    {
+        "question": "What is the primary use of the 'Shrink Ray' gadget?",
+        "options": [
+            "Shrink objects",
+            "Enlarge objects",
+            "Teleport objects",
+            "Duplicate objects"
+        ],
+        "answer": "Shrink objects"
+    },
+    {
+        "question": "Which character is known for being a skilled cook in the series?",
+        "options": [
+            "Gian",
+            "Nobita",
+            "Suneo",
+            "Shizuka"
+        ],
+        "answer": "Gian"
+    },
+    {
+        "question": "What is the name of the gadget that helps Doraemon and friends see into the past?",
+        "options": [
+            "Past Viewer",
+            "Time Viewer",
+            "Historical Lens",
+            "Future Recorder"
+        ],
+        "answer": "Past Viewer"
+    },
+    {
+        "question": "Which character often helps Nobita with his homework and studies?",
+        "options": [
+            "Shizuka",
+            "Gian",
+            "Suneo",
+            "Dekisugi"
+        ],
+        "answer": "Shizuka"
+    },
+    {
+        "question": "What is the name of the gadget that allows the user to change the weather?",
+        "options": [
+            "Weather Control Machine",
+            "Climate Changer",
+            "Weather Wand",
+            "Weather Maker"
+        ],
+        "answer": "Weather Control Machine"
+    },
+    {
+        "question": "Which character is known for having a collection of toy robots?",
+        "options": [
+            "Nobita",
+            "Gian",
+            "Suneo",
+            "Shizuka"
+        ],
+        "answer": "Nobita"
+    },
+    {
+        "question": "What is the function of the 'Time-Stopper' gadget?",
+        "options": [
+            "Stop time",
+            "Slow down time",
+            "Speed up time",
+            "Travel through time"
+        ],
+        "answer": "Stop time"
+    },
+    {
+        "question": "What is the name of Nobita's teacher?",
+        "options": [
+            "Miss Hanako",
+            "Miss Yamamoto",
+            "Miss Tanaka",
+            "Miss Suzuki"
+        ],
+        "answer": "Miss Hanako"
+    },
+    {
+        "question": "Which gadget can change a person's age?",
+        "options": [
+            "Age Changer",
+            "Time Machine",
+            "Youth Potion",
+            "Age Reverser"
+        ],
+        "answer": "Age Changer"
+    },
+    {
+        "question": "What is the primary color of Doraemon's collar bell?",
+        "options": [
+            "Red",
+            "Blue",
+            "Yellow",
+            "Green"
+        ],
+        "answer": "Red"
+    },
+    {
+        "question": "Which gadget helps users to find lost items?",
+        "options": [
+            "Locator Device",
+            "Finding Glasses",
+            "Lost Item Finder",
+            "Tracking Device"
+        ],
+        "answer": "Locator Device"
+    },
+    {
+        "question": "Which character often dreams of becoming a superhero?",
+        "options": [
+            "Nobita",
+            "Gian",
+            "Suneo",
+            "Dekisugi"
+        ],
+        "answer": "Nobita"
+    },
+    {
+        "question": "What is the name of the gadget that can transform objects into something else?",
+        "options": [
+            "Transforming Machine",
+            "Object Converter",
+            "Magic Wand",
+            "Shape Shifter"
+        ],
+        "answer": "Object Converter"
+    },
+    {
+        "question": "Which gadget helps Doraemon and friends to read other people's minds?",
+        "options": [
+            "Mind Reader",
+            "Thought Transmitter",
+            "Brain Wave Detector",
+            "Thought Reader"
+        ],
+        "answer": "Mind Reader"
+    },
+    {
+        "question": "What is the name of Nobita's grandmother?",
+        "options": [
+            "Obaba",
+            "Okaa",
+            "Ojiisan",
+            "Obaasan"
+        ],
+        "answer": "Obaba"
+    },
+    {
+        "question": "Which character is known for his love of sweets?",
+        "options": [
+            "Gian",
+            "Nobita",
+            "Suneo",
+            "Dekisugi"
+        ],
+        "answer": "Gian"
+    },
+    {
+        "question": "What is the name of the gadget that allows users to see through walls?",
+        "options": [
+            "X-Ray Glasses",
+            "Vision Enhancer",
+            "See-Through Glasses",
+            "Wall Viewer"
+        ],
+        "answer": "X-Ray Glasses"
+    },
+    {
+        "question": "Which gadget allows Doraemon to instantly travel to different places?",
+        "options": [
+            "Anywhere Door",
+            "Teleportation Device",
+            "Instant Transporter",
+            "Portal Gun"
+        ],
+        "answer": "Anywhere Door"
+    },
+    {
+        "question": "What is the name of Nobita's pet fish?",
+        "options": [
+            "Goldie",
+            "Nemo",
+            "Goldfish",
+            "Bubbles"
+        ],
+        "answer": "Goldfish"
+    },
+    {
+        "question": "Which gadget is used to create a duplicate of any object?",
+        "options": [
+            "Copying Toast",
+            "Duplicator",
+            "Clone Machine",
+            "Object Replicator"
+        ],
+        "answer": "Copying Toast"
+    },
+    {
+        "question": "What is the primary function of the 'Memory Bread' gadget?",
+        "options": [
+            "Reproduces written information",
+            "Records memories",
+            "Remembers past events",
+            "Creates new memories"
+        ],
+        "answer": "Reproduces written information"
+    }
+]
