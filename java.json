@@ -1,0 +1,632 @@
+[
+    {
+        "question": "What is the primary purpose of the Java programming language?",
+        "options": [
+            "Web development",
+            "System programming",
+            "Platform-independent application development",
+            "Game development"
+        ],
+        "answer": "Platform-independent application development"
+    },
+    {
+        "question": "Which company originally developed Java?",
+        "options": [
+            "Sun Microsystems",
+            "Microsoft",
+            "Apple",
+            "Google"
+        ],
+        "answer": "Sun Microsystems"
+    },
+    {
+        "question": "What does JVM stand for?",
+        "options": [
+            "Java Virtual Machine",
+            "Java Variable Model",
+            "Java Verification Method",
+            "Java Visual Machine"
+        ],
+        "answer": "Java Virtual Machine"
+    },
+    {
+        "question": "What is the main feature that makes Java platform-independent?",
+        "options": [
+            "Bytecode",
+            "Java Compiler",
+            "Garbage Collection",
+            "Multithreading"
+        ],
+        "answer": "Bytecode"
+    },
+    {
+        "question": "Which keyword is used to define a class in Java?",
+        "options": [
+            "class",
+            "public",
+            "new",
+            "define"
+        ],
+        "answer": "class"
+    },
+    {
+        "question": "Which method must be defined in every Java application?",
+        "options": [
+            "main",
+            "start",
+            "run",
+            "execute"
+        ],
+        "answer": "main"
+    },
+    {
+        "question": "What is the extension of a Java source file?",
+        "options": [
+            ".java",
+            ".class",
+            ".js",
+            ".jv"
+        ],
+        "answer": ".java"
+    },
+    {
+        "question": "What is the extension of a compiled Java file?",
+        "options": [
+            ".class",
+            ".java",
+            ".byte",
+            ".jv"
+        ],
+        "answer": ".class"
+    },
+    {
+        "question": "Which of the following is a valid declaration of a main method in Java?",
+        "options": [
+            "public static void main(String[] args)",
+            "public static main(String args)",
+            "void main(String[] args)",
+            "public void main(String[] args)"
+        ],
+        "answer": "public static void main(String[] args)"
+    },
+    {
+        "question": "Which keyword is used to create a new object in Java?",
+        "options": [
+            "new",
+            "create",
+            "object",
+            "instantiate"
+        ],
+        "answer": "new"
+    },
+    {
+        "question": "What is the default value of a local variable in Java?",
+        "options": [
+            "No default value",
+            "null",
+            "0",
+            "false"
+        ],
+        "answer": "No default value"
+    },
+    {
+        "question": "Which keyword is used to inherit a class in Java?",
+        "options": [
+            "extends",
+            "implements",
+            "inherits",
+            "super"
+        ],
+        "answer": "extends"
+    },
+    {
+        "question": "Which of the following is NOT a Java keyword?",
+        "options": [
+            "include",
+            "extends",
+            "implements",
+            "synchronized"
+        ],
+        "answer": "include"
+    },
+    {
+        "question": "Which keyword is used to define an interface in Java?",
+        "options": [
+            "interface",
+            "class",
+            "abstract",
+            "implements"
+        ],
+        "answer": "interface"
+    },
+    {
+        "question": "What is the correct way to import a package in Java?",
+        "options": [
+            "import package.name;",
+            "include package.name;",
+            "using package.name;",
+            "require package.name;"
+        ],
+        "answer": "import package.name;"
+    },
+    {
+        "question": "Which of the following is used for memory management in Java?",
+        "options": [
+            "Garbage Collection",
+            "Manual Memory Management",
+            "Destructor",
+            "Memory Pools"
+        ],
+        "answer": "Garbage Collection"
+    },
+    {
+        "question": "What is a package in Java?",
+        "options": [
+            "A collection of classes and interfaces",
+            "A single class file",
+            "A collection of objects",
+            "A method"
+        ],
+        "answer": "A collection of classes and interfaces"
+    },
+    {
+        "question": "Which method is called to start a thread in Java?",
+        "options": [
+            "start",
+            "run",
+            "begin",
+            "init"
+        ],
+        "answer": "start"
+    },
+    {
+        "question": "What is the output of the expression 9 / 2 in Java?",
+        "options": [
+            "4",
+            "4.5",
+            "4.0",
+            "5"
+        ],
+        "answer": "4"
+    },
+    {
+        "question": "What is the output of the expression 9 / 2.0 in Java?",
+        "options": [
+            "4.5",
+            "4",
+            "5",
+            "4.0"
+        ],
+        "answer": "4.5"
+    },
+    {
+        "question": "Which of the following is NOT a valid access modifier in Java?",
+        "options": [
+            "friendly",
+            "public",
+            "private",
+            "protected"
+        ],
+        "answer": "friendly"
+    },
+    {
+        "question": "Which keyword is used to define a constant variable in Java?",
+        "options": [
+            "final",
+            "const",
+            "static",
+            "constant"
+        ],
+        "answer": "final"
+    },
+    {
+        "question": "Which of the following is the correct syntax to declare a variable in Java?",
+        "options": [
+            "int num;",
+            "num int;",
+            "int:num;",
+            "integer num;"
+        ],
+        "answer": "int num;"
+    },
+    {
+        "question": "Which of the following is used to handle exceptions in Java?",
+        "options": [
+            "try-catch block",
+            "if-else statement",
+            "switch-case statement",
+            "for loop"
+        ],
+        "answer": "try-catch block"
+    },
+    {
+        "question": "Which keyword is used to create a subclass in Java?",
+        "options": [
+            "extends",
+            "implements",
+            "inherits",
+            "derives"
+        ],
+        "answer": "extends"
+    },
+    {
+        "question": "Which method is used to stop a thread in Java?",
+        "options": [
+            "stop",
+            "terminate",
+            "end",
+            "finish"
+        ],
+        "answer": "stop"
+    },
+    {
+        "question": "Which of the following is NOT a valid data type in Java?",
+        "options": [
+            "double",
+            "float",
+            "real",
+            "int"
+        ],
+        "answer": "real"
+    },
+    {
+        "question": "Which method is used to compare two strings in Java?",
+        "options": [
+            "equals()",
+            "compare()",
+            "compareTo()",
+            "match()"
+        ],
+        "answer": "equals()"
+    },
+    {
+        "question": "Which of the following is the correct way to create an array in Java?",
+        "options": [
+            "int[] arr = new int[10];",
+            "int arr[] = new int(10);",
+            "int arr = new int[10];",
+            "int[] arr = new int(10);"
+        ],
+        "answer": "int[] arr = new int[10];"
+    },
+    {
+        "question": "Which of the following is NOT a feature of Java?",
+        "options": [
+            "Platform-dependent",
+            "Object-oriented",
+            "Secure",
+            "Robust"
+        ],
+        "answer": "Platform-dependent"
+    },
+    {
+        "question": "Which of the following is a reserved keyword in Java?",
+        "options": [
+            "interface",
+            "implement",
+            "inherit",
+            "constant"
+        ],
+        "answer": "interface"
+    },
+    {
+        "question": "Which of the following is used to read input from the user in Java?",
+        "options": [
+            "Scanner",
+            "BufferReader",
+            "InputStream",
+            "ConsoleReader"
+        ],
+        "answer": "Scanner"
+    },
+    {
+        "question": "Which keyword is used to refer to the current object in Java?",
+        "options": [
+            "this",
+            "current",
+            "me",
+            "self"
+        ],
+        "answer": "this"
+    },
+    {
+        "question": "Which method is called when an object is created in Java?",
+        "options": [
+            "constructor",
+            "init",
+            "new",
+            "create"
+        ],
+        "answer": "constructor"
+    },
+    {
+        "question": "Which of the following is NOT a primitive data type in Java?",
+        "options": [
+            "String",
+            "int",
+            "boolean",
+            "char"
+        ],
+        "answer": "String"
+    },
+    {
+        "question": "Which keyword is used to define an abstract class in Java?",
+        "options": [
+            "abstract",
+            "class",
+            "extends",
+            "implements"
+        ],
+        "answer": "abstract"
+    },
+    {
+        "question": "Which method is used to find the length of a string in Java?",
+        "options": [
+            "length()",
+            "size()",
+            "getLength()",
+            "count()"
+        ],
+        "answer": "length()"
+    },
+    {
+        "question": "Which of the following is NOT an access modifier in Java?",
+        "options": [
+            "transient",
+            "public",
+            "private",
+            "protected"
+        ],
+        "answer": "transient"
+    },
+    {
+        "question": "Which keyword is used to prevent inheritance in Java?",
+        "options": [
+            "final",
+            "static",
+            "private",
+            "sealed"
+        ],
+        "answer": "final"
+    },
+    {
+        "question": "Which keyword is used to declare a constant variable in Java?",
+        "options": [
+            "final",
+            "const",
+            "static",
+            "immutable"
+        ],
+        "answer": "final"
+    },
+    {
+        "question": "What is the return type of the main method in Java?",
+        "options": [
+            "void",
+            "int",
+            "String",
+            "boolean"
+        ],
+        "answer": "void"
+    },
+    {
+        "question": "Which method is used to stop a thread in Java?",
+        "options": [
+            "stop()",
+            "terminate()",
+            "kill()",
+            "end()"
+        ],
+        "answer": "stop()"
+    },
+    {
+        "question": "Which method is called when an object is created in Java?",
+        "options": [
+            "constructor",
+            "init",
+            "new",
+            "start"
+        ],
+        "answer": "constructor"
+    },
+    {
+        "question": "Which keyword is used to refer to the parent class in Java?",
+        "options": [
+            "super",
+            "parent",
+            "this",
+            "base"
+        ],
+        "answer": "super"
+    },
+    {
+        "question": "What is the superclass of all classes in Java?",
+        "options": [
+            "Object",
+            "Class",
+            "System",
+            "Base"
+        ],
+        "answer": "Object"
+    },
+    {
+        "question": "Which keyword is used to define an interface in Java?",
+        "options": [
+            "interface",
+            "class",
+            "abstract",
+            "implements"
+        ],
+        "answer": "interface"
+    },
+    {
+        "question": "Which of the following is a wrapper class in Java?",
+        "options": [
+            "Integer",
+            "int",
+            "void",
+            "String"
+        ],
+        "answer": "Integer"
+    },
+    {
+        "question": "What does JDK stand for?",
+        "options": [
+            "Java Development Kit",
+            "Java Design Kit",
+            "Java Debug Kit",
+            "Java Deployment Kit"
+        ],
+        "answer": "Java Development Kit"
+    },
+    {
+        "question": "Which of the following is NOT a feature of Java?",
+        "options": [
+            "Pointer arithmetic",
+            "Object-oriented",
+            "Platform-independent",
+            "Secure"
+        ],
+        "answer": "Pointer arithmetic"
+    },
+    {
+        "question": "Which of the following is used to create an object in Java?",
+        "options": [
+            "new",
+            "create",
+            "object",
+            "instantiate"
+        ],
+        "answer": "new"
+    },
+    {
+        "question": "Which of the following is a valid declaration of an array in Java?",
+        "options": [
+            "int[] arr = new int[10];",
+            "int arr[] = new int[10];",
+            "int arr[] = new int(10);",
+            "int[] arr = new int(10);"
+        ],
+        "answer": "int[] arr = new int[10];"
+    },
+    {
+        "question": "Which method is used to remove all leading and trailing spaces from a string in Java?",
+        "options": [
+            "trim()",
+            "strip()",
+            "remove()",
+            "clean()"
+        ],
+        "answer": "trim()"
+    },
+    {
+        "question": "Which keyword is used to declare a static variable in Java?",
+        "options": [
+            "static",
+            "const",
+            "final",
+            "constant"
+        ],
+        "answer": "static"
+    },
+    {
+        "question": "Which of the following is a method of the String class in Java?",
+        "options": [
+            "substring()",
+            "split()",
+            "parse()",
+            "format()"
+        ],
+        "answer": "substring()"
+    },
+    {
+        "question": "Which method is used to convert a string to an integer in Java?",
+        "options": [
+            "Integer.parseInt()",
+            "String.toInt()",
+            "Integer.toString()",
+            "String.parseInt()"
+        ],
+        "answer": "Integer.parseInt()"
+    },
+    {
+        "question": "Which of the following is a valid identifier in Java?",
+        "options": [
+            "_var",
+            "1var",
+            "var!",
+            "@var"
+        ],
+        "answer": "_var"
+    },
+    {
+        "question": "Which of the following is NOT a primitive data type in Java?",
+        "options": [
+            "String",
+            "int",
+            "char",
+            "boolean"
+        ],
+        "answer": "String"
+    },
+    {
+        "question": "Which keyword is used to declare an abstract method in Java?",
+        "options": [
+            "abstract",
+            "void",
+            "static",
+            "final"
+        ],
+        "answer": "abstract"
+    },
+    {
+        "question": "Which of the following is the correct syntax to declare a variable in Java?",
+        "options": [
+            "int num;",
+            "num int;",
+            "int:num;",
+            "integer num;"
+        ],
+        "answer": "int num;"
+    },
+    {
+        "question": "Which method is used to handle exceptions in Java?",
+        "options": [
+            "try-catch",
+            "if-else",
+            "switch-case",
+            "throw-catch"
+        ],
+        "answer": "try-catch"
+    },
+    {
+        "question": "Which keyword is used to define a subclass in Java?",
+        "options": [
+            "extends",
+            "implements",
+            "inherits",
+            "derives"
+        ],
+        "answer": "extends"
+    },
+    {
+        "question": "Which of the following is NOT a valid data type in Java?",
+        "options": [
+            "byte",
+            "short",
+            "long",
+            "real"
+        ],
+        "answer": "real"
+    },
+    {
+        "question": "Which of the following is used to compare two strings in Java?",
+        "options": [
+            "equals()",
+            "compare()",
+            "compareTo()",
+            "match()"
+        ],
+        "answer": "equals()"
+    }
+] 
