@@ -1,0 +1,662 @@
+[
+    {
+        "question": "¿Cuál es la capital de España?",
+        "options": [
+            "Madrid",
+            "Barcelona",
+            "Sevilla",
+            "Valencia"
+        ],
+        "answer": "Madrid"
+    },
+    {
+        "question": "¿Cuál es el río más largo de España?",
+        "options": [
+            "Ebro",
+            "Duero",
+            "Guadalquivir",
+            "Tajo"
+        ],
+        "answer": "Tajo"
+    },
+    {
+        "question": "¿Qué país está al sur de España?",
+        "options": [
+            "Francia",
+            "Portugal",
+            "Marruecos",
+            "Italia"
+        ],
+        "answer": "Marruecos"
+    },
+    {
+        "question": "¿En qué ciudad se encuentra la Sagrada Familia?",
+        "options": [
+            "Madrid",
+            "Barcelona",
+            "Granada",
+            "Bilbao"
+        ],
+        "answer": "Barcelona"
+    },
+    {
+        "question": "¿Qué moneda se usa en España?",
+        "options": [
+            "Dólar",
+            "Peso",
+            "Euro",
+            "Libra"
+        ],
+        "answer": "Euro"
+    },
+    {
+        "question": "¿Cuál es la lengua oficial de España?",
+        "options": [
+            "Catalán",
+            "Gallego",
+            "Euskera",
+            "Castellano"
+        ],
+        "answer": "Castellano"
+    },
+    {
+        "question": "¿Cuál es el plato típico de Valencia?",
+        "options": [
+            "Tortilla",
+            "Paella",
+            "Gazpacho",
+            "Cocido"
+        ],
+        "answer": "Paella"
+    },
+    {
+        "question": "¿Quién escribió 'Don Quijote de la Mancha'?",
+        "options": [
+            "Miguel de Cervantes",
+            "Federico García Lorca",
+            "Gabriel García Márquez",
+            "Lope de Vega"
+        ],
+        "answer": "Miguel de Cervantes"
+    },
+    {
+        "question": "¿Cuál es el baile tradicional de Andalucía?",
+        "options": [
+            "Jota",
+            "Muñeira",
+            "Sardana",
+            "Flamenco"
+        ],
+        "answer": "Flamenco"
+    },
+    {
+        "question": "¿En qué año se descubrió América?",
+        "options": [
+            "1492",
+            "1519",
+            "1607",
+            "1776"
+        ],
+        "answer": "1492"
+    },
+    {
+        "question": "¿Cuál es la montaña más alta de España?",
+        "options": [
+            "Mulhacén",
+            "Aneto",
+            "Teide",
+            "Veleta"
+        ],
+        "answer": "Teide"
+    },
+    {
+        "question": "¿Qué mar baña las costas de Barcelona?",
+        "options": [
+            "Mar Cantábrico",
+            "Mar Mediterráneo",
+            "Mar de Alborán",
+            "Mar Adriático"
+        ],
+        "answer": "Mar Mediterráneo"
+    },
+    {
+        "question": "¿Quién pintó 'Las Meninas'?",
+        "options": [
+            "Francisco de Goya",
+            "El Greco",
+            "Diego Velázquez",
+            "Pablo Picasso"
+        ],
+        "answer": "Diego Velázquez"
+    },
+    {
+        "question": "¿Cuál es el ingrediente principal de la tortilla española?",
+        "options": [
+            "Patata",
+            "Tomate",
+            "Pimiento",
+            "Berenjena"
+        ],
+        "answer": "Patata"
+    },
+    {
+        "question": "¿Qué fiesta se celebra el 6 de enero en España?",
+        "options": [
+            "Día de la Constitución",
+            "Día de Reyes",
+            "San Fermín",
+            "Día del Trabajador"
+        ],
+        "answer": "Día de Reyes"
+    },
+    {
+        "question": "¿En qué año comenzó la Guerra Civil Española?",
+        "options": [
+            "1914",
+            "1929",
+            "1936",
+            "1945"
+        ],
+        "answer": "1936"
+    },
+    {
+        "question": "¿Cuál es la capital de la comunidad autónoma de Galicia?",
+        "options": [
+            "A Coruña",
+            "Vigo",
+            "Lugo",
+            "Santiago de Compostela"
+        ],
+        "answer": "Santiago de Compostela"
+    },
+    {
+        "question": "¿Qué famoso arquitecto diseñó el Parque Güell?",
+        "options": [
+            "Antonio Gaudí",
+            "Santiago Calatrava",
+            "Rafael Moneo",
+            "Ricardo Bofill"
+        ],
+        "answer": "Antonio Gaudí"
+    },
+    {
+        "question": "¿Cuál es el aeropuerto más grande de España?",
+        "options": [
+            "El Prat",
+            "Barajas",
+            "San Pablo",
+            "Son Sant Joan"
+        ],
+        "answer": "Barajas"
+    },
+    {
+        "question": "¿Qué océano está al oeste de España?",
+        "options": [
+            "Océano Índico",
+            "Océano Atlántico",
+            "Océano Pacífico",
+            "Océano Ártico"
+        ],
+        "answer": "Océano Atlántico"
+    },
+    {
+        "question": "¿En qué región se encuentra el Desierto de Tabernas?",
+        "options": [
+            "Andalucía",
+            "Castilla-La Mancha",
+            "Extremadura",
+            "Murcia"
+        ],
+        "answer": "Andalucía"
+    },
+    {
+        "question": "¿Qué evento histórico tuvo lugar en 1492 en España?",
+        "options": [
+            "La Guerra de Independencia",
+            "El descubrimiento de América",
+            "La Guerra Civil",
+            "La Restauración Borbónica"
+        ],
+        "answer": "El descubrimiento de América"
+    },
+    {
+        "question": "¿Qué día se celebra la fiesta nacional de España?",
+        "options": [
+            "1 de mayo",
+            "12 de octubre",
+            "6 de diciembre",
+            "25 de julio"
+        ],
+        "answer": "12 de octubre"
+    },
+    {
+        "question": "¿Cuál es la bebida tradicional de Asturias?",
+        "options": [
+            "Vino",
+            "Cerveza",
+            "Sidra",
+            "Anís"
+        ],
+        "answer": "Sidra"
+    },
+    {
+        "question": "¿Qué grupo español es conocido por canciones como 'Viva la Vida'?",
+        "options": [
+            "La Oreja de Van Gogh",
+            "Amaral",
+            "Los Planetas",
+            "Coldplay"
+        ],
+        "answer": "La Oreja de Van Gogh"
+    },
+    {
+        "question": "¿Quién es el autor de 'La casa de Bernarda Alba'?",
+        "options": [
+            "Miguel de Cervantes",
+            "Federico García Lorca",
+            "Benito Pérez Galdós",
+            "Luis de Góngora"
+        ],
+        "answer": "Federico García Lorca"
+    },
+    {
+        "question": "¿Cuál es el nombre del estadio del FC Barcelona?",
+        "options": [
+            "Santiago Bernabéu",
+            "Mestalla",
+            "Camp Nou",
+            "San Mamés"
+        ],
+        "answer": "Camp Nou"
+    },
+    {
+        "question": "¿En qué comunidad autónoma se encuentra Bilbao?",
+        "options": [
+            "Cataluña",
+            "Galicia",
+            "País Vasco",
+            "Cantabria"
+        ],
+        "answer": "País Vasco"
+    },
+    {
+        "question": "¿Qué instrumento es típico de la música flamenca?",
+        "options": [
+            "Gaita",
+            "Guitarra",
+            "Tambor",
+            "Violín"
+        ],
+        "answer": "Guitarra"
+    },
+    {
+        "question": "¿Cuál es la novela más famosa de Miguel de Cervantes?",
+        "options": [
+            "La Celestina",
+            "El Lazarillo de Tormes",
+            "Don Quijote de la Mancha",
+            "La Regenta"
+        ],
+        "answer": "Don Quijote de la Mancha"
+    },
+    {
+        "question": "¿Qué ciudad es conocida por su festival de San Fermín?",
+        "options": [
+            "Madrid",
+            "Pamplona",
+            "Valencia",
+            "Sevilla"
+        ],
+        "answer": "Pamplona"
+    },
+    {
+        "question": "¿Qué lengua se habla en el País Vasco además del castellano?",
+        "options": [
+            "Catalán",
+            "Gallego",
+            "Euskera",
+            "Aranés"
+        ],
+        "answer": "Euskera"
+    },
+    {
+        "question": "¿Cuál es el nombre del famoso museo de arte en Madrid?",
+        "options": [
+            "Museo del Prado",
+            "Museo Reina Sofía",
+            "Museo Thyssen",
+            "Museo Guggenheim"
+        ],
+        "answer": "Museo del Prado"
+    },
+    {
+        "question": "¿Cuál es el ingrediente principal del gazpacho?",
+        "options": [
+            "Pepino",
+            "Tomate",
+            "Ajo",
+            "Cebolla"
+        ],
+        "answer": "Tomate"
+    },
+    {
+        "question": "¿Cuál es la fiesta popular que se celebra en Valencia en marzo?",
+        "options": [
+            "San Fermín",
+            "La Tomatina",
+            "Las Fallas",
+            "Semana Santa"
+        ],
+        "answer": "Las Fallas"
+    },
+    {
+        "question": "¿Qué artista pintó 'Guernica'?",
+        "options": [
+            "Salvador Dalí",
+            "Joan Miró",
+            "Francisco de Goya",
+            "Pablo Picasso"
+        ],
+        "answer": "Pablo Picasso"
+    },
+    {
+        "question": "¿Cuál es el deporte más popular en España?",
+        "options": [
+            "Baloncesto",
+            "Tenis",
+            "Fútbol",
+            "Ciclismo"
+        ],
+        "answer": "Fútbol"
+    },
+    {
+        "question": "¿Qué ciudad española es famosa por su acueducto romano?",
+        "options": [
+            "Córdoba",
+            "Sevilla",
+            "Segovia",
+            "Toledo"
+        ],
+        "answer": "Segovia"
+    },
+    {
+        "question": "¿Qué famoso edificio se encuentra en Granada?",
+        "options": [
+            "La Alhambra",
+            "La Sagrada Familia",
+            "El Alcázar",
+            "La Giralda"
+        ],
+        "answer": "La Alhambra"
+    },
+    {
+        "question": "¿Cuál es la bebida alcohólica típica de Jerez?",
+        "options": [
+            "Vino tinto",
+            "Cerveza",
+            "Sidra",
+            "Vino de Jerez"
+        ],
+        "answer": "Vino de Jerez"
+    },
+    {
+        "question": "¿Quién es el actual rey de España (2024)?",
+        "options": [
+            "Felipe VI",
+            "Juan Carlos I",
+            "Felipe V",
+            "Carlos III"
+        ],
+        "answer": "Felipe VI"
+    },
+    {
+        "question": "¿Cuál es la capital de la comunidad autónoma de Andalucía?",
+        "options": [
+            "Granada",
+            "Córdoba",
+            "Málaga",
+            "Sevilla"
+        ],
+        "answer": "Sevilla"
+    },
+    {
+        "question": "¿Qué ciudad española es conocida por su Semana Santa?",
+        "options": [
+            "Bilbao",
+            "Valencia",
+            "Sevilla",
+            "Madrid"
+        ],
+        "answer": "Sevilla"
+    },
+    {
+        "question": "¿Qué río pasa por Zaragoza?",
+        "options": [
+            "Tajo",
+            "Ebro",
+            "Guadalquivir",
+            "Duero"
+        ],
+        "answer": "Ebro"
+    },
+    {
+        "question": "¿Cuál es la isla más grande de las Islas Baleares?",
+        "options": [
+            "Ibiza",
+            "Menorca",
+            "Mallorca",
+            "Formentera"
+        ],
+        "answer": "Mallorca"
+    },
+    {
+        "question": "¿Qué escritor español ganó el Premio Nobel de Literatura en 1989?",
+        "options": [
+            "Gabriel García Márquez",
+            "Mario Vargas Llosa",
+            "Camilo José Cela",
+            "Octavio Paz"
+        ],
+        "answer": "Camilo José Cela"
+    },
+    {
+        "question": "¿Cuál es la cadena montañosa más importante de España?",
+        "options": [
+            "Pirineos",
+            "Sierra Nevada",
+            "Cordillera Cantábrica",
+            "Sistema Central"
+        ],
+        "answer": "Pirineos"
+    },
+    {
+        "question": "¿Qué ciudad es famosa por su encierro de toros?",
+        "options": [
+            "Madrid",
+            "Pamplona",
+            "Valencia",
+            "Sevilla"
+        ],
+        "answer": "Pamplona"
+    },
+    {
+        "question": "¿Qué escritor español es conocido por sus novelas picarescas?",
+        "options": [
+            "Miguel de Cervantes",
+            "Francisco de Quevedo",
+            "Lope de Vega",
+            "Lazarillo de Tormes"
+        ],
+        "answer": "Francisco de Quevedo"
+    },
+    {
+        "question": "¿Cuál es el nombre del tren de alta velocidad en España?",
+        "options": [
+            "AVE",
+            "TGV",
+            "ICE",
+            "Shinkansen"
+        ],
+        "answer": "AVE"
+    },
+    {
+        "question": "¿Cuál es la montaña más alta de la península ibérica?",
+        "options": [
+            "Mulhacén",
+            "Aneto",
+            "Teide",
+            "Veleta"
+        ],
+        "answer": "Mulhacén"
+    },
+    {
+        "question": "¿En qué ciudad se encuentra el Museo Guggenheim?",
+        "options": [
+            "Madrid",
+            "Barcelona",
+            "Bilbao",
+            "Valencia"
+        ],
+        "answer": "Bilbao"
+    },
+    {
+        "question": "¿Qué región española es conocida por sus pintxos?",
+        "options": [
+            "Galicia",
+            "País Vasco",
+            "Andalucía",
+            "Cataluña"
+        ],
+        "answer": "País Vasco"
+    },
+    {
+        "question": "¿Cuál es el plato típico de Madrid?",
+        "options": [
+            "Cocido madrileño",
+            "Paella",
+            "Gazpacho",
+            "Pulpo a la gallega"
+        ],
+        "answer": "Cocido madrileño"
+    },
+    {
+        "question": "¿Qué comunidad autónoma tiene más provincias?",
+        "options": [
+            "Andalucía",
+            "Cataluña",
+            "Castilla y León",
+            "Galicia"
+        ],
+        "answer": "Castilla y León"
+    },
+    {
+        "question": "¿Qué monumento se encuentra en la ciudad de Córdoba?",
+        "options": [
+            "La Alhambra",
+            "La Mezquita",
+            "La Sagrada Familia",
+            "El Alcázar"
+        ],
+        "answer": "La Mezquita"
+    },
+    {
+        "question": "¿Qué famosa fiesta se celebra en Buñol cada año?",
+        "options": [
+            "Las Fallas",
+            "La Tomatina",
+            "San Fermín",
+            "Carnaval"
+        ],
+        "answer": "La Tomatina"
+    },
+    {
+        "question": "¿Qué océano baña las costas de Galicia?",
+        "options": [
+            "Océano Atlántico",
+            "Mar Mediterráneo",
+            "Mar Cantábrico",
+            "Océano Índico"
+        ],
+        "answer": "Océano Atlántico"
+    },
+    {
+        "question": "¿Cuál es la ciudad más grande de España?",
+        "options": [
+            "Barcelona",
+            "Valencia",
+            "Madrid",
+            "Sevilla"
+        ],
+        "answer": "Madrid"
+    },
+    {
+        "question": "¿Qué artista es conocido por su 'Persistencia de la Memoria'?",
+        "options": [
+            "Pablo Picasso",
+            "Joan Miró",
+            "Salvador Dalí",
+            "Diego Velázquez"
+        ],
+        "answer": "Salvador Dalí"
+    },
+    {
+        "question": "¿Cuál es el nombre del famoso teatro de ópera en Madrid?",
+        "options": [
+            "Teatro Real",
+            "Teatro Liceu",
+            "Teatro Español",
+            "Teatro Romano"
+        ],
+        "answer": "Teatro Real"
+    },
+    {
+        "question": "¿Cuál es el nombre del aeropuerto de Barcelona?",
+        "options": [
+            "Barajas",
+            "El Prat",
+            "San Pablo",
+            "Manises"
+        ],
+        "answer": "El Prat"
+    },
+    {
+        "question": "¿Qué comunidad autónoma se encuentra en el noroeste de España?",
+        "options": [
+            "Cataluña",
+            "Andalucía",
+            "Galicia",
+            "Valencia"
+        ],
+        "answer": "Galicia"
+    },
+    {
+        "question": "¿Qué famoso arquitecto diseñó la Casa Batlló?",
+        "options": [
+            "Antoni Gaudí",
+            "Santiago Calatrava",
+            "Rafael Moneo",
+            "Ricardo Bofill"
+        ],
+        "answer": "Antoni Gaudí"
+    },
+    {
+        "question": "¿En qué ciudad se encuentra la Torre del Oro?",
+        "options": [
+            "Madrid",
+            "Barcelona",
+            "Sevilla",
+            "Granada"
+        ],
+        "answer": "Sevilla"
+    },
+    {
+        "question": "¿Cuál es la lengua cooficial en Cataluña?",
+        "options": [
+            "Euskera",
+            "Gallego",
+            "Catalán",
+            "Aranés"
+        ],
+        "answer": "Catalán"
+    }
+]
