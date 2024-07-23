@@ -603,5 +603,5 @@
         "question": "What is the purpose of 'Array.prototype.every()'?",
         "options": ["Tests whether all elements in the array pass the test implemented by the provided function", "Filters elements based on a condition", "Maps elements to a new array", "Finds an element in the array"],
         "answer": "Tests whether all elements in the array pass the test implemented by the provided function"
-    },
+    }
 ]
