@@ -1,0 +1,651 @@
+[
+    {
+        "question": "What is the primary game mode of Fortnite?",
+        "options": [
+            "Battle Royale",
+            "Creative",
+            "Save the World",
+            "Squad"
+        ],
+        "answer": "Battle Royale"
+    },
+    {
+        "question": "Which company developed Fortnite?",
+        "options": [
+            "Epic Games",
+            "Riot Games",
+            "Activision",
+            "Ubisoft"
+        ],
+        "answer": "Epic Games"
+    },
+    {
+        "question": "What is the name of the in-game currency used for purchasing cosmetics in Fortnite?",
+        "options": [
+            "V-Bucks",
+            "Coins",
+            "Gems",
+            "Tokens"
+        ],
+        "answer": "V-Bucks"
+    },
+    "question": "Which event is known for introducing new content and changes to the Fortnite map?",
+        "options": [
+            "Seasonal Events",
+            "Live Events",
+            "Weekly Challenges",
+            "Community Events"
+        ],
+        "answer": "Live Events"
+    },
+    {
+        "question": "What is the name of the storm that closes in on players in Fortnite Battle Royale?",
+        "options": [
+            "The Eye of the Storm",
+            "The Shrinking Zone",
+            "The Danger Zone",
+            "The Closing Circle"
+        ],
+        "answer": "The Eye of the Storm"
+    },
+    {
+        "question": "In Fortnite, what is the maximum number of players that can participate in a standard Battle Royale match?",
+        "options": [
+            "100",
+            "50",
+            "200",
+            "150"
+        ],
+        "answer": "100"
+    },
+    {
+        "question": "Which Fortnite mode allows players to create their own maps and game modes?",
+        "options": [
+            "Creative",
+            "Save the World",
+            "Battle Royale",
+            "Adventure"
+        ],
+        "answer": "Creative"
+    },
+    {
+        "question": "What is the name of the island featured in Fortnite Battle Royale?",
+        "options": [
+            "Island of Solitude",
+            "Fortnite Island",
+            "The Island",
+            "Epic Island"
+        ],
+        "answer": "The Island"
+    },
+    {
+        "question": "What is the primary objective of Fortnite Battle Royale?",
+        "options": [
+            "Be the last player or team standing",
+            "Build the tallest structure",
+            "Collect the most resources",
+            "Complete all challenges"
+        ],
+        "answer": "Be the last player or team standing"
+    },
+    {
+        "question": "Which Fortnite season introduced the Battle Pass feature?",
+        "options": [
+            "Season 2",
+            "Season 1",
+            "Season 3",
+            "Season 4"
+        ],
+        "answer": "Season 2"
+    },
+    {
+        "question": "What is the name of the cooperative PvE mode in Fortnite?",
+        "options": [
+            "Save the World",
+            "Battle Royale",
+            "Creative",
+            "Survival"
+        ],
+        "answer": "Save the World"
+    },
+    {
+        "question": "In Fortnite, what is the term used for the playable area that gradually shrinks over time?",
+        "options": [
+            "Safe Zone",
+            "Storm Circle",
+            "Danger Zone",
+            "Play Area"
+        ],
+        "answer": "Storm Circle"
+    },
+    {
+        "question": "What type of building materials are available in Fortnite Battle Royale?",
+        "options": [
+            "Wood, Stone, Metal",
+            "Brick, Metal, Glass",
+            "Wood, Brick, Iron",
+            "Steel, Stone, Glass"
+        ],
+        "answer": "Wood, Stone, Metal"
+    },
+    {
+        "question": "Which character or group of characters is NOT featured in Fortnite's Battle Royale mode?",
+        "options": [
+            "The Seven",
+            "Jonesy",
+            "The Alliance",
+            "Drift"
+        ],
+        "answer": "The Alliance"
+    },
+    {
+        "question": "What is the name of the popular Fortnite emote that involves dancing?",
+        "options": [
+            "Floss",
+            "Victory Dance",
+            "Wave",
+            "Ballet"
+        ],
+        "answer": "Floss"
+    },
+    {
+        "question": "In Fortnite, what is the name of the item used to heal players?",
+        "options": [
+            "Medkit",
+            "Bandages",
+            "Shield Potion",
+            "Health Kit"
+        ],
+        "answer": "Medkit"
+    },
+    {
+        "question": "Which Fortnite season featured the introduction of the Chapter 2 map?",
+        "options": [
+            "Season 1",
+            "Season 10",
+            "Season 2",
+            "Season 11"
+        ],
+        "answer": "Season 11"
+    },
+    {
+        "question": "What is the name of Fortnite's virtual reality island where players can experiment with their creations?",
+        "options": [
+            "Creative Island",
+            "Sandbox Mode",
+            "The VR Zone",
+            "Playground"
+        ],
+        "answer": "Creative Island"
+    },
+    {
+        "question": "Which weapon type was first introduced in Fortnite's Chapter 2?",
+        "options": [
+            "Assault Rifles",
+            "Shotguns",
+            "Sniper Rifles",
+            "SMGs"
+        ],
+        "answer": "Assault Rifles"
+    },
+    {
+        "question": "In Fortnite, what is the purpose of the Battle Pass?",
+        "options": [
+            "To unlock cosmetic items and rewards",
+            "To purchase weapons",
+            "To access special game modes",
+            "To earn experience points"
+        ],
+        "answer": "To unlock cosmetic items and rewards"
+    },
+    {
+        "question": "Which Fortnite item allows players to jump higher and glide through the air?",
+        "options": [
+            "Launch Pad",
+            "Jetpack",
+            "Rift-To-Go",
+            "Glider"
+        ],
+        "answer": "Launch Pad"
+    },
+    {
+        "question": "What is the name of the Fortnite character who serves as the narrator and guide in Save the World mode?",
+        "options": [
+            "The Commander",
+            "The Overlord",
+            "The Guardian",
+            "The Overseer"
+        ],
+        "answer": "The Commander"
+    },
+    {
+        "question": "Which Fortnite season introduced the Marvel crossover event?",
+        "options": [
+            "Season 4",
+            "Season 5",
+            "Season 6",
+            "Season 7"
+        ],
+        "answer": "Season 4"
+    },
+    {
+        "question": "What is the name of Fortnite's virtual currency used for purchasing Battle Passes and cosmetics?",
+        "options": [
+            "V-Bucks",
+            "Gold",
+            "Credits",
+            "Gems"
+        ],
+        "answer": "V-Bucks"
+    },
+    {
+        "question": "In Fortnite, which mode allows players to build and create their own maps?",
+        "options": [
+            "Creative",
+            "Battle Royale",
+            "Save the World",
+            "Adventure"
+        ],
+        "answer": "Creative"
+    },
+    {
+        "question": "What is the name of the Fortnite event where players can participate in limited-time modes and challenges?",
+        "options": [
+            "Event Mode",
+            "LTMs",
+            "Seasonal Challenges",
+            "Battle Pass Events"
+        ],
+        "answer": "LTMs"
+    },
+    {
+        "question": "Which Fortnite character is known for wearing a llama-themed outfit?",
+        "options": [
+            "Llama Bro",
+            "Llama Warrior",
+            "Llama Trooper",
+            "Llama DJ"
+        ],
+        "answer": "Llama DJ"
+    },
+    {
+        "question": "What is the name of the Fortnite game mode where players are eliminated when they are not inside the safe zone?",
+        "options": [
+            "Battle Royale",
+            "Survival",
+            "Team Rumble",
+            "Creative"
+        ],
+        "answer": "Battle Royale"
+    },
+    {
+        "question": "Which Fortnite season introduced the 'Chapter 2' map?",
+        "options": [
+            "Season 1",
+            "Season 10",
+            "Season 11",
+            "Season 12"
+        ],
+        "answer": "Season 11"
+    },
+    {
+        "question": "What is the name of the Fortnite character who is a time-traveling hero with a futuristic suit?",
+        "options": [
+            "Doctor Doom",
+            "Iron Man",
+            "The Visitor",
+            "The Omega"
+        ],
+        "answer": "The Visitor"
+    },
+    {
+        "question": "Which Fortnite mode allows players to explore and complete challenges in a cooperative PvE environment?",
+        "options": [
+            "Save the World",
+            "Battle Royale",
+            "Creative",
+            "Survival"
+        ],
+        "answer": "Save the World"
+    },
+    {
+        "question": "What is the name of the Fortnite battle pass item that allows players to deploy a glider from the Battle Bus?",
+        "options": [
+            "Glider",
+            "Umbrella",
+            "Rocket Pack",
+            "Jetpack"
+        ],
+        "answer": "Glider"
+    },
+    {
+        "question": "In Fortnite, which item provides a temporary shield boost to the player?",
+        "options": [
+            "Shield Potion",
+            "Medkit",
+            "Bandages",
+            "Slurp Juice"
+        ],
+        "answer": "Shield Potion"
+    },
+  {
+        "question": "What is the name of the Fortnite Battle Royale island in Chapter 1?",
+        "options": [
+            "The Island",
+            "Fortnite Island",
+            "Epic Island",
+            "The Map"
+        ],
+        "answer": "The Island"
+    },
+    {
+        "question": "Which Fortnite season was themed around a superhero crossover event?",
+        "options": [
+            "Season 4",
+            "Season 5",
+            "Season 6",
+            "Season 7"
+        ],
+        "answer": "Season 4"
+    },
+    {
+        "question": "What is the name of the Fortnite season that introduced the 'Fortnite Crew' subscription service?",
+        "options": [
+            "Season 14",
+            "Season 15",
+            "Season 16",
+            "Season 17"
+        ],
+        "answer": "Season 15"
+    },
+    {
+        "question": "Which Fortnite weapon is known for its powerful close-range damage and rapid fire rate?",
+        "options": [
+            "Shotgun",
+            "Assault Rifle",
+            "Sniper Rifle",
+            "SMG"
+        ],
+        "answer": "Shotgun"
+    },
+    {
+        "question": "What is the name of the Fortnite mode where players battle in teams of 50?",
+        "options": [
+            "Team Rumble",
+            "Squads",
+            "50v50",
+            "Duo"
+        ],
+        "answer": "50v50"
+    },
+    {
+        "question": "Which Fortnite location is known for its high-tech theme and futuristic buildings?",
+        "options": [
+            "Neo Tilted",
+            "Salty Springs",
+            "Pleasant Park",
+            "Retail Row"
+        ],
+        "answer": "Neo Tilted"
+    },
+    {
+        "question": "Which item in Fortnite allows players to respawn during a match?",
+        "options": [
+            "Rift-To-Go",
+            "Revive Card",
+            "Reboot Van",
+            "Launch Pad"
+        ],
+        "answer": "Reboot Van"
+    },
+    {
+        "question": "In Fortnite, which resource is used to build structures and fortifications?",
+        "options": [
+            "Wood",
+            "Metal",
+            "Stone",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which Fortnite character is known for the 'Brite Bomber' skin?",
+        "options": [
+            "Brite Bomber",
+            "Brite Gunner",
+            "Bright Star",
+            "Brightside"
+        ],
+        "answer": "Brite Bomber"
+    },
+    {
+        "question": "What is the name of the Fortnite vehicle that allows players to drive and shoot?",
+        "options": [
+            "ATK",
+            "Quadcrasher",
+            "Rift",
+            "Golf Cart"
+        ],
+        "answer": "ATK"
+    },
+    {
+        "question": "Which Fortnite season introduced the concept of 'Bounty Hunting'?",
+        "options": [
+            "Season 4",
+            "Season 6",
+            "Season 8",
+            "Season 10"
+        ],
+        "answer": "Season 6"
+    },
+    {
+        "question": "What is the name of the Fortnite event where players witness major changes to the map or storyline?",
+        "options": [
+            "Live Event",
+            "Special Event",
+            "Map Update",
+            "Seasonal Change"
+        ],
+        "answer": "Live Event"
+    },
+    {
+        "question": "Which Fortnite season is known for its winter and holiday-themed content?",
+        "options": [
+            "Season 7",
+            "Season 8",
+            "Season 9",
+            "Season 10"
+        ],
+        "answer": "Season 7"
+    },
+    {
+        "question": "What is the name of the Fortnite tool used for harvesting resources?",
+        "options": [
+            "Pickaxe",
+            "Axe",
+            "Shovel",
+            "Hammer"
+        ],
+        "answer": "Pickaxe"
+    },
+    {
+        "question": "In Fortnite, what is the name of the limited-time mode where players can only use weapons found in chests?",
+        "options": [
+            "Chest Only",
+            "Loot Llama",
+            "Chest Wars",
+            "Chest Challenge"
+        ],
+        "answer": "Chest Only"
+    },
+    {
+        "question": "Which Fortnite mode involves defending a base against waves of enemies?",
+        "options": [
+            "Save the World",
+            "Battle Royale",
+            "Creative",
+            "Team Rumble"
+        ],
+        "answer": "Save the World"
+    },
+    {
+        "question": "Which item in Fortnite provides temporary invincibility to players?",
+        "options": [
+            "Shield Potion",
+            "Slurp Juice",
+            "Chug Jug",
+            "Invincibility Potion"
+        ],
+        "answer": "Chug Jug"
+    },
+    {
+        "question": "Which Fortnite vehicle was introduced in Chapter 2, Season 1 and allows for fast travel?",
+        "options": [
+            "Boat",
+            "Biplane",
+            "ATV",
+            "Golf Cart"
+        ],
+        "answer": "Boat"
+    },
+    {
+        "question": "What is the name of the Fortnite Battle Royale mode where players compete in teams of two?",
+        "options": [
+            "Duo",
+            "Squad",
+            "Solo",
+            "Teams"
+        ],
+        "answer": "Duo"
+    },
+    {
+        "question": "What is the name of the Fortnite event where players could compete in creative challenges for prizes?",
+        "options": [
+            "Fortnite Creative Cup",
+            "Fortnite Battle Cup",
+            "Fortnite Showdown",
+            "Fortnite Championship"
+        ],
+        "answer": "Fortnite Creative Cup"
+    },
+    {
+        "question": "Which Fortnite character is known for the 'Dark Voyager' skin?",
+        "options": [
+            "Dark Voyager",
+            "Dark Star",
+            "Dark Knight",
+            "Dark Scavenger"
+        ],
+        "answer": "Dark Voyager"
+    },
+    {
+        "question": "Which Fortnite item allows players to temporarily become invisible?",
+        "options": [
+            "Cloak",
+            "Invisibility Potion",
+            "Stealth Field",
+            "Shadow Stone"
+        ],
+        "answer": "Shadow Stone"
+    },
+    {
+        "question": "Which Fortnite season was known for its pirate theme?",
+        "options": [
+            "Season 8",
+            "Season 7",
+            "Season 9",
+            "Season 10"
+        ],
+        "answer": "Season 8"
+    },
+    {
+        "question": "What is the name of the Fortnite limited-time mode where players have to survive with limited resources?",
+        "options": [
+            "Survival",
+            "Last Stand",
+            "Save the World",
+            "Resource Wars"
+        ],
+        "answer": "Survival"
+    },
+    {
+        "question": "Which Fortnite skin is known for its glowing blue effects and high-tech design?",
+        "options": [
+            "Raven",
+            "Omega",
+            "Fate",
+            "Enforcer"
+        ],
+        "answer": "Omega"
+    },
+    {
+        "question": "What is the name of the Fortnite season that featured a major event involving a rocket launch?",
+        "options": [
+            "Season 4",
+            "Season 5",
+            "Season 6",
+            "Season 7"
+        ],
+        "answer": "Season 4"
+    },
+    {
+        "question": "Which Fortnite weapon is known for its long-range accuracy and ability to eliminate enemies from a distance?",
+        "options": [
+            "Sniper Rifle",
+            "Assault Rifle",
+            "Shotgun",
+            "SMG"
+        ],
+        "answer": "Sniper Rifle"
+    },
+    {
+        "question": "Which item in Fortnite can be used to quickly travel across the map?",
+        "options": [
+            "Launch Pad",
+            "Rift-To-Go",
+            "Glider",
+            "Motorboat"
+        ],
+        "answer": "Rift-To-Go"
+    },
+    {
+        "question": "In Fortnite, what is the name of the special challenge that involves finding and collecting specific items?",
+        "options": [
+            "Collectibles",
+            "Scavenger Hunt",
+            "Treasure Hunt",
+            "Loot Challenge"
+        ],
+        "answer": "Scavenger Hunt"
+    },
+    {
+        "question": "What is the name of the Fortnite mode where players can build and destroy structures freely?",
+        "options": [
+            "Creative",
+            "Battle Royale",
+            "Save the World",
+            "Team Rumble"
+        ],
+        "answer": "Creative"
+    },
+    {
+        "question": "Which Fortnite vehicle allows players to perform tricks and stunts?",
+        "options": [
+            "ATV",
+            "Quadcrasher",
+            "Rift",
+            "Golf Cart"
+        ],
+        "answer": "Quadcrasher"
+    },
+    {
+        "question": "Which Fortnite character is known for their bright and colorful outfit with a llama design?",
+        "options": [
+            "Brite Bomber",
+            "Llama Trooper",
+            "Bright Star",
+            "Llama DJ"
+        ],
+        "answer": "Brite Bomber"
+    }
+]
