@@ -1,0 +1,572 @@
+[
+    {
+        "question": "Who is the main protagonist of *Naruto*?",
+        "options": [
+            "Naruto Uzumaki",
+            "Sasuke Uchiha",
+            "Sakura Haruno",
+            "Kakashi Hatake"
+        ],
+        "answer": "Naruto Uzumaki"
+    },
+    {
+        "question": "What is Naruto’s dream throughout the series?",
+        "options": [
+            "To become Hokage",
+            "To find his parents",
+            "To defeat Sasuke",
+            "To master all jutsu"
+        ],
+        "answer": "To become Hokage"
+    },
+    {
+        "question": "Which clan does Sasuke Uchiha belong to?",
+        "options": [
+            "Uchiha Clan",
+            "Hyuga Clan",
+            "Nara Clan",
+            "Akimichi Clan"
+        ],
+        "answer": "Uchiha Clan"
+    },
+    {
+        "question": "Who is the leader of the Akatsuki organization?",
+        "options": [
+            "Pain",
+            "Orochimaru",
+            "Itachi Uchiha",
+            "Madara Uchiha"
+        ],
+        "answer": "Pain"
+    },
+    {
+        "question": "What is the name of Naruto’s signature technique?",
+        "options": [
+            "Shadow Clone Jutsu",
+            "Rasengan",
+            "Chidori",
+            "Kage Bunshin no Jutsu"
+        ],
+        "answer": "Shadow Clone Jutsu"
+    },
+    {
+        "question": "Who is Naruto’s mentor and the leader of Team 7?",
+        "options": [
+            "Kakashi Hatake",
+            "Jiraiya",
+            "Orochimaru",
+            "Minato Namikaze"
+        ],
+        "answer": "Kakashi Hatake"
+    },
+    {
+        "question": "What is the name of the Nine-Tailed Fox sealed inside Naruto?",
+        "options": [
+            "Kurama",
+            "Shukaku",
+            "Gyuki",
+            "Kokuo"
+        ],
+        "answer": "Kurama"
+    },
+    {
+        "question": "Who is the Fourth Hokage?",
+        "options": [
+            "Minato Namikaze",
+            "Hiruzen Sarutobi",
+            "Tobirama Senju",
+            "Hashirama Senju"
+        ],
+        "answer": "Minato Namikaze"
+    },
+    {
+        "question": "What is the name of Sasuke’s older brother?",
+        "options": [
+            "Itachi Uchiha",
+            "Madara Uchiha",
+            "Obito Uchiha",
+            "Kakashi Hatake"
+        ],
+        "answer": "Itachi Uchiha"
+    },
+    {
+        "question": "What is Sakura Haruno’s primary ability?",
+        "options": [
+            "Superhuman Strength",
+            "Rasengan",
+            "Sharingan",
+            "Byakugan"
+        ],
+        "answer": "Superhuman Strength"
+    },
+    {
+        "question": "Which village does Naruto belong to?",
+        "options": [
+            "Konoha",
+            "Suna",
+            "Kiri",
+            "Iwa"
+        ],
+        "answer": "Konoha"
+    },
+    {
+        "question": "What is the name of the technique that allows the user to control and manipulate chakra into a sphere?",
+        "options": [
+            "Rasengan",
+            "Chidori",
+            "Kage Bunshin",
+            "Hiraishin"
+        ],
+        "answer": "Rasengan"
+    },
+    {
+        "question": "Who is known as the 'Copy Ninja'?",
+        "options": [
+            "Kakashi Hatake",
+            "Sasuke Uchiha",
+            "Naruto Uzumaki",
+            "Orochimaru"
+        ],
+        "answer": "Kakashi Hatake"
+    },
+    {
+        "question": "Which member of Team 7 is a master of lightning-based techniques?",
+        "options": [
+            "Sasuke Uchiha",
+            "Naruto Uzumaki",
+            "Sakura Haruno",
+            "Kakashi Hatake"
+        ],
+        "answer": "Sasuke Uchiha"
+    },
+    {
+        "question": "What is the name of the technique used to create clones that are solid and can perform jutsu?",
+        "options": [
+            "Shadow Clone Jutsu",
+            "Basic Clone Jutsu",
+            "Multi Shadow Clone Jutsu",
+            "Transformation Jutsu"
+        ],
+        "answer": "Shadow Clone Jutsu"
+    },
+    {
+        "question": "What is the name of the organization that seeks to capture all of the Tailed Beasts?",
+        "options": [
+            "Akatsuki",
+            "Root",
+            "Orochimaru’s Group",
+            "The Twelve Guardians"
+        ],
+        "answer": "Akatsuki"
+    },
+    {
+        "question": "Who is the host of the Eight-Tails, Gyuki?",
+        "options": [
+            "Killer Bee",
+            "Naruto Uzumaki",
+            "Sasuke Uchiha",
+            "Might Guy"
+        ],
+        "answer": "Killer Bee"
+    },
+    {
+        "question": "What is the name of the technique used by Naruto that combines the Rasengan with his Shadow Clones?",
+        "options": [
+            "Rasenshuriken",
+            "Rasengan",
+            "Chidori",
+            "Kage Bunshin"
+        ],
+        "answer": "Rasenshuriken"
+    },
+    {
+        "question": "Who is the leader of the Sannin alongside Jiraiya and Orochimaru?",
+        "options": [
+            "Tsunade",
+            "Sakura Haruno",
+            "Kurenai Yuhi",
+            "Anko Mitarashi"
+        ],
+        "answer": "Tsunade"
+    },
+    {
+        "question": "Which character is known for his unique ability to manipulate sand?",
+        "options": [
+            "Gaara",
+            "Kankuro",
+            "Temari",
+            "Sasori"
+        ],
+        "answer": "Gaara"
+    },
+    {
+        "question": "What is the name of the secret organization that operates within the village of Konoha, led by Danzo Shimura?",
+        "options": [
+            "Root",
+            "Anbu",
+            "Akatsuki",
+            "Twelve Guardian Ninja"
+        ],
+        "answer": "Root"
+    },
+    {
+        "question": "Who is the character that has the ability to manipulate wood and is known as the 'God of Shinobi'?",
+        "options": [
+            "Hashirama Senju",
+            "Tobirama Senju",
+            "Hiruzen Sarutobi",
+            "Minato Namikaze"
+        ],
+        "answer": "Hashirama Senju"
+    },
+    {
+        "question": "What is the name of the powerful ability that grants the user precognitive abilities and is also known as the 'Third Eye'?",
+        "options": [
+            "Rinnegan",
+            "Sharingan",
+            "Byakugan",
+            "Kekkei Genkai"
+        ],
+        "answer": "Rinnegan"
+    },
+    {
+        "question": "What is the name of the village that is known for its expertise in medical ninjutsu?",
+        "options": [
+            "Konoha",
+            "Suna",
+            "Kiri",
+            "Kumo"
+        ],
+        "answer": "Konoha"
+    },
+    {
+        "question": "Who is the ninja that possesses the ability to control snakes?",
+        "options": [
+            "Orochimaru",
+            "Kabuto Yakushi",
+            "Sasuke Uchiha",
+            "Jiraiya"
+        ],
+        "answer": "Orochimaru"
+    },
+    {
+        "question": "Which character is known for their ability to use the 'Eight Gates' technique?",
+        "options": [
+            "Might Guy",
+            "Kakashi Hatake",
+            "Naruto Uzumaki",
+            "Rock Lee"
+        ],
+        "answer": "Might Guy"
+    },
+    {
+        "question": "What is the name of the powerful taijutsu technique used by Rock Lee?",
+        "options": [
+            "Eight Gates",
+            "Chidori",
+            "Rasengan",
+            "Shadow Clone Jutsu"
+        ],
+        "answer": "Eight Gates"
+    },
+    {
+        "question": "Who is the former member of Team 7 who later becomes a member of the Akatsuki?",
+        "options": [
+            "Sasuke Uchiha",
+            "Orochimaru",
+            "Kisame Hoshigaki",
+            "Itachi Uchiha"
+        ],
+        "answer": "Sasuke Uchiha"
+    },
+    {
+        "question": "What is the name of the technique that allows a ninja to create clones that can perform jutsu independently?",
+        "options": [
+            "Shadow Clone Jutsu",
+            "Basic Clone Jutsu",
+            "Substitution Jutsu",
+            "Transformation Jutsu"
+        ],
+        "answer": "Shadow Clone Jutsu"
+    },
+    {
+        "question": "Who is known as the 'Yellow Flash'?",
+        "options": [
+            "Minato Namikaze",
+            "Naruto Uzumaki",
+            "Kakashi Hatake",
+            "Jiraiya"
+        ],
+        "answer": "Minato Namikaze"
+    },
+    {
+        "question": "What is the name of Naruto’s father?",
+        "options": [
+            "Minato Namikaze",
+            "Hiruzen Sarutobi",
+            "Tobirama Senju",
+            "Hashirama Senju"
+        ],
+        "answer": "Minato Namikaze"
+    },
+    {
+        "question": "Which character possesses the 'Byakugan'?",
+        "options": [
+            "Hinata Hyuga",
+            "Sakura Haruno",
+            "Tenten",
+            "Temari"
+        ],
+        "answer": "Hinata Hyuga"
+    },
+    {
+        "question": "What is the name of the technique used by the Uchiha clan that allows them to copy other jutsu?",
+        "options": [
+            "Sharingan",
+            "Rinnegan",
+            "Byakugan",
+            "Kekkei Genkai"
+        ],
+        "answer": "Sharingan"
+    },
+    {
+        "question": "Who is the leader of Team 10?",
+        "options": [
+            "Asuma Sarutobi",
+            "Kurenai Yuhi",
+            "Kakashi Hatake",
+            "Iruka Umino"
+        ],
+        "answer": "Asuma Sarutobi"
+    },
+    {
+        "question": "What is the name of the forbidden jutsu that involves the resurrection of the dead?",
+        "options": [
+            "Edo Tensei",
+            "Rasengan",
+            "Chidori",
+            "Summoning Jutsu"
+        ],
+        "answer": "Edo Tensei"
+    },
+    {
+        "question": "Who is the member of Team 8 known for her tracking abilities?",
+        "options": [
+            "Kurenai Yuhi",
+            "Hinata Hyuga",
+            "Shino Aburame",
+            "Kiba Inuzuka"
+        ],
+        "answer": "Shino Aburame"
+    },
+    {
+        "question": "Which character has the ability to control and summon toads?",
+        "options": [
+            "Jiraiya",
+            "Naruto Uzumaki",
+            "Kakashi Hatake",
+            "Orochimaru"
+        ],
+        "answer": "Jiraiya"
+    },
+    {
+        "question": "Who is the character known for his ability to control and summon snakes?",
+        "options": [
+            "Orochimaru",
+            "Kabuto Yakushi",
+            "Sasuke Uchiha",
+            "Zabuza Momochi"
+        ],
+        "answer": "Orochimaru"
+    },
+    {
+        "question": "What is the name of the technique that allows the user to move at incredible speeds and create afterimages?",
+        "options": [
+            "Body Flicker Jutsu",
+            "Shadow Clone Jutsu",
+            "Rasengan",
+            "Chidori"
+        ],
+        "answer": "Body Flicker Jutsu"
+    },
+    {
+        "question": "Which character is known for their ability to manipulate shadows?",
+        "options": [
+            "Shikamaru Nara",
+            "Kiba Inuzuka",
+            "Neji Hyuga",
+            "Choji Akimichi"
+        ],
+        "answer": "Shikamaru Nara"
+    },
+    {
+        "question": "What is the name of the powerful tailed beast sealed within the character Gaara?",
+        "options": [
+            "Shukaku",
+            "Kurama",
+            "Gyuki",
+            "Kokuo"
+        ],
+        "answer": "Shukaku"
+    },
+    {
+        "question": "Who is the leader of the Akatsuki's organization after Pain?",
+        "options": [
+            "Nagato",
+            "Madara Uchiha",
+            "Obito Uchiha",
+            "Itachi Uchiha"
+        ],
+        "answer": "Madara Uchiha"
+    },
+    {
+        "question": "What is the name of the jutsu that allows the user to control the weather?",
+        "options": [
+            "Storm Release",
+            "Water Style",
+            "Wind Style",
+            "Lightning Style"
+        ],
+        "answer": "Storm Release"
+    },
+    {
+        "question": "Which member of the Akatsuki is known for his ability to manipulate and control puppets?",
+        "options": [
+            "Sasori",
+            "Deidara",
+            "Hidan",
+            "Kisame Hoshigaki"
+        ],
+        "answer": "Sasori"
+    },
+    {
+        "question": "What is the name of the Jutsu used by Naruto to communicate with his clones?",
+        "options": [
+            "Telepathy",
+            "Mind Transfer Jutsu",
+            "Shadow Clone Jutsu",
+            "Mind Reading"
+        ],
+        "answer": "Shadow Clone Jutsu"
+    },
+    {
+        "question": "Which character is known for having the ability to manipulate sand and is the Kazekage of the Sand Village?",
+        "options": [
+            "Gaara",
+            "Kankuro",
+            "Temari",
+            "Shukaku"
+        ],
+        "answer": "Gaara"
+    },
+    {
+        "question": "What is the name of the technique used by the character Madara Uchiha to create a giant meteorite?",
+        "options": [
+            "Meteorite Jutsu",
+            "Chibaku Tensei",
+            "Rinnegan",
+            "Susanoo"
+        ],
+        "answer": "Chibaku Tensei"
+    },
+    {
+        "question": "Who is known as the 'Great Sage' and the teacher of Naruto?",
+        "options": [
+            "Jiraiya",
+            "Tsunade",
+            "Orochimaru",
+            "Minato Namikaze"
+        ],
+        "answer": "Jiraiya"
+    },
+    {
+        "question": "What is the name of the forbidden jutsu that allows the user to perform a technique known as 'Reanimation'?",
+        "options": [
+            "Edo Tensei",
+            "Rasengan",
+            "Amaterasu",
+            "Genjutsu"
+        ],
+        "answer": "Edo Tensei"
+    },
+    {
+        "question": "Which character is known for their expertise in genjutsu?",
+        "options": [
+            "Itachi Uchiha",
+            "Sasuke Uchiha",
+            "Naruto Uzumaki",
+            "Kakashi Hatake"
+        ],
+        "answer": "Itachi Uchiha"
+    },
+    {
+        "question": "What is the name of the technique used by the character Danzo Shimura to use other people’s Sharingan?",
+        "options": [
+            "Kotoamatsukami",
+            "Edo Tensei",
+            "Shisui’s Technique",
+            "Izanagi"
+        ],
+        "answer": "Izanagi"
+    },
+    {
+        "question": "What is the name of the powerful ability that allows the user to control the flow of time?",
+        "options": [
+            "Rinnegan",
+            "Eternal Mangekyo Sharingan",
+            "Kekkei Genkai",
+            "Tenseigan"
+        ],
+        "answer": "Rinnegan"
+    },
+    {
+        "question": "Who is known for his use of 'Black Flames' that cannot be extinguished?",
+        "options": [
+            "Itachi Uchiha",
+            "Sasuke Uchiha",
+            "Madara Uchiha",
+            "Kaguya Otsutsuki"
+        ],
+        "answer": "Itachi Uchiha"
+    },
+    {
+        "question": "What is the name of the village where Naruto grew up?",
+        "options": [
+            "Konoha",
+            "Suna",
+            "Kiri",
+            "Iwa"
+        ],
+        "answer": "Konoha"
+    },
+    {
+        "question": "Which character is known for his mastery of the 'Wind Style' techniques?",
+        "options": [
+            "Naruto Uzumaki",
+            "Temari",
+            "Sasuke Uchiha",
+            "Kakashi Hatake"
+        ],
+        "answer": "Naruto Uzumaki"
+    },
+    {
+        "question": "Who is the character known for his ability to use 'The First Hokage’s Techniques'?",
+        "options": [
+            "Hashirama Senju",
+            "Tobirama Senju",
+            "Madara Uchiha",
+            "Minato Namikaze"
+        ],
+        "answer": "Hashirama Senju"
+    },
+    {
+        "question": "What is the name of the eye technique that grants the user the ability to use powerful space-time jutsu?",
+        "options": [
+            "Rinnegan",
+            "Sharingan",
+            "Byakugan",
+            "Tenseigan"
+        ],
+        "answer": "Rinnegan"
+    }
+ ]
