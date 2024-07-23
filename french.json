@@ -1,0 +1,307 @@
+[
+    {
+        "question": "Quel est le nom complet de l'actuel président de la France ?",
+        "options": ["Emmanuel Macron", "François Hollande", "Nicolas Sarkozy", "Jacques Chirac"],
+        "answer": "Emmanuel Macron"
+    },
+    {
+        "question": "Quelle est la capitale de la France ?",
+        "options": ["Paris", "Marseille", "Lyon", "Toulouse"],
+        "answer": "Paris"
+    },
+    {
+        "question": "Quel est le plus long fleuve de France ?",
+        "options": ["La Loire", "La Seine", "Le Rhône", "La Garonne"],
+        "answer": "La Loire"
+    },
+    {
+        "question": "Quel célèbre monument se trouve sur l'île de la Cité à Paris ?",
+        "options": ["La Tour Eiffel", "Le Louvre", "Notre-Dame de Paris", "Le Panthéon"],
+        "answer": "Notre-Dame de Paris"
+    },
+    {
+        "question": "Quel est le nom du célèbre boulevard à Paris connu pour ses boutiques de luxe ?",
+        "options": ["Les Champs-Élysées", "Le Boulevard Saint-Germain", "Le Boulevard Haussmann", "La Rue de Rivoli"],
+        "answer": "Les Champs-Élysées"
+    },
+    {
+        "question": "Quel est le plat traditionnel français à base de viande et de pommes de terre, souvent préparé en ragoût ?",
+        "options": ["Le bœuf bourguignon", "Le coq au vin", "Le cassoulet", "Le pot-au-feu"],
+        "answer": "Le pot-au-feu"
+    },
+    {
+        "question": "Quel peintre français est célèbre pour ses œuvres impressionnistes, comme 'Nymphéas' ?",
+        "options": ["Claude Monet", "Édouard Manet", "Pierre-Auguste Renoir", "Camille Pissarro"],
+        "answer": "Claude Monet"
+    },
+    {
+        "question": "Quel est le nom du célèbre musée parisien abritant la Joconde ?",
+        "options": ["Le Louvre", "Le Musée d'Orsay", "Le Centre Pompidou", "Le Musée Rodin"],
+        "answer": "Le Louvre"
+    },
+    {
+        "question": "Quel est le nom du festival de cinéma international qui se tient chaque année à Cannes ?",
+        "options": ["Le Festival de Cannes", "Le Festival du Film Français", "Le Festival Lumière", "Le Festival des Étoiles"],
+        "answer": "Le Festival de Cannes"
+    },
+    {
+        "question": "Quel célèbre écrivain français a écrit 'Les Misérables' ?",
+        "options": ["Victor Hugo", "Gustave Flaubert", "Émile Zola", "Marcel Proust"],
+        "answer": "Victor Hugo"
+    },
+    {
+        "question": "Quelle est la monnaie officielle de la France ?",
+        "options": ["L'euro", "Le franc", "La livre", "Le dollar"],
+        "answer": "L'euro"
+    },
+    {
+        "question": "Quel est le nom du président français qui a été élu en 2017 ?",
+        "options": ["Emmanuel Macron", "François Hollande", "Nicolas Sarkozy", "Jacques Chirac"],
+        "answer": "Emmanuel Macron"
+    },
+    {
+        "question": "Quel est le nom du célèbre fromage français fabriqué dans la région de Normandie ?",
+        "options": ["Camembert", "Roquefort", "Brie", "Comté"],
+        "answer": "Camembert"
+    },
+    {
+        "question": "Quelle est la région viticole la plus célèbre de France, connue pour ses grands crus ?",
+        "options": ["Bordeaux", "Champagne", "Bourgogne", "Alsace"],
+        "answer": "Bordeaux"
+    },
+    {
+        "question": "Quel est le nom de la célèbre avenue parisienne connue pour ses théâtres et restaurants ?",
+        "options": ["Les Champs-Élysées", "La Rue de Rivoli", "Le Boulevard Montmartre", "Le Boulevard Saint-Germain"],
+        "answer": "Les Champs-Élysées"
+    },
+    {
+        "question": "Quel est le nom du célèbre roi français connu pour sa construction du Château de Versailles ?",
+        "options": ["Louis XIV", "Louis XIII", "Louis XVI", "Napoléon Bonaparte"],
+        "answer": "Louis XIV"
+    },
+    {
+        "question": "Quel est le nom du célèbre pâté en croûte français souvent servi en entrée ?",
+        "options": ["Pâté de foie gras", "Rillettes", "Quiche Lorraine", "Croissant"],
+        "answer": "Pâté de foie gras"
+    },
+    {
+        "question": "Quel est le nom du célèbre festival de musique qui se déroule à Paris chaque année ?",
+        "options": ["Le Festival de la Musique", "Le Rock en Seine", "Les Vieilles Charrues", "Le Printemps de Bourges"],
+        "answer": "Le Rock en Seine"
+    },
+    {
+        "question": "Quel est le nom du célèbre quartier de Paris connu pour ses artistes et ses cafés bohèmes ?",
+        "options": ["Montmartre", "Le Marais", "Saint-Germain-des-Prés", "Latin Quarter"],
+        "answer": "Montmartre"
+    },
+    {
+        "question": "Quel est le nom de la célèbre rivière qui traverse Paris ?",
+        "options": ["La Seine", "La Loire", "Le Rhône", "La Garonne"],
+        "answer": "La Seine"
+    },
+    {
+        "question": "Quel est le nom du célèbre acteur français qui a joué dans 'La Haine' ?",
+        "options": ["Vincent Cassel", "Jean Reno", "Omar Sy", "Gérard Depardieu"],
+        "answer": "Vincent Cassel"
+    },
+    {
+        "question": "Quel est le nom de l'aéroport principal de Paris ?",
+        "options": ["Charles de Gaulle", "Orly", "Beauvais", "Le Bourget"],
+        "answer": "Charles de Gaulle"
+    },
+    {
+        "question": "Quel est le nom de la célèbre île française située en Méditerranée et connue pour son casino ?",
+        "options": ["Monte-Carlo", "Corsica", "Île de Ré", "Île d'Oléron"],
+        "answer": "Monte-Carlo"
+    },
+    {
+        "question": "Quelle est la plus haute montagne de France ?",
+        "options": ["Le Mont Blanc", "Le Mont Ventoux", "Le Mont Aiguille", "Le Mont Parin"],
+        "answer": "Le Mont Blanc"
+    },
+    {
+        "question": "Quel est le nom du célèbre écrivain français qui a écrit 'À la recherche du temps perdu' ?",
+        "options": ["Marcel Proust", "Gustave Flaubert", "Émile Zola", "Victor Hugo"],
+        "answer": "Marcel Proust"
+    },
+    {
+        "question": "Quel est le nom du célèbre train rapide qui relie Paris à plusieurs villes européennes ?",
+        "options": ["Le TGV", "Le Thalys", "Le Eurostar", "Le Lyria"],
+        "answer": "Le TGV"
+    },
+    {
+        "question": "Quel est le nom du célèbre chef français connu pour ses émissions de télévision ?",
+        "options": ["Paul Bocuse", "Joël Robuchon", "Alain Ducasse", "Pierre Gagnaire"],
+        "answer": "Paul Bocuse"
+    },
+    {
+        "question": "Quel est le nom du célèbre événement sportif qui se tient chaque année à Paris en juillet ?",
+        "options": ["Le Tour de France", "Les Internationaux de France", "Le Grand Prix de France", "Le Paris-Roubaix"],
+        "answer": "Le Tour de France"
+    },
+    {
+        "question": "Quelle est la spécialité culinaire de la région de Bretagne ?",
+        "options": ["Les crêpes", "Les quiches", "Les croissants", "Les escargots"],
+        "answer": "Les crêpes"
+    },
+    {
+        "question": "Quel est le nom de la célèbre cathédrale gothique située à Paris, connue pour ses vitraux ?",
+        "options": ["Notre-Dame de Paris", "La Sainte-Chapelle", "Le Panthéon", "La Basilique du Sacré-Cœur"],
+        "answer": "Notre-Dame de Paris"
+    },
+    {
+        "question": "Quel est le nom du célèbre peintre français qui a peint 'Le Déjeuner sur l'herbe' ?",
+        "options": ["Édouard Manet", "Claude Monet", "Pierre-Auguste Renoir", "Paul Cézanne"],
+        "answer": "Édouard Manet"
+    },
+    {
+        "question": "Quel est le nom du célèbre château français situé en Loire-Atlantique, connu pour son architecture Renaissance ?",
+        "options": ["Le Château de Chambord", "Le Château de Chenonceau", "Le Château de Blois", "Le Château de Vincennes"],
+        "answer": "Le Château de Chambord"
+    },
+    {
+        "question": "Quel est le nom du célèbre pont en pierre qui traverse la rivière Rhône à Avignon ?",
+        "options": ["Le Pont Saint-Bénézet", "Le Pont de la Concorde", "Le Pont des Arts", "Le Pont Neuf"],
+        "answer": "Le Pont Saint-Bénézet"
+    },
+    {
+        "question": "Quel est le nom du chef d'œuvre cinématographique français réalisé par François Truffaut ?",
+        "options": ["Les Quatre Cents Coups", "La Haine", "Amélie", "La La Land"],
+        "answer": "Les Quatre Cents Coups"
+    },
+    {
+        "question": "Quelle est la langue régionale parlée en Bretagne ?",
+        "options": ["Le breton", "Le catalan", "Le basque", "Le provençal"],
+        "answer": "Le breton"
+    },
+    {
+        "question": "Quel est le nom du célèbre écrivain français qui a écrit 'Germinal' ?",
+        "options": ["Émile Zola", "Victor Hugo", "Gustave Flaubert", "Marcel Proust"],
+        "answer": "Émile Zola"
+    },
+    {
+        "question": "Quel est le nom du célèbre musée d'art moderne situé à Paris, souvent abrégé en 'Pompidou' ?",
+        "options": ["Le Centre Pompidou", "Le Musée d'Orsay", "Le Louvre", "Le Musée de l'Orangerie"],
+        "answer": "Le Centre Pompidou"
+    },
+    {
+        "question": "Quel est le nom du célèbre écrivain français connu pour ses romans de science-fiction comme 'Les Voyages extraordinaires' ?",
+        "options": ["Jules Verne", "Hugo Gernsbach", "Albert Camus", "André Gide"],
+        "answer": "Jules Verne"
+    },
+    {
+        "question": "Quel est le nom du célèbre film français réalisé par Jean-Luc Godard, emblématique de la Nouvelle Vague ?",
+        "options": ["À bout de souffle", "La Haine", "Les Parapluies de Cherbourg", "Le Dernier Métro"],
+        "answer": "À bout de souffle"
+    },
+    {
+        "question": "Quel est le nom de la célèbre rivière qui traverse la ville de Lyon ?",
+        "options": ["Le Rhône", "La Loire", "La Garonne", "La Seine"],
+        "answer": "Le Rhône"
+    },
+    {
+        "question": "Quel est le nom de la région viticole française connue pour ses champagnes ?",
+        "options": ["La Champagne", "La Bourgogne", "Le Bordelais", "L'Alsace"],
+        "answer": "La Champagne"
+    },
+    {
+        "question": "Quel est le nom du célèbre philosophe français connu pour ses écrits sur l'existentialisme ?",
+        "options": ["Jean-Paul Sartre", "René Descartes", "Simone de Beauvoir", "Michel Foucault"],
+        "answer": "Jean-Paul Sartre"
+    },
+    {
+        "question": "Quel est le nom du célèbre opéra de Paris ?",
+        "options": ["L'Opéra Garnier", "L'Opéra Bastille", "Le Théâtre du Châtelet", "Le Théâtre de la Ville"],
+        "answer": "L'Opéra Garnier"
+    },
+    {
+        "question": "Quel est le nom de la célèbre tour de Paris construite pour l'Exposition Universelle de 1889 ?",
+        "options": ["La Tour Eiffel", "La Tour Montparnasse", "La Tour Saint-Jacques", "La Tour de la Défense"],
+        "answer": "La Tour Eiffel"
+    },
+    {
+        "question": "Quel est le nom de l'auteur de 'La Princesse de Clèves' ?",
+        "options": ["Madame de La Fayette", "Madame de Sévigné", "Marivaux", "Racine"],
+        "answer": "Madame de La Fayette"
+    },
+    {
+        "question": "Quel est le nom de la célèbre plage située à Nice ?",
+        "options": ["La Promenade des Anglais", "La Plage de Pampelonne", "La Plage de Biarritz", "La Plage de Deauville"],
+        "answer": "La Promenade des Anglais"
+    },
+    {
+        "question": "Quel est le nom du célèbre écrivain français connu pour ses fables comme 'La Fontaine' ?",
+        "options": ["Jean de La Fontaine", "Voltaire", "Molière", "Rousseau"],
+        "answer": "Jean de La Fontaine"
+    },
+    {
+        "question": "Quelle est la spécialité culinaire de la région du Sud-Ouest de la France, souvent préparée avec du canard ?",
+        "options": ["Le confit de canard", "La bouillabaisse", "Le gratin dauphinois", "Les moules marinières"],
+        "answer": "Le confit de canard"
+    },
+    {
+        "question": "Quel est le nom du célèbre quartier parisien connu pour ses marchés et ses cafés animés ?",
+        "options": ["Le Marais", "Montmartre", "Saint-Germain-des-Prés", "Le Quartier Latin"],
+        "answer": "Le Marais"
+    },
+    {
+        "question": "Quel est le nom de l'écrivain français qui a écrit 'Le Petit Prince' ?",
+        "options": ["Antoine de Saint-Exupéry", "Jules Verne", "Marcel Proust", "Victor Hugo"],
+        "answer": "Antoine de Saint-Exupéry"
+    },
+    {
+        "question": "Quel est le nom de la célèbre fête française qui célèbre le 14 juillet ?",
+        "options": ["La Fête de la Bastille", "La Fête de la Musique", "Le Carnaval de Nice", "La Fête du Travail"],
+        "answer": "La Fête de la Bastille"
+    },
+    {
+        "question": "Quel est le nom du célèbre parc d'attractions situé à Marne-la-Vallée, près de Paris ?",
+        "options": ["Disneyland Paris", "Parc Astérix", "Futuroscope", "Puy du Fou"],
+        "answer": "Disneyland Paris"
+    },
+    {
+        "question": "Quel est le nom du célèbre écrivain français connu pour son roman 'Les Fleurs du mal' ?",
+        "options": ["Charles Baudelaire", "Paul Verlaine", "Arthur Rimbaud", "Stéphane Mallarmé"],
+        "answer": "Charles Baudelaire"
+    },
+    {
+        "question": "Quel est le nom du président français qui a régné de 1959 à 1969 ?",
+        "options": ["Charles de Gaulle", "Georges Pompidou", "Valéry Giscard d'Estaing", "François Mitterrand"],
+        "answer": "Charles de Gaulle"
+    },
+    {
+        "question": "Quelle est la plus grande île française ?",
+        "options": ["La Corse", "La Réunion", "La Guadeloupe", "La Martinique"],
+        "answer": "La Corse"
+    },
+    {
+        "question": "Quel est le nom de l'ancien roi de France connu pour son règne de 72 ans ?",
+        "options": ["Louis XIV", "Louis XVI", "Louis XIII", "Louis XI"],
+        "answer": "Louis XIV"
+    },
+    {
+        "question": "Quel est le nom de la ville française célèbre pour son festival de jazz ?",
+        "options": ["Montpellier", "Marseille", "Dijon", "Antibes"],
+        "answer": "Antibes"
+    },
+    {
+        "question": "Quel est le nom du célèbre chef-d'œuvre de la littérature française écrit par Gustave Flaubert ?",
+        "options": ["Madame Bovary", "L'Éducation sentimentale", "Le Père Goriot", "Les Misérables"],
+        "answer": "Madame Bovary"
+    },
+    {
+        "question": "Quel est le nom de l'île française située dans l'océan Indien, connue pour ses plages de sable blanc ?",
+        "options": ["La Réunion", "La Martinique", "La Guadeloupe", "Saint-Pierre-et-Miquelon"],
+        "answer": "La Réunion"
+    },
+    {
+        "question": "Quel est le nom du célèbre opéra écrit par Georges Bizet ?",
+        "options": ["Carmen", "La Traviata", "Don Giovanni", "Le Nozze di Figaro"],
+        "answer": "Carmen"
+    },
+    {
+        "question": "Quelle est la spécialité culinaire de la région de Provence, souvent préparée avec des tomates et des légumes ?",
+        "options": ["La ratatouille", "La bouillabaisse", "La tapenade", "Le gratin dauphinois"],
+        "answer": "La ratatouille"
+    }
+]
