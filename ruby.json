@@ -1,0 +1,712 @@
+[
+    {
+        "question": "What is Ruby primarily known for?",
+        "options": [
+            "Web development",
+            "Game development",
+            "System programming",
+            "Machine learning"
+        ],
+        "answer": "Web development"
+    },
+    {
+        "question": "Who is the creator of the Ruby programming language?",
+        "options": [
+            "Yukihiro Matsumoto",
+            "Guido van Rossum",
+            "James Gosling",
+            "Dennis Ritchie"
+        ],
+        "answer": "Yukihiro Matsumoto"
+    },
+    {
+        "question": "What is the file extension for Ruby files?",
+        "options": [
+            ".rb",
+            ".rby",
+            ".ruby",
+            ".r"
+        ],
+        "answer": ".rb"
+    },
+    {
+        "question": "Which framework is Ruby on Rails built on?",
+        "options": [
+            "Ruby",
+            "Python",
+            "JavaScript",
+            "PHP"
+        ],
+        "answer": "Ruby"
+    },
+    {
+        "question": "What is the keyword for defining a method in Ruby?",
+        "options": [
+            "def",
+            "function",
+            "method",
+            "define"
+        ],
+        "answer": "def"
+    },
+    {
+        "question": "How do you create a new array in Ruby?",
+        "options": [
+            "array = []",
+            "array = {}",
+            "array = ()",
+            "array = //"
+        ],
+        "answer": "array = []"
+    },
+    {
+        "question": "Which symbol is used for comments in Ruby?",
+        "options": [
+            "#",
+            "//",
+            "/*",
+            "--"
+        ],
+        "answer": "#"
+    },
+    {
+        "question": "Which of the following is a valid way to create a string in Ruby?",
+        "options": [
+            "\"hello\"",
+            "'hello'",
+            "%Q{hello}",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "How do you declare a variable in Ruby?",
+        "options": [
+            "variable_name = value",
+            "let variable_name = value",
+            "var variable_name = value",
+            "declare variable_name = value"
+        ],
+        "answer": "variable_name = value"
+    },
+    {
+        "question": "Which method is used to print output to the console in Ruby?",
+        "options": [
+            "puts",
+            "print",
+            "printf",
+            "echo"
+        ],
+        "answer": "puts"
+    },
+    {
+        "question": "What does the 'end' keyword signify in Ruby?",
+        "options": [
+            "The end of a method, class, or block",
+            "The end of a loop",
+            "The end of a file",
+            "The end of an array"
+        ],
+        "answer": "The end of a method, class, or block"
+    },
+    {
+        "question": "How do you create a hash in Ruby?",
+        "options": [
+            "hash = {}",
+            "hash = []",
+            "hash = ()",
+            "hash = //"
+        ],
+        "answer": "hash = {}"
+    },
+    {
+        "question": "Which method is used to convert a string to an integer in Ruby?",
+        "options": [
+            "to_i",
+            "to_int",
+            "convert_to_int",
+            "int"
+        ],
+        "answer": "to_i"
+    },
+    {
+        "question": "How do you create a class in Ruby?",
+        "options": [
+            "class ClassName",
+            "create ClassName",
+            "define ClassName",
+            "new ClassName"
+        ],
+        "answer": "class ClassName"
+    },
+    {
+        "question": "How do you create an instance of a class in Ruby?",
+        "options": [
+            "object = ClassName.new",
+            "object = new ClassName",
+            "object = create ClassName",
+            "object = ClassName.create"
+        ],
+        "answer": "object = ClassName.new"
+    },
+    {
+        "question": "Which method is used to add an element to an array in Ruby?",
+        "options": [
+            "push",
+            "add",
+            "insert",
+            "append"
+        ],
+        "answer": "push"
+    },
+    {
+        "question": "Which method is used to remove an element from an array in Ruby?",
+        "options": [
+            "delete",
+            "remove",
+            "pop",
+            "shift"
+        ],
+        "answer": "delete"
+    },
+    {
+        "question": "Which of the following is a Ruby keyword?",
+        "options": [
+            "yield",
+            "func",
+            "var",
+            "declare"
+        ],
+        "answer": "yield"
+    },
+    {
+        "question": "Which method is used to iterate over an array in Ruby?",
+        "options": [
+            "each",
+            "forEach",
+            "loop",
+            "iterate"
+        ],
+        "answer": "each"
+    },
+    {
+        "question": "Which method is used to sort an array in Ruby?",
+        "options": [
+            "sort",
+            "order",
+            "arrange",
+            "sequence"
+        ],
+        "answer": "sort"
+    },
+    {
+        "question": "Which of the following is NOT a comparison operator in Ruby?",
+        "options": [
+            "<=>",
+            "==",
+            "===",
+            "<>"
+        ],
+        "answer": "<>"
+    },
+    {
+        "question": "How do you define a constant in Ruby?",
+        "options": [
+            "CONSTANT_NAME = value",
+            "const CONSTANT_NAME = value",
+            "constant CONSTANT_NAME = value",
+            "final CONSTANT_NAME = value"
+        ],
+        "answer": "CONSTANT_NAME = value"
+    },
+    {
+        "question": "Which method is used to check if a key exists in a hash in Ruby?",
+        "options": [
+            "key?",
+            "has_key?",
+            "contains?",
+            "exists?"
+        ],
+        "answer": "key?"
+    },
+    {
+        "question": "How do you define a block in Ruby?",
+        "options": [
+            "Using do...end or {}",
+            "Using begin...end",
+            "Using block...end",
+            "Using func...end"
+        ],
+        "answer": "Using do...end or {}"
+    },
+    {
+        "question": "Which method is used to remove all whitespace from a string in Ruby?",
+        "options": [
+            "strip",
+            "trim",
+            "delete",
+            "clean"
+        ],
+        "answer": "strip"
+    },
+    {
+        "question": "What does the 'require' keyword do in Ruby?",
+        "options": [
+            "Loads another file",
+            "Includes a module",
+            "Defines a dependency",
+            "Declares a library"
+        ],
+        "answer": "Loads another file"
+    },
+    {
+        "question": "Which method is used to convert an object to a string in Ruby?",
+        "options": [
+            "to_s",
+            "to_str",
+            "convert_to_str",
+            "str"
+        ],
+        "answer": "to_s"
+    },
+    {
+        "question": "Which keyword is used to handle exceptions in Ruby?",
+        "options": [
+            "begin",
+            "try",
+            "catch",
+            "handle"
+        ],
+        "answer": "begin"
+    },
+    {
+        "question": "Which method is used to check if an array is empty in Ruby?",
+        "options": [
+            "empty?",
+            "is_empty?",
+            "null?",
+            "none?"
+        ],
+        "answer": "empty?"
+    },
+    {
+        "question": "What is the default value of an uninitialized variable in Ruby?",
+        "options": [
+            "nil",
+            "0",
+            "false",
+            "null"
+        ],
+        "answer": "nil"
+    },
+    {
+        "question": "Which method is used to convert a string to lowercase in Ruby?",
+        "options": [
+            "downcase",
+            "lower",
+            "to_lower",
+            "small"
+        ],
+        "answer": "downcase"
+    },
+    {
+        "question": "How do you comment multiple lines in Ruby?",
+        "options": [
+            "=begin...=end",
+            "/*...*/",
+            "#...#",
+            "--...--"
+        ],
+        "answer": "=begin...=end"
+    },
+    {
+        "question": "Which of the following is used to create a range in Ruby?",
+        "options": [
+            "..",
+            "...",
+            "..<",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "What is the difference between '==' and '===' in Ruby?",
+        "options": [
+            "'==' checks value equality, '===' checks case equality",
+            "'==' checks type equality, '===' checks value equality",
+            "'==' is for strings, '===' is for numbers",
+            "No difference"
+        ],
+        "answer": "'==' checks value equality, '===' checks case equality"
+    },
+    {
+        "question": "How do you define a symbol in Ruby?",
+        "options": [
+            ":symbol_name",
+            "$symbol_name",
+            "#symbol_name",
+            "&symbol_name"
+        ],
+        "answer": ":symbol_name"
+    },
+    {
+        "question": "Which of the following is used to interpolate a variable into a string in Ruby?",
+        "options": [
+            "#{variable}",
+            "$(variable)",
+            "@{variable}",
+            "&{variable}"
+        ],
+        "answer": "#{variable}"
+    },
+    {
+        "question": "What is the correct way to create an instance variable in Ruby?",
+        "options": [
+            "@variable",
+            "$variable",
+            "&variable",
+            "#variable"
+        ],
+        "answer": "@variable"
+    },
+    {
+        "question": "Which method is used to get the size of an array in Ruby?",
+        "options": [
+            "length",
+            "size",
+            "count",
+            "all of the above"
+        ],
+        "answer": "all of the above"
+    },
+    {
+        "question": "Which keyword is used to define a module in Ruby?",
+        "options": [
+            "module",
+            "class",
+            "def",
+            "include"
+        ],
+        "answer": "module"
+    },
+    {
+        "question": "How do you include a module in a class in Ruby?",
+        "options": [
+            "include ModuleName",
+            "use ModuleName",
+            "import ModuleName",
+            "require ModuleName"
+        ],
+        "answer": "include ModuleName"
+    },
+    {
+        "question": "Which method is used to check if a hash is empty in Ruby?",
+        "options": [
+            "empty?",
+            "nil?",
+            "blank?",
+            "none?"
+        ],
+        "answer": "empty?"
+    },
+    {
+        "question": "Which keyword is used to define a class method in Ruby?",
+        "options": [
+            "self.",
+            "class.",
+            "static.",
+            "this."
+        ],
+        "answer": "self."
+    },
+    {
+        "question": "How do you convert an array to a string in Ruby?",
+        "options": [
+            "join",
+            "to_s",
+            "concat",
+            "merge"
+        ],
+        "answer": "join"
+    },
+    {
+        "question": "Which of the following is NOT a valid way to create a hash in Ruby?",
+        "options": [
+            "hash = {key: value}",
+            "hash = {key => value}",
+            "hash = {key => value}",
+            "hash = {key, value}"
+        ],
+        "answer": "hash = {key, value}"
+    },
+    {
+        "question": "What is the return value of a method that doesn't explicitly return a value in Ruby?",
+        "options": [
+            "nil",
+            "0",
+            "false",
+            "undefined"
+        ],
+        "answer": "nil"
+    },
+    {
+        "question": "Which of the following is used to define a constant in Ruby?",
+        "options": [
+            "CONSTANT_NAME = value",
+            "constant CONSTANT_NAME = value",
+            "const CONSTANT_NAME = value",
+            "var CONSTANT_NAME = value"
+        ],
+        "answer": "CONSTANT_NAME = value"
+    },
+    {
+        "question": "How do you check if a string contains another string in Ruby?",
+        "options": [
+            "include?",
+            "contains?",
+            "has?",
+            "exist?"
+        ],
+        "answer": "include?"
+    },
+    {
+        "question": "Which method is used to remove an element from an array by index in Ruby?",
+        "options": [
+            "delete_at",
+            "remove_at",
+            "pop_at",
+            "drop_at"
+        ],
+        "answer": "delete_at"
+    },
+    {
+        "question": "Which of the following is the correct syntax to define a class in Ruby?",
+        "options": [
+            "class ClassName",
+            "define ClassName",
+            "class: ClassName",
+            "def ClassName"
+        ],
+        "answer": "class ClassName"
+    },
+    {
+        "question": "Which method is used to iterate over a hash in Ruby?",
+        "options": [
+            "each",
+            "forEach",
+            "iterate",
+            "loop"
+        ],
+        "answer": "each"
+    },
+    {
+        "question": "Which method is used to convert a string to uppercase in Ruby?",
+        "options": [
+            "upcase",
+            "uppercase",
+            "to_upper",
+            "upper"
+        ],
+        "answer": "upcase"
+    },
+    {
+        "question": "Which method is used to create a new thread in Ruby?",
+        "options": [
+            "Thread.new",
+            "new Thread",
+            "create Thread",
+            "start Thread"
+        ],
+        "answer": "Thread.new"
+    },
+    {
+        "question": "How do you handle an exception in Ruby?",
+        "options": [
+            "begin...rescue",
+            "try...catch",
+            "begin...catch",
+            "try...rescue"
+        ],
+        "answer": "begin...rescue"
+    },
+    {
+        "question": "Which method is used to convert an object to JSON in Ruby?",
+        "options": [
+            "to_json",
+            "toJSON",
+            "convert_to_json",
+            "as_json"
+        ],
+        "answer": "to_json"
+    },
+    {
+        "question": "Which keyword is used to make a method private in Ruby?",
+        "options": [
+            "private",
+            "protected",
+            "hidden",
+            "secret"
+        ],
+        "answer": "private"
+    },
+    {
+        "question": "Which method is used to remove the last element from an array in Ruby?",
+        "options": [
+            "pop",
+            "remove_last",
+            "delete_last",
+            "drop_last"
+        ],
+        "answer": "pop"
+    },
+    {
+        "question": "Which keyword is used to inherit from a class in Ruby?",
+        "options": [
+            "<",
+            "inherit",
+            "extends",
+            ":"
+        ],
+        "answer": "<"
+    },
+    {
+        "question": "Which of the following is a method of the String class in Ruby?",
+        "options": [
+            "capitalize",
+            "toUpperCase",
+            "upper",
+            "big"
+        ],
+        "answer": "capitalize"
+    },
+    {
+        "question": "How do you check if an array contains a specific element in Ruby?",
+        "options": [
+            "include?",
+            "contains?",
+            "has?",
+            "exist?"
+        ],
+        "answer": "include?"
+    },
+    {
+        "question": "Which of the following is a boolean value in Ruby?",
+        "options": [
+            "true",
+            "True",
+            "TRUE",
+            "All of the above"
+        ],
+        "answer": "true"
+    },
+    {
+        "question": "What does the 'attr_accessor' method do in Ruby?",
+        "options": [
+            "Creates getter and setter methods",
+            "Creates a constructor",
+            "Creates a class method",
+            "Creates a private method"
+        ],
+        "answer": "Creates getter and setter methods"
+    },
+    {
+        "question": "Which method is used to concatenate two strings in Ruby?",
+        "options": [
+            "+",
+            "&",
+            "concat",
+            "."
+        ],
+        "answer": "+"
+    },
+    {
+        "question": "Which method is used to check the class of an object in Ruby?",
+        "options": [
+            "class",
+            "type",
+            "object_class",
+            "category"
+        ],
+        "answer": "class"
+    },
+    {
+        "question": "Which method is used to check if a string starts with a specific substring in Ruby?",
+        "options": [
+            "start_with?",
+            "begin_with?",
+            "starts?",
+            "begin?"
+        ],
+        "answer": "start_with?"
+    },
+    {
+        "question": "How do you define a global variable in Ruby?",
+        "options": [
+            "$variable",
+            "@variable",
+            "#variable",
+            "&variable"
+        ],
+        "answer": "$variable"
+    },
+    {
+        "question": "What is the result of 5 / 2 in Ruby?",
+        "options": [
+            "2",
+            "2.5",
+            "2.0",
+            "3"
+        ],
+        "answer": "2"
+    },
+    {
+        "question": "Which method is used to find the index of an element in an array in Ruby?",
+        "options": [
+            "index",
+            "find_index",
+            "locate",
+            "position"
+        ],
+        "answer": "index"
+    },
+    {
+        "question": "Which method is used to reverse a string in Ruby?",
+        "options": [
+            "reverse",
+            "backward",
+            "invert",
+            "flip"
+        ],
+        "answer": "reverse"
+    },
+    {
+        "question": "How do you define a class variable in Ruby?",
+        "options": [
+            "@@variable",
+            "@variable",
+            "$variable",
+            "#variable"
+        ],
+        "answer": "@@variable"
+    },
+    {
+        "question": "Which keyword is used to create a new module in Ruby?",
+        "options": [
+            "module",
+            "define",
+            "class",
+            "new"
+        ],
+        "answer": "module"
+    },
+    {
+        "question": "Which method is used to remove duplicate elements from an array in Ruby?",
+        "options": [
+            "uniq",
+            "unique",
+            "distinct",
+            "remove_duplicates"
+        ],
+        "answer": "uniq"
+    }
+ ] 
