@@ -45,11 +45,6 @@
         "answer": "[0, 2, 4]"
     },
     {
-        "question": "What does 'sorted([3, 1, 2], reverse=True)' return?",
-        "options": "[3, 2, 1]", "[1, 2, 3]", "Error", "[3, 1, 2]"],
-        "answer": "[3, 2, 1]"
-    },
-    {
         "question": "How do you merge two dictionaries in Python 3.9+?",
         "options": ["dict1 | dict2", "dict1.update(dict2)", "dict1 + dict2", "dict1.concat(dict2)"],
         "answer": "dict1 | dict2"
