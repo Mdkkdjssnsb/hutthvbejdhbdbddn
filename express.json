@@ -1,0 +1,222 @@
+[
+    {
+        "question": "What is Express.js?",
+        "options": [
+            "A web application framework for Node.js.",
+            "A front-end JavaScript library.",
+            "A database management system.",
+            "A tool for compiling TypeScript."
+        ],
+        "answer": "A web application framework for Node.js."
+    },
+    {
+        "question": "How do you create an Express.js application?",
+        "options": [
+            "const express = require('express'); const app = express();",
+            "const app = new Express();",
+            "const express = require('express'); const app = new express();",
+            "const express = require('express'); const app = express.create();"
+        ],
+        "answer": "const express = require('express'); const app = express();"
+    },
+    {
+        "question": "What is middleware in Express.js?",
+        "options": [
+            "Functions that have access to the request, response, and next middleware function.",
+            "A way to handle errors in Express.js.",
+            "A module for connecting to databases.",
+            "A method for routing HTTP requests."
+        ],
+        "answer": "Functions that have access to the request, response, and next middleware function."
+    },
+    {
+        "question": "How do you define a route in Express.js?",
+        "options": [
+            "app.get('/', (req, res) => { res.send('Hello World'); });",
+            "app.route('/', (req, res) => { res.send('Hello World'); });",
+            "app.use('/', (req, res) => { res.send('Hello World'); });",
+            "app.request('/', (req, res) => { res.send('Hello World'); });"
+        ],
+        "answer": "app.get('/', (req, res) => { res.send('Hello World'); });"
+    },
+    {
+        "question": "How do you handle POST requests in Express.js?",
+        "options": [
+            "app.post('/path', (req, res) => { /* handle request */ });",
+            "app.put('/path', (req, res) => { /* handle request */ });",
+            "app.get('/path', (req, res) => { /* handle request */ });",
+            "app.delete('/path', (req, res) => { /* handle request */ });"
+        ],
+        "answer": "app.post('/path', (req, res) => { /* handle request */ });"
+    },
+    {
+        "question": "How do you access query parameters in Express.js?",
+        "options": [
+            "req.query",
+            "req.params",
+            "req.body",
+            "req.headers"
+        ],
+        "answer": "req.query"
+    },
+    {
+        "question": "What is the purpose of 'app.use()' in Express.js?",
+        "options": [
+            "To mount middleware functions at a specific path.",
+            "To define a route handler.",
+            "To handle errors in Express.js.",
+            "To create a new instance of Express."
+        ],
+        "answer": "To mount middleware functions at a specific path."
+    },
+    {
+        "question": "How do you handle static files in Express.js?",
+        "options": [
+            "app.use(express.static('public'));",
+            "app.static('public');",
+            "app.use('/static', express.static('public'));",
+            "app.static('/public');"
+        ],
+        "answer": "app.use(express.static('public'));"
+    },
+    {
+        "question": "How do you set up error handling middleware in Express.js?",
+        "options": [
+            "app.use((err, req, res, next) => { /* handle error */ });",
+            "app.error((err, req, res, next) => { /* handle error */ });",
+            "app.handle((err, req, res, next) => { /* handle error */ });",
+            "app.useError((err, req, res, next) => { /* handle error */ });"
+        ],
+        "answer": "app.use((err, req, res, next) => { /* handle error */ });"
+    },
+    {
+        "question": "What is the purpose of 'app.listen()' in Express.js?",
+        "options": [
+            "To start the server and listen for incoming requests.",
+            "To define a route.",
+            "To set up middleware.",
+            "To handle static files."
+        ],
+        "answer": "To start the server and listen for incoming requests."
+    },
+    {
+        "question": "How do you handle form data in Express.js?",
+        "options": [
+            "By using body-parser middleware to parse request bodies.",
+            "By using the 'query' property of the request object.",
+            "By accessing the form data directly from the request headers.",
+            "By using URL parameters."
+        ],
+        "answer": "By using body-parser middleware to parse request bodies."
+    },
+    {
+        "question": "How can you configure Express.js to use a template engine?",
+        "options": [
+            "app.set('view engine', 'ejs');",
+            "app.use('view engine', 'ejs');",
+            "app.template('ejs');",
+            "app.engine('ejs');"
+        ],
+        "answer": "app.set('view engine', 'ejs');"
+    },
+    {
+        "question": "What is the purpose of the 'router' object in Express.js?",
+        "options": [
+            "To define and group routes within a module.",
+            "To handle static file serving.",
+            "To set up middleware functions.",
+            "To start the Express server."
+        ],
+        "answer": "To define and group routes within a module."
+    },
+    {
+        "question": "How do you import routes from another file in Express.js?",
+        "options": [
+            "const routes = require('./routes'); app.use('/api', routes);",
+            "const routes = import('./routes'); app.use('/api', routes);",
+            "app.use('/api', require('./routes'));",
+            "app.use('/api', import('./routes'));"
+        ],
+        "answer": "const routes = require('./routes'); app.use('/api', routes);"
+    },
+    {
+        "question": "How can you use Express.js with a MongoDB database?",
+        "options": [
+            "By using Mongoose or the native MongoDB driver.",
+            "By using the 'mongoose' and 'mongodb' packages.",
+            "By using the 'express-mongo' package.",
+            "By connecting MongoDB directly within route handlers."
+        ],
+        "answer": "By using Mongoose or the native MongoDB driver."
+    },
+    {
+        "question": "What is the purpose of 'req.params' in Express.js?",
+        "options": [
+            "To access route parameters specified in the URL.",
+            "To access query string parameters.",
+            "To handle form data submitted with POST requests.",
+            "To retrieve headers from the HTTP request."
+        ],
+        "answer": "To access route parameters specified in the URL."
+    },
+    {
+        "question": "How can you perform redirect in Express.js?",
+        "options": [
+            "res.redirect('/new-path');",
+            "res.sendRedirect('/new-path');",
+            "res.redirectTo('/new-path');",
+            "res.changePath('/new-path');"
+        ],
+        "answer": "res.redirect('/new-path');"
+    },
+    {
+        "question": "What does 'app.all()' do in Express.js?",
+        "options": [
+            "Defines a handler for all HTTP methods for a specified route.",
+            "Handles all incoming requests regardless of method.",
+            "Routes all requests to a specific function.",
+            "Defines a middleware function for all routes."
+        ],
+        "answer": "Defines a handler for all HTTP methods for a specified route."
+    },
+    {
+        "question": "How do you set response headers in Express.js?",
+        "options": [
+            "res.set('Header-Name', 'Header-Value');",
+            "res.header('Header-Name', 'Header-Value');",
+            "res.headers['Header-Name'] = 'Header-Value';",
+            "res.addHeader('Header-Name', 'Header-Value');"
+        ],
+        "answer": "res.set('Header-Name', 'Header-Value');"
+    },
+    {
+        "question": "How can you handle file uploads in Express.js?",
+        "options": [
+            "By using middleware like 'multer'.",
+            "By using built-in modules for handling file data.",
+            "By using the 'formidable' package.",
+            "By handling files directly in route handlers."
+        ],
+        "answer": "By using middleware like 'multer'."
+    },
+    {
+        "question": "What does 'app.locals' do in Express.js?",
+        "options": [
+            "Stores local variables that can be used in templates.",
+            "Defines global middleware functions.",
+            "Manages application-level settings.",
+            "Handles request-specific data."
+        ],
+        "answer": "Stores local variables that can be used in templates."
+    },
+    {
+        "question": "How do you use the 'compression' middleware in Express.js?",
+        "options": [
+            "By adding it to the middleware stack to compress response bodies.",
+            "By setting it up in the 'app.use()' method.",
+            "By configuring it in the application settings.",
+            "By using it to handle static files."
+        ],
+        "answer": "By adding it to the middleware stack to compress response bodies."
+    }
+]
