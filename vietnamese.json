@@ -1,0 +1,312 @@
+[
+    {
+        "question": "Người sáng lập ra chữ Quốc ngữ là ai?",
+        "options": [
+            "Nguyễn Văn Vĩnh",
+            "Alexander de Rhodes",
+            "Nguyễn Trãi",
+            "Hồ Chí Minh"
+        ],
+        "answer": "Alexander de Rhodes"
+    },
+    {
+        "question": "Từ nào sau đây là động từ trong tiếng Việt?",
+        "options": [
+            "Ăn",
+            "Nhà",
+            "Xanh",
+            "Cái"
+        ],
+        "answer": "Ăn"
+    },
+    {
+        "question": "Trong tiếng Việt, dấu nào biểu thị âm sắc cao và không xuống?",
+        "options": [
+            "Dấu hỏi",
+            "Dấu ngã",
+            "Dấu sắc",
+            "Dấu nặng"
+        ],
+        "answer": "Dấu sắc"
+    },
+    {
+        "question": "Thành phố nào là thủ đô của Việt Nam?",
+        "options": [
+            "Hồ Chí Minh",
+            "Hạ Long",
+            "Hà Nội",
+            "Đà Nẵng"
+        ],
+        "answer": "Hà Nội"
+    },
+    {
+        "question": "Câu nào sau đây là câu hỏi trong tiếng Việt?",
+        "options": [
+            "Tôi đang đọc sách.",
+            "Bạn có khỏe không?",
+            "Hôm nay là thứ mấy?",
+            "Tôi đi làm việc."
+        ],
+        "answer": "Bạn có khỏe không?"
+    },
+    {
+        "question": "Từ nào sau đây là danh từ trong tiếng Việt?",
+        "options": [
+            "Chạy",
+            "Cười",
+            "Xe",
+            "Ăn"
+        ],
+        "answer": "Xe"
+    },
+    {
+        "question": "Dấu nào trong tiếng Việt biểu thị âm sắc thấp và xuống?",
+        "options": [
+            "Dấu sắc",
+            "Dấu huyền",
+            "Dấu hỏi",
+            "Dấu ngã"
+        ],
+        "answer": "Dấu huyền"
+    },
+    {
+        "question": "Từ nào sau đây có nghĩa là 'trời tối' trong tiếng Việt?",
+        "options": [
+            "Sáng",
+            "Tối",
+            "Sớm",
+            "Trưa"
+        ],
+        "answer": "Tối"
+    },
+    {
+        "question": "Câu nào sau đây là câu cảm thán trong tiếng Việt?",
+        "options": [
+            "Bạn đang làm gì?",
+            "Ôi, thật tuyệt vời!",
+            "Tôi ăn cơm.",
+            "Chúng tôi sẽ đi du lịch."
+        ],
+        "answer": "Ôi, thật tuyệt vời!"
+    },
+    {
+        "question": "Chữ cái nào không có dấu trong bảng chữ cái tiếng Việt?",
+        "options": [
+            "A",
+            "E",
+            "Ô",
+            "Ư"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong tiếng Việt, dấu nào dùng để biểu thị âm sắc lên xuống?",
+        "options": [
+            "Dấu hỏi",
+            "Dấu ngã",
+            "Dấu sắc",
+            "Dấu nặng"
+        ],
+        "answer": "Dấu hỏi"
+    },
+    {
+        "question": "Từ nào có nghĩa là 'trường học' trong tiếng Việt?",
+        "options": [
+            "Bệnh viện",
+            "Nhà",
+            "Trường",
+            "Cửa hàng"
+        ],
+        "answer": "Trường"
+    },
+    {
+        "question": "Thành phố nào được biết đến với danh lam thắng cảnh Hạ Long?",
+        "options": [
+            "Hà Nội",
+            "Hải Phòng",
+            "Hạ Long",
+            "Huế"
+        ],
+        "answer": "Hạ Long"
+    },
+    {
+        "question": "Từ nào có nghĩa là 'nhà' trong tiếng Việt?",
+        "options": [
+            "Cửa hàng",
+            "Phòng",
+            "Nhà",
+            "Bệnh viện"
+        ],
+        "answer": "Nhà"
+    },
+    {
+        "question": "Trong tiếng Việt, từ nào có nghĩa là 'nói chuyện'?",
+        "options": [
+            "Làm việc",
+            "Chạy",
+            "Nói",
+            "Ngủ"
+        ],
+        "answer": "Nói"
+    },
+    {
+        "question": "Câu nào sau đây là câu điều kiện trong tiếng Việt?",
+        "options": [
+            "Nếu trời mưa, tôi sẽ ở nhà.",
+            "Tôi thích đọc sách.",
+            "Chúng ta sẽ đi chơi.",
+            "Bạn có muốn đi không?"
+        ],
+        "answer": "Nếu trời mưa, tôi sẽ ở nhà."
+    },
+    {
+        "question": "Từ nào sau đây có nghĩa là 'học sinh' trong tiếng Việt?",
+        "options": [
+            "Giáo viên",
+            "Học sinh",
+            "Nhân viên",
+            "Người lớn"
+        ],
+        "answer": "Học sinh"
+    },
+    {
+        "question": "Dấu nào trong tiếng Việt biểu thị âm sắc cao và xuống?",
+        "options": [
+            "Dấu sắc",
+            "Dấu huyền",
+            "Dấu hỏi",
+            "Dấu ngã"
+        ],
+        "answer": "Dấu ngã"
+    },
+    {
+        "question": "Câu nào sau đây là câu mệnh lệnh trong tiếng Việt?",
+        "options": [
+            "Hãy đóng cửa.",
+            "Tôi đang đi làm.",
+            "Bạn có khỏe không?",
+            "Chúng tôi sẽ đi du lịch."
+        ],
+        "answer": "Hãy đóng cửa."
+    },
+    {
+        "question": "Từ nào có nghĩa là 'mới' trong tiếng Việt?",
+        "options": [
+            "Cũ",
+            "Cổ",
+            "Mới",
+            "Xưa"
+        ],
+        "answer": "Mới"
+    },
+    {
+        "question": "Từ nào có nghĩa là 'ăn uống' trong tiếng Việt?",
+        "options": [
+            "Nấu ăn",
+            "Chạy",
+            "Ngủ",
+            "Đi làm"
+        ],
+        "answer": "Nấu ăn"
+    },
+    {
+        "question": "Trong tiếng Việt, dấu nào biểu thị âm sắc xuống thấp?",
+        "options": [
+            "Dấu sắc",
+            "Dấu huyền",
+            "Dấu hỏi",
+            "Dấu ngã"
+        ],
+        "answer": "Dấu huyền"
+    },
+    {
+        "question": "Từ nào có nghĩa là 'sách' trong tiếng Việt?",
+        "options": [
+            "Bút",
+            "Sách",
+            "Vở",
+            "Bảng"
+        ],
+        "answer": "Sách"
+    },
+    {
+        "question": "Câu nào sau đây là câu khẳng định trong tiếng Việt?",
+        "options": [
+            "Tôi sẽ đến dự tiệc.",
+            "Bạn có đến không?",
+            "Hãy đi cùng tôi.",
+            "Khi nào bạn đến?"
+        ],
+        "answer": "Tôi sẽ đến dự tiệc."
+    },
+    {
+        "question": "Câu nào sau đây là câu nghi vấn trong tiếng Việt?",
+        "options": [
+            "Bạn có thích ăn pizza không?",
+            "Tôi đã ăn sáng.",
+            "Chúng tôi sẽ đi nghỉ mát.",
+            "Hãy làm bài tập."
+        ],
+        "answer": "Bạn có thích ăn pizza không?"
+    },
+    {
+        "question": "Từ nào có nghĩa là 'bạn' trong tiếng Việt?",
+        "options": [
+            "Người",
+            "Bạn",
+            "Cô",
+            "Thầy"
+        ],
+        "answer": "Bạn"
+    },
+    {
+        "question": "Từ nào có nghĩa là 'học' trong tiếng Việt?",
+        "options": [
+            "Đọc",
+            "Ngủ",
+            "Học",
+            "Ăn"
+        ],
+        "answer": "Học"
+    },
+    {
+        "question": "Câu nào sau đây là câu cảm thán trong tiếng Việt?",
+        "options": [
+            "Wow, thật đẹp!",
+            "Bạn có khỏe không?",
+            "Tôi đang đi làm.",
+            "Chúng ta sẽ đi du lịch."
+        ],
+        "answer": "Wow, thật đẹp!"
+    },
+    {
+        "question": "Từ nào có nghĩa là 'đi' trong tiếng Việt?",
+        "options": [
+            "Đi",
+            "Ngồi",
+            "Nằm",
+            "Chạy"
+        ],
+        "answer": "Đi"
+    },
+    {
+        "question": "Từ nào có nghĩa là 'uống' trong tiếng Việt?",
+        "options": [
+            "Uống",
+            "Ăn",
+            "Ngủ",
+            "Chạy"
+        ],
+        "answer": "Uống"
+    },
+    {
+        "question": "Từ nào có nghĩa là 'đi làm' trong tiếng Việt?",
+        "options": [
+            "Đi làm",
+            "Về nhà",
+            "Chơi",
+            "Ngủ"
+        ],
+        "answer": "Đi làm"
+    }
+]
