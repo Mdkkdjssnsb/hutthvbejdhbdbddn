@@ -1,0 +1,332 @@
+[
+    {
+        "question": "Who is the creator of PHP?",
+        "options": [
+            "Rasmus Lerdorf",
+            "Brendan Eich",
+            "Guido van Rossum",
+            "James Gosling"
+        ],
+        "answer": "Rasmus Lerdorf"
+    },
+    {
+        "question": "What does PHP stand for?",
+        "options": [
+            "PHP: Hypertext Preprocessor",
+            "Personal Home Page",
+            "Private Home Page",
+            "Professional Home Page"
+        ],
+        "answer": "PHP: Hypertext Preprocessor"
+    },
+    {
+        "question": "Which of the following is the correct way to start a PHP script?",
+        "options": [
+            "<?php",
+            "<script>",
+            "<php>",
+            "<?php>"
+        ],
+        "answer": "<?php"
+    },
+    {
+        "question": "Which of the following is used to end a PHP statement?",
+        "options": [
+            ";",
+            ".",
+            ":",
+            "!"
+        ],
+        "answer": ";"
+    },
+    {
+        "question": "Which of the following is a PHP superglobal variable?",
+        "options": [
+            "$_POST",
+            "$global",
+            "$GLOBALS",
+            "$SUPER"
+        ],
+        "answer": "$_POST"
+    },
+    {
+        "question": "Which of the following is used to declare a constant in PHP?",
+        "options": [
+            "define()",
+            "const",
+            "constant()",
+            "declare()"
+        ],
+        "answer": "define()"
+    },
+    {
+        "question": "Which function is used to include a file in PHP?",
+        "options": [
+            "include()",
+            "insert()",
+            "require()",
+            "attach()"
+        ],
+        "answer": "include()"
+    },
+    {
+        "question": "Which of the following is the correct way to create an array in PHP?",
+        "options": [
+            "$arr = array();",
+            "$arr = [];",
+            "$arr = Array();",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is the correct way to create a variable in PHP?",
+        "options": [
+            "$var",
+            "var",
+            "#var",
+            "%var"
+        ],
+        "answer": "$var"
+    },
+    {
+        "question": "Which function is used to start a session in PHP?",
+        "options": [
+            "session_start()",
+            "session_begin()",
+            "session_create()",
+            "session_init()"
+        ],
+        "answer": "session_start()"
+    },
+    {
+        "question": "Which function is used to destroy a session in PHP?",
+        "options": [
+            "session_destroy()",
+            "session_end()",
+            "session_stop()",
+            "session_terminate()"
+        ],
+        "answer": "session_destroy()"
+    },
+    {
+        "question": "Which of the following is used to get the length of a string in PHP?",
+        "options": [
+            "strlen()",
+            "strlength()",
+            "length()",
+            "str_len()"
+        ],
+        "answer": "strlen()"
+    },
+    {
+        "question": "Which function is used to connect to a MySQL database in PHP?",
+        "options": [
+            "mysqli_connect()",
+            "mysql_connect()",
+            "connect()",
+            "db_connect()"
+        ],
+        "answer": "mysqli_connect()"
+    },
+    {
+        "question": "Which function is used to close a MySQL database connection in PHP?",
+        "options": [
+            "mysqli_close()",
+            "mysql_close()",
+            "db_close()",
+            "close()"
+        ],
+        "answer": "mysqli_close()"
+    },
+    {
+        "question": "Which of the following is used to print a message to the screen in PHP?",
+        "options": [
+            "echo",
+            "print",
+            "printf",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "question": "Which of the following is used to create a function in PHP?",
+        "options": [
+            "function",
+            "def",
+            "fn",
+            "func"
+        ],
+        "answer": "function"
+    },
+    {
+        "question": "Which of the following is used to check if a variable is set in PHP?",
+        "options": [
+            "isset()",
+            "is_set()",
+            "var_set()",
+            "set()"
+        ],
+        "answer": "isset()"
+    },
+    {
+        "question": "Which of the following is used to check if a variable is empty in PHP?",
+        "options": [
+            "empty()",
+            "is_empty()",
+            "var_empty()",
+            "isnull()"
+        ],
+        "answer": "empty()"
+    },
+    {
+        "question": "Which of the following is used to redirect to another page in PHP?",
+        "options": [
+            "header('Location: page.php')",
+            "redirect('page.php')",
+            "goto('page.php')",
+            "navigate('page.php')"
+        ],
+        "answer": "header('Location: page.php')"
+    },
+    {
+        "question": "Which of the following is used to handle errors in PHP?",
+        "options": [
+            "try...catch",
+            "error_handling",
+            "catch...throw",
+            "handle_error"
+        ],
+        "answer": "try...catch"
+    },
+    {
+        "question": "Which of the following is used to get the current date and time in PHP?",
+        "options": [
+            "date()",
+            "getdate()",
+            "current_date()",
+            "now()"
+        ],
+        "answer": "date()"
+    },
+    {
+        "question": "Which of the following is used to replace a string in PHP?",
+        "options": [
+            "str_replace()",
+            "replace()",
+            "strreplace()",
+            "str_change()"
+        ],
+        "answer": "str_replace()"
+    },
+    {
+        "question": "Which of the following is used to convert a string to lowercase in PHP?",
+        "options": [
+            "strtolower()",
+            "tolower()",
+            "lowercase()",
+            "strlower()"
+        ],
+        "answer": "strtolower()"
+    },
+    {
+        "question": "Which of the following is used to convert a string to uppercase in PHP?",
+        "options": [
+            "strtoupper()",
+            "toupper()",
+            "uppercase()",
+            "strupper()"
+        ],
+        "answer": "strtoupper()"
+    },
+    {
+        "question": "Which of the following is used to generate a random number in PHP?",
+        "options": [
+            "rand()",
+            "random()",
+            "generate_random()",
+            "num_rand()"
+        ],
+        "answer": "rand()"
+    },
+    {
+        "question": "Which of the following is used to check if a file exists in PHP?",
+        "options": [
+            "file_exists()",
+            "exists()",
+            "file_exist()",
+            "file_check()"
+        ],
+        "answer": "file_exists()"
+    },
+    {
+        "question": "Which of the following is used to delete a file in PHP?",
+        "options": [
+            "unlink()",
+            "delete()",
+            "remove()",
+            "del()"
+        ],
+        "answer": "unlink()"
+    },
+    {
+        "question": "Which of the following is used to get the type of a variable in PHP?",
+        "options": [
+            "gettype()",
+            "type()",
+            "var_type()",
+            "type_of()"
+        ],
+        "answer": "gettype()"
+    },
+    {
+        "question": "Which of the following is used to convert a variable to an integer in PHP?",
+        "options": [
+            "intval()",
+            "toint()",
+            "to_integer()",
+            "convert_to_int()"
+        ],
+        "answer": "intval()"
+    },
+    {
+        "question": "Which of the following is used to convert a variable to a string in PHP?",
+        "options": [
+            "strval()",
+            "tostring()",
+            "to_str()",
+            "convert_to_str()"
+        ],
+        "answer": "strval()"
+    },
+    {
+        "question": "Which of the following is used to check if a variable is an array in PHP?",
+        "options": [
+            "is_array()",
+            "array_check()",
+            "var_array()",
+            "isarray()"
+        ],
+        "answer": "is_array()"
+    },
+    {
+        "question": "Which of the following is used to split a string by a delimiter in PHP?",
+        "options": [
+            "explode()",
+            "split()",
+            "str_split()",
+            "divide()"
+        ],
+        "answer": "explode()"
+    },
+    {
+        "question": "Which of the following is used to join array elements with a string in PHP?",
+        "options": [
+            "implode()",
+            "join()",
+            "array_join()",
+            "combine()"
+        ],
+        "answer": "implode()"
+    }
+]
