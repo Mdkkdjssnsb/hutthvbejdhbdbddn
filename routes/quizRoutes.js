@@ -24,7 +24,7 @@ router.get('/quiz', async (req, res) => {
     return res.status(400).json({ error: 'Category parameter is required.' });
   }
 
-  const filePath = path.join(__dirname, `../data/${category}.json`);
+  const filePath = path.join(__dirname, `${category}.json`);
 
   try {
     const question = await getRandomQuestionFromFile(filePath);
