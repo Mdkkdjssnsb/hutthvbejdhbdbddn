@@ -348,13 +348,5 @@
             "file_seek"
         ],
         "answer": "fseek"
-    },
-    {
-        "question": "Which function is used to get the current file position indicator in C++?",
-        "options": [
-            "ftell",
-            "tell",
-            "fpos",
-            "file_tell"
-        ]
-      ]
+    }
+]
