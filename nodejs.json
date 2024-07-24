@@ -1,0 +1,302 @@
+[
+    {
+        "question": "What is the purpose of the 'event loop' in Node.js?",
+        "options": [
+            "To manage asynchronous operations and callbacks.",
+            "To handle file system operations.",
+            "To run synchronous code in parallel.",
+            "To manage network requests."
+        ],
+        "answer": "To manage asynchronous operations and callbacks."
+    },
+    {
+        "question": "How does Node.js handle concurrency?",
+        "options": [
+            "Through a single-threaded event loop with non-blocking I/O.",
+            "By creating multiple threads for each request.",
+            "By using a separate process for each request.",
+            "Through parallel execution of synchronous code."
+        ],
+        "answer": "Through a single-threaded event loop with non-blocking I/O."
+    },
+    {
+        "question": "What does the 'require' function do in Node.js?",
+        "options": [
+            "Loads and executes modules.",
+            "Imports JavaScript files directly into the script.",
+            "Creates a new instance of a module.",
+            "Caches the imported modules."
+        ],
+        "answer": "Loads and executes modules."
+    },
+    {
+        "question": "How does Node.js achieve asynchronous I/O operations?",
+        "options": [
+            "By using libuv to handle I/O operations asynchronously.",
+            "By using Web Workers for parallel processing.",
+            "By creating separate processes for I/O operations.",
+            "By using synchronous APIs internally."
+        ],
+        "answer": "By using libuv to handle I/O operations asynchronously."
+    },
+    {
+        "question": "What is the 'libuv' library used for in Node.js?",
+        "options": [
+            "To provide asynchronous I/O and other low-level operations.",
+            "To manage JavaScript memory allocation.",
+            "To implement the V8 JavaScript engine.",
+            "To handle HTTP requests."
+        ],
+        "answer": "To provide asynchronous I/O and other low-level operations."
+    },
+    {
+        "question": "What is a 'callback hell' in Node.js?",
+        "options": [
+            "A situation where multiple nested callbacks make code hard to read and maintain.",
+            "An error that occurs when callbacks are not executed in order.",
+            "A condition where callbacks fail to execute.",
+            "A feature that improves asynchronous performance."
+        ],
+        "answer": "A situation where multiple nested callbacks make code hard to read and maintain."
+    },
+    {
+        "question": "What is the purpose of the 'process' object in Node.js?",
+        "options": [
+            "To provide information and control over the current Node.js process.",
+            "To manage HTTP requests and responses.",
+            "To handle file system operations.",
+            "To manage module loading."
+        ],
+        "answer": "To provide information and control over the current Node.js process."
+    },
+    {
+        "question": "How do you handle exceptions in asynchronous code in Node.js?",
+        "options": [
+            "Using try-catch blocks inside async functions or using .catch() with promises.",
+            "Using global error handlers.",
+            "By manually checking for errors after each operation.",
+            "By using synchronous code exclusively."
+        ],
+        "answer": "Using try-catch blocks inside async functions or using .catch() with promises."
+    },
+    {
+        "question": "What is the purpose of the 'event emitter' module in Node.js?",
+        "options": [
+            "To allow objects to emit and listen for events.",
+            "To handle HTTP events.",
+            "To manage file system events.",
+            "To create custom events for modules."
+        ],
+        "answer": "To allow objects to emit and listen for events."
+    },
+    {
+        "question": "What does the 'npm' command do?",
+        "options": [
+            "Manages Node.js packages and dependencies.",
+            "Runs Node.js applications.",
+            "Compiles TypeScript code.",
+            "Handles asynchronous operations."
+        ],
+        "answer": "Manages Node.js packages and dependencies."
+    },
+    {
+        "question": "What is a 'Promise' in Node.js?",
+        "options": [
+            "An object that represents the eventual completion or failure of an asynchronous operation.",
+            "A function that executes asynchronous operations.",
+            "A way to synchronize multiple asynchronous tasks.",
+            "A type of callback function."
+        ],
+        "answer": "An object that represents the eventual completion or failure of an asynchronous operation."
+    },
+    {
+        "question": "What is the purpose of the 'async/await' syntax in Node.js?",
+        "options": [
+            "To simplify working with asynchronous code by allowing it to be written in a synchronous style.",
+            "To handle synchronous operations.",
+            "To create asynchronous functions.",
+            "To manage event listeners."
+        ],
+        "answer": "To simplify working with asynchronous code by allowing it to be written in a synchronous style."
+    },
+    {
+        "question": "What is the 'cluster' module in Node.js used for?",
+        "options": [
+            "To enable multi-core processing by creating child processes that share the same server port.",
+            "To handle asynchronous operations.",
+            "To manage HTTP requests.",
+            "To monitor process performance."
+        ],
+        "answer": "To enable multi-core processing by creating child processes that share the same server port."
+    },
+    {
+        "question": "What is the purpose of the 'buffer' module in Node.js?",
+        "options": [
+            "To handle binary data and raw memory allocation.",
+            "To manage HTTP request data.",
+            "To handle text encoding and decoding.",
+            "To process file system operations."
+        ],
+        "answer": "To handle binary data and raw memory allocation."
+    },
+    {
+        "question": "How do you create a readable stream in Node.js?",
+        "options": [
+            "const readableStream = fs.createReadStream('file.txt');",
+            "const readableStream = new Readable();",
+            "const readableStream = new Stream.Readable();",
+            "const readableStream = new fs.ReadStream('file.txt');"
+        ],
+        "answer": "const readableStream = fs.createReadStream('file.txt');"
+    },
+    {
+        "question": "What does the 'fs' module in Node.js provide?",
+        "options": [
+            "File system operations like reading, writing, and deleting files.",
+            "HTTP server capabilities.",
+            "Network operations.",
+            "Database interactions."
+        ],
+        "answer": "File system operations like reading, writing, and deleting files."
+    },
+    {
+        "question": "How do you handle JSON data in Node.js?",
+        "options": [
+            "Using JSON.parse() to parse JSON strings and JSON.stringify() to convert objects to JSON strings.",
+            "Using fs.readFile() and fs.writeFile() methods.",
+            "Using the 'http' module to parse and serialize JSON.",
+            "By using XML parsing libraries."
+        ],
+        "answer": "Using JSON.parse() to parse JSON strings and JSON.stringify() to convert objects to JSON strings."
+    },
+    {
+        "question": "How do you set up a basic HTTP server in Node.js?",
+        "options": [
+            "const http = require('http'); const server = http.createServer((req, res) => { res.end('Hello World'); }); server.listen(3000);",
+            "const server = new Server(); server.listen(3000);",
+            "const express = require('express'); const app = express(); app.listen(3000);",
+            "const http = require('http'); const server = new http.Server(); server.listen(3000);"
+        ],
+        "answer": "const http = require('http'); const server = http.createServer((req, res) => { res.end('Hello World'); }); server.listen(3000);"
+    },
+    {
+        "question": "What is the purpose of the 'path' module in Node.js?",
+        "options": [
+            "To handle and manipulate file and directory paths.",
+            "To manage HTTP request paths.",
+            "To parse JSON data.",
+            "To manage process paths."
+        ],
+        "answer": "To handle and manipulate file and directory paths."
+    },
+    {
+        "question": "What does the 'require.cache' object do in Node.js?",
+        "options": [
+            "Stores the cached modules to prevent reloading them.",
+            "Caches the HTTP requests.",
+            "Caches the JSON data.",
+            "Caches the file system operations."
+        ],
+        "answer": "Stores the cached modules to prevent reloading them."
+    },
+    {
+        "question": "How do you handle environment variables in Node.js?",
+        "options": [
+            "Using 'process.env' to access environment variables.",
+            "Using a configuration file.",
+            "Using command-line arguments.",
+            "Using the 'config' module."
+        ],
+        "answer": "Using 'process.env' to access environment variables."
+    },
+    {
+        "question": "What does the 'npm install' command do?",
+        "options": [
+            "Installs the dependencies listed in the package.json file.",
+            "Installs Node.js globally.",
+            "Installs a specific package globally.",
+            "Updates the npm version."
+        ],
+        "answer": "Installs the dependencies listed in the package.json file."
+    },
+    {
+        "question": "What is the purpose of the 'package-lock.json' file?",
+        "options": [
+            "To lock the versions of the dependencies installed in the project.",
+            "To list the project dependencies.",
+            "To define the scripts for the project.",
+            "To store the metadata of the project."
+        ],
+        "answer": "To lock the versions of the dependencies installed in the project."
+    },
+    {
+        "question": "What does the 'process.nextTick()' method do in Node.js?",
+        "options": [
+            "Schedules a callback to be executed in the next phase of the event loop.",
+            "Executes a callback immediately.",
+            "Schedules a callback to be executed after a set timeout.",
+            "Executes a callback after all synchronous code has run."
+        ],
+        "answer": "Schedules a callback to be executed in the next phase of the event loop."
+    },
+    {
+        "question": "What is the purpose of the 'REPL' in Node.js?",
+        "options": [
+            "To provide an interactive shell for executing JavaScript code.",
+            "To manage and execute scripts.",
+            "To create and handle modules.",
+            "To handle network requests."
+        ],
+        "answer": "To provide an interactive shell for executing JavaScript code."
+    },
+    {
+        "question": "How do you use 'streams' in Node.js?",
+        "options": [
+            "By creating readable and writable streams for handling data.",
+            "By using the 'fs' module for handling file system streams.",
+            "By using the 'http' module for handling network streams.",
+            "By using the 'events' module for handling event-driven streams."
+        ],
+        "answer": "By creating readable and writable streams for handling data."
+    },
+    {
+        "question": "What is the difference between 'process.env.NODE_ENV' and 'process.env.NODE_ENVIRONMENT'?",
+        "options": [
+            "'process.env.NODE_ENV' is a common convention for environment settings, while 'process.env.NODE_ENVIRONMENT' is not standard.",
+            "'process.env.NODE_ENV' is used for production settings, while 'process.env.NODE_ENVIRONMENT' is used for development settings.",
+            "'process.env.NODE_ENV' is deprecated, while 'process.env.NODE_ENVIRONMENT' is the newer standard.",
+            "'process.env.NODE_ENV' and 'process.env.NODE_ENVIRONMENT' are interchangeable."
+        ],
+        "answer": "'process.env.NODE_ENV' is a common convention for environment settings, while 'process.env.NODE_ENVIRONMENT' is not standard."
+    },
+    {
+        "question": "What is the purpose of the 'dotenv' package in Node.js?",
+        "options": [
+            "To load environment variables from a .env file into process.env.",
+            "To manage environment-specific configurations.",
+            "To handle environment-related errors.",
+            "To store environment variables securely."
+        ],
+        "answer": "To load environment variables from a .env file into process.env."
+    },
+    {
+        "question": "How do you perform error handling in asynchronous functions using 'async/await'?",
+        "options": [
+            "By using try-catch blocks around await expressions.",
+            "By using error callbacks.",
+            "By chaining .catch() to promises.",
+            "By using global error handlers."
+        ],
+        "answer": "By using try-catch blocks around await expressions."
+    },
+    {
+        "question": "What does the 'crypto' module in Node.js provide?",
+        "options": [
+            "Utilities for cryptographic operations such as hashing and encryption.",
+            "Networking utilities for secure connections.",
+            "File system utilities for secure storage.",
+            "Utilities for generating random numbers."
+        ],
+        "answer": "Utilities for cryptographic operations such as hashing and encryption."
+    }  
+]
