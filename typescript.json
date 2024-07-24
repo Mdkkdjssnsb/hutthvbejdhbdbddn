@@ -1,0 +1,492 @@
+[
+    {
+        "question": "What is TypeScript?",
+        "options": [
+            "A superset of JavaScript that adds static typing.",
+            "A new programming language unrelated to JavaScript.",
+            "A framework for building web applications.",
+            "A CSS preprocessor."
+        ],
+        "answer": "A superset of JavaScript that adds static typing."
+    },
+    {
+        "question": "Who developed TypeScript?",
+        "options": [
+            "Microsoft",
+            "Google",
+            "Facebook",
+            "Apple"
+        ],
+        "answer": "Microsoft"
+    },
+    {
+        "question": "What file extension is used for TypeScript files?",
+        "options": [
+            ".ts",
+            ".js",
+            ".jsx",
+            ".tsx"
+        ],
+        "answer": ".ts"
+    },
+    {
+        "question": "Which command is used to compile a TypeScript file?",
+        "options": [
+            "tsc",
+            "typescript",
+            "ts",
+            "compile-ts"
+        ],
+        "answer": "tsc"
+    },
+    {
+        "question": "What is the purpose of the 'tsconfig.json' file?",
+        "options": [
+            "To specify the root files and the compiler options required to compile the project.",
+            "To define the styles for the TypeScript project.",
+            "To list the dependencies of the TypeScript project.",
+            "To manage the build scripts for the TypeScript project."
+        ],
+        "answer": "To specify the root files and the compiler options required to compile the project."
+    },
+    {
+        "question": "How do you declare a variable with a specific type in TypeScript?",
+        "options": [
+            "let x: number;",
+            "var x = 10;",
+            "const x;",
+            "int x;"
+        ],
+        "answer": "let x: number;"
+    },
+    {
+        "question": "Which of the following is a TypeScript data type?",
+        "options": [
+            "boolean",
+            "integer",
+            "byte",
+            "char"
+        ],
+        "answer": "boolean"
+    },
+    {
+        "question": "How do you define an array of numbers in TypeScript?",
+        "options": [
+            "let arr: number[];",
+            "let arr = number[];",
+            "let arr: number = [];",
+            "let arr: Array<number>;"
+        ],
+        "answer": "let arr: number[];"
+    },
+    {
+        "question": "How do you define a function in TypeScript?",
+        "options": [
+            "function add(a: number, b: number): number { return a + b; }",
+            "def add(a: number, b: number): number { return a + b; }",
+            "function add(a, b) { return a + b; }",
+            "let add = (a, b) => { return a + b; };"
+        ],
+        "answer": "function add(a: number, b: number): number { return a + b; }"
+    },
+    {
+        "question": "Which keyword is used to define an interface in TypeScript?",
+        "options": [
+            "interface",
+            "type",
+            "class",
+            "struct"
+        ],
+        "answer": "interface"
+    },
+    {
+        "question": "How do you define an optional property in a TypeScript interface?",
+        "options": [
+            "propertyName?: type;",
+            "propertyName: type?;",
+            "propertyName: type = null;",
+            "propertyName: ?type;"
+        ],
+        "answer": "propertyName?: type;"
+    },
+    {
+        "question": "How do you define a class in TypeScript?",
+        "options": [
+            "class MyClass { }",
+            "function MyClass() { }",
+            "def class MyClass: pass",
+            "interface MyClass { }"
+        ],
+        "answer": "class MyClass { }"
+    },
+    {
+        "question": "Which of the following is a valid way to create an instance of a class in TypeScript?",
+        "options": [
+            "let obj = new MyClass();",
+            "let obj = MyClass();",
+            "let obj = MyClass.create();",
+            "let obj = MyClass.new();"
+        ],
+        "answer": "let obj = new MyClass();"
+    },
+    {
+        "question": "How do you define a read-only property in TypeScript?",
+        "options": [
+            "readonly propertyName: type;",
+            "const propertyName: type;",
+            "let propertyName: readonly type;",
+            "propertyName: readonly type;"
+        ],
+        "answer": "readonly propertyName: type;"
+    },
+    {
+        "question": "How do you import a module in TypeScript?",
+        "options": [
+            "import { moduleName } from 'module-path';",
+            "require('module-path');",
+            "include 'module-path';",
+            "use 'module-path';"
+        ],
+        "answer": "import { moduleName } from 'module-path';"
+    },
+    {
+        "question": "How do you export a variable in TypeScript?",
+        "options": [
+            "export const variableName;",
+            "module.exports.variableName;",
+            "public variableName;",
+            "global variableName;"
+        ],
+        "answer": "export const variableName;"
+    },
+    {
+        "question": "What is the purpose of type assertions in TypeScript?",
+        "options": [
+            "To override the type inferred by the compiler.",
+            "To create new types.",
+            "To perform type checking at runtime.",
+            "To convert one type to another."
+        ],
+        "answer": "To override the type inferred by the compiler."
+    },
+    {
+        "question": "Which of the following is a type assertion in TypeScript?",
+        "options": [
+            "variableName as type",
+            "variableName: type",
+            "variableName -> type",
+            "variableName | type"
+        ],
+        "answer": "variableName as type"
+    },
+    {
+        "question": "How do you define a union type in TypeScript?",
+        "options": [
+            "type variableName = type1 | type2;",
+            "type variableName = type1 & type2;",
+            "type variableName = type1 || type2;",
+            "type variableName = type1 && type2;"
+        ],
+        "answer": "type variableName = type1 | type2;"
+    },
+    {
+        "question": "Which of the following is a valid way to define a tuple in TypeScript?",
+        "options": [
+            "let tuple: [string, number];",
+            "let tuple: (string, number);",
+            "let tuple: {string, number};",
+            "let tuple: [string; number];"
+        ],
+        "answer": "let tuple: [string, number];"
+    },
+    {
+        "question": "How do you define an enum in TypeScript?",
+        "options": [
+            "enum Direction { North, South, East, West }",
+            "enum Direction { 'North', 'South', 'East', 'West' }",
+            "enum Direction = { North, South, East, West };",
+            "enum Direction: { North, South, East, West };"
+        ],
+        "answer": "enum Direction { North, South, East, West }"
+    },
+    {
+        "question": "How do you define a generic function in TypeScript?",
+        "options": [
+            "function identity<T>(arg: T): T { return arg; }",
+            "function identity(arg: T): T { return arg; }",
+            "function identity<T>(arg): T { return arg; }",
+            "function identity<T>(T arg): T { return arg; }"
+        ],
+        "answer": "function identity<T>(arg: T): T { return arg; }"
+    },
+    {
+        "question": "Which of the following is a valid TypeScript decorator?",
+        "options": [
+            "@Component",
+            "#Component",
+            "$Component",
+            "&Component"
+        ],
+        "answer": "@Component"
+    },
+    {
+        "question": "How do you enable strict type-checking options in TypeScript?",
+        "options": [
+            "By setting 'strict': true in 'tsconfig.json'.",
+            "By setting 'typeCheck': true in 'tsconfig.json'.",
+            "By setting 'strictTypes': true in 'tsconfig.json'.",
+            "By setting 'checkTypes': true in 'tsconfig.json'."
+        ],
+        "answer": "By setting 'strict': true in 'tsconfig.json'."
+    },
+    {
+        "question": "Which of the following is true about TypeScript modules?",
+        "options": [
+            "Modules can be imported and exported.",
+            "Modules cannot be imported.",
+            "Modules cannot be exported.",
+            "Modules must be defined in 'tsconfig.json'."
+        ],
+        "answer": "Modules can be imported and exported."
+    },
+    {
+        "question": "How do you define a constructor in a TypeScript class?",
+        "options": [
+            "constructor() { }",
+            "class() { }",
+            "init() { }",
+            "function() { }"
+        ],
+        "answer": "constructor() { }"
+    },
+    {
+        "question": "How do you define a readonly array in TypeScript?",
+        "options": [
+            "const arr: readonly number[] = [1, 2, 3];",
+            "const arr: ReadOnlyArray<number> = [1, 2, 3];",
+            "const arr: number[] = [1, 2, 3];",
+            "const arr: const number[] = [1, 2, 3];"
+        ],
+        "answer": "const arr: readonly number[] = [1, 2, 3];"
+    },
+    {
+        "question": "What is the correct way to extend an interface in TypeScript?",
+        "options": [
+            "interface NewInterface extends ExistingInterface { }",
+            "interface NewInterface implements ExistingInterface { }",
+            "interface NewInterface inherits ExistingInterface { }",
+            "interface NewInterface includes ExistingInterface { }"
+        ],
+        "answer": "interface NewInterface extends ExistingInterface { }"
+    },
+    {
+        "question": "What TypeScript feature allows the use of functions or methods with various argument types?",
+        "options": [
+            "Function overloading",
+            "Function overriding",
+            "Type inference",
+            "Type assertion"
+        ],
+        "answer": "Function overloading"
+    },
+    {
+        "question": "How do you cast a variable to a specific type in TypeScript?",
+        "options": [
+            "let foo = <Type>variable;",
+            "let foo = variable as Type;",
+            "Both are correct",
+            "None are correct"
+        ],
+        "answer": "Both are correct"
+    },
+    {
+        "question": "What is the use of the 'unknown' type in TypeScript?",
+        "options": [
+            "It is a safer version of 'any'.",
+            "It means the variable is uninitialized.",
+            "It is used for variables whose type cannot be inferred.",
+            "It means the variable is deprecated."
+        ],
+        "answer": "It is a safer version of 'any'."
+    },
+    {
+        "question": "Which TypeScript utility type is used to exclude properties from another type?",
+        "options": [
+            "Exclude",
+            "Omit",
+            "Pick",
+            "Partial"
+        ],
+        "answer": "Exclude"
+    },
+    {
+        "question": "What is the correct way to use mapped types in TypeScript?",
+        "options": [
+            "type MappedType = { [P in keyof OriginalType]: NewType };",
+            "type MappedType = { P: NewType }",
+            "type MappedType = { [P in OriginalType]: NewType };",
+            "type MappedType = { NewType: P }"
+        ],
+        "answer": "type MappedType = { [P in keyof OriginalType]: NewType };"
+    },
+    {
+        "question": "How do you specify the 'this' type in a TypeScript function?",
+        "options": [
+            "function fn(this: Type) { }",
+            "function fn(this Type) { }",
+            "function fn(Type this) { }",
+            "function fn(this) { }"
+        ],
+        "answer": "function fn(this: Type) { }"
+    },
+    {
+        "question": "How do you define a default value for a function parameter in TypeScript?",
+        "options": [
+            "function foo(param: Type = defaultValue) { }",
+            "function foo(param: Type defaultValue) { }",
+            "function foo(defaultValue param: Type) { }",
+            "function foo(Type param = defaultValue) { }"
+        ],
+        "answer": "function foo(param: Type = defaultValue) { }"
+    },
+    {
+        "question": "How do you define a union type in TypeScript?",
+        "options": [
+            "type UnionType = Type1 | Type2;",
+            "type UnionType = Type1 & Type2;",
+            "type UnionType = Type1, Type2;",
+            "type UnionType = Type1 || Type2;"
+        ],
+        "answer": "type UnionType = Type1 | Type2;"
+    },
+    {
+        "question": "What does the keyof operator do in TypeScript?",
+        "options": [
+            "It returns a union of string literal types representing all property names of a given type.",
+            "It converts a type to a string literal.",
+            "It checks if a type has a specific property.",
+            "It extracts the keys from an object."
+        ],
+        "answer": "It returns a union of string literal types representing all property names of a given type."
+    },
+    {
+        "question": "What is a tuple type in TypeScript?",
+        "options": [
+            "A type that represents an array with a fixed number of elements and known types.",
+            "A type that represents a list of types.",
+            "A type that combines multiple types into one.",
+            "A type that allows multiple types for a variable."
+        ],
+        "answer": "A type that represents an array with a fixed number of elements and known types."
+    },
+    {
+        "question": "What is a discriminated union in TypeScript?",
+        "options": [
+            "A type pattern that combines union types and literal types to create type-safe unions.",
+            "A union type that discriminates between different types.",
+            "A type that represents multiple types.",
+            "A union type with type guards."
+        ],
+        "answer": "A type pattern that combines union types and literal types to create type-safe unions."
+    },
+    {
+        "question": "Which of the following is true about generics in TypeScript?",
+        "options": [
+            "Generics provide a way to create reusable components.",
+            "Generics are used for type assertions.",
+            "Generics enforce strict types.",
+            "Generics are only used with classes."
+        ],
+        "answer": "Generics provide a way to create reusable components."
+    },
+    {
+        "question": "What does the 'readonly' modifier do in TypeScript?",
+        "options": [
+            "Prevents modification of the property after initialization.",
+            "Makes the property private.",
+            "Allows modification of the property.",
+            "Makes the property public."
+        ],
+        "answer": "Prevents modification of the property after initialization."
+    },
+    {
+        "question": "What does the 'infer' keyword do in TypeScript?",
+        "options": [
+            "It is used in conditional types to infer and extract types.",
+            "It infers the type of a variable.",
+            "It is used to define types.",
+            "It is used to assert types."
+        ],
+        "answer": "It is used in conditional types to infer and extract types."
+    },
+    {
+        "question": "How do you create a custom type guard in TypeScript?",
+        "options": [
+            "function isType(arg: any): arg is Type { return arg instanceof Type; }",
+            "function isType(arg: Type): boolean { return arg instanceof Type; }",
+            "function isType(arg: any): boolean { return arg is Type; }",
+            "function isType(arg: any): Type { return arg; }"
+        ],
+        "answer": "function isType(arg: any): arg is Type { return arg instanceof Type; }"
+    },
+    {
+        "question": "What does the 'Partial' utility type do in TypeScript?",
+        "options": [
+            "Makes all properties of a type optional.",
+            "Makes all properties of a type required.",
+            "Excludes properties from a type.",
+            "Includes only specific properties from a type."
+        ],
+        "answer": "Makes all properties of a type optional."
+    },
+    {
+        "question": "How do you define a namespace in TypeScript?",
+        "options": [
+            "namespace MyNamespace { }",
+            "module MyNamespace { }",
+            "package MyNamespace { }",
+            "container MyNamespace { }"
+        ],
+        "answer": "namespace MyNamespace { }"
+    },
+    {
+        "question": "What is the purpose of the 'declare' keyword in TypeScript?",
+        "options": [
+            "To declare variables or types that exist but are not defined in TypeScript.",
+            "To define new types.",
+            "To declare a constant.",
+            "To declare a namespace."
+        ],
+        "answer": "To declare variables or types that exist but are not defined in TypeScript."
+    },
+    {
+        "question": "Which of the following is true about ambient declarations in TypeScript?",
+        "options": [
+            "They provide type information about existing JavaScript code.",
+            "They are used to declare variables.",
+            "They are used to create new types.",
+            "They enforce strict types."
+        ],
+        "answer": "They provide type information about existing JavaScript code."
+    },
+    {
+        "question": "What is the purpose of the 'as' keyword in TypeScript?",
+        "options": [
+            "To perform type assertions.",
+            "To create a new type.",
+            "To declare a constant.",
+            "To declare a namespace."
+        ],
+        "answer": "To perform type assertions."
+    },
+    {
+        "question": "What is the difference between 'interface' and 'type' in TypeScript?",
+        "options": [
+            "Interfaces can be merged, but types cannot.",
+            "Types can be merged, but interfaces cannot.",
+            "Interfaces can define primitive types, but types cannot.",
+            "Types can define primitive types, but interfaces cannot."
+        ],
+        "answer": "Interfaces can be merged, but types cannot."
+    }
+]
