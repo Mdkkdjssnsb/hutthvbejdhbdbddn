@@ -1,0 +1,360 @@
+[
+    {
+        "question": "Who is known as the creator of the C++ programming language?",
+        "options": [
+            "Bjarne Stroustrup",
+            "Dennis Ritchie",
+            "James Gosling",
+            "Guido van Rossum"
+        ],
+        "answer": "Bjarne Stroustrup"
+    },
+    {
+        "question": "Which of the following is the correct file extension for C++ programs?",
+        "options": [
+            ".cpp",
+            ".c",
+            ".cs",
+            ".java"
+        ],
+        "answer": ".cpp"
+    },
+    {
+        "question": "Which of the following is used to create a single-line comment in C++?",
+        "options": [
+            "//",
+            "/*",
+            "#",
+            "--"
+        ],
+        "answer": "//"
+    },
+    {
+        "question": "Which of the following is used to create a multi-line comment in C++?",
+        "options": [
+            "/* */",
+            "// //",
+            "# #",
+            "<!-- -->"
+        ],
+        "answer": "/* */"
+    },
+    {
+        "question": "Which keyword is used to define a class in C++?",
+        "options": [
+            "class",
+            "struct",
+            "object",
+            "module"
+        ],
+        "answer": "class"
+    },
+    {
+        "question": "Which operator is used to access members of a class or structure?",
+        "options": [
+            ".",
+            "->",
+            "::",
+            ":"
+        ],
+        "answer": "."
+    },
+    {
+        "question": "Which of the following is NOT a valid C++ data type?",
+        "options": [
+            "string",
+            "int",
+            "float",
+            "char"
+        ],
+        "answer": "string"
+    },
+    {
+        "question": "Which keyword is used to inherit a class in C++?",
+        "options": [
+            ":",
+            "extends",
+            "implements",
+            "inherits"
+        ],
+        "answer": ":"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a for loop in C++?",
+        "options": [
+            "for (initialization; condition; increment)",
+            "for (condition; initialization; increment)",
+            "for (initialization; increment; condition)",
+            "for (increment; condition; initialization)"
+        ],
+        "answer": "for (initialization; condition; increment)"
+    },
+    {
+        "question": "Which of the following is the correct syntax for a while loop in C++?",
+        "options": [
+            "while (condition)",
+            "while {condition}",
+            "while [condition]",
+            "while (condition);"
+        ],
+        "answer": "while (condition)"
+    },
+    {
+        "question": "Which function is used to allocate memory dynamically in C++?",
+        "options": [
+            "new",
+            "malloc",
+            "alloc",
+            "memalloc"
+        ],
+        "answer": "new"
+    },
+    {
+        "question": "Which function is used to deallocate previously allocated memory in C++?",
+        "options": [
+            "delete",
+            "free",
+            "remove",
+            "dealloc"
+        ],
+        "answer": "delete"
+    },
+    {
+        "question": "Which operator is used to access the value at the address stored in a pointer?",
+        "options": [
+            "*",
+            "&",
+            "@",
+            "$"
+        ],
+        "answer": "*"
+    },
+    {
+        "question": "Which of the following is the correct syntax for defining a macro in C++?",
+        "options": [
+            "#define MACRO_NAME value",
+            "macro MACRO_NAME = value",
+            "def MACRO_NAME = value",
+            "define MACRO_NAME value"
+        ],
+        "answer": "#define MACRO_NAME value"
+    },
+    {
+        "question": "Which function is used to read a string from the console in C++?",
+        "options": [
+            "cin",
+            "scanf",
+            "read",
+            "input"
+        ],
+        "answer": "cin"
+    },
+    {
+        "question": "Which of the following is the correct syntax to include a header file in C++?",
+        "options": [
+            "#include <iostream>",
+            "#include (iostream)",
+            "include <iostream>",
+            "include (iostream)"
+        ],
+        "answer": "#include <iostream>"
+    },
+    {
+        "question": "Which of the following is the correct syntax for defining a function in C++?",
+        "options": [
+            "return_type function_name(parameters)",
+            "function_name return_type(parameters)",
+            "return_type function_name{parameters}",
+            "function_name return_type{parameters}"
+        ],
+        "answer": "return_type function_name(parameters)"
+    },
+    {
+        "question": "Which of the following is used to return a value from a function in C++?",
+        "options": [
+            "return",
+            "exit",
+            "end",
+            "stop"
+        ],
+        "answer": "return"
+    },
+    {
+        "question": "Which keyword is used to define a constant variable in C++?",
+        "options": [
+            "const",
+            "final",
+            "static",
+            "define"
+        ],
+        "answer": "const"
+    },
+    {
+        "question": "Which operator is used for bitwise AND in C++?",
+        "options": [
+            "&",
+            "|",
+            "^",
+            "~"
+        ],
+        "answer": "&"
+    },
+    {
+        "question": "Which of the following is NOT a valid storage class specifier in C++?",
+        "options": [
+            "mutable",
+            "auto",
+            "extern",
+            "static"
+        ],
+        "answer": "mutable"
+    },
+    {
+        "question": "Which keyword is used to define a structure in C++?",
+        "options": [
+            "struct",
+            "class",
+            "object",
+            "module"
+        ],
+        "answer": "struct"
+    },
+    {
+        "question": "Which operator is used to access members of a structure through a pointer?",
+        "options": [
+            "->",
+            ".",
+            "::",
+            "=>"
+        ],
+        "answer": "->"
+    },
+    {
+        "question": "Which of the following is NOT a loop structure in C++?",
+        "options": [
+            "repeat...until",
+            "for",
+            "while",
+            "do...while"
+        ],
+        "answer": "repeat...until"
+    },
+    {
+        "question": "Which function is used to copy a string in C++?",
+        "options": [
+            "strcpy",
+            "strcopy",
+            "copystr",
+            "strcp"
+        ],
+        "answer": "strcpy"
+    },
+    {
+        "question": "Which keyword is used to define an enumeration in C++?",
+        "options": [
+            "enum",
+            "define",
+            "enumerate",
+            "list"
+        ],
+        "answer": "enum"
+    },
+    {
+        "question": "Which function is used to find the length of a string in C++?",
+        "options": [
+            "strlen",
+            "length",
+            "size",
+            "strlength"
+        ],
+        "answer": "strlen"
+    },
+    {
+        "question": "Which operator is used to perform modulo operation in C++?",
+        "options": [
+            "%",
+            "&",
+            "/",
+            "#"
+        ],
+        "answer": "%"
+    },
+    {
+        "question": "Which function is used to convert a string to an integer in C++?",
+        "options": [
+            "atoi",
+            "strtol",
+            "atoi",
+            "strtoint"
+        ],
+        "answer": "atoi"
+    },
+    {
+        "question": "Which keyword is used to define a union in C++?",
+        "options": [
+            "union",
+            "structure",
+            "combine",
+            "group"
+        ],
+        "answer": "union"
+    },
+    {
+        "question": "Which function is used to open a file in C++?",
+        "options": [
+            "fopen",
+            "open",
+            "file_open",
+            "fileopen"
+        ],
+        "answer": "fopen"
+    },
+    {
+        "question": "Which mode is used to open a file for reading in C++?",
+        "options": [
+            "r",
+            "w",
+            "rw",
+            "a"
+        ],
+        "answer": "r"
+    },
+    {
+        "question": "Which function is used to write to a file in C++?",
+        "options": [
+            "fprintf",
+            "fwrite",
+            "file_write",
+            "fprint"
+        ],
+        "answer": "fprintf"
+    },
+    {
+        "question": "Which function is used to close a file in C++?",
+        "options": [
+            "fclose",
+            "close",
+            "file_close",
+            "fileclose"
+        ],
+        "answer": "fclose"
+    },
+    {
+        "question": "Which function is used to set the file position indicator in C++?",
+        "options": [
+            "fseek",
+            "seek",
+            "fpos",
+            "file_seek"
+        ],
+        "answer": "fseek"
+    },
+    {
+        "question": "Which function is used to get the current file position indicator in C++?",
+        "options": [
+            "ftell",
+            "tell",
+            "fpos",
+            "file_tell"
+        ]
+      ]
