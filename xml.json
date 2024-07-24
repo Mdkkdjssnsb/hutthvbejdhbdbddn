@@ -1,0 +1,472 @@
+[
+    {
+        "question": "What does XML stand for?",
+        "options": [
+            "eXtensible Markup Language",
+            "eXtra Multi-Program Language",
+            "eXecutable Multiple Language",
+            "eXtra Modern Link"
+        ],
+        "answer": "eXtensible Markup Language"
+    },
+    {
+        "question": "Which of the following is true about XML?",
+        "options": [
+            "XML is designed to transport and store data.",
+            "XML is designed to display data.",
+            "XML is a replacement for HTML.",
+            "XML can be used to create animations."
+        ],
+        "answer": "XML is designed to transport and store data."
+    },
+    {
+        "question": "Which of the following is NOT a correct XML tag?",
+        "options": [
+            "<note>",
+            "<_note>",
+            "<note123>",
+            "<Note>"
+        ],
+        "answer": "<_note>"
+    },
+    {
+        "question": "What is a correct way of declaring an XML namespace?",
+        "options": [
+            "<note xmlns=\"http://www.w3.org/1999/xhtml\">",
+            "<note xml=\"http://www.w3.org/1999/xhtml\">",
+            "<note ns=\"http://www.w3.org/1999/xhtml\">",
+            "<note namespace=\"http://www.w3.org/1999/xhtml\">"
+        ],
+        "answer": "<note xmlns=\"http://www.w3.org/1999/xhtml\">"
+    },
+    {
+        "question": "Which of the following is NOT true about XML?",
+        "options": [
+            "XML tags are case sensitive.",
+            "All XML elements must be properly closed.",
+            "XML tags are predefined.",
+            "XML documents must have a root element."
+        ],
+        "answer": "XML tags are predefined."
+    },
+    {
+        "question": "Which of the following is the correct XML declaration?",
+        "options": [
+            "<?xml version=\"1.0\" encoding=\"UTF-8\"?>",
+            "<xml version=\"1.0\" encoding=\"UTF-8\">",
+            "<xml version=\"1.0\"?>",
+            "<?xml version=\"1.0\"?>"
+        ],
+        "answer": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>"
+    },
+    {
+        "question": "What is the root element of this XML document?\n<root>\n  <child>value</child>\n</root>",
+        "options": [
+            "<root>",
+            "<child>",
+            "value",
+            "root"
+        ],
+        "answer": "<root>"
+    },
+    {
+        "question": "How do you define an attribute in an XML element?",
+        "options": [
+            "<element attribute=\"value\">",
+            "<element.attribute='value'>",
+            "<element:attribute='value'>",
+            "<element>attribute='value'</element>"
+        ],
+        "answer": "<element attribute=\"value\">"
+    },
+    {
+        "question": "Which of the following is a well-formed XML document?",
+        "options": [
+            "<note><to>Tove</to><from>Jani</from></note>",
+            "<note><to>Tove</from></note>",
+            "<note><to>Tove<from>Jani</from></note>",
+            "<note><to>Tove><from>Jani</from></note>"
+        ],
+        "answer": "<note><to>Tove</to><from>Jani</from></note>"
+    },
+    {
+        "question": "What does CDATA stand for in XML?",
+        "options": [
+            "Character Data",
+            "Custom Data",
+            "Content Data",
+            "Control Data"
+        ],
+        "answer": "Character Data"
+    },
+    {
+        "question": "Which of the following is NOT a valid XML data type?",
+        "options": [
+            "string",
+            "int",
+            "float",
+            "array"
+        ],
+        "answer": "array"
+    },
+    {
+        "question": "What is the purpose of a DTD in XML?",
+        "options": [
+            "To define the structure and the legal elements and attributes of an XML document.",
+            "To display the data in a web browser.",
+            "To style the XML document.",
+            "To transform the XML document into another format."
+        ],
+        "answer": "To define the structure and the legal elements and attributes of an XML document."
+    },
+    {
+        "question": "Which of the following is NOT a type of XML parser?",
+        "options": [
+            "DOM",
+            "SAX",
+            "StAX",
+            "HTML"
+        ],
+        "answer": "HTML"
+    },
+    {
+        "question": "Which of the following is true about XML Schema?",
+        "options": [
+            "XML Schema defines the structure of an XML document.",
+            "XML Schema is a subset of DTD.",
+            "XML Schema is used to style XML documents.",
+            "XML Schema is used to convert XML documents into other formats."
+        ],
+        "answer": "XML Schema defines the structure of an XML document."
+    },
+    {
+        "question": "Which of the following is a correct way to define a comment in XML?",
+        "options": [
+            "<!-- This is a comment -->",
+            "<! This is a comment !>",
+            "<comment>This is a comment</comment>",
+            "// This is a comment"
+        ],
+        "answer": "<!-- This is a comment -->"
+    },
+    {
+        "question": "Which of the following is NOT a valid XML name?",
+        "options": [
+            "note",
+            "note1",
+            "1note",
+            "note_1"
+        ],
+        "answer": "1note"
+    },
+    {
+        "question": "What is the purpose of an XML namespace?",
+        "options": [
+            "To avoid name conflicts in XML documents.",
+            "To style the XML document.",
+            "To transform XML documents.",
+            "To display XML documents in web browsers."
+        ],
+        "answer": "To avoid name conflicts in XML documents."
+    },
+    {
+        "question": "Which of the following is NOT true about XML attributes?",
+        "options": [
+            "Attributes provide additional information about elements.",
+            "Attributes must always be quoted.",
+            "Attributes can be used to define complex data structures.",
+            "Attributes are case-sensitive."
+        ],
+        "answer": "Attributes can be used to define complex data structures."
+    },
+    {
+        "question": "Which of the following is used to define the order of elements in an XML document?",
+        "options": [
+            "Sequence",
+            "Choice",
+            "All",
+            "Group"
+        ],
+        "answer": "Sequence"
+    },
+    {
+        "question": "What is XSLT in XML?",
+        "options": [
+            "A language for transforming XML documents.",
+            "A schema definition language.",
+            "A parser for XML documents.",
+            "A language for querying XML documents."
+        ],
+        "answer": "A language for transforming XML documents."
+    },
+    {
+        "question": "Which of the following is used to select nodes from an XML document?",
+        "options": [
+            "XPath",
+            "XQuery",
+            "XSLT",
+            "XLink"
+        ],
+        "answer": "XPath"
+    },
+    {
+        "question": "What is the role of an XML namespace prefix?",
+        "options": [
+            "To distinguish elements and attributes with the same name.",
+            "To define the data type of an element.",
+            "To style the XML document.",
+            "To transform XML documents."
+        ],
+        "answer": "To distinguish elements and attributes with the same name."
+    },
+    {
+        "question": "Which of the following is NOT a part of the XML document structure?",
+        "options": [
+            "DTD",
+            "CSS",
+            "Schema",
+            "Element"
+        ],
+        "answer": "CSS"
+    },
+    {
+        "question": "Which of the following is used to link XML documents?",
+        "options": [
+            "XLink",
+            "XPath",
+            "XQuery",
+            "XSLT"
+        ],
+        "answer": "XLink"
+    },
+    {
+        "question": "Which of the following is used to query XML documents?",
+        "options": [
+            "XQuery",
+            "XPath",
+            "XSLT",
+            "XLink"
+        ],
+        "answer": "XQuery"
+    },
+    {
+        "question": "Which of the following is a valid XML processing instruction?",
+        "options": [
+            "<?xml-stylesheet type=\"text/xsl\" href=\"style.xsl\"?>",
+            "<?xml:stylesheet type=\"text/xsl\" href=\"style.xsl\"?>",
+            "<?stylesheet type=\"text/xsl\" href=\"style.xsl\"?>",
+            "<?xml-stylesheet type=\"text/css\" href=\"style.css\"?>"
+        ],
+        "answer": "<?xml-stylesheet type=\"text/xsl\" href=\"style.xsl\"?>"
+    },
+    {
+        "question": "Which of the following is true about XML elements?",
+        "options": [
+            "XML elements can have child elements.",
+            "XML elements cannot contain attributes.",
+            "XML elements must always be empty.",
+            "XML elements cannot contain text."
+        ],
+        "answer": "XML elements can have child elements."
+    },
+    {
+        "question": "Which of the following is true about XML DTD?",
+        "options": [
+            "DTD defines the structure of an XML document.",
+            "DTD can be used to validate XML documents.",
+            "DTD is written in XML.",
+            "DTD can be used to transform XML documents."
+        ],
+        "answer": "DTD defines the structure of an XML document."
+    },
+    {
+        "question": "Which of the following is a valid way to define an XML comment?",
+        "options": [
+            "<!-- This is a comment -->",
+            "<comment>This is a comment</comment>",
+            "<! This is a comment !>",
+            "// This is a comment"
+        ],
+        "answer": "<!-- This is a comment -->"
+    },
+    {
+        "question": "What does XML Schema use to define the structure of an XML document?",
+        "options": [
+            "XSD",
+            "DTD",
+            "HTML",
+            "CSS"
+        ],
+        "answer": "XSD"
+    },
+    {
+        "question": "Which of the following is used to define complex types in XML Schema?",
+        "options": [
+            "<xs:complexType>",
+            "<xs:simpleType>",
+            "<xs:type>",
+            "<xs:element>"
+        ],
+        "answer": "<xs:complexType>"
+    },
+    {
+        "question": "Which of the following is used to define simple types in XML Schema?",
+        "options": [
+            "<xs:simpleType>",
+            "<xs:complexType>",
+            "<xs:type>",
+            "<xs:element>"
+        ],
+        "answer": "<xs:simpleType>"
+    },
+    {
+        "question": "Which of the following is NOT a valid XML Schema data type?",
+        "options": [
+            "integer",
+            "string",
+            "float",
+            "list"
+        ],
+        "answer": "list"
+    },
+    {
+        "question": "Which of the following is used to define a list of acceptable values in XML Schema?",
+        "options": [
+            "<xs:enumeration>",
+            "<xs:choice>",
+            "<xs:list>",
+            "<xs:sequence>"
+        ],
+        "answer": "<xs:enumeration>"
+    },
+    {
+        "question": "Which of the following is NOT a valid XML Schema facet?",
+        "options": [
+            "pattern",
+            "length",
+            "minInclusive",
+            "format"
+        ],
+        "answer": "format"
+    },
+    {
+        "question": "Which of the following is used to define a required element in XML Schema?",
+        "options": [
+            "minOccurs",
+            "maxOccurs",
+            "required",
+            "occurs"
+        ],
+        "answer": "minOccurs"
+    },
+    {
+        "question": "Which of the following is used to define an optional element in XML Schema?",
+        "options": [
+            "minOccurs=\"0\"",
+            "maxOccurs=\"0\"",
+            "optional=\"true\"",
+            "occurs=\"optional\""
+        ],
+        "answer": "minOccurs=\"0\""
+    },
+    {
+        "question": "Which of the following is used to define a repeating element in XML Schema?",
+        "options": [
+            "maxOccurs",
+            "minOccurs",
+            "repeats",
+            "repeat"
+        ],
+        "answer": "maxOccurs"
+    },
+    {
+        "question": "Which of the following is used to define a unique element in XML Schema?",
+        "options": [
+            "<xs:unique>",
+            "<xs:key>",
+            "<xs:id>",
+            "<xs:distinct>"
+        ],
+        "answer": "<xs:unique>"
+    },
+    {
+        "question": "Which of the following is used to define a reference to another element in XML Schema?",
+        "options": [
+            "<xs:keyref>",
+            "<xs:reference>",
+            "<xs:ref>",
+            "<xs:key>"
+        ],
+        "answer": "<xs:keyref>"
+    },
+    {
+        "question": "Which of the following is used to define an attribute in XML Schema?",
+        "options": [
+            "<xs:attribute>",
+            "<xs:element>",
+            "<xs:attr>",
+            "<xs:field>"
+        ],
+        "answer": "<xs:attribute>"
+    },
+    {
+        "question": "Which of the following is used to define a group of elements in XML Schema?",
+        "options": [
+            "<xs:group>",
+            "<xs:sequence>",
+            "<xs:choice>",
+            "<xs:all>"
+        ],
+        "answer": "<xs:group>"
+    },
+    {
+        "question": "Which of the following is used to define a sequence of elements in XML Schema?",
+        "options": [
+            "<xs:sequence>",
+            "<xs:group>",
+            "<xs:choice>",
+            "<xs:all>"
+        ],
+        "answer": "<xs:sequence>"
+    },
+    {
+        "question": "Which of the following is used to define a choice of elements in XML Schema?",
+        "options": [
+            "<xs:choice>",
+            "<xs:sequence>",
+            "<xs:group>",
+            "<xs:all>"
+        ],
+        "answer": "<xs:choice>"
+    },
+    {
+        "question": "Which of the following is used to define an unordered group of elements in XML Schema?",
+        "options": [
+            "<xs:all>",
+            "<xs:sequence>",
+            "<xs:group>",
+            "<xs:choice>"
+        ],
+        "answer": "<xs:all>"
+    },
+    {
+        "question": "Which of the following is used to define a default value for an element in XML Schema?",
+        "options": [
+            "default",
+            "fixed",
+            "value",
+            "defaultValue"
+        ],
+        "answer": "default"
+    },
+    {
+        "question": "Which of the following is used to define a fixed value for an element in XML Schema?",
+        "options": [
+            "fixed",
+            "default",
+            "value",
+            "fixedValue"
+        ],
+        "answer": "fixed"
+    }
+  ]
